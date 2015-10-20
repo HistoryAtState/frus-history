@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Annex to Minutes of Historical Advisory Committee Meeting,
+                    November 1975</title>
+                <title type="short">HAC Meeting Minutes Annex, 1975</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-05-19">May 19, 2014</date>
+                <date type="created" when="1975-11-14">November 14, 1975</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1975-11-14-hac-meeting-minutes-annex.pdf">PDF</ref>, 39 KB,
+                    2pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 2, 1975—Minutes. Confidential.</hi></p>
+            <div type="document">
+                <head>Annex to Minutes of the 1975 Meeting of the Advisory Committee on <hi
+                        rend="italic">Foreign Relations of the United States</hi></head>
+                <dateline>November 14, 1975</dateline>
+                <p>[The discussion of classified matters under this agenda item took place in both
+                    the morning and afternoon sessions. The discussion of other agenda items and the
+                    list of participants are covered in <ref
+                        target="1975-11-14-hac-meeting-minutes">separate unclassified
+                        minutes</ref>.]</p>
+                <p rend="center">AGENDA ITEM 6: PROBLEMS OF DECLASSIFICATION AND CLEARANCE</p>
+                <p>Mr. Aandahl asked Mr. Trask to absent himself temporarily while discussion of
+                    certain classified materials took place. Copies of documents concerning the Chou
+                    En-lai approach of 1949 were then distributed to the Committee.</p>
+                <p>Mr. Aandahl explained that the question facing the Historical Office (HO) was
+                    whether to publish the 1949 China volume without these documents, or to wait
+                    longer in the hope that we might obtain declassification. Mr. Dougall stated
+                    that, in the opinion of HO, the omission of these documents would constitute a
+                    serious distortion of the record. Mr. Varg, Mr. Snyder, and Mr. Oliver agreed
+                    that this would be the case. Mr. Varg inquired as to the nature of the
+                    Department’s objections. Mr. Dougall replied that officers in EA believed that
+                    release would constitute a possible danger to Chou and his colleagues, and that
+                    officials in the Department had expressed concern about possible adverse affects
+                    on the delicate nature of United States relations with the People’s Republic of
+                    China. Mr. Aandahl added that EA had indicated that it would take the matter
+                    straight to Secretary Kissinger if PA raised the issue in the Department’s
+                    Council on Classification Policy (CCP). EA was likely to maintain its opposition
+                    for a long time, and this forced HO to decide whether to hold the
+                    otherwise-cleared volume, perhaps indefinitely, or to release it with
+                    indications that some documentation had not been available for publication.</p>
+                <p>Mr. Aandahl distributed to the Committee copies of a memorandum he had submitted
+                    to Ambassador Reinhardt on June 26 setting forth the options available to HO. In
+                    view of EA’s strong opposition, which PA did not feel it could overcome under
+                    present conditions, it had been tentatively decided to publish the volume
+                    without the contested documents, which would be replaced by short editorial
+                    notes indicating omissions. The question was how informative these notes could
+                    be. The members of the Committee agreed that it was important to call attention
+                    to the omission of significant documents, and Mr. Blair said that an effort
+                    should be made to obtain CCP support for reasonably explicit editorial notes.
+                    Mr. Aandahl thanked the Committee for its advice on this matter and said that HO
+                    will prepare explicit notes and seek to get them cleared.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

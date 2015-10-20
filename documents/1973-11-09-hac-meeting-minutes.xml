@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Record of Historical Advisory Committee Meeting, November
+                    1973</title>
+                <title type="short">HAC Meeting Record, 1973</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-05-19">May 19, 2014</date>
+                <date type="created" when="1973-11-09">November 9, 1973</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1973-11-09-hac-meeting-minutes.pdf">PDF</ref>, 527 KB, 17pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 2, 1973—Minutes. Confidential. The list of
+                    major lot files, Ralph Goodwin’s report on USUN records, and the publication and
+                    compilation schedules are not posted.</hi></p>
+            <div type="document">
+                <head>Record of the 1973 Meeting of the Advisory Committee on <hi rend="italic"
+                        >Foreign Relations of the United States</hi></head>
+                <dateline>November 9, 1973</dateline>
+                <list>
+                    <item>The Advisory Committee:<list>
+                            <item>Robert A. Divine, Professor of History, University of Texas,
+                                Austin, Texas 78712 (American Historical Association)</item>
+                            <item>Alwyn V. Freeman, Member, Board of Editors, <hi rend="italic">The
+                                    American Journal of International Law</hi>, Washington, D.C.
+                                20008 (American Society of International Law)</item>
+                            <item>Walter LaFeber, Professor of History, Cornell University, Ithaca,
+                                New York 14850 (American Historical Association)</item>
+                            <item>Covey T. Oliver, Professor of Law, University of Pennsylvania,
+                                Philadelphia, Pennsylvania 19104, [Temporarily at University of
+                                Houston, Houston, Texas 77004] (American Society of International
+                                Law)</item>
+                            <item>Armin H. Rappaport, Professor of History, University of
+                                California, La Jolla, California 92037 (American Historical
+                                Association)</item>
+                            <item>Richard C. Snyder, Director, Mershon Center, Ohio State
+                                University, Columbus, Ohio 43210 (American Political Science
+                                Association)</item>
+                            <item>H. Bradford Westerfield [Not present], Professor of Political
+                                Science, Yale University, New Haven, Connecticut 06520 (American
+                                Political Science Association)</item>
+                        </list></item>
+                    <item>The Historical Office:<list>
+                            <item>William M. Franklin, Director</item>
+                            <item>Richardson Dougall</item>
+                            <item>Fredrick Aandahl</item>
+                            <item>Edwin S. Costrell</item>
+                            <item>Arthur G. Kogan</item>
+                            <item>John P. Glennon</item>
+                            <item>Ralph R. Goodwin</item>
+                            <item>William Slany</item>
+                            <item>John A. Bernbaum</item>
+                            <item>Joan Lee Bryniarski</item>
+                            <item>M. Paul Claussen</item>
+                            <item>Herbert A. Fine</item>
+                            <item>Evans Gerakas</item>
+                            <item>N. Stephen Kane [not present]</item>
+                            <item>David W. Mabon</item>
+                            <item>Margaret G. Martin</item>
+                            <item>Neal H. Petersen</item>
+                            <item>Carl N. Raether</item>
+                            <item>Lisle A. Rose</item>
+                            <item>Charles S. Sampson</item>
+                            <item>Harriet Schwar</item>
+                            <item>David H. Stauffer</item>
+                        </list></item>
+                    <item>Publishing and Reproduction Division (PBR):<list>
+                            <item>John J. Lee</item>
+                        </list></item>
+                </list>
+                <p>Opening Session - 9:00 a.m. - 12:19 p.m.</p>
+                <p rend="center">AGENDA ITEMS 1 and 2: OPENING REMARKS AND INTRODUCTION OF NEW
+                    MEMBERS</p>
+                <p>Mr. Franklin opened the meeting by introducing the new members of the Committee:
+                    Messrs. Divine, Oliver, and Snyder. He then observed that the Federal Advisory
+                    Committee Act (P.L. 92-463, approved October 6, 1972) was now in effect.</p>
+                <p>Mr. Dougall reported that under the Act, the Historical Office had drawn up a
+                    charter for the Committee and given public notice of its meeting. However, the
+                    actual proceedings remained closed to the public because classified materials
+                    were to be discussed. The Act also set forth certain statutory duties of the
+                    Chairman, among them that he was to certify to the accuracy of the Minutes. The
+                    Committee must file an Annual Report with the Department, which in turn would
+                    file it with the Library of Congress.</p>
+                <p rend="center">AGENDA ITEM 3: SELECTION OF COMMITTEE CHAIRMAN</p>
+                <p>Mr. Rappaport nominated Mr. Freeman; Mr. Snyder seconded the nomination. The
+                    motion was carried unanimously.</p>
+                <p rend="center">AGENDA ITEM 4: CHANGES IN THE <hi rend="italic">FOREIGN
+                        RELATIONS</hi> STAFF</p>
+                <p>Mr. Aandahl first recalled that four new staff members had been introduced to the
+                    Committee last year: Messrs. Bernbaum, Claussen, Kane, and Rose. He then
+                    introduced the members new this year. Joan Lee Bryniarski had her doctorate from
+                    the University of Maryland. Carl N. Raether was a doctoral candidate at the
+                    University of Texas at Austin. Harriet Schwar had recently received her Ph.D.
+                    from the Ohio State University. All three had concentrated in American
+                    diplomacy.</p>
+                <p>Mr. Franklin introduced Mr. Lee.</p>
+                <p>With reference to the new personnel, Mr. Freeman noted the very great
+                    contributions of former Deputy Under Secretary William B. Macomber, Jr., to <hi
+                        rend="italic">Foreign Relations</hi>. Mr, Franklin pointed out that the
+                    three additional positions that Mr. Macomber had obtained for the <hi
+                        rend="italic">Foreign Relations</hi> staff represented the first additions
+                    in many years.</p>
+                <p>AGENDA ITEM 5: PUBLICATION OF 1947 VOLUMES AND OPENING OF 1947 FILES FOR
+                    RESEARCH</p>
+                <p>Mr. Franklin noted that the Department had published a record 11 volumes of <hi
+                        rend="italic">Foreign Relations</hi> last year. The Department’s files for
+                    1947 had been opened last summer, about one year after those for 1946 had been
+                    opened. Hopefully this record could be maintained, but as would be explained
+                    later, the 1948 volumes were in clearance difficulties, and files were not
+                    opened for a particular year until the final volume for that year had been
+                    published. Mr. Franklin pointed out that because publication necessitated
+                    clearance, the staff of <hi rend="italic">Foreign Relations</hi> functioned as a
+                    “declassification team” for State Department records.</p>
+                <p>At Mr. Franklin’s request Mr. Slany then commented on problems caused by the lot
+                    filing system. Mr. Slany said that lot files were hard to locate, difficult to
+                    retain, and needed to be publicized. Finding the lots was a major job, even with
+                    a staff of 18 historians. The Historical Office tried to retain lot files, while
+                    records managers put a premium on saving storage space. Records managers had
+                    destroyed some lots entirely and screened from others materials assumed to be
+                    duplicates: for instance, copies of telegrams. The Historical Office had worked
+                    with records managers in selecting materials worthy of permanent retention. [At
+                    this time copies of a list of major lot files intended for permanent retention
+                    were passed to members of the Committee. Copy appended] The <hi rend="italic"
+                        >Foreign Relations</hi> staff also made a practice of identifying these lot
+                    files in introductory notes or in the course of compilations. Mr. Slany
+                    emphasized that the work done in finding, retaining and publicizing the lots was
+                    one of the staff’s major contributions.</p>
+                <p>Mr. Freeman inquired about the standards used for selection of documents for
+                    inclusion in the series.</p>
+                <p>Mr. Aandahl stated that the staff started by looking for materials pertaining to
+                    events of crucial importance in a given year. In response to a further question
+                    by Mr. Freeman, Mr. Aandahl continued that additional materials concerning
+                    events of major importance and documentation on events of secondary moment were
+                    identified in the volumes, and that this was one of the purposes for which the
+                    staff had developed the editorial note.</p>
+                <p>Mr. Divine asked what happened to materials not cleared.</p>
+                <p>Mr. Franklin said such papers went to National Archives along with other records
+                    but were specially tabbed. It was intended that when such materials were
+                    requested, they would be sent to the Historical Office, which would initiate a
+                    further attempt to obtain clearance by the appropriate bureau. In many cases the
+                    initial refusal of clearance arises from a very temporary set of circumstances,
+                    and it was possible some 50% of these papers would be cleared on this second
+                    go-around. Mr. Franklin noted also that it was possible potentially sensitive
+                    documents existed which, not having been slated for inclusion in <hi
+                        rend="italic">Foreign Relations</hi>, had been cleared automatically when
+                    files for a given year were opened.</p>
+                <p>Mr. Rappaport, after consulting the lot file list, asked why certain files of
+                    State Department operating units were not in the central files.</p>
+                <p>Mr. Franklin explained that other copies of some of these papers were in central
+                    files and some were not. They were papers which were held in operating units for
+                    the convenience of policy officers and were later retired all at once, in a
+                    sudden fashion which the Department’s records accession personnel were not
+                    equipped to handle under normal procedures. Lot files had originated with the
+                    dramatic increase in documents during World War II. They sometimes offered
+                    certain advantages for the researcher, particularly those that were arranged
+                    chronologically by originating office.</p>
+                <p>Mr. Slany pointed out that some lots, such as the Council of Foreign Ministers
+                    files, were consolidated collections pulled together by records management
+                    personnel working with the Historical Office. Unfortunately funds were no longer
+                    available for this purpose.</p>
+                <p>Ambassador Oliver asked where conference petition papers would be stored. Mr.
+                    Franklin replied that they were in the lot files, and Mr, Slany added that the
+                    lots were vital for this purpose.</p>
+                <p>Mr. Dougall pointed out the extent to which records decentralization had become
+                    characteristic of the Department in the last 20 years, noting especially the
+                    separation of files of the Executive Secretariat from the central files.</p>
+                <p>Mr. LaFeber suggested that declassification of lots should be announced in the
+                    AHA <hi rend="italic">Newsletter</hi>. Mr. Franklin replied that such lists
+                    would be given to Archives, which could publish them in <hi rend="italic"
+                        >Prologue</hi>.</p>
+                <p>Mr. Slany said declassification of the lots had so far not been a problem.
+                    Although part of a lot might be in the closed period and the remainder in the
+                    open period, the chronological arrangement of most lots meant there was little
+                    overlapping of years within a single box.</p>
+                <p>Mr. Franklin introduced the subject of records of the United States Mission to
+                    the United Nations (USUN). Until the past two years no arrangement had been made
+                    for transfer of lot files to Archives or of USUN materials to Washington. The
+                    Historical Office had initiated action on both fronts. Everything possible must
+                    be done to avoid another “Loewenheim affair”, that is, a withholding from
+                    scholars through inadvertence of ostensibly declassified materials. Such an
+                    incident might happen in any case despite the Office’s best efforts. Mr.
+                    Franklin invited Mr. Goodwin to report on his recent investigation of the USUN
+                    materials in New York.</p>
+                <p>[Mr. Goodwin read from his written report, which is appended.]</p>
+                <p>In the course of his presentation Mr. Goodwin pointed out that he had suggested
+                    to USUN records personnel that the materials presently stored in the Federal
+                    Records Center should be returned to the Mission.</p>
+                <p>In reply to a question by Mr. Franklin, Mr. Goodwin stated that as nearly as he
+                    could tell, he believed none of the high-level material in the USUN files to be
+                    missing.</p>
+                <p>[At 10:30 a.m. coffee was served. At 10:45 a.m. discussion resumed.]</p>
+                <p>Mr. Rappaport stated, and Mr. LaFeber agreed, that publication by the Society for
+                    Historians of American Foreign Relations of a brief description of lot files,
+                    USUN files, and other adjunct materials would be helpful to scholars.</p>
+                <p>Mr. LaFeber asked how USUN files would be opened to scholars. Mr. Franklin
+                    replied that the question was a new one and that if someone would raise it in a
+                    letter to him he would be able to consult the USUN Mission and to work out a
+                    reply.</p>
+                <p>Mr. Oliver asked whether any other source material from the missions was not in
+                    Departmental files. Mr. Franklin mentioned post files. These were at the Federal
+                    Records Center at Suitland.</p>
+                <p>Mr. Kogan said that post files to 1935 were now at Archives and that accessioning
+                    of post files for 1936-1948 was now under way. He noted that until accessioning
+                    was completed, scholars were free to use post files at the Department, and
+                    several had done so.</p>
+                <p>Mr. Goodwin pointed out that he had been informed by a USUN official that no one
+                    could hope to document U.S. policy regarding the General Agreement on Tariffs
+                    and Trade without consulting in Geneva the files of the Office of the U.S.
+                    Representative to the European Office of the United Nations and Other
+                    International Organizations.</p>
+                <p>Mr. Franklin stressed that the Historical Office had no control over disposition
+                    of the foreign policy records of other agencies. Mr. Slany cited records of the
+                    Economic Cooperation Administration as an example. These had been transferred to
+                    successor agencies, first to the Mutual Security Administration and then to the
+                    Agency for International Development. No one at AID had known much about them,
+                    and <hi rend="italic">Foreign Relations</hi> researchers had spent much time
+                    tracking them down. There might be comparable files unknown to the Historical
+                    Office.</p>
+                <p>Mr. Snyder asked if it would be appropriate for the Committee to recommend that
+                    USUN files be moved to Washington. Mr. Freeman suggested that the Committee go
+                    on record urging accessibility of USUN files. Mr. Franklin said that this would
+                    be helpful. Mr. Oliver suggested that the statement be generalized to include
+                    files of all U.S. missions to regional and international organizations. Messrs.
+                    Snyder and Freeman agreed that it would be desirable to put the matter into this
+                    broader context, so that all possible record categories could be considered when
+                    files of a given year were opened for research.</p>
+                <p>Mr. Fine said that he had a very indefinite recollection that the Department had
+                    once asked the posts to destroy all their TOP SECRET materials. The purpose had
+                    not been to suppress information, but to remove sensitive materials for which
+                    proper security handling could not be arranged. Mr. Fine stated that he was
+                    unable to recall the date of this request.</p>
+                <p>Messrs. Franklin, Dougall and Slany discussed some aspects of the screening of
+                    post files. Sometimes these were pre-screened at the posts. Once the files were
+                    in Washington, the Historical Office sometimes was consulted in the course of
+                    the screening process and sometimes not. On the question of screening generally,
+                    Mr. Franklin called attention to a new system instituted by the Department to
+                    ensure that a copy of each telegram would be retained in central files.</p>
+                <p>Mr. Oliver said he at first thought the Committee should call for the
+                    concentration of foreign policy records in Washington, but was now uncertain:
+                    convenience of access for outside scholars should be taken into account and
+                    weighed against the administrative convenience to the Historical Office of
+                    centralization. Mr. Divine said that it was far more convenient for outside
+                    scholars to use documents in Washington.</p>
+                <p>Mr. Oliver asked if the dispersal of records created problems for the Historical
+                    Office. Mr. Franklin replied that it would be better to have records located in
+                    Washington, but that the dispersal of files in other locations did not create
+                    insurmountable problems. Mr. Goodwin noted that <hi rend="italic">Foreign
+                        Relations</hi> researchers now had a working relationship with USUN
+                    record-keepers and could order files on specific subjects. Mr. Franklin recalled
+                    past experience with the Franklin D. Roosevelt Library, when thousands of
+                    photostats had been ordered and received by letter. When the high-level Truman
+                    files, currently in probate, were opened to official researchers, the Historical
+                    Office would work for the same relationship with the Truman Library at
+                    Independence.</p>
+                <p rend="center">AGENDA ITEM 6: PROGRESS ON 1948 VOLUMES AND SPECIFIC PROBLEMS OF
+                    CLEARANCE</p>
+                <p>[Mr. Aandahl distributed copies of a publication schedule to members of the
+                    Committee. Copy appended.]</p>
+                <p>Mr. Aandahl stated that clearance delay was currently slowing publication more
+                    than any other single factor, and that the National Security Council was the
+                    greatest single source of such delays. Since establishment of NSC in 1947 almost
+                    every major issue had gone through it. Not all “NSC Papers” had originated in
+                    NSC, but its approval was required for their declassification. In 1969, when <hi
+                        rend="italic">Foreign Relations</hi> had first asked for the clearance of
+                    NSC papers, they had been returned with the comment that there was no procedure
+                    for declassification. Since the President’s Executive Order of March 1972, there
+                    had been a clearance procedure. NSC staff was to review the papers after prior
+                    clearance by all other interested agencies. Favorable action on a few NSC papers
+                    had followed, enabling, for instance, the publication a few weeks back of 1948,
+                    Volume II, which contained NSC papers on Austria and the Berlin Blockade. Yet
+                    difficulties on other volumes had continued. 1948, Volume VI, which included an
+                    NSC paper in the Korean compilation, had been awaiting NSC clearance since
+                    August 1972. Three other volumes had been in clearance with NSC for periods
+                    ranging from five to ten months.</p>
+                <p>In the normal clearance process, Mr. Aandahl continued, the Historical Office
+                    often agreed to minor deletions after a process of give and take. With NSC,
+                    there was no possibility for argument as there was with other agencies. Attempts
+                    by the Historical Office to establish a lateral working-level relationship had
+                    been discouraged.</p>
+                <p>In response to a question by Mr. Freeman as to whether the situation regarding
+                    NSC clearance had improved during the last year, Mr. Aandahl noted that
+                    NSC-related delays in clearance had had a disastrous effect on the production
+                    schedule.</p>
+                <p>Mr. Franklin pointed out that it was necessary to communicate with NSC via the
+                    Executive Secretariat. No direct contact was permitted; all communication had to
+                    go through channels. The Historical Office hoped that Secretary Kissinger would
+                    expedite clearance and publication when the Office succeeded in bringing the
+                    matter to his attention.</p>
+                <p>Mr. LaFeber asked whether clearance procedures had broken down. Mr. Franklin
+                    replied that they had not “broken down” but that they were holding up the
+                    attempt to bring <hi rend="italic">Foreign Relations</hi> to the 20-year
+                    line.</p>
+                <p>Mr. LaFeber asked whether the Interagency Classification Review Committee (ICRC)
+                    could have any effect on the problem of NSC clearance. Mr. Franklin replied that
+                    under the provisions of Executive Order 11652, the Historical Office could go,
+                    as could outside scholars, to the ICRC, which was closely related to the NSC. In
+                    its submissions to the NSC, the Historical Office had been inserting references
+                    to E.O. 11652. This had not materially helped, but it gave a channel of appeal
+                    under the ICRC. The ICRC, however, had not been able to swing much weight since
+                    the departure of its former Chairman, Ambassador John Eisenhower.</p>
+                <p>Mr. Freeman asked for a short summary of the provisions of E.O. 11652 for the
+                    benefit of the new members of the Committee. Mr. Dougall summarized the Order,
+                    noting that it provided a revised system of classification of documents. It
+                    restricted the number of persons who could classify and provided a general
+                    declassification schedule. Papers exempted from this schedule might remain
+                    closed for thirty years; however, review of classification could be requested
+                    and there was a right of appeal. The general declassification schedule applied
+                    only to papers classified after the Order’s effective date, June 1, 1972. Bulk
+                    declassification of papers before the 30-year period was up could still be done
+                    by administrative action, and this was how the Department had opened its files
+                    through 1947.</p>
+                <p> Mr. Freeman pointed out that much cynicism about Executive Order 11652 had been
+                    expressed publicly at meetings. Mr. Franklin said that the executive order had
+                    been oversold as far as scholars were concerned: it worked well for a small
+                    quantity of papers not of the most sensitive nature. If <hi rend="italic"
+                        >Foreign Relations</hi> could not get 1948 papers cleared, private scholars
+                    obviously wouldn’t get large batches of 1958 or 1968 papers. The total number of
+                    papers that had been declassified under 11652 was surprisingly high.</p>
+                <p>In response to a question by Mr. Oliver as to what could be done by way of
+                    obtaining NSC clearance, Mr. Aandahl stated that the problem awaited the
+                    decision of the Secretary of State. Mr. Franklin added that the personal opinion
+                    of the Secretary of State was important in these matters. Secretaries of State
+                    had over the years known a great deal about what went on with respect to <hi
+                        rend="italic">Foreign Relations</hi>, and the same might be said for the
+                    Deputy Secretary and Under Secretary. Papers had been appealed up to this level,
+                    and sometimes it had been discovered that these officers genuinely had not
+                    wanted to see the papers published too fast. Another viewpoint found at this
+                    level was that no document should be published while principals involved were
+                    still alive. The point was that officers at this level were not apathetic with
+                    regard to clearance, but did in fact have views.</p>
+                <p>Mr. Dougall asked the Committee’s views on the policy followed so far by the
+                    Historical Office of holding up the publication of otherwise cleared volumes
+                    until NSC papers could be included on the ground that those papers were the
+                    essential keystone of the compilations and were therefore worth waiting for. Mr.
+                    Rappaport suggested that this reasoning was valid only up to a point. Mr.
+                    Franklin observed that <hi rend="italic">Foreign Relations</hi> could not
+                    generally go back and pick up omitted documents.</p>
+                <p>In answer to a question by Mr. Rappaport as to how long the Historical Office was
+                    prepared to wait before publishing the volumes with clearance difficulties, Mr.
+                    Aandahl replied that some volumes were close to receiving clearance; the year
+                    1949 was generally less difficult in terms of clearance than 1948; and there was
+                    the possibility of shifting things around a bit by holding papers for
+                    publication in the volume of a later year.</p>
+                <p>In answer to a question by Mr. Divine as to whether the Historical Office had had
+                    any difficulty in obtaining access to classified NSC documents, Mr. Aandahl
+                    replied in the negative. Mr. Glennon added that this had not been true in the
+                    case of NSC minutes. Mr. Aandahl stated that those were believed to be among the
+                    Truman papers now in probate.</p>
+                <p>In response to a query as to whether there had ever been a lag in the publication
+                    of <hi rend="italic">Foreign Relations</hi> greater than the present one, Mr.
+                    Franklin reviewed the history of publication. He emphasized that apart from
+                    clearance, publication was going well, and that it would be possible to complete
+                    the compilation of the year 1956 in 1976.</p>
+                <p>[The Committee adjourned at 12:19 p.m. for lunch with Ambassador Laise.]</p>
+                <p>Afternoon Session - 2:25 p.m. - 4:45 p.m.</p>
+                <p>Mr. Aandahl continued his description of clearance problems. He pointed out that
+                    close readers of 1947, Volume III, would notice that coverage on Italy stopped
+                    with November instead of continuing to the end of December. This had happened
+                    because of the impossibility of obtaining clearance of NSC 1 (November 1947) in
+                    any reasonable time. The volume had been published last year with an editorial
+                    note stating that documentation for the remainder of the year had not become
+                    available in time to be included. The Italian material for the last two months
+                    of 1947 including NSC 1 had been transferred to the equivalent 1948 volume. NSC
+                    1 dealt with U.S. policy with regard to the possibility of a Communist takeover
+                    in Italy. The State and Defense Departments and the CIA had finally agreed to
+                    declassify it except for two paragraphs describing specific actions which might
+                    have been taken to assist the Italian Government. A bracketed summary would
+                    indicate the general character of what had been omitted. This solution had been
+                    sent to NSC last June, but as yet there had been no reply.</p>
+                <p>Mr. LaFeber and Mr. Rappaport then asked if that meant that the document would
+                    not be available in State Department or NSC files. Mr. Aandahl answered that
+                    that was correct; it would be in the Archives but in a blue envelope.</p>
+                <p>Mr. Aandahl pointed out that <hi rend="italic">Foreign Relations</hi> often gave
+                    more than points of ellipsis to indicate a deletion: it sometimes gave the
+                    substance of the paragraphs. Mr. Dougall then pointed out that if <hi
+                        rend="italic">Foreign Relations</hi> said the deletion was 2 paragraphs, the
+                    researcher would know that 75 percent of the document had not been deleted.</p>
+                <p rend="center">AGENDA ITEM 8: COMPILATION OF 1949-1951 VOLUMES AND PROBLEMS OF
+                    CLEARANCE</p>
+                <p>Mr. Goodwin reported on the General Branch. The branch covered three main
+                    areas--UN, national security, and foreign economic policy. The principal
+                    clearance problems involved national security.</p>
+                <p>Mr. Petersen said that it had been a great problem to get the 1946-1948 volumes
+                    cleared by the Department of Defense, while the Atomic Energy Commission and CIA
+                    had been cooperative. In contrast, Defense had cleared the 1949 volume quickly,
+                    even though the 1948 volume is still being negotiated on.</p>
+                <p>Mr. Petersen then mentioned the <hi rend="italic">Pentagon Papers</hi>, and
+                    stated that <hi rend="italic">Foreign Relations</hi> would publish three times
+                    as much documentation on Vietnam for the years in question as had the <hi
+                        rend="italic">Papers</hi>. Most of this would be reports from the Legation
+                    in Saigon.</p>
+                <p>Mr. Goodwin then outlined clearance procedures on UN compilations. Usually each
+                    geographic bureau wished to clear UN documents pertaining to its area. This was
+                    an exceedingly time-consuming process.</p>
+                <p>Mr. LaFeber asked why the 1950 volumes were not much further along than they had
+                    been at this time last year. Mr. Aandahl noted that these volumes had advanced
+                    from manuscript to galleys, but that there had been delays due to a shortage of
+                    technical editors at PBR and congestion at the Government Printing Office. The
+                    death of May P. Sharp, chief of the documentary editing section at PBR, had been
+                    a serious loss.</p>
+                <p>Mr. Freeman then asked, assuming that the clearances came through, whether all
+                    the 1949 volumes might come out in 1974. Mr. Aandahl said that he hoped many of
+                    them could, since 90 percent of the printing and revising had already been
+                    completed. Mr. Freeman then asked what would happen without clearance, and Mr.
+                    Aandahl stated that the Department would have to choose between delaying the
+                    volumes or releasing them without certain important documents. This involved
+                    some very hard decisions.</p>
+                <p>[at this point there was discussion of individual documents still in
+                    clearance.]</p>
+                <p>Mr. Franklin concluded that the Office would be lucky to obtain publication by
+                    next summer of the four 1948 volumes still in clearance,</p>
+                <p>Mr. Rappaport said that NSC clearance seemed to be the major problem, and asked
+                    what would be done in cases where it could not be obtained. Mr. Aandahl
+                    explained that uncleared documents could sometimes be held out in the hope of
+                    later clearance and later placed in a different volume. The flaw in that
+                    solution was that one eventually ran out of volumes. Mr. Rappaport stated that
+                    this should be mentioned in the Committee’s report.</p>
+                <p>Mr. Slany then described the work of the Western Branch. He pointed out that the
+                    staff was now trying to do a compilation of a year’s materials in nine months,
+                    and had tried to attack causes of delay in compiling. He presented for the
+                    Committee’s consideration the problem of how much emphasis should be laid on
+                    locating documents outside the Department. How much time should be spent
+                    searching for, say, ECA papers, given the pressure on the series to narrow the
+                    publication gap? There was a conflict between the goals of speed and
+                    comprehensiveness. Advice would also be appreciated on methodological problems,
+                    such as whether to emphasize bilateral or multilateral compilations.</p>
+                <p>Mr. Franklin pointed out the gradual shift that had taken place from bilateral to
+                    regional and other multilateral compilations. He outlined also the system that
+                    had been developed of setting priorities through advance planning.</p>
+                <p>Mr. Freeman inquired why the series was limited to seven volumes. Mr. Franklin
+                    replied that the Office had decided that 11 and 12 volumes per year published in
+                    the recent past had been too time-consuming and unwieldy, and moreover had
+                    included too much third-rate material. Mr. Freeman suggested that fewer volumes
+                    should mean fewer clearance problems. Mr. Franklin replied that fewer volumes
+                    did reduce printing and indexing time, but not necessarily clearance time.
+                    Clearance problems were not related to quantity but rather to sensitivity of
+                    materials. He asked for the Committee’s opinion as to whether seven volumes
+                    represented about the right depth of coverage.</p>
+                <p> Mr. Glennon then reviewed the work of the Eastern Branch. NSC clearance was
+                    needed on only one document in 1949, Volume VII. [At this point individual
+                    documents were discussed.]</p>
+                <p>Turning to the China volumes, Mr. Glennon noted that compilations on China
+                    through 1949 had already been completed when he had arrived at the Historical
+                    Office in 1958. All the 1948 China compilations had now been cleared. However,
+                    the improved relations with the People’s Republic of China had made the relevant
+                    desk in the Department reluctant to clear 1949, Volume VIII. It had objected to
+                    over a score of documents on various grounds. The Republic of China desk had
+                    objected to a few documents of somewhat less importance in 1949, Volume IX,
+                    which had now been sent to NSC.</p>
+                <p>Mr. Glennon described some of the documents in question and Mr. Rappaport asked
+                    if it was wise for the Historical Office to insist on them. They might make the
+                    job of a certain official more difficult. Mr. Glennon replied that he would hate
+                    to destroy the fabric of the compilation on the grounds given by the PRC desk.
+                    The official mentioned had only been saying what everyone had been saying at the
+                    time.</p>
+                <p>Mr. Dougall outlined for the Committee other reasons why the Historical Office
+                    thought the papers in question were relevant to policymaking at the highest
+                    level. Their deletion would positively mislead the reader. Mr. Glennon stated
+                    that clearance problems for 1950 and 1951 China compilations would probably be
+                    even more ticklish.</p>
+                <p rend="center">AGENDA ITEM 9: SCHEDULING OF COMPLETION FOR 1952-1956 VOLUMES</p>
+                <p>[Mr. Aandahl handed out a paper on 1952-1956 compilation schedules,
+                    appended.]</p>
+                <p>Mr. Snyder asked if the staff had in their heads any average time from completion
+                    of a compilation to going to press. Mr. Aandahl said that this varied sharply,
+                    mostly because of clearance difficulties; occasionally it might be under one
+                    year, but at times it would be five to six years.</p>
+                <p>Mr. Franklin said the average time had come down to about three years. It was
+                    hard for the editors to do the indexing and for the printers to do their job
+                    because our schedule was so erratic.</p>
+                <p rend="center">AGENDA ITEM 10: PROBLEMS OF BUDGET AND TECHNICAL EDITING</p>
+                <p>Mr. Franklin said that there was plenty of money for printing, binding, and
+                    indexing.</p>
+                <p>Mr. Aandahl stated that there was a really strong need for more technical editors
+                    in the Department. Scheduling could be far better coordinated if a greater
+                    portion of this work was done in the Department rather than being fanned out to
+                    a contractor. Having in-house people do this work would be cheaper in the
+                    long-run, but not in the short-run.</p>
+                <p>AGENDA ITEM 11: DECLASSIFICATION AHEAD OF <hi rend="italic">FOREIGN
+                        RELATIONS</hi> PUBLICATION</p>
+                <p>Mr. Dougall described the Freedom of Information Act. He pointed out that it had
+                    been intended to apply to small amounts of papers and was not a substitute for
+                    general access to files. Under the Act and/or E.O. 11652 the Department had
+                    received, since July 1973, 66 requests for over 3000 documents totalling some
+                    13,000 pages. Examples included the Kennedy-Khrushchev correspondence of October
+                    1962 (to be printed in the Department of State <hi rend="italic">Bulletin</hi>
+                    for November 19, 1973), and documentation on the Philippine elections of 1953,
+                    the Puerto Rican issue before the UN, and the “country team” system in South
+                    America. Results on the whole had been spotty from the point of view of the
+                    requesters. All this required the full-time effort of one man and the assistance
+                    of many others, including the Historical Office staff.</p>
+                <p>Mr. Dougall described the fate of the project for publication of papers on
+                    selected crises in advance of the <hi rend="italic">Foreign Relations</hi> time
+                    schedule. A pilot compilation undertaken at White House initiative had been put
+                    aside when the key documentation had been studied by the Departmental bureau
+                    concerned. Since then two other crises had been considered, but the project was
+                    now in abeyance.</p>
+                <p>Mr. Franklin questioned the equity of the Freedom of Information Act, which was
+                    more advantageous to researchers able to pay $.40 a page for documents for which
+                    declassification was approved. Mr. Kogan added that there was also a charge of
+                    $3.50 an hour for the research involved in finding the papers. Mr. Dougall said
+                    a decision had been taken to forgo the $.40 charge if the researcher brought his
+                    own copier.</p>
+                <p>Mr. LaFeber suggested that the Committee recommend that the charge be lowered to
+                    $.10 a copy and Mr. Franklin stated that this was under consideration. Another
+                    proposal was for the government to limit the amount of research but to absorb
+                    the whole cost.</p>
+                <p rend="center">AGENDA ITEM 12: OTHER BUSINESS</p>
+                <p>Mr. Oliver raised the question of whether <hi rend="italic">Foreign
+                        Relations</hi> should broaden its scope, go outside the Executive Branch and
+                    print material on the Congressional influence on foreign policy. Mr. Goodwin
+                    mentioned that there were already some compilations which treated the
+                    relationship between the Congress and the Executive. Mr. Divine stated that no
+                    single source could be totally comprehensive. Mr. Rose pointed out that much
+                    material on State Department relations with the Congress, being public in
+                    nature, was printed in the Department of State <hi rend="italic">Bulletin</hi>.
+                    Mr. Petersen alluded to the problems which might arise in trying to clear
+                    documents with Congressional committees. Mr. Franklin noted that he had
+                    discussed this problem with Carl Marcy, Chief of the Senate Foreign Relations
+                    Committee staff, and that it was not feasible for <hi rend="italic">Foreign
+                        Relations</hi> to include anything as a rule but documents of the Executive
+                    Branch.</p>
+                <p>Mr. Freeman adjourned the meeting at 4:45 p.m. [The Chairman then discussed
+                    informally with individual members of the Committee, for another hour, the
+                    outlines of the Committee’s report.]</p>
+            </div>
+        </body>
+    </text>
+</TEI>

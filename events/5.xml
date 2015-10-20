@@ -1,0 +1,76 @@
+<event>
+    <id>5</id>
+    <title>Public Presentations on FRUS at the New York Public Library (NYPL)</title>
+    <created>2011-08-08</created>
+    <icon>
+        <width>150px</width>
+        <height>96px</height>
+        <url>http://static.history.state.gov/frus150/nypl-logo.jpg</url>
+        <alttext>NYPL Logo</alttext>
+    </icon>
+    <link>/historicaldocuments/frus-history/events#nypl</link>
+    <link-alttext>More information about this event</link-alttext>
+    <event-type>Public Presentation</event-type>
+    <event-date>2011-10-12</event-date>
+    <teaser>
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <ol>
+                <li>
+                    <a href="/historicaldocuments/frus-history/events#nypl-using-frus">“New Perspectives on Postcolonial
+                        History: A Workshop on Using <em>FRUS</em> in the 21st Century”</a>
+                </li>
+                <li>
+                    <a href="/historicaldocuments/frus-history/events#nypl-cold-war">“Out of the Frying Pan Into the
+                        Fire”: A Conversation about Security and Transparency in the Cold War
+                        Era <em>Foreign Relations</em> Series”</a>
+                </li>
+            </ol> (Presentations at the New York Public Library) </div>
+    </teaser>
+    <full-description>
+        <div xmlns="http://www.w3.org/1999/xhtml" id="nypl-using-frus">
+            <a style="float:right" class="not-external" href="http://www.nypl.org/events/classes/2011/10/12/new-perspectives-postcolonial-history-workshop-using-foreign-relations-uni?nref=62452" title="Link to NYPL event info">
+                <img width="150px" height="96px" style="border:1px black solid" src="http://static.history.state.gov/frus150/nypl-logo.jpg" alt="NYPL Logo"/>
+            </a>
+            <h3>
+                <a href="http://www.nypl.org/events/classes/2011/10/12/new-perspectives-postcolonial-history-workshop-using-foreign-relations-uni?nref=62452">“New Perspectives on Postcolonial History: A Workshop on Using
+                    <em>FRUS</em> in the 21st Century”</a>
+            </h3>
+            <p style="font-size: 0.825em; text-transform: uppercase;"> A presentation at the New
+                York Public Library<br/>October 12, 2011, 3 p.m.</p>
+            <p>This workshop on researching the postwar history of decolonization, nationalist
+                struggles, and identity will demonstrate how to utilize the <em>Foreign
+                    Relations of the United States</em> series for non-diplomatic history
+                topics. Office of the Historian staff will also provide an overview of NARA and
+                other available on-line resources, address more traditional uses of
+                <em>FRUS</em>, and demonstrate the research capabilities of <a href="http://history.state.gov">history.state.gov</a>. Participants will
+                have access to computers and will be encouraged to search/browse the site and
+                consult with Office of the Historian staff regarding their research
+                interests.</p>
+        </div>
+        <div xmlns="http://www.w3.org/1999/xhtml" id="nypl-cold-war">
+            <a style="float:right" class="not-external" href="http://www.nypl.org/events/programs/2011/10/12/%E2%80%9Cout-frying-pan-fire%E2%80%9D-conversation-about-security-and-transparency-cold-w?nref=62451" title="Link to NYPL event info"/>
+            <h3>
+                <a href="http://www.nypl.org/events/programs/2011/10/12/%E2%80%9Cout-frying-pan-fire%E2%80%9D-conversation-about-security-and-transparency-cold-w?nref=62451">“Out of the Frying Pan Into the Fire”: A Conversation about Security and
+                    Transparency in the Cold War Era <em>Foreign Relations</em> Series”</a>
+            </h3>
+            <p style="font-size: 0.825em; text-transform: uppercase;"> A presentation at the New
+                York Public Library<br/>October 12, 2011, 6 p.m.</p>
+            <p>The <em>Foreign Relations of the United States</em> series, the official
+                documentary record of United States foreign policy and diplomatic activity, has
+                embodied the Department of State’s commitment to responsible transparency since
+                1861. The evolution of the series during the twentieth century, particularly
+                debates in the 1950s surrounding the release of the 1945 Yalta Conference volume
+                (and those covering other wartime conferences), illuminates historical debates
+                within the United States Government over secrecy versus transparency in the
+                realm of diplomacy and national security and tensions between Congress and the
+                Executive Branch in conducting foreign policy. Dr. Josh Botts of the Department
+                of State’s Office of the Historian and Susan Butler, distinguished historian and
+                biographer, will discuss how the story of the Yalta <em>FRUS</em> volume
+                reflected the interplay of partisan impulses, national security imperatives, and
+                bureaucratic politics in the 1950s.</p>
+            <p><span style="color: #911625; text-transform: uppercase;">Update</span>: An audio recording of this event is available from the <a
+                href="http://www.nypl.org/audiovideo/out-frying-pan-fire%E2%80%9D-conversation-about-security-and-transparency-cold-war-era-foreign-re"
+                >NYPL homepage</a>.</p>
+        </div>
+    </full-description>
+</event>

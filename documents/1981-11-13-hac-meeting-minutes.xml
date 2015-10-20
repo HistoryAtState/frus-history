@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Minutes of Historical Advisory Committee Meeting, November
+                    1981</title>
+                <title type="short">HAC Meeting Minutes, 1981</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-05-05">May 5, 2014</date>
+                <date type="created" when="1981-11-13">November 13, 1981</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1981-11-13-hac-meeting-minutes.pdf">PDF</ref>, 274 KB, 26pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 4, 1981—Minutes, Report.</hi></p>
+            <div type="document">
+                <head>Minutes of the 1981 Meeting of the Advisory Committee on Historical Diplomatic
+                    Documentation</head>
+                <dateline>November 13, 1981</dateline>
+                <p rend="underline">American Historical Association</p>
+                <list>
+                    <item>Dr. Arnold B. Taylor, Department of History, Howard University,
+                        Washington, D.C.</item>
+                    <item>Dr. Ernest R. May, John F. Kennedy School of Government, Harvard
+                        University, Cambridge, Mass.</item>
+                </list>
+                <p rend="underline">American Political Science Association</p>
+                <list>
+                    <item>Dr. Richard N. Rosecrance, Center for International Studies, Cornell
+                        University, Ithaca, N.Y.</item>
+                </list>
+                <p rend="underline">Organization of American Historians</p>
+                <list>
+                    <item>Dr. Gaddis Smith, Department of History, Yale University, New Haven,
+                        Conn.</item>
+                </list>
+                <p rend="underline">American Society of International Law</p>
+                <list>
+                    <item>Dr. Seymour J. Rubin, Executive Vice-President and Executive Director, The
+                        American Society of International Law, Washington, D.C.</item>
+                </list>
+                <p rend="underline">Other Persons Present</p>
+                <p>The Bureau of Public Affairs (PA):</p>
+                <list>
+                    <item>Raymond G.H. Seitz, Senior Deputy Assistant Secretary for Public
+                        Affairs</item>
+                    <item>Francis D. Gomez, Deputy Assistant Secretary of State for Public
+                        Affairs</item>
+                </list>
+                <p>The Office of the Historian (HO):</p>
+                <list>
+                    <item>William Z. Slany, Acting Historian</item>
+                    <item>Neal H. Petersen, Acting Deputy Historian and Adviser on Research</item>
+                    <item>John P. Glennon, Acting General Editor of the <hi rend="italic">Foreign
+                            Relations of the United States</hi> (<hi rend="italic">FRUS</hi>)</item>
+                    <item>Charles S. Sampson</item>
+                    <item>Paul Claussen</item>
+                    <item>William Sanford</item>
+                    <item>Nina Noring</item>
+                    <item>Evans Gerakas</item>
+                    <item>Sherrill Wells</item>
+                    <item>David Baehler</item>
+                    <item>Harriet Schwar</item>
+                    <item>Paula Lorfano</item>
+                    <item>Nina Neve</item>
+                    <item>Luke Smith</item>
+                    <item>Robert McMahon</item>
+                    <item>Edward Keefer</item>
+                    <item>James Miller</item>
+                    <item>Kay Herring</item>
+                    <item>Karen Bryfogel</item>
+                    <item>Stanley Shaloff</item>
+                    <item>David Patterson</item>
+                    <item>David Mabon</item>
+                    <item>Carol Becker</item>
+                    <item>Margaret Gourlay</item>
+                </list>
+                <p>Classification/Declassification Center (CDC):</p>
+                <list>
+                    <item>Ambassador John R. Burke, Deputy Assistant Secretary of State for
+                        Classification/Declassification</item>
+                    <item>Laurence Pickering, Director, Office of Systematic Review</item>
+                </list>
+                <p>Foreign Affairs and Information and Management Center (FAIM):</p>
+                <list>
+                    <item>Paul M. Washington, Chief, Publishing Services Division (PS)</item>
+                    <item>John Ellsworth, Chief, General Editing Branch</item>
+                    <item>Margie Wilber, Chief, Documentary Editing Section</item>
+                    <item>Rita Baker, Deputy Chief, Documentary Editing Section</item>
+                    <item>Charlotte Shahin</item>
+                    <item>Leo Masciana</item>
+                    <item>Elee Roeder</item>
+                    <item>Vicki Ettleman</item>
+                </list>
+                <p>The National Archives and Records Service (NARS):</p>
+                <list>
+                    <item>Alan Thompson, Chief, Records Declassification Division</item>
+                    <item>Milton O. Gustafson, Chief, Diplomatic Records Division</item>
+                </list>
+                <p>Others:</p>
+                <list>
+                    <item>Arthur G. Kogan, retired</item>
+                    <item>Beverly Zweiben, Bureau of International Organization Affairs, Department
+                        of State</item>
+                    <item>Prof. George O. Kent, University of Maryland</item>
+                </list>
+                <p>[<hi rend="italic">Omitted here is a list of abbreviations.</hi>]</p>
+                <p rend="center"><hi rend="underline">Morning Session</hi></p>
+                <p>Mr. Slany called the meeting to order at 9:17 a.m. He introducing Mr. Seitz, who
+                    welcomed the Advisory Committee on behalf of Dean Fischer, Assistant Secretary
+                    for Public Affairs and Department Spokesman.</p>
+                <p>Mr. Seitz stated that he was very interested in the function of the Historical
+                    Office, and noted its contributions to both the Department of State and to the
+                    academic community. He stated that the Department had a commitment to the quick,
+                    efficient release of historical documentation, and that HO had a commitment to
+                    maintaining its high standard in the publication of the <hi rend="italic"
+                        >FRUS</hi> series. He called attention to HO’s special research program and
+                    noted that although this function had been neglected in recent years, the
+                    Department had renewed interest in research by HO. Mr. Seitz solicited the
+                    Committee’s advice, which he considered vital, in determining the proper balance
+                    between quick disclosure and the secrecy required for national security.</p>
+                <p>Mr. Slany called upon the Committee to elect a chairman. Prof. Taylor was
+                    nominated by Prof. May, seconded by Prof. Rosecrance, and named chairman by
+                    acclamation.</p>
+                <p rend="underline">Report of the Acting Historian</p>
+                <p>Mr. Slany then proceeded to summarize his written report on the current status of
+                    the Office of the Historian. He reminded the Committee that the departure in
+                    July of David F. Trask (the former Historian) was the major event of the year.
+                    The Office Director position will be filled as a Senior Executive Service
+                    position. Applications will be accepted until the end of the month. The
+                    retirement at the end of 1980 of Arthur G. Kogan was also a great loss to the
+                    Office.</p>
+                <p>Mr. Slany said that the problems experienced in publishing <hi rend="italic"
+                        >FRUS</hi> had not eased over the year. Declassification had always been a
+                    problem, but the documentation from the Cold War period of the 1950s presented
+                    additional difficulties. Many people in the Department are involved in trying to
+                    resolve the problems of preparing, clearing, and publishing <hi rend="italic"
+                        >FRUS</hi>. The Department has demonstrated continued support for the
+                    series. It falls to HO to recommend solutions for the problems that delay the
+                    timely release of volumes. There are no magical solutions. The advice and
+                    support of the Committee are vitally needed. HO is doing the best that it can;
+                    its resources have not been reduced, and the Department stands behind it.</p>
+                <p>He said we need to work with A/CDC in accelerating the release of the volumes
+                    while at the same time making sure that the integrity of the series is
+                    maintained. As we get better in compiling, the problems in gaining clearance
+                    increase. Even with deletions, the volumes are far superior to those of 20 years
+                    ago. HO seeks to meet the highest standards of scholarship. Coverage is a
+                    problem particularly in regard to intelligence matters. We have to consider
+                    whether what we are trying to do is what we should be trying to do. Should the
+                    series chronicle the intelligence activities of the Government? It is hard to
+                    gain access to materials about such matters from other agencies. Do triennial
+                    volumes meet the needs of scholars? Mr. Slany indicated HO’s intention to
+                    conduct a user’s survey. Microform is another concern of HO. It will soon
+                    undertake test projects. We need to know how to relate microform to printed
+                    volumes. The above survey will provide some insight into <hi rend="italic"
+                        >FRUS</hi>-users’ views of such matters. Mr. Glennon interjected that it
+                    probably will be sent out early next year.</p>
+                <p>Publication of <hi rend="italic">FRUS</hi> also encounters a production problem.
+                    GPO is in a period of transition as regards technology. Fourteen <hi
+                        rend="italic">FRUS</hi> volumes remain in lead plates, but not all may be
+                    clearable by 1984 when GPO loses its last linotype operator and converts fully
+                    to word processing technology. HO is already involved in word processing of its
+                    own. It has taken one year to publish volumes that have already been cleared.
+                    Mr. Glennon noted that Volume XVI, which was on a fast track, took 10 months to
+                    print even after it had been cleared. Mr. Slany noted that we hope to speed it
+                    up. HO hopes to find a way to edit on-line working with a word processor
+                    system.</p>
+                <p>Mr. Slany observed that the 1978 Executive Order on declassification was in the
+                    process of being revised. This would affect on HO and the Department. He said we
+                    are concerned about the staffing level of A/CDC, with which we have a close
+                    relationship. We are anxious to devise better methods of collecting
+                    documentation and to work out guidelines for the transfer of the records to
+                    NARS.</p>
+                <p>Mr. Slany indicated that HO had resumed the <hi rend="italic">American Foreign
+                        Policy: Current Documents</hi> series that had been suspended with the 1967
+                    volume. One had been virtually finished last month on the Carter years;
+                    retrospective volumes on the Nixon and Ford years would follow. It is hoped that
+                    the first would be out by the end of the year and the annual volume on 1981
+                    could be issued by early 1982. The two other retrospective volumes are scheduled
+                    for 1982. It is a necessary and useful series which reinforces <hi rend="italic"
+                        >FRUS</hi>. He expressed interest in the Committee’s views. At one time <hi
+                        rend="italic">Foreign Relations</hi> was itself its own <hi rend="italic"
+                        >Current Documents</hi> and put current foreign policy before the public and
+                    the Department. We are interested in the Committee’s opinion about the value of
+                    the resumed series.</p>
+                <p>The great concern of the Department is that historians be able to help foreign
+                    policy makers. The research function we are working on is mutually
+                    supportive.</p>
+                <p>There are questions about the research program.</p>
+                <list rend="bulleted">
+                    <item>How effective is it?</item>
+                    <item>What kinds of things can historians do for policy makers in the
+                        Department?</item>
+                    <item>There is real concern that the research program not become a subsidiary to
+                        public relations activities. At the same time we must be supportive of the
+                        public relations functions of the Bureau. What does the Committee
+                        think?</item>
+                </list>
+                <p>There are problems in the administration of the Office. There are vacancies, and
+                    HO is hiring historians. But we can’t hire as we did in the past. The Civil
+                    Service Act of 1978 and the Foreign Service Act of 1980 require that we
+                    interview candidates from within the Department or that OPM provide us with a
+                    register of historians -- people who didn’t necessarily know they were applying
+                    for HO jobs, but were simply on the midlevel register. If you know of students
+                    or colleagues who are interested, he said, please have them put their names on
+                    the registry and make themselves known to HO.</p>
+                <p>The Advisory Committee is one of a number which the Department maintains.
+                    Although the Department continues to provide support for the Committee it may
+                    not be able to continue to do so in the future. What effect would a reduction of
+                    financial support have on Committee meetings? What are your views on attendance,
+                    format, membership, and place of future committee meetings?</p>
+                <p>Prof. Rubin asked what is the extent of financial support now?</p>
+                <p>Mr. Slany responded that it was several thousand dollars. We haven’t tried to
+                    achieve any particular geographical distribution. Members are selected because
+                    they were recommended by constituent societies.</p>
+                <p rend="underline">Report of the Acting General Editor</p>
+                <p>Mr. Glennon began the summary of his report by requesting that the committee
+                    members consult their own copies of his report for the statistics that show that
+                    the number of volumes published has dwindled in the past several years because
+                    of the declassification difficulties. In 1977, 7 volumes were published. Three
+                    will be published this year and 8 will hopefully be published in 1982. Five of
+                    the eight are already through the declassification process.</p>
+                <p>Prof. Rosecrance asked which five? Mr. Glennon responded: 1952-1954 Vol. XIII,
+                    Indochina; 1951 Vol. VII, Korea and China; 1952-1954 Vol XI, Africa and South
+                    Asia; 1951 Vol V, Near East and Africa; 1952-1954 Vol I, General.</p>
+                <p>Mr. Glennon then said that CDC is now responsible for handling the
+                    declassification apparatus, and is in contact with other parts of the
+                    Department, other agencies, and foreign governments. In the Spring of 1980 CDC
+                    decided to rereview all volumes for 1951-1954. That is where the action is now
+                    in declassification. HO and CDC haven’t gotten to the 1955- 1957 volumes yet. At
+                    the beginning of this year the last volume for 1950 was released: Volume IV.</p>
+                <p>Mr. Glennon observed that he had seen reference in print to the question of
+                    whether <hi rend="italic">Foreign Relations</hi> will become a White Paper. He
+                    said that HO is determined that will not happen. The Historical Office can
+                    appeal decisions of the CDC in the first go-around. If we’re not satisfied, HO
+                    can sit on the volumes to insure their integrity. In the past HO has had to
+                    delete whole topics from the series. It has always been the case that HO isn’t
+                    allowed to publish certain topics, for example the El Chamizal boundary dispute
+                    with Mexico. We have had to take out compilations on Iceland, Greenland, and
+                    Albania in recent years. On numerous occasions documents on the Peru-Ecuador
+                    boundary dispute have not gone to press. For the 1949 volume VIII on China, the
+                    declassification process took six years. HO withheld the volume waiting for the
+                    deaths of Chou En-lai and Chairman Mao -- (without HO intervention). We are
+                    convinced the decision was correct and worth waiting for because the material in
+                    the volume was so important.</p>
+                <p>HO has compiled sixteen volumes for the period 1952-1954. Out of the sixteen,
+                    only two have been released. This gives an indication of the time lag involved.
+                    Mr. Glennon had personally predicted that we would have the least problems with
+                    volumes III and XVI. These are the two which have been published. Six are
+                    included in the list to be published in 1982; eight probably won’t be published
+                    until 1983 or 1984.</p>
+                <p>For the period 1955-1957 there are twelve volumes, but none have been
+                    declassified because we were focusing attention on 1952-1954. For 1958-1960
+                    sixteen volumes are projected. Of these, four, or possibly five have been
+                    compiled. Six are well under way and the remainder are in initial stages. For
+                    1961-1963 we project sixteen more volumes. We have just begun to collect the
+                    material. Recently four of the historians flew up to the Kennedy Library to make
+                    the first systematic effort to collect documents there.</p>
+                <p>We have slowed down the <hi rend="italic">Foreign Relations</hi> assembly lines
+                    that existed from 1976 to 1981. During that period everyone in HO had been
+                    working on the volumes, but that won’t happen again. The 1958-1960 and 1961-1963
+                    cycles will be slower.</p>
+                <p><hi rend="underline">Personnel</hi> We are currently in the process of filling
+                    five professional vacancies. It is a long process going through the Civil
+                    Service procedures. In the past year HO has had one retirement (Dr. Kogan) and
+                    five resignations or transfers.</p>
+                <p><hi rend="underline">Technology</hi> We have done three volumes on in-house word
+                    processing equipment and will be doing more in the future. Several volumes of
+                    1955-1957 are targeted for microfiche supplements on a trial basis. One will be
+                    volume VII on the Suez Crisis. The other will be the China volume because there
+                    are important U.S.-PRC conversations which we can put verbatim in the
+                    supplements.</p>
+                <p>A paper on the “Status of Declassification” of <hi rend="italic">Foreign
+                        Relations</hi> 1951-1954 is included in the packet of materials provided to
+                    the Committee.</p>
+                <p>Prof. Smith asked for more information on the proposed microfiche supplements.
+                    Mr. Glennon said that a microfiche supplement would allow additional material to
+                    be included for Vol. VII on the Middle East. There would not be room in the
+                    volume itself. Prof. Smith asked whether the microfiche supplement would be
+                    distributed separately. Mr. Slany responded yes. We had thought about putting it
+                    in pockets in the volumes, but the librarians didn’t like that idea. We probably
+                    would have to package it separately in small units. One wouldn’t have to buy the
+                    entire supplement. Mr. Slany added that microfiche is attractive because it can
+                    capture whole series of documents such as briefing books that can’t be included
+                    in the printed series. Prof. May asked whether original documents would be
+                    filmed. Mr. Slany said yes. Prof. Smith said that this whole thing should be
+                    encouraged. Mr. Slany noted that we have to take care to select the best copy of
+                    a document for filming.</p>
+                <p>Prof. Taylor stated that in 1978, the Advisory Committee report expressed concern
+                    that material in lot files was being destroyed. He asked whether microform will
+                    help this problem. Mr. Slany replied yes; moreover he hoped that what HO thinks
+                    is critically important can be preserved by including it in the supplements. Mr.
+                    Glennon added that the Secretariat puts together wonderful files. It would be
+                    good to photograph them in toto. Others are weeded out. We have given the
+                    Committee lists of numbers of lot files which HO has used in the preparation of
+                    the series. We have used them and feel they should be retained.</p>
+                <p>COFFEE BREAK</p>
+                <p rend="underline">Report of the CDC</p>
+                <p>After a short break, Mr. Slany introduced Ambassador John Burke, the new director
+                    of the CDC. Ambassador Burke, a Foreign Service officer for 26 years, obtained
+                    B.A. and M.A. degrees in history at the University of Wisconsin where he studied
+                    under Prof. Fred Harvey Harrington. Ambassador Burke feels he brought an
+                    historian’s skepticism to his Foreign Service career. He hopes that in his
+                    position he can serve the academic community as well as the Department of State
+                    and the national interest. He noted that the CDC was initially established to
+                    bring order out of the chaos of filling F.O.I. requests, a task that was not
+                    considered a priority activity by the desk officers who reviewed the requests.
+                    Ambassador Burke realizes, however, that the Advisory Committee’s interest is in
+                    systematic review, not mandatory review. He commended Mr. Pickering to the
+                    Committee as a man who has brought the experience of a teacher and a Foreign
+                    Service Officer to that task. Mr. Pickering and his staff have prepared
+                    guidelines for the National Archives to use in declassifying the 1950-1954
+                    diplomatic record block. The current budgetary constraints on NARS have
+                    prevented the accessioning of the records so far.</p>
+                <p>The CDC uses retired diplomats, as does the British Foreign Office
+                    declassification process, to review documents. They bring sensitivity and access
+                    to political and functional desks because of their past experience, and they
+                    consult with the desks.</p>
+                <p>The problems in the future are budgetary, especially with respect to NARS’s
+                    inability to accession the 1950-1954 record block. Ambassador Burke has met with
+                    the Archivist Warner, and would like to work cooperatively with NARS. He has
+                    outlined the problem to the Under Secretary for Management, and he solicited the
+                    Committee’s suggestions and assistance in supporting the National Archives so
+                    that it could have the resources necessary to continue to accept State
+                    Department records.</p>
+                <p>Ambassador Burke observed that the CDC’s Systematic Review staff accords top
+                    priority to completing the review of the 1952-1954 volumes and 1951 volumes.</p>
+                <p>The publication prospect for 1981 looks better. 1982 looks even more promising.
+                    Amb. Burke was impressed with HO’s development planning for a microform
+                    supplement to <hi rend="italic">FRUS</hi>. He proposes to give CDC support to HO
+                    for this microform project.</p>
+                <p>Amb. Burke reported briefly on a summer 1981 meeting in Washington with the
+                    British Foreign Office officials in an effort to discuss mutual declassification
+                    problems. HO and NARS participated in the meetings. The British Foreign Office
+                    uses retired diplomats as reviewing officers. The policy of the British is to
+                    make foreign affairs information 30 years old or older available to the public.
+                    2-3% of the records are considered too sensitive and withheld from release. He
+                    wants to organize a meeting with the Canadians and is in the process or doing
+                    that now as a means of getting faster clearances on information which involves
+                    both parties. He added that there is a partnership here between the CDC and HO
+                    and the academic committee and the public it represents.</p>
+                <p>Prof. Rosecrance said that there is a slight difference between the U.S. and the
+                    British over what each considers sensitive. The U.S. apparently has an
+                    additional policy of avoiding needless embarrassment to individuals. The British
+                    don’t seem to care about that. Prof. Rosecrance would not want reasons of
+                    personal delicacy to hold back publication of <hi rend="italic">FRUS</hi>
+                    volumes. Amb. Burke replied that gratuitous comments might be excised if the
+                    person still held positions of responsibility in public life. Dr. Thompson of
+                    NARS interjected that he thought the British were more sensitive than the
+                    Americans in regard to protecting individuals. They are much more conservative
+                    than the U.S. Edward Keefer noted the British are releasing documentation which
+                    is critical of second-level military and diplomats. Prof. Smith seemed to feel
+                    that the British diplomats have more frequently commented on other diplomats
+                    than the U.S. Foreign Service did in diplomatic reports. American diplomats tend
+                    more frequently to comment on each other in a derogatory way. Amb. Burke said
+                    that from his personal experience in 26 years of reading telegrams, etc., he
+                    couldn’t think of many instances where comments on American individuals were
+                    made. It is not considered part of the job. He had reported on diplomats of
+                    other countries and the quality of the representation of other countries.</p>
+                <p>Mr. Slany stated that the original charter of the <hi rend="italic">FRUS</hi>
+                    series of 1925 required that information causing needless offense to individuals
+                    not be included. <hi rend="italic">FRUS</hi> editors have traditionally, until
+                    recently, deleted that information. In the last years the tendency has been for
+                    HO compilers to leave to the Bureaus the task of such deletions. The
+                    responsibility has been dumped into the hands of someone else. CDC has done what
+                    the <hi rend="italic">FRUS</hi> editors did before.</p>
+                <p>Prof. May asked about the budget cuts that Ambassador Burke had mentioned. The
+                    Ambassador responded that the cuts are primarily affecting NARS at this point.
+                    Mr. Thompson added that NARS does not yet know how deep the cuts will be, but
+                    that they will certainly affect the declassification effort. He said that NARS
+                    anticipates budget cuts of 12%, which will in effect end systematic review
+                    there. For the time being, NARS is asking agencies to keep their own records,
+                    because NARS does not have the resources to accession sensitive records at
+                    all.</p>
+                <p>Prof. Rosecrance asked what percent of sensitive documents are declassified by
+                    publication in the <hi rend="italic">FRUS</hi> series. Mr. Thompson replied that
+                    only about 10% are declassified in that fashion.</p>
+                <p>Prof. Smith asked whether documents withheld now will be automatically reviewed
+                    again according to a schedule. Mr. Burke replied that there is no schedule
+                    except for FOI cases. However, when NARS finally accessions the State Department
+                    records, a schedule for automatic re-review is adhered to.</p>
+                <p>Ambassador Burke brought to the attention of the Committee actions in Congress
+                    that might well affect the declassification process. Amendments are to be
+                    introduced to the FOIA; hearings are to be held later this session. Executive
+                    Order 12065 is likely to be revised. Drafting is in progress.</p>
+                <p>Prof. Rosecrance asked if any U.S. effort is being made to release very sensitive
+                    material from World War II. He pointed to the British government publication
+                    dealing with wartime cryptography. Mr. Thompson responded that the U.S. has
+                    never released the details of its code breaking story. He added that a concerted
+                    effort by historians both inside and outside the government would be required to
+                    pressure the U.S. government into supporting that kind of retrospective project
+                    embarked on in Britain.</p>
+                <p>Prof. Taylor asked whether the CDC anticipated any cuts in its own staff. Amb.
+                    Burke said that future personnel levels were still not certain. Prof. Taylor
+                    then asked whether the hiring of retired historians as well as retired Foreign
+                    Service Officers was contemplated, as recommended in previous Committee reports.
+                    The Ambassador replied that the matter was under consideration, but personal
+                    security clearance problems associated with hiring historians were
+                    difficult.</p>
+                <p>Prof. May asked if the creation of a historical office and the appointment of an
+                    historian at the CIA had improved relations with CIA as far as clearances were
+                    concerned. Both Amb. Burke and Mr. Slany remarked that so far there had been no
+                    effect.</p>
+                <p>Returning to the issue of hiring historians for the CDC, Mr. Slany added that it
+                    is important to remember that substantive bureaus in the Department need to be
+                    comfortable with the persons from the CDC who are declassifying their documents.
+                    Moreover, the CDC has functioned as a buffer in the sometimes uncomfortable
+                    relations of the past between HO and the geographic bureaus. Amb. Burke added
+                    that the CDC has taken advantage of the bonds of confidence and respect that
+                    sometimes exist between bureaus and the retired FSOs who are now working for the
+                    CDC and who had at one time been senior officers in those same bureaus. Prof.
+                    Rubin commented that this former relationship may sometime work to the detriment
+                    of release of information. The reviewers may have a vested interest in
+                    protecting policies they devised. Amb. Burke explained that the CDC tried to
+                    assign reviewers who specifically were not involved in the creation of the
+                    documents they are subsequently asked to declassify.</p>
+                <p>Mr. Slany observed that HO assists CDC in the declassification process by
+                    identifying pertinent information in the public domain. In response to Prof.
+                    Taylor’s query as to when HO provides this information, Mr. Slany responded that
+                    heretofore the information was provided to the CDC only after the CDC has
+                    actually proposed informally to deny declassification of a document or portion
+                    of a document.</p>
+                <p>Prof. Taylor asked what the usual tenure of a CDC reviewer has been. Amb. Burke
+                    responded that some reviewers have been with CDC since its establishment three
+                    years ago. He added that the productivity and ability of each reviewer is
+                    closely monitored; some reviewers have been let go for non-performance. The CDC
+                    is not a “club” for former officers. It is usual for a new reviewer to start
+                    with mandatory review and then move into the systematic review program if he is
+                    satisfactorily productive. Amb. Burke added that HO research on previous public
+                    disclosure of sensitive information is very helpful to the CDC and might well be
+                    given to the CDC at an earlier stage in the declassification process.</p>
+                <p>Prof. Smith asked if information in U.S. documents about foreign governments is
+                    reviewed by foreign governments in the same way that a foreign government’s own
+                    documents are reviewed by them. Ambassador Burke answered that there is no
+                    obligation to do so.</p>
+                <p>Both Prof. Smith and Prof. Rosecrance asked why some foreign government
+                    clearances take so long. Was it that the information is so sensitive, or is it
+                    that the issue gets low priority in foreign ministries. Specifically, he
+                    inquired about the holdup of certain documents in <hi rend="italic">FRUS</hi>,
+                    1952-1954, Volume V? Mr. Glennon explained that the problem seems to be one of
+                    jurisdiction within the German Foreign Ministry. Mr. Pickering added that the
+                    U.S. desk in the German Foreign Ministry has been asked to help resolve the
+                    problem.</p>
+                <p>Prof. Taylor expressed concern that in the 1960s, the U.S. began to have
+                    relations with many smaller countries that will probably not have the resources
+                    to respond to requests for permissions to print their documents. Mr. Glennon
+                    responded that no procedure had been developed as yet for such an eventuality,
+                    but that suggestions from the Committee were welcome. Mr. Slany added that
+                    frequently the smaller foreign governments do not have adequate archives of
+                    their own and thus do not have or cannot find their copy of the documents that
+                    we want to publish. Examples of the problem have already begun to occur with
+                    certain Middle Eastern countries.</p>
+                <p>Mr. Gustafson asked whether the U.S. is required by law or international practice
+                    to get permission to publish foreign government documents in the possession of
+                    the State Department. Mr. Slany responded that since the 1920s the State
+                    Department has in practice treated it as a legal obligation. Prof. Rosecrance
+                    asked whether permission to print documents is requested from all governments or
+                    only on a reciprocal basis. Amb. Burke replied that we ask permission only of
+                    those governments with which the U.S. has “good” relations. Mr. Glennon added
+                    that certain countries such as the Eastern bloc with strongly divergent
+                    ideologies are not asked for clearance.</p>
+                <p>The meeting adjourned at noon for luncheon.</p>
+                <p rend="center"><hi rend="underline">Afternoon Session</hi></p>
+                <p>The meeting resumed at 2:15 p.m.</p>
+                <p>Mr. Slany called on Neal Petersen to report on our renewed and rejuvenated
+                    policy-related historical research program.</p>
+                <p rend="underline">Report of the Adviser on Research</p>
+                <p>Mr. Petersen reported that the Office of the Historian performs historical
+                    research for the Department of State and for publication. Since World War II,
+                    the office has prepared almost 1,300 studies and memoranda, most upon direct
+                    request of Department officials. This research has ranged from brief papers on
+                    specific historical questions to multi-volume studies on broad policy issues.
+                    The research and analysis has focused on historical treatment of U.S. policy as
+                    opposed to more present-oriented analyses of conditions in foreign countries
+                    performed by the Bureau of Intelligence and Research. The work constitutes the
+                    institutional memory of the Department of State.</p>
+                <p>The historical research for the Department of State has been varied. The Office
+                    has produced studies on bilateral relations with other countries such as Gabon
+                    and China, studies on major foreign policy issues such as the Middle East
+                    controversy, administrative histories of offices and bureaus; narratives dealing
+                    with crisis management in such cases as the <hi rend="underline">Pueblo</hi>
+                    incident, and regularly updated reference works such as U.S. defense commitments
+                    and foreign travel of U.S. presidents.</p>
+                <p>Mr. Petersen reported HO studies played a role in the Department’s policy-making
+                    process. For example, in 1979, HO prepared a study on congressional constraints
+                    on the conduct of U.S. foreign affairs for the Under Secretary of State for
+                    Political Affairs. At the time of the invasion of Afghanistan, the White House
+                    consulted an HO study on the U.S. response to the invasion of Czechoslovakia in
+                    1968 and developed courses of action based on that earlier experience.</p>
+                <p>Mr. Petersen also stated that HO also produces books, articles, and briefs for
+                    publication. Salient examples are the major joint documentary <hi rend="italic"
+                        >The United States and Russia: The Beginning of Relations, 1765-1815</hi>,
+                    published in 1980, articles on terrorism and other subjects published in the
+                    Department of State <hi rend="italic">Bulletin</hi>, and a <hi rend="italic"
+                        >Short History of the Department of State</hi> which appeared both as a <hi
+                        rend="italic">Bulletin</hi> supplement and a separate publication. In
+                    addition, the Office staff field hundreds of requests and questions of a
+                    historical nature each year from the Department, other agencies, and the
+                    public.</p>
+                <p>Mr. Petersen went on to recount some of the more significant projects completed
+                    in the last five years: U.S. Policy Toward the People’s Republic of China,
+                    1950-1951, Human Rights Since 1945, U.S. Foreign Economic Policy, Women in the
+                    American Foreign Service, Quadripartite Berlin Negotiations of 1954-1961, and
+                    the South African Nuclear Problem.</p>
+                <p>Mr. Petersen listed many of the nearly thirty research projects and memoranda
+                    that have been completed in the past year. These included articles on early
+                    bilateral relations with the Netherlands, Bulgaria, and Yugoslavia; a
+                    publication on the diplomatic implications of the Battle of Yorktown in
+                    connection with the bicentennial celebration; a brief history of the Department
+                    of State; an article on the construction of the Berlin Wall for use in marking
+                    the 20th anniversary of that event; a study of bilateral relations with Gabon
+                    for use by the U.S. Ambassador-designate; a study of the response of NATO to the
+                    Hungarian Revolution of 1956 and the Czechoslovak crisis of 1968; an examination
+                    of U.S. base rights in the Azores; studies of U.S. organization for crisis
+                    management since World War II, and the economic summits of the past decade.
+                    Recently, the Office compiled and indexed an extensive documentary compilation
+                    on negotiations leading to the release of U.S. hostages by Iran.</p>
+                <p>He reported that the Office is now in the process of expanding and upgrading its
+                    research function. He said we hope to launch a number of classified
+                    policy-related projects and to establish a systematic oral history program. He
+                    declared that the upgraded program would conform to the following
+                    principles:</p>
+                <list rend="bulleted">
+                    <item>It would be responsive to the needs of the Department and at least some
+                        aspects of it should be more directly policy-related. More concise, timely
+                        papers should be written for direct input in the policy process.</item>
+                    <item>Certain work must attempt to anticipate critical situations, although HO
+                        must always engage in detailed consultations with consumers before
+                        consigning resources to a project.</item>
+                    <item>The program would take into account the mission of the Bureau of Public
+                        Affairs. This entails relating work to PA priority issues and producing more
+                        publications on the historical background of current issues.</item>
+                    <item>Part of the program should involve more timely transfer of studies to the
+                        Archives following declassification.</item>
+                    <item>The Office would avoid being constrained by old modes of operation and
+                        formats, adopt a flexible approach, and continue to engage in a variety of
+                        research activities.</item>
+                </list>
+                <p>Mr. Petersen stated that HO believes that our intensified research program would
+                    benefit the scholarly community and the public at large as well as the
+                    Department of State, and he asked for the Advisory Committee’s support.</p>
+                <p>Prof. Gaddis Smith asked if HO had a special staff to deal with these research
+                    requests. Mr. Petersen replied that we did not. He explained that the Office was
+                    divided into geographical divisions, and that the request was usually assigned
+                    to the Division most qualified to handle it.</p>
+                <p>Mr. Slany added that the Office’s new research program would also aid in
+                    declassification of <hi rend="italic">Foreign Relations</hi> volumes. He stated
+                    that in the past few years HO had lost contact with the Bureaus in the
+                    Department. By embarking on an expanded and more relevant historical research
+                    program HO would reestablish contact and gain credibility for itself and the use
+                    of history in the Department of State. In doing so, it would help break down the
+                    adversary relationship between HO and the Bureaus which recent declassification
+                    differences had served to create.</p>
+                <p>In response to a question from Prof. Smith, Mr. Slany explained that there was
+                    not a direct cause and effect relationship between the creation of the CDC and
+                    the development of this adversary relationship. On the contrary, he suggested
+                    that the problem predated the creation of the CDC. The <hi rend="italic">Foreign
+                        Relations</hi> series, he pointed out, was attempting to document some of
+                    the more sensitive episodes in the history of American foreign policy. To the
+                    extent that HO does its job well -- and he stressed that HO believed it was
+                    doing it quite well -- problems are inevitably encountered during the
+                    declassification process.</p>
+                <p>Prof. May asked how HO found out what Bureaus needed to know? Mr. Petersen said
+                    we found out through personal contacts, through attendance at staff meetings,
+                    and through the PA leadership. Mr. Slany added we needed to gain greater access
+                    to staff officers. Currently, HO was definitely outside of what is going on in
+                    the Department.</p>
+                <p rend="underline">Ambassador U. Alexis Johnson</p>
+                <p>Former Ambassador and Under Secretary of State U. Alexis Johnson, who had joined
+                    the meeting, offered a critique of <hi rend="italic">Foreign Relations</hi>,
+                    vol. XVI, 1952-54, The Geneva Conference. His presentation, Mr. Slany explained,
+                    would be an attempt to assess how well the series was doing what it wanted to
+                    do: to document the development and implementation of U.S. foreign policy. Amb.
+                    Johnson first offered some general comments on the volume. He indicated that the
+                    selection of material was good, noting that he could not think of anything
+                    significant which was omitted. He did note that the volume did not include much
+                    documentation on intelligence matters, and stressed that a key factor is what
+                    intelligence the President and Secretary of State are being given to read each
+                    morning. Within the constraints of available material the volume was
+                    comprehensive. He did note, however, that because the United States was not the
+                    principal actor at the Geneva Conference on Indochina, the U.S. documentation on
+                    the conference was necessarily incomplete. On the question of selectivity, he
+                    said that he did not see how HO could do a better job than it has been doing.
+                    Amb. Johnson recalled his own role at the Conference, his talks with Chinese
+                    representative Wang Ping-nan, his relationship with Secretary John Foster
+                    Dulles, his habit of always having his phone conversations monitored, and
+                    various thoughts about the manner in which things get done effectively in
+                    Washington. In response to a question from Mr. Slany about the organization of
+                    documents into a separate volume on the Geneva Conference, Amb. Johnson said
+                    that he did not see any alternative ways of presenting with the material. He did
+                    suggest that it would be very valuable for historians to know who had drafted
+                    the documents, who had signed and cleared them, and particularly who had read
+                    them. He felt that long documents tend not to be read by busy officials. He
+                    always favored short documents himself.</p>
+                <p>Mr. Slany asked how HO could get access to more accurate records of meetings or
+                    conferences. Ambassador Johnson suggested we could get the Secretariat to make a
+                    record after the event or crisis, but that it was not reasonable for HO to
+                    expect to be in on the crisis management meetings of an event and expect policy
+                    makers to make decisions with HO members present. Mr. Slany asked if we should
+                    supplement the written documents with oral testimony from the participants. The
+                    Ambassador said yes. He added that chronologies of events would also be useful
+                    in the volumes.</p>
+                <p>Report on <hi rend="italic">Current Documents</hi> series</p>
+                <p>Mr. Claussen gave a presentation on the recently resumed publication: <hi
+                        rend="italic">American Foreign Policy: Basic Documents</hi>. This resumed
+                    publication was a project repeatedly recommended by previous Advisory
+                    Committees. In recent weeks the greater part of the HO staff had been committed
+                    to the preparation of a volume covering the years 1977-1980. Mr. Claussen noted
+                    that the necessary time away from the <hi rend="italic">Foreign Relations</hi>
+                    series was a trade-off which would result in a publication of use to academics
+                    and policy makers. He said the <hi rend="italic">American Foreign Policy:
+                        Current Documents</hi> project was also a production experiment which would,
+                    if successful, have application to the more efficient preparation of the <hi
+                        rend="italic">Foreign Relations</hi> series. There was a good chance, he
+                    pointed out, that the 1977-1980 volume would be out in early 1982. Mr. Claussen
+                    stressed the important non-State Department sources that were being used in the
+                    series, explaining that approximately 75 to 90 per cent of the material used in
+                    these volumes (excluding the 1977-80 volume) would not have appeared previously
+                    in the Department of State <hi rend="italic">Bulletin</hi>. He also discussed
+                    the prospects for a microfiche supplement to cover important documents that
+                    could not fit into the printed volume. Mr. Claussen emphasized that HO wanted
+                    the Committee’s views on the <hi rend="italic">Current Documents</hi> volumes,
+                    noting that the renewal of the series was an experiment. HO’s thrust, he added,
+                    was toward the greatest number of users; he noted that people all over the world
+                    would use the volume, especially in the Third World.</p>
+                <p rend="underline">Final Remarks</p>
+                <p>Mr. Taylor asked whether HO’s expanded activities -- <hi rend="italic">Current
+                        Documents</hi>, the intensified research program, etc. -- were coming at the
+                    expense of the <hi rend="italic">Foreign Relations</hi> series.</p>
+                <p>Mr. Slany responded that initially they were. But he noted that these expanded
+                    activities would not affect the publication of <hi rend="italic">Foreign
+                        Relations</hi> volumes between now and 1985 because all the volumes
+                    scheduled for publication during that period are already completed. He explained
+                    that HO’s expanded activities in other areas would only affect the series if HO
+                    did not resume compiling at even a moderate rate by sometime in 1981. Mr. Slany
+                    was sure that this would not happen. Mr. Slany said his goal was to help HO
+                    survive within the State Department. He also noted that while his colleagues in
+                    HO were not currently working on <hi rend="italic">Foreign Relations</hi> on any
+                    significant scale, and would probably not be doing so for the next few months,
+                    they would resume compiling sometime in 1982.</p>
+                <p>Prof. Taylor stated that he gathered that HO was not unhappy with the CDC. He
+                    asked if HO’s position was that it could work with the CDC, and that CDC was
+                    better than what existed before.</p>
+                <p>Mr. Slany agreed with Mr. Taylor’s observations.</p>
+                <p>Mr. Slany then asked the Chairman whether he would like to hold a private meeting
+                    of the Committee. He offered to stand by to answer any questions.</p>
+                <p rend="underline">Users Survey</p>
+                <p>Mr. Glennon asked the Committee members to respond to the draft <hi rend="italic"
+                        >Foreign Relations</hi> Users Survey in their briefing material after they
+                    returned home. He pointed out that some of the questions in the survey, such as
+                    those concerning the 20-year line, would have to be reformulated.</p>
+                <p>Prof. Smith asked what was the anticipated circulation of the Survey.</p>
+                <p>Mr. Glennon replied that it would be sent to 2,000 members of the professional
+                    societies. The Advisory Committee was the first presample group to see it.</p>
+                <p rend="underline">Adjournment</p>
+                <p>The meeting adjourned at 4:05 p.m. so that the Committee could meet
+                    privately.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

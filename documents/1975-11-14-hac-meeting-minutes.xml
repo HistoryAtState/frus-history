@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Minutes of Historical Advisory Committee Meeting, November
+                    1975</title>
+                <title type="short">HAC Meeting Minutes, 1975</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-05-19">May 19, 2014</date>
+                <date type="created" when="1975-11-14">November 14, 1975</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1975-11-14-hac-meeting-minutes.pdf">PDF</ref>, 221 KB, 10pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 2, 1975—Minutes. Posted from a copy signed by
+                    HAC Chair H. Bradford Westerfield. Attachments are not posted.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 8, <ref
+                    target="../chapter-8#fn77">Footnotes 77</ref> and <ref
+                    target="../chapter-8#fn80">80</ref></p>
+            <div type="document">
+                <head>Minutes of the 1975 Meeting of the Advisory Committee on <hi rend="italic"
+                        >Foreign Relations of the United States</hi></head>
+                <dateline>November 14, 1975</dateline>
+                <p rend="underline">American Historical Association</p>
+                <list>
+                    <item>Dr. Robert A. Divine, Professor of History, University of Texas</item>
+                    <item>Dr. Robert Ferrell, Professor of History, Indiana University</item>
+                    <item>Dr. Paul A. Varg, Professor of History, Michigan State University</item>
+                </list>
+                <p rend="center">[Drs. Ferrell and Varg, former members of the Committee, served as
+                    substitutes for Dr. Lloyd C. Gardner, Professor of History, Rutgers University,
+                    and Dr. Armin H. Rappaport, Professor of History, University of California, San
+                    Diego, who were out of the country.]</p>
+                <p rend="underline">American Political Science Association</p>
+                <list>
+                    <item>Dr. Richard C. Snyder, Director, Mershon Center, Ohio State
+                        University</item>
+                    <item>Dr. H. Bradford Westerfield, Professor of Political Science, Yale
+                        University</item>
+                </list>
+                <p rend="center">[Dr. Snyder extended his term as a member of the Committee to serve
+                    as a substitute for Dr. Bernard C. Cohen, Professor of Political Science,
+                    University of Wisconsin, who was out of the country.]</p>
+                <p rend="underline">American Society of International Law</p>
+                <list>
+                    <item>Dr. Philip C. Jessup, Judge, International Court of Justice,
+                        retired</item>
+                    <item>Dr. Covey T. Oliver, Professor of Law, University of Pennsylvania</item>
+                </list>
+                <p rend="underline">Other Persons Present</p>
+                <p>The Bureau of Public Affairs:</p>
+                <list>
+                    <item>John E. Reinhardt, Assistant Secretary of State for Public Affairs</item>
+                    <item>William D. Blair, Jr., Deputy Assistant Secretary of State for Public
+                        Affairs</item>
+                    <item>William J. Dyess, Director of the Office of Plans and Management
+                        (PA/M)</item>
+                </list>
+                <p>The Office of the Historian:</p>
+                <list>
+                    <item>Fredrick Aandahl, Acting Director (Executive Secretary of the Advisory
+                        Committee)</item>
+                    <item>Edwin S. Costrell</item>
+                    <item>William Slany</item>
+                    <item>Arthur G. Kogan</item>
+                    <item>Richardson Dougall</item>
+                    <item>Ralph R. Goodwin</item>
+                    <item>Neal H. Petersen</item>
+                    <item>David M. Baehler</item>
+                    <item>John A. Bernbaum</item>
+                    <item>M. Paul Claussen</item>
+                    <item>Evans Gerakas</item>
+                    <item>N. Stephen Kane</item>
+                    <item>Edward C. Keefer</item>
+                    <item>Ronald D. Landa</item>
+                    <item>Joan M. Lee</item>
+                    <item>David W. Mabon</item>
+                    <item>Nina J. Noring</item>
+                    <item>Carl N. Raether</item>
+                    <item>Charles S. Sampson</item>
+                    <item>William F. Sanford</item>
+                    <item>Harriet Schwar</item>
+                    <item>Louis J. Smith</item>
+                    <item>David H. Stauffer</item>
+                    <item>Harry F. Young</item>
+                </list>
+                <p>Professor David F. Trask of the State University of New York at Stony Brook,
+                    Director-designate of the Historical Office, was also present during a major
+                    part of the meeting.</p>
+                <p>[As announced in press release No. 515 (Attachment 1), this meeting was closed to
+                    the public.]</p>
+                <p>Opening Session - 9:17 a.m. - 12:17 p.m.</p>
+                <p rend="center">AGENDA ITEMS 1 and 2: OPENING REMARKS AND SELECTION OF COMMITTEE
+                    CHAIRMAN</p>
+                <p>Mr. Aandahl called the meeting to order and extended welcome to the Committee.
+                    Mr. Divine nominated Mr. Westerfield for Chairman of the Committee. Mr.
+                    Westerfield was elected by acclamation.</p>
+                <p>Mr. Aandahl introduced Assistant Secretary Reinhardt, who had entered the meeting
+                    with the members of the Committee. Ambassador Reinhardt noted that soon after he
+                    had arrived in the Bureau last spring, one of his first meetings was with some
+                    members of the Advisory Committee concerning the appointment of a director for
+                    the Historical Office (HO), and that the discussions set in motion by this
+                    meeting had led to the appointment of Mr. Trask. He further stated that he
+                    regarded HO’s mission as an integral part of the Bureau’s “outreach” program and
+                    he expressed his conviction that the new director would contribute significantly
+                    to the program. He assured HO of his continued cooperation, and noted that he
+                    viewed the Advisory Committee as an ally in solving problems which lay ahead.
+                    After making his remarks the Assistant Secretary remained at the meeting until
+                    10:22 a.m.</p>
+                <p rend="center">AGENDA ITEM 3: CURRENT STATUS OF THE HISTORICAL OFFICE</p>
+                <p>Mr. Aandahl briefly described the organizational structure of the Historical
+                    Office. He stated that an African specialist would soon join the staff, and at
+                    that point the Office would be at full complement. He noted that the Historical
+                    Office worked closely with the Bureau of Public Affairs, citing the fact that HO
+                    historians were regularly serving in the Freedom of Information Office. He
+                    commented that the Committee might want to suggest ways for updating the
+                    Presidential directive of three years ago which called upon the Secretary of
+                    State and other high officials to cooperate in accelerating production of the
+                        <hi rend="italic">Foreign Relations</hi> series in order to reach a 20-year
+                    line.</p>
+                <p rend="center">AGENDA ITEM 4: STATUS OF THE <hi rend="italic">FOREIGN
+                        RELATIONS</hi> SERIES AND PUBLICATION PLANS AND SCHEDULES FOR VOLUMES FOR
+                    THE YEARS 1948-1957</p>
+                <p>Mr. Slany made a brief progress report on the publication of volumes for the
+                    years 1948 and 1949, referring to a written report on the status of volumes as
+                    of November 1975 (previously circulated to the Committee and included here as
+                    Attachment 2). He noted that the publication of five volumes during June, July,
+                    and August 1975 had been marked by a series of regrettable mishaps in the
+                    Government Printing Office resulting in late distribution or non-distribution of
+                    volumes to would-be purchasers. Mr. Slany took the occasion to express his
+                    general discontent with the GPO as the printer-publisher of the <hi
+                        rend="italic">Foreign Relations</hi> series and expressed the wish that
+                    means could be found to go to a commercial or university press. Mr. Aandahl
+                    observed that such action probably was not feasible in the case of <hi
+                        rend="italic">Foreign Relations</hi> because the materials and manuscript
+                    remained classified through most of the production process.</p>
+                <p>Mr. Slany outlined the compilation program for the coming year and for the period
+                    through 1981, which was presented in a paper he circulated to the Committee
+                    (Attachment 3). He explained that the immediate target was the publication
+                    during the current fiscal year of the remaining 13 volumes for 1948, 1949, and
+                    1950. Highest priority was attached to the publication this winter of the two
+                    remaining half-volumes for 1948. Part 2 of 1948, volume I, contained those most
+                    important NSC papers that were precursors of NSC 68. The declassification of
+                    these 1948 papers had been secured from the Assistant to the President for
+                    National Security Affairs through the resolute support of Assistant Secretary
+                    Reinhardt, Deputy Assistant Secretary Blair, and other officials. Part 2 of
+                    1948, volume V had been postponed because HO recognized the vital importance of
+                    preparing as complete a record as possible on the Arab-Zionist dispute of 1948
+                    and the establishment of the state of Israel. The former director, William M.
+                    Franklin, had devoted nearly all of his time to this project, right up to his
+                    retirement in April 1975.</p>
+                <p>Mr. Divine asked if HO could publish supplementary volumes in the future as
+                    material that could not now be declassified became available. Mr. Slany
+                    indicated that this might be possible. Were the Presidential papers so long
+                    withheld during the probate of Mr. Truman’s will and now being processed at the
+                    Truman Library to prove important and numerous, a supplementary volume might
+                    well be published gathering papers for the period of the entire Truman
+                    presidency. In response to a question by Mr. Oliver about the feasibility of
+                    printing supplementary papers after a <hi rend="italic">Foreign Relations</hi>
+                    volume has been released, Mr. Aandahl explained that such documentation could be
+                    included in a later volume in the series or might be published separately in the
+                    Department of State <hi rend="italic">Bulletin</hi> or elsewhere.</p>
+                <p>Mr. Slany circulated to the Committee a compilation schedule for the sixteen
+                    1952-1954 volumes currently being worked on by the staff (Attachment 4). He
+                    explained that this “production schedule” had been resorted to in order to
+                    intensify the effort toward reaching the 20-year line. He admitted that some
+                    slippage had already been recognized, and some areas had been revealed where
+                    more compilers might be necessary to stay on schedule. Mr. Slany observed that
+                    the Committee report for 1974 had expressed some skepticism about the efficacy
+                    of the three-year plan for compiling and publication, but he expressed his
+                    belief that the triennial program would facilitate the achievement of the
+                    20-year line. He noted the enthusiasm of the present <hi rend="italic">Foreign
+                        Relations</hi> staff and expressed the conviction that the present program
+                    would be both swift and professionally sound. Mr. Slany noted that the staff
+                    would have to begin working on the volumes for 1955-1957 by June 1976 in order
+                    to hold to the current speed-up schedule.</p>
+                <p>Several members of the Committee raised questions about the triennial program of
+                    publication. They expressed concern that coverage of the years 1952-1954 would
+                    be too incomplete and too selective. Members of the staff responded almost
+                    unanimously that the triennial program offered distinct advantages of
+                    perspective and flexibility, in addition to enabling compilers to move at a
+                    faster rate. Mr. Oliver said that he was concerned about the danger of
+                    “pre-digestion”, whereby the compiler, in a sense, became the decision-maker.
+                    Mr. Aandahl replied that the staff makes an effort to counteract this by
+                    including copious references to documents that are not printed and more frequent
+                    use of editorial notes. Mr. Petersen stated that he also favored the triennial
+                    plan, but he expressed two reservations about it: (a) it is more difficult for a
+                    compiler to coordinate with other compilers when everyone is spread over a
+                    three-year span, and (b) if we had retained the annual format, we would have
+                    been finished compiling the 1952 volumes. Mr. Slany said that we will try to
+                    improve coordination between compilers for the 1955-1957 volumes.</p>
+                <p>Mr. Westerfield asked if the triennial format would be continued. Mr. Slany
+                    responded that it would be continued so long as it proved effective in reaching
+                    the 20-year line.</p>
+                <p>Mr. Aandahl asked Mr. Slany if we had adequate staff to move ahead with the
+                    triennial program. Mr. Slany commented that we needed two or three additional
+                    historians and two paraprofessionals. Mr. Westerfield asked Mr. Slany if a
+                    choice had to be made between the two, which would have the higher priority. Mr.
+                    Slany responded that it would be more desirable to have the paraprofessionals in
+                    order to allow the existing staff of historians to work more effectively.</p>
+                <p>Mr. Westerfield asked if there was a connection between the HO historians
+                    assigned to FOI and Mr. Slany’s request for two additional historians. Mr. Slany
+                    stated that the drain caused by HO service to FOI was merely one of several
+                    diversions of manpower in HO, and that in the short run it was not particularly
+                    serious. Mr. Aandahl pointed out that the FOI program was an important part of
+                    the Bureau’s efforts to achieve its overall objectives and that HO was willing
+                    to carry its share of the burden.</p>
+                <p>[Coffee was served at 10:22 a.m. Discussion resumed at 10:42 a.m.]</p>
+                <p>In resuming the discussion, Mr. Aandahl reminded the participants that the Deputy
+                    Under Secretary for Management had determined that the meetings would be closed
+                    to the public. This information was included in a press release on October 6 and
+                    in the <hi rend="italic">Federal Register</hi>, and subsequently the Department
+                    had received from the Center for Law and Social Policy a letter challenging the
+                    legality of this decision. The matter had been reexamined, and the Department
+                    stood by its earlier position.</p>
+                <p rend="center">AGENDA ITEM 5: PROBLEMS OF ACCESS TO RECORDS OF OTHER DEPARTMENTS
+                    AND AGENCIES</p>
+                <p>Mr. Slany stated that HO was attempting to gain wider access to the records of
+                    other agencies, such as AID, DOD, and the Presidential libraries. In regard to
+                    the latter, Mr. Petersen reported that two groups of HO historians had traveled
+                    to Abilene for research at the Eisenhower Library, and that another group is
+                    tentatively scheduled to make the trip in the spring. Both the Eisenhower and
+                    Truman Libraries were quite cooperative, and we had found many valuable papers,
+                    but we had encountered delays in getting access at the Truman Library to the
+                    materials recently accessioned from President Truman’s office (after a long
+                    period of probate and other complications). Judge Jessup and Mr. Snyder asked if
+                    this was due to inertia or if someone was “blocking the road”. Mr. Aandahl
+                    attributed the delay to the normal problems of organizing and accessioning
+                    documents into a new archive, especially when their priorities were not always
+                    the same as ours.</p>
+                <p>Mr. Divine asked whether we had consulted the Dulles papers at Princeton. Mr.
+                    Mabon replied that in the summer of 1973 he had looked at some of the Dulles
+                    papers relating to Japan in 1951 and had found few valuable items. He also
+                    reported that Secretary Dulles’ “personal and confidential” papers consisted
+                    largely of speech drafts, that the microfilm portion of the collection was from
+                    the Department’s central files, and that the international files had not proved
+                    particularly useful.</p>
+                <p>Mr. Slany raised the question of gaining access to documents in the files of
+                    other agencies. He noted the impatience among the staff members of HO to
+                    approach the CIA, particularly with respect to events in Guatemala, Iran, and
+                    Italy during the 1952-1954 period. He said that perhaps HO had been overcautious
+                    in this matter, but he was concerned about the manner in which the approach
+                    should be made. He also believed that efforts of this kind might divert the
+                    staff from reaching scheduled deadlines. He observed that in the larger sense
+                    all agencies should want to have the <hi rend="italic">Foreign Relations</hi>
+                    series serve as the full record of American foreign policy and the proper
+                    vehicle for the orderly declassification of major documentation.</p>
+                <p>Mr. Westerfield stated that he hoped HO would not give up on the CIA. Mr. Slany
+                    replied that we had no intention of giving up, but that the question of how best
+                    to approach the agency was overriding. Mr. Claussen pointed out that the CIA had
+                    cleared some intelligence estimates for publication. Mr. Westerfield agreed that
+                    this was better than nothing, but he stated that distortions would occur if the
+                    range of CIA materials in our volumes included only estimates and not operations
+                    papers. Mr. Aandahl and Mr. Claussen suggested that it would be helpful if the
+                    Committee reaffirmed the view that <hi rend="italic">Foreign Relations</hi> was
+                    the official record of American foreign policy, and not just an account of State
+                    Department involvement.</p>
+                <p>Mr. Ferrell expressed concern that, as he understood it, certain researchers
+                    working on contract with the Department of Defense were using classified
+                    Department of Defense records and perhaps the records of other agencies for an
+                    official study which was so designed that the authors could later publish books
+                    unofficially drawing on their privileged information. He thought that such
+                    activity was unfair and improper and that it again raised issues that had
+                    sharply aroused the scholarly world some years ago. He asked the Committee to
+                    issue a statement deploring such activity. Several members of the HO staff noted
+                    that this was a matter of direct concern to them. Mr. Westerfield commented that
+                    it was better to get the record out, regardless of the manner, than not to have
+                    it come out at all. Mr. Aandahl said that the normal rule was to release
+                    information on an equitable basis and that he thought Defense sought to follow
+                    this rule. Mr. Varg and Mr. Snyder expressed the view that the Committee should
+                    move cautiously and take a positive approach on this issue, such as suggesting
+                    that a general policy statement be drafted for government-wide use regarding the
+                    line between official and unofficial research. Mr. Aandahl undertook to get in
+                    touch with the Department of Defense on the immediate case brought up by Mr.
+                    Ferrell.</p>
+                <p rend="center">AGENDA ITEM 6: PROBLEMS OF DECLASSIFICATION AND CLEARANCE</p>
+                <p>[Discussion of classified matters under this agenda item took place in both the
+                    morning and the afternoon sessions. This discussion is covered in <ref
+                        target="1975-11-14-hac-meeting-minutes-annex">separate classified
+                        minutes</ref>.]</p>
+                <p rend="center">AGENDA ITEM 7: RELATIONS WITH THE NATIONAL ARCHIVES; OPENING OF THE
+                    DEPARTMENT’S FILES FOR 1948 AND 1949</p>
+                <p>Mr. Kogan described the Department’s policy for opening its records. He explained
+                    that previously the records remained closed until all the <hi rend="italic"
+                        >Foreign Relations</hi> volumes for a particular year had been published,
+                    but that a change had occurred last summer with the 1948-1949 volumes, when
+                    files were opened after all Department of State clearances had been obtained.
+                    For these two years virtually all of State’s own files directly relating to
+                    foreign policy were now open, with the exception of certain intelligence
+                    materials and other specifically excluded categories, including classified
+                    papers of other departments, agencies, and governments. Since the Department’s
+                    records are organized in five-year blocks, and the next block covers the period
+                    1950-1954, we must finish compiling the sixteen volumes for 1952-1954 before the
+                    files for 1950 and 1951 can be moved to the National Archives. It would be
+                    prohibitively expensive (and probably administratively impossible) to reorganize
+                    the block of files, but once the whole block has been moved to Archives,
+                    probably in 1976, it would be possible to open 1950 and 1951 separately whenever
+                    the proper authorities agreed to their declassification. In reply to Mr.
+                    Westerfield’s inquiry as to how this related to Recommendation No. 4 in the
+                    Committee’s report last year, Mr. Aandahl said that this substantially met their
+                    view that opening of files for a given year need not wait until all of the
+                    volumes were published, but it also took into account the practical difficulties
+                    of records management. HO would probably recommend opening the 1950 files (for
+                    Department of State materials only) after the Department has completed its
+                    clearance of the 1950 volumes. As with the 1948 and 1949 files, we would
+                    probably not wait for final action by other clearing authorities.</p>
+                <p>Mr. Kogan informed the Committee that the Presidential libraries had requested
+                    help from HO in declassifying some of their older records, in part because they
+                    were being “nibbled to death” by individual requests submitted under the Freedom
+                    of Information Act. HO has suggested that the Bureau of Public Affairs ask the
+                    Council on Classification Policy (CCP) to approve declassification authority for
+                    HO on material over twenty years old in the Presidential libraries. He stated
+                    that the Bureau supported the proposal, and that he was reasonably optimistic
+                    the other bureaus would also. If they did, the Bureau of Public Affairs would
+                    have a strong case when the proposal was presented to the CCP.</p>
+                <p>Mr. Aandahl mentioned an approach by the Canadian Government, which was
+                    interested in the question of opening Canadian records in tandem with ours. He
+                    stated that an informal agreement was being worked out whereby the Department of
+                    External Affairs and the Department of State would make available to private
+                    researchers in Washington and Ottawa pre-1949 papers dealing with United
+                    States-Canadian bilateral matters. Mr. Westerfield inquired whether similar
+                    arrangements had been made with other countries. Mr. Aandahl replied that such
+                    arrangements existed with the British and the Australians, at least for the
+                    period up to 1945.</p>
+                <p rend="center">AGENDA ITEM 8: LUNCHEON</p>
+                <p>[At 12:17 p.m. the committee adjourned for lunch with Ambassador Reinhardt and
+                    Mr. Earl D. Sohm, Director of Management Operations. Mr. Lawrence S.
+                    Eagleburger, Deputy Under Secretary of State for Management, had invited members
+                    of the Committee and Mr. Trask to luncheon in the Henry Clay Room. Also invited
+                    were Ambassador Reinhardt, Mr. Sohm, and Messrs. Blair, Dyess (PA/M), Aandahl,
+                    Costrell, and Slany. In Mr. Eagleburger’s absence Mr. Sohm expressed
+                    appreciation for the work of the Committee and said that the Department was
+                    trying to solve the problems of slow declassification of basic documents and to
+                    remove some of the bottlenecks that were holding up publication of the <hi
+                        rend="italic">Foreign Relations</hi> volumes. Ambassador Reinhardt added his
+                    words of appreciation to the members of the Committee for their wise counsel
+                    over many years and especially for their assistance in the process of selecting
+                    a new director for the Historical Office. Mr. Westerfield responded for the
+                    Committee (as noted below). The Committee reconvened at 2:33 p.m.]</p>
+                <p>Mr. Westerfield summarized for the staff the remarks he had made at the luncheon.
+                    He said he had complimented HO on its “impressive achievement” of recent years.
+                    He had also emphasized the view that <hi rend="italic">Foreign Relations</hi>
+                    was the record of the foreign relations of the Unite States, and not exclusively
+                    of the Department of State. And he had expressed his appreciation for the
+                    cooperation extended to the Committee by the Department, especially with respect
+                    to the adoption of the Committee’s recommendation on procedures for selecting a
+                    new director.</p>
+                <p rend="center">AGENDA ITEM 9: FREEDOM ON INFORMATION, <hi rend="italic">FOREIGN
+                        RELATIONS</hi> AND THE PRIVATE SCHOLAR; THE QUESTION OF APPOINTING AN
+                    ARCHIVIST FOR THE DEPARTMENT OF STATE</p>
+                <p>Mr. Slany referred to Recommendation No. 5 approved by the Committee last year
+                    endorsing the appointment of an archivist for the Department. Both he and Mr.
+                    Aandahl stressed the importance of acquiring an archivist to develop a uniform
+                    set of procedures for the protection and retirement of the Department’s files
+                    and to oversee the preservation of their integrity. Mr. Slany asked the
+                    Committee to reaffirm its earlier position.</p>
+                <p>A general discussion ensued concerning the possible functions of an archivist,
+                    and the problems resulting from not having one, such as the inadvertent
+                    destruction of records during the “screening” process in the Foreign Affairs
+                    Document and Reference Center (FADRC). Both Mr. Varg and Mr. Oliver raised the
+                    possibility that the National Archives could perform archivist functions for the
+                    Department. Mr. Costrell suggested the establishment of a State-Archives-Defense
+                    committee to consider the issue. Mr. Blair expressed surprise over the fact that
+                    some valuable records were being destroyed. He noted that FADRC would have to
+                    hire the archivist, and that therefore FADRC would have to be included in all
+                    discussions regarding the creation of an archival position.</p>
+                <p>Mr. Westerfield commented that the Committee was sympathetic to the staff’s felt
+                    need for an archivist, but inasmuch as there was considerable uncertainty about
+                    the archivist’s duties and responsibilities, the Committee did not have
+                    sufficient information to make a recommendation. Mr. Aandahl suggested that in
+                    its report the Committee express interest in the creation of an archivist’s
+                    position, and also recommend the need for a thorough study of the matter.</p>
+                <p>Mr. Slany referred to potential problems facing HO as a result of the
+                    Department’s implementation of the Freedom of Information Act. He mentioned the
+                    possible adverse effect of requests by private scholars for the same material
+                    that was being used to compile <hi rend="italic">Foreign Relations</hi> and the
+                    question of the extent of aid that should be given to private scholars seeking
+                    information about classified materials. With respect to the first problem, Mr.
+                    Oliver stated that any interference with the efforts to speed up publication of
+                        <hi rend="italic">Foreign Relations</hi> was regrettable, but that the Act
+                    was the law of the land and took precedence. Mr. Ferrell asked whether we had
+                    actually encountered difficulty in connection with the second problem. Mr. Slany
+                    responded that we had begun to experience difficulty, and for that reason he was
+                    seeking guidance from the Committee.</p>
+                <p rend="center">AGENDA ITEM 10: PROBLEMS OF BUDGET, TECHNICAL EDITING, PRINTING,
+                    AND DISTRIBUTION</p>
+                <p>Mr. Slany reviewed the current problems in the technical editing sector. He
+                    pointed out, for example, that the lag between the submission of finished
+                    manuscript to PBR and the printing of galleys by the Government Printing Office
+                    had reached eighteen months. Mr. Snyder commented that this figure indicated
+                    that the time recently gained in compilation had been lost in editing. Mr. Varg
+                    suggested that the Committee make a statement for the record that it was “deeply
+                    disturbed” by this situation.</p>
+                <p>Mr. Aandahl stated that the problem with PBR (Publishing and Reproduction
+                    Division) could be largely solved by the addition of two or three
+                    fully-qualified senior editors to the PBR staff. Mr. Westerfield raised the
+                    possibility of a contract with a private editing firm. Mr. Aandahl responded
+                    that this would not be feasible because of the need for continuity and
+                    supervisory responsibility in the Department, which could not afford to become
+                    completely dependent on outside contractors. Mr Ferrell remarked that what PBR
+                    seemed to need was a shake-up rather than additional staff. Mr. Aandahl and Mr.
+                    Dougall both disagreed with this. They said that the PBR editors were doing a
+                    commendable job, but that they were seriously understaffed.</p>
+                <p rend="center">AGENDA ITEM 11: PROFESSIONAL DEVELOPMENT OF THE HISTORICAL OFFICE
+                    STAFF</p>
+                <p>Mr Slany noted that as a result of a series of meetings within the Bureau called
+                    last year by Assistant Secretary Laise, several proposals designed to enhance
+                    the skills of staff members had been sent forward, including a recommendation
+                    for released time to enable staff to engage in private research and/or study.
+                    Ambassador Laise had responded favorably to the proposals for professional
+                    development. Mr. Costrell spoke against proposals involving released time,
+                    because they would weaken any argument advanced for needing new staff. Mr.
+                    Aandahl noted the budgetary and manpower problems raised by proposals for
+                    professional development but expressed readiness to pursue any program
+                    authorized by the Bureau.</p>
+                <p> Mr. Ferrell asked about the possibility of a flexi-time (10-hour day/4-day week)
+                    arrangement, which would allow staff members one free day for research. In
+                    response to a query from Mr. Aandahl, Mr. Dougall stated that this might
+                    eventually be administratively feasible but that at the moment it involved
+                    difficulties such as extra payment for overtime.</p>
+                <p>Mr. Westerfield invited Mr. Trask to make some closing remarks. Mr. Trask stated
+                    that he approached the position of director with enthusiasm. He had no “grand
+                    design” for HO, but certain changes would be desirable. First priority would be
+                    given to strengthening the relationship between the Office and outside
+                    researchers. The question of professional development of the staff was also a
+                    vital one, and he would make it a matter of high priority from the moment of his
+                    arrival as director.</p>
+                <p>[The Committee rose at 4:27 p.m.]</p>
+            </div>
+        </body>
+    </text>
+</TEI>

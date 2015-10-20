@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Sharing the Emancipation Proclamation with the World</title>
+                <title type="short">Sharing the Emancipation Proclamation with the World</title>
+                <author>Aaron W. Marrs</author>
+                <sponsor>Office of the Historian, U.S. Department of State</sponsor>
+            </titleStmt>
+            <publicationStmt>
+                <date when="2012-09-20">September 20, 2012</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="AWM" role="editor">
+                        <persName>Aaron W. Marrs</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#AWM" when="2012-09-20">Drafted text.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Sharing the Emancipation Proclamation with the World</head>
+                <p>This year, we celebrate the sesquicentennial of the <ref
+                        target="http://memory.loc.gov/ammem/alhtml/almintr.html">Emancipation
+                        Proclamation</ref>, first announced to the U.S. public on September 22,
+                    1862. While the story of the Proclamation’s domestic impact is well known, there
+                    was also a foreign dimension to this story.</p>
+                <p>The idea of Emancipation had been gestating during the summer of 1862; Lincoln
+                    drafted a preliminary proclamation in July. The timing for releasing the
+                    proclamation to the general public, however, was not right until after the
+                    Union’s successful repelling of Confederate forces at Antietam in September.</p>
+                <p>The same day that the proclamation was released to the U.S. public, Secretary of
+                    State <ref target="/departmenthistory/people/seward-william-henry">William
+                        Seward</ref> released the text “to the diplomatic and consular officers of
+                    the United States in foreign countries.”</p>
+                <p>The 1862 edition of <title level="s">Foreign Relations of the United
+                        States</title> prints Seward’s note to Charles Francis Adams, the U.S.
+                    Minister in London. We’ve reproduced his text below; you can also click <ref
+                        target="http://digicoll.library.wisc.edu/cgi-bin/FRUS/FRUS-idx?type=goto&amp;id=FRUS.FRUS1862v01&amp;isize=M&amp;page=195"
+                        >here</ref> to see the version as it was originally published. Similar texts
+                    were sent to other representatives abroad. Seward had <ref
+                        target="http://opinionator.blogs.nytimes.com/2011/12/01/lincolns-p-r-coup/"
+                        >long identified slavery</ref> as the cause of the war in his correspondence
+                    with U.S. diplomats. Lincoln’s proclamation gave him the opportunity to tell our
+                    diplomatic representatives that “it is the Union, and not slavery that must be
+                    maintained and preserved.”</p>
+                <p>Adams wrote back on October 10, 1862, and noted that the effect of the
+                    proclamation was “to draw the line with greater distinctness between those
+                    persons really friendly to the United States and the remainder of the community,
+                    and to test the extent of the genuine anti-slavery feeling left in this
+                    country.” The Proclamation’s intent and effect was immediately apparent, and
+                        <title level="s">FRUS</title> gives us a glimpse into how the rest of the
+                    world was informed of this landmark act.</p>
+            </div>
+            <div>
+                <head>Department of State Circular</head>
+                <p>Mr. Seward to Mr. Adams.</p>
+                <p>[Circular.]</p>
+                <p>DEPARTMENT OF STATE,</p>
+                <p><hi rend="italic">Washington, September</hi> 22, 1862.</p>
+                <p><hi rend="italic">To the diplomatic and consular officers of the United States in
+                        foreign countries:</hi></p>
+                <p>GENTLEMEN: You will receive by the post which conveys this despatch evidences
+                    that the aggressive movement of the insurgents against the loyal States is
+                    arrested, and that the renewed and reinvigorated forces of the Union are again
+                    prepared for a new and comprehensive campaign. If you consult the public
+                    journals you will easily learn that the financial strength of the insurrection
+                    is rapidly declining, and that its ability to bring soldiers into the field has
+                    been already taxed to its utmost. You will perceive, on the other hand, that the
+                    fiscal condition of the country is sound, and that the response to the calls for
+                    new levies is being made promptly, without drawing seriously upon the physical
+                    strength of the people.</p>
+                <p>I have heretofore indicated to our representatives abroad the approach of a
+                    change in the organization of society in the insurrectionary States. That change
+                    continues to reveal itself more distinctly every day. In the judgment of the
+                    President the time has come for setting forth the great fact distinctly for the
+                    serious consideration of the people in those States, and for giving them to
+                    understand that if they will persist in forcing upon the country a choice
+                    between the dissolution of this necessary and beneficent government or a
+                    relinquishment of the protection of slavery, it is the Union, and not slavery,
+                    that must be maintained and preserved. With this view the President has issued a
+                    proclamation in which he gives notice that slavery will be no longer recognized
+                    in any State which shall be found in armed rebellion on the first of January
+                    next. While good and wise men of all nations will confess that this is just and
+                    proper as a military proceeding for the relief of the country from a desolating
+                    and exhausting civil war, they will at the same time acknowledge the moderation
+                    and magnanimity with which the government proceeds in a transaction of such
+                    great solemnity and importance.</p>
+                <p>I am, gentlemen, your obedient servant,</p>
+                <p>WILLIAM H. SEWARD.</p>
+                <p><hi rend="italic">By the President of the United States of America.</hi></p>
+                <p>A PROCLAMATION.</p>
+                <p>I, Abraham Lincoln, President of the United States of America, and
+                    commander-in-chief of the army and navy thereof, do hereby proclaim and declare
+                    that hereafter, as heretofore, the war will be prosecuted for the object of
+                    practically restoring the constitutional relation between the United States and
+                    each of the States and the people thereof, in which States that relation is or
+                    may be suspended or disturbed.</p>
+                <p>That it is my purpose, upon the next meeting of Congress, to again recommend the
+                    adoption of a practical measure tendering pecuniary aid to the free acceptance
+                    or rejection of all slave States, so called, the people whereof may not then be
+                    in rebellion against the United States, and which States may then have
+                    voluntarily adopted, or thereafter may voluntarily adopt, immediate or gradual
+                    abolishment of slavery within their respective limits; and that the effort to
+                    colonize persons of African descent with their consent upon this continent or
+                    elsewhere, with the previously obtained consent of the governments existing
+                    there, will be continued.</p>
+                <p>That on the first day of January, in the year of our Lord one thousand eight
+                    hundred and sixty-three, all persons held as slaves within any State or
+                    designated part of a State, the people whereof shall then be in rebellion
+                    against the United States, shall be then, thenceforward, and forever free; and
+                    the executive government of the United States, including the military and naval
+                    authority thereof, will recognize and maintain the freedom of such persons, and
+                    will do no act or acts to repress such persons, or any of them, in any efforts
+                    they may make for their actual freedom.</p>
+                <p>That the Executive will, on the first day of January aforesaid, by proclamation,
+                    designate the States and parts of States, if any, in which the people thereof,
+                    respectively, shall then be in rebellion against the United States; and the fact
+                    that any State; or the people thereof, shall on that day be, in good faith,
+                    represented in the Congress of the United States by members chosen thereto at
+                    elections wherein a majority of the qualified voters of such State shall have
+                    participated, shall, in the absence of strong countervailing testimony, be
+                    deemed conclusive evidence that such State, and the people thereof, are not then
+                    in rebellion against the United States.</p>
+                <p>That attention is hereby called to an act of Congress entitled “An act to make an
+                    additional article of war,” approved March 13, 1862, and which act is in the
+                    words and figure following:</p>
+                <p>“<hi rend="italic">Be it enacted by the Senate and House of Representatives of
+                        the United States of America in Congress assembled</hi>, That hereafter the
+                    following shall be promulgated as an additional article of war for the
+                    government of the army of the United States, and shall be obeyed and observed as
+                    such:</p>
+                <p>“ARTICLE-. All officers or persons in the military or naval service of the United
+                    States are prohibited from employing any of the forces under their respective
+                    commands for the purpose of returning fugitives from service or labor who may
+                    have escaped from any persons to whom such service or labor is claimed to be
+                    due, and any officer who shall be found guilty by a court-martial of violating
+                    this article shall be dismissed from the service.”</p>
+                <p>“SEC. 2. <hi rend="italic">And be it further enacted</hi>, That this act shall
+                    take effect from and after its passage.”</p>
+                <p>Also to the ninth and tenth sections of an act entitled “An act to suppress
+                    insurrection, to punish treason and rebellion, to seize and confiscate property
+                    of rebels, and for other purposes,” approved July 17, 1862, and which sections
+                    are in the words and figures following:</p>
+                <p>“SEC. 9. <hi rend="italic">And be it further enacted</hi>, That all slaves of
+                    persons who shall hereafter be engaged in rebellion against the government of
+                    the United States, or who shall in any way give aid or comfort thereto, escaping
+                    from such persons and taking refuge within the lines of the army; and all slaves
+                    captured from such persons or deserted by them, and coming under the control of
+                    the government of the United States; and all slaves of such persons found <hi
+                        rend="italic">on</hi> [or] being within any place occupied by rebel forces
+                    and afterwards occupied by the forces of the United States, shall be deemed
+                    captives of war, and shall be forever free of their servitude, and not again
+                    held as slaves.</p>
+                <p>“SEC. 10. <hi rend="italic">And be it further enacted</hi>, That no slave
+                    escaping into any State, Territory, or the District of Columbia, from any other
+                    State, shall be delivered up, or in any way impeded or hindered of his liberty,
+                    except for crime, or some offence against the laws, unless the person claiming
+                    said fugitive shall first make oath that the person to whom the labor or service
+                    of such fugitive is alleged to be due is his lawful owner, and has not borne
+                    arms against the United States in the present rebellion, nor in any way given
+                    aid and comfort thereto; and no person engaged in the military or naval service
+                    of the United States shall, under any pretence whatever, assume to decide on the
+                    validity of the claim of any person to the service or labor of any other person,
+                    or surrender up any such person to the claimant, on pain of being dismissed from
+                    the service.”</p>
+                <p>And I do hereby enjoin upon and order all persons engaged in the military and
+                    naval service of the United States to observe, obey, and enforce, within their
+                    respective spheres of service, the act and sections above recited.</p>
+                <p>And the Executive will in due time recommend that all citizens of the United
+                    States who shall have remained loyal thereto throughout the rebellion shall
+                    (upon the restoration of the constitutional relation between the United States
+                    and their respective States and people, if that relation shall have been
+                    suspended or disturbed) be compensated for all losses by acts of the United
+                    States, including the loss of slaves.</p>
+                <p>In witness whereof, I have hereunto set my hand, and caused the seal of the
+                    United States to be affixed. Done at the city of Washington this twenty-second
+                    day of September, in the year of our Lord one thousand eight hundred and
+                    sixty-two, and of the Independence of the United States the eighty-seventh.</p>
+                <p>ABRAHAM LINCOLN</p>
+                <p>By the President:</p>
+                <p>WLLLIAM H. SEWARD, <hi rend="italic">Secretary of State</hi>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

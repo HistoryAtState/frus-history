@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Information Memorandum From C. Edward Dillery to Ronald
+                    Spiers, August 1988</title>
+                <title type="short">Dillery to Spiers, 1988</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-01-13">January 13, 2014</date>
+                <date type="created" when="1988-08-04">August 4, 1988</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1988-08-04-dillery-to-spiers.pdf">PDF</ref>, 344 KB, 4pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Management, Under Secretary
+                    for Management Files, 1988 (Lot File 90 D 066), Box 6, Sept. 16-20, 1988. The
+                    memorandum was drafted by Susan Tait (M/MO) on August 3 and captioned “Not for
+                    the System.” The referenced “Mary Ryan’s July 11, 1988 note” to Dillery and the
+                    four listed attachments were present, but are not posted.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 10, <ref
+                    target="../chapter-10#fn49">Footnote 49</ref></p>
+            <div type="document">
+                <head>Information Memorandum From C. Edward Dillery (Deputy Director of Management
+                    Operations) to Ronald Spiers (Under Secretary of State for Management)</head>
+                <dateline>August 4, 1988</dateline>
+                <p>Subject: Historical Advisory Committee (HAC) Terms of Reference (TOR) and Related
+                    Problems</p>
+                <p>In the wake of Charles Redman’s June 14th meeting with HAC Chairman Perkins,
+                    there remain several untied strings:</p>
+                <p>1. An answer to your query about the HAC TOR;</p>
+                <p>2. Guidelines for amending HAC’s charter prior to a mandatory charter review in
+                    late summer;</p>
+                <p>3. Emerging problems concerning a HAC member’s security violation, clearances for
+                    other HAC members, charges of waste and mismanagement in PA/HO formally filed
+                    with the IG, and a letter from the National Coordinating Committee for the
+                    Promotion of History to the Chairman of the Senate’s Governmental Affairs
+                    Committee complaining about the Department’s handling of classified
+                    documents.</p>
+                <p rend="underline">The HAC TOR</p>
+                <p>The Federal Advisory Committee Act (FACA) sets the general framework for all
+                    Federally chartered advisory committees. The key elements are:</p>
+                <list rend="bulleted">
+                    <item>Committees shall be advisory only.</item>
+                    <item>All matters under consideration shall be determined by an officer of the
+                        agency involved.</item>
+                    <item>Advice and recommendations should not be influenced by any special
+                        interest.</item>
+                    <item>Membership should be balanced in terms of points of view
+                        represented.</item>
+                    <item>The committee should be essential to the sponsoring agency’s
+                        functions.</item>
+                </list>
+                <p>The HAC charter states that the committee shall be advisory only. Its purpose is
+                    to advise PA/HO on professional problems connected with the FRUS series “and
+                    other responsibilities of the Office of the Historian.” The charter also says
+                    the committee will keep interested learned societies informed of its activities.
+                    Membership is based upon nominations made by the learned societies (charter is
+                    at Tab 1).</p>
+                <p rend="underline">Charter Issues</p>
+                <p>Despite the charter’s statement that its role is advisory only, the HAC, in fact,
+                    is a single interest group that has adopted a confrontational posture in its
+                    relations with the Department (except for PA/HO). It does advise on
+                    administrative matters -- finances, personnel procedures -- but even this does
+                    not appear to meet the “professional problems” criteria. If it is, as PA/HO
+                    sometimes claims, advising on substantive matters connected with the FRUS
+                    series, this is not reflected in the minutes of its meetings, its annual reports
+                    or even in PA/HO’s list of committee accomplishments (list is at Tab 2).
+                    Instead, it has seized upon the single issue of declassification to the near
+                    exclusion of all other subjects.</p>
+                <p>In M/MO’s view, the committee as presently constituted strains the bounds of
+                    FACA’s balanced membership injunction. All of the members and the professional
+                    societies they represent share a strong interest in the earliest and broadest
+                    possible access to government documents, and therefore provide no wider
+                    perspectives on the validity of classification procedures or practical working
+                    experience in handling national security information.</p>
+                <p>The public record makes it clear that the committee is a pressure group. Its
+                    members come from the “publish or perish” academic environment. Their attacks on
+                    A/CDC over the past five years and their stepped up campaign for increased
+                    access to classified information presents a clear conflict between their advisory
+                    duties and their own professional interests, and put them in an adversarial
+                    relationship with those responsible for safe-guarding national security
+                    information. A recent security violation by a HAC member up for tenure
+                    underscores the seriousness of this conflict.</p>
+                <p rend="underline">Charter Amendment</p>
+                <p>The committee’s charter faces mandatory biennial review in September. We believe
+                    there are two key issues that require revision: the statements on purpose and
+                    selection of members.</p>
+                <p>The committee’s original purpose -- to review and advise on volumes coming up for
+                    publication in the FRUS series -- has been diffused by tacking on a reference to
+                    advising on “other responsibilities of the historian.” This has gotten the
+                    committee into all kinds of administrative bypaths and led to a virtual
+                    obsession with the issue of declassification. Deleting the “other
+                    responsibilities” phrase and confining HAC’s function to reviewing FRUS volumes
+                    could help get the group back to a more useful role.</p>
+                <p>HAC’s charter also charges it with keeping the learned societies informed of its
+                    activities. This is another area of conflict because the FACA specifies that
+                    advisory committees are established to serve their sponsoring agencies. This
+                    part of the charter, as well as PA’s contention that the committee’s PR function
+                    is vital to the FRUS program, appears to us to distort the law’s intent. The
+                    appearance of such a PR statement in HAC’s charter invites criticism and should
+                    be dropped. This reference may also be a major source of the members’ apparent
+                    view that HAC does not exist primarily to serve the Department, but vice
+                    versa.</p>
+                <p>As noted above, HAC is a single interest pressure group at least in part because
+                    of the method of selecting committee members. The charter needs to be amended to
+                    address effectively the issues of conflicts of interest and unbalanced
+                    membership. The members should be chosen directly by senior officers in PA.
+                    Nominations from learned societies could be entertained but the responsibility
+                    for choosing each member would clearly rest with the Department. Some members
+                    should come from non-academic backgrounds, particularly those with military,
+                    diplomatic and other professional working experience, to lend balance and
+                    promote challenge and debate rather than self-serving unanimity in the HAC
+                    meetings.</p>
+                <p>The charter amendments would be a first step in returning HAC to a useful,
+                    constructive role and ending its confrontation with A/CDC.</p>
+                <p rend="underline">Security Issues and Related Problems</p>
+                <p>DS believes that the casual name check clearance presently used for HAC members
+                    is inadequate. In fact, this procedure has been abolished and a more
+                    comprehensive investigation, applicable to all consultants, advisors and
+                    contractors, has been substituted in line with E.O. 12356. DS believes HAC
+                    members and others similarly affected should execute the form called “Conditions
+                    Governing Access to Official Records for Historical Research Purposes” and, in
+                    addition, attend a security briefing and execute a non-disclosure agreement.</p>
+                <p>While tightened security requirements are obviously needed, this will not get at
+                    the HAC members’ (as presently chosen) basic conflict of interests. Another
+                    option would give members access only to unclassified documents. Academicians
+                    have no special expertise to qualify for second guessing bureau desk officers or
+                    CDC professionals. This option would also help to counter the demonstrated
+                    pattern of increased access leading to increased demands for still greater
+                    access.</p>
+                <p>The critical letter (at Tab 3) sent on May 20 by the Director of the National
+                    Coordinating Committee for the Promotion of History to the Senate Governmental
+                    Affairs Committee may not be an active issue. At the request of committee staff,
+                    several A/CDC officers on July 12 presented an unofficial verbal rebuttal to the
+                    letter. There is some reason to believe the matter will end here. As an
+                    indication of how far the committee is willing to go in confronting the
+                    Department, however, the letter is further evidence of the need for a change in
+                    management direction.</p>
+                <p>Finally, the pending bad news ticker offers so far unsurfaced charges against
+                    PA/HO of waste and mismanagement brought formally before the IG (please see Tab
+                    4). The case is not among those currently under review nor do we have any
+                    indication of early IG attention. We will press the IG for priority
+                    consideration of these charges in order to make sure this complex issue does not
+                    undercut efforts to correct the HAC’s relationship with the Department.</p>
+                <p>Attachments:</p>
+                <list>
+                    <item>Tab 1: HAC Charter</item>
+                    <item>Tab 2: PA/HO list of HAC accomplishments</item>
+                    <item>Tab 3: Coordinating Committee Letter to Senate</item>
+                    <item>Tab 4: WFM charges brought against PA/HO</item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

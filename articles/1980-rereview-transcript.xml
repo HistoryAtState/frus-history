@@ -1,0 +1,2241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Documents Relating to the 1980 Re-Review of <hi rend="italic">FRUS</hi>
+                </title>
+                <title type="short">1980 <hi rend="italic">FRUS</hi> Re-Review Documents</title>
+            </titleStmt>
+            <publicationStmt>
+                <date when="2011-12-09">December 9, 2011</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>These documents were released in conjunction with <ref target="/historicaldocuments/frus-history/research/1980-rereview">“The 1980 <hi rend="italic">FRUS</hi> Re-Review."</ref> A scan of the original documents is
+                    available for download (<ref target="http://static.history.state.gov/frus150/1980-rereview-documents.pdf">PDF</ref>, 2.2 MB, 61 pp.).</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="document" xml:id="d1">
+                <head>1. Memorandum From the Under Secretary of State for Management (Ben Read) to
+                    All Assistant Secretaries, Special Assistants, and Office Heads<note n="1">Source: Folder “Dissent Channel Package (1980),” Box 3, Lot File 04 D 114,
+                        U.S. Department of State, Washington, DC.</note>
+                </head>
+                <dateline>
+                    <date when="1978-11-20">November 20, 1978</date>
+                </dateline>
+                <p>SUBJECT: Classification/Declassification System</p>
+                <p>As you know, we have been studying for some months how the Department can best
+                    organize itself to respond to the new Executive Order on Classification and
+                    Declassification policy (E.O. 12065)<note n="2">Jimmy Carter, “National Security
+                        Information,” Executive Order 12065, June 28, 1978 available at <ref target="http://www.fas.org/irp/offdocs/eo/eo-12065.htm">http://www.fas.org/irp/offdocs/eo/eo-12065.htm</ref> (accessed December
+                        2, 2011).</note>. A major conclusion we have reached is that these
+                    activities, in particular the declassification activities are a permanent and
+                    major function and the Department must organize itself to handle them on a
+                    permanent basis.</p>
+                <p>I have decided, after considering all of the memoranda and representations
+                        made,<note n="3">Not located.</note> that we should now institute several
+                    reorganization moves to bring the Department into compliance with Executive
+                    Order 12065, to continue compliance with legislation governing the release of
+                    information to the public (Freedom of Information Act, Privacy Act, etc.) and to
+                    establish a unified Department-wide structure governing all aspects of records
+                    release. Section 5-404 (a), (b), and (c) of E.O. 12065 requires agencies to
+                    assign responsibilities for operations, appeals, and oversight of all specified
+                    Classification/ Declassification matters. Accordingly, the following structure
+                    and procedures will be established:</p>
+                <pb n="2"/>
+                <list>
+                    <item>
+                        <label>1.</label>
+                        <hi rend="underline">Classification/Declassification Center (A/CDC)</hi>
+                        <lb/> A new Deputy Assistant Secretary will be appointed in A to be in
+                        charge of a new Classification/Declassification Center (A/CDC). The Center
+                        will be co-located with FADRC on the first floor. <list>
+                            <item>
+                                <label>A.</label>
+                                <hi rend="underline">Responsibilities</hi>
+                                <list>
+                                    <item>
+                                        <label>1.</label> Operation of Departmental classification
+                                        and declassification systems;</item>
+                                    <item>
+                                        <label>2.</label> Deciding declassification, release, and
+                                        denial issues in the first instance (under mandatory review
+                                        provisions of the E.O., FOI, Privacy Act and any other
+                                        relevant legislation or executive orders);</item>
+                                    <item>
+                                        <label>3.</label> Assuring systematic review for
+                                        declassification of Departmental records at 20 years and
+                                        thereafter as required by the E.O.;</item>
+                                    <item>
+                                        <label>4.</label> Providing guidelines, after full
+                                        consultations with the concerned regional and functional
+                                        bureaus, for classification, declassification and systematic
+                                        review as required;</item>
+                                    <item>
+                                        <label>5.</label> Providing all Department reports and
+                                        information required by the Information Security Committee;
+                                        and</item>
+                                    <item>
+                                        <label>6.</label> Representing the Department, with L when
+                                        appropriate, on the Interagency Security Committee;
+                                        and</item>
+                                    <item>
+                                        <label>7.</label> Conducting an educational program on the
+                                        new Executive Order.</item>
+                                </list>
+                            </item>
+                            <item>
+                                <label>B.</label>
+                                <hi rend="underline">Staff</hi>
+                                <lb/> The staff of the center will include: Up to six new positions,
+                                including that for the new DAS; a portion of the current A staff
+                                dealing with Privacy Act matters; part of the FOI staff which will
+                                be transferred from PA<note n="4">Two positions will remain in PA to
+                                    staff appeals. The remaining positions will be transferred to
+                                    the A Bureau and apportioned between FADRC for request
+                                    processing, and the Classification/Declassification Center.
+                                    (Footnote in original.)</note>; at some <pb n="3"/> point in the
+                                future an indeterminate number of positions presently used primarily
+                                for FOI declassification review purposes to be transferred gradually
+                                from the regional and functional bureaus; and an indeterminate
+                                number of retired Foreign Service Officers who may work on a
+                                split-day shift or other part-time arrangements. The retirees will
+                                conduct the actual review of documents for declassification. The
+                                selection of these retired officers will be done in close
+                                coordination with the bureaus.</item>
+                            <item>
+                                <label>C.</label>
+                                <hi rend="underline">Coordination</hi>
+                                <lb/> The DAS in charge of the Center will operate in a
+                                quasi-autonomous manner in accordance with guidelines and policies
+                                to be developed by a Coordination Committee of representatives of
+                                the concerned regional and functional bureaus, including PA, chaired
+                                by the DAS. Policy differences which cannot be reconciled will be
+                                settled by the Oversight Committee (see below). The DAS will
+                                promulgate the final directives.</item>
+                        </list>
+                    </item>
+                    <item>
+                        <label>2.</label>
+                        <hi rend="underline">Declassification and Release Procedures</hi>
+                        <list>
+                            <item>
+                                <label>A.</label>
+                                <hi rend="underline">Systematic Declassification Review</hi>
+                                <note n="5">Under the E.O., systematic review of material othan than
+                                    foreign government information must be <hi rend="underline">
+                                        reviewed for declassification</hi> at 20 years; agencies are
+                                    required to reach this standard within 10 years. The CDC will be
+                                    charged with achieving this objective as early as possible, and
+                                    no later than the end of 1985. (Footnote in original.
+                                    Underlining added to original.)</note>
+                                <lb/> The DAS for operations will identify and assemble as required
+                                all records subject to declassification review at 20 years. The
+                                DAS/CDC will devise and oversee <hi rend="underline">procedures,
+                                    with the concurrence of the Historical Office (PA/HO)</hi>
+                                <note n="6">Underlining added to original.</note> and involving
+                                DAS/O and regional bureaus as appropriate, to select records from
+                                each year’s files to facilitate both: (1) <hi rend="underline">review by the CDC for the purpose of drafting declassification
+                                    guidelines and (2) selection and editing by HO of materials for
+                                    publication in the “Foreign Relations” volumes.</hi>
+                                <note n="7">Underlining added to original.</note> On the basis of
+                                this review, the CDC will draft declassification guidelines for
+                                approval in close consultation with the bureaus concerned. Following
+                                final approval of the guidelines, the total permanent record for the
+                                period concerned will be transferred to the National Archives for
+                                declassification review in accordance with those guidelines.</item>
+                            <pb n="4"/>
+                            <item>
+                                <label>B.</label>
+                                <hi rend="underline">Requests under the FOI Act, the Privacy Act,
+                                    and the Mandatory Review Provisions of the Executive Order</hi>
+                                <lb/> Records relevant to all other disclosure requests will be
+                                identified by the Deputy for Operations (FADRC) and forwarded to the
+                                Classification/Declassification Center for review and decision as to
+                                declassification and/or release. As indicated above, the actual
+                                review will be done primarily by experienced retired officers
+                                working as consultants. They will conduct their reviews under
+                                guidelines. The Bureaus will be requested to prepare and propose the
+                                initial guidelines, which, because of the greater sensitivity in
+                                many cases of these documents, will need to be more specific than
+                                those governing systematic review of twenty year old documents. The
+                                bureaus will submit their proposed guidelines to the DAS/CDC for
+                                review and approval. Policy disagreements will be referred to the
+                                Oversight Committee. In the event of any uncertainty concerning the
+                                application of the guidelines in specific cases, or in the event of
+                                especially sensitive cases, the relevant bureau(s) will be consulted
+                                by the CDC before a decision is taken.</item>
+                            <item>
+                                <label>C.</label>
+                                <hi rend="underline">Record-keeping</hi>
+                                <lb/> The Deputy for Operations (FADRC) will assure in both cases
+                                (A. and B. above) that documents once processed for possible
+                                declassification and/or release under these procedures are marked
+                                    <hi rend="underline">or</hi>
+                                <note n="8">Underlining added to original.</note> otherwise recorded
+                                so that review is not repeated in the event of another, later
+                                request. Resources to accomplish these functions (A., B. and C.)
+                                will include up to 9 part-time positions. To insure integrity of the
+                                record, the Deputy Assistant Secretary for Operations will deal
+                                directly with the public and governmental users of information, both
+                                to receive requests and respond to them after processing.</item>
+                        </list>
+                    </item>
+                    <item>
+                        <label>3.</label>
+                        <hi rend="underline">Appeals</hi>
+                        <lb/> The Assistant Secretary for Public Affairs will be responsible for
+                        Department action on appeals from CDC decisions and will chair appeals
+                        panels, usually consisting of three members including the Chairman, drawn
+                        from a list <pb n="5"/>of senior representatives of other bureaus. The DAS
+                        for the Center will serve as an ex-officio, non-voting member of such
+                        panels. In the event that the original decision to deny was taken on the
+                        insistence of a bureau, a representative of that bureau may participate for
+                        the purpose of explaining the rationale for the denial. The panels will
+                        decide <hi rend="underline">all appeals</hi>
+                        <note n="9">Underlining added to original.</note> from the rulings of the
+                        Center <hi rend="underline">on declassification and release of
+                            information</hi>
+                        <note n="10">Underlining added to original.</note> as well as appeals to
+                        amend personal information under the Privacy Act. Two of the current PA/FOI
+                        positions will be retained in PA to staff the appeals function.</item>
+                    <item>
+                        <label>4.</label>
+                        <hi rend="underline">Oversight</hi>
+                        <lb/> The Under Secretary for Management will serve as the “senior agency
+                        official” to chair a Department Oversight Committee “with authority to act
+                        on all suggestions and complaints” with respect to the agency’s overall
+                        administration of the Executive Order, as specified in Section 5-404(b). The
+                        Committee will consist of representatives of <hi rend="underline">A, L, and
+                            PA</hi>
+                        <note n="11">Underlining added to original.</note>. The Committee may
+                        request periodic reports from the DAS in charge of the
+                        Classification/Declassification Center and from the Chairman of the appeals
+                        panels. The Committee will decide policy issues which cannot be resolved at
+                        bureau levels, other than appeals which relate to the denial of information
+                        requested under statutory or Executive Order authority. One of its concerns
+                        will be the adequacy of resources and <hi rend="underline">procedures
+                            employed</hi>
+                        <note n="12">Underlining added to original.</note> to carry out the purposes
+                        of the Order.</item>
+                </list>
+                <p>
+                    <hi rend="underline">Transitional Aspects</hi>
+                </p>
+                <p>There is much to be done before the new system will be fully operational and the
+                    new center can take over the review process from the bureaus. In the interim,
+                    and until the new Center is <hi rend="underline">fully operational</hi>
+                    <note n="13">Underlining added to original.</note>, the current system will
+                    continue in effect and preparations now being made by the Council on
+                    Classification Policy and its member bureaus for implementing the new E.O.
+                    should continue.</p>
+                <p>Procedures already approved by the Council on Classification Policy for review
+                    and declassification of 1950-54 records should be pursued and completed at the
+                    earliest possible date. The new system will be applied beginning with the 1955
+                    records. The phasing in of the CDC operations will be gradual. Every effort <pb n="6"/>will be made to avoid confusion. We must avoid disruption of the
+                    current system before the new one is in place. The cooperation of all will be
+                    essential. Modifications and the transition will be implemented by the new DAS
+                    using the Coordination Committee mentioned in Paragraph 1 c, above. In that
+                    connection, all bureaus and offices have been requested to nominate a
+                    representative to that Committee at the Deputy Assistant Secretary level.
+                    Nominations should be made to M.</p>
+                <p>All other existing Department organizational units dealing with classification
+                    and declassification matters specified above, including the Council on
+                    Classification Policy and the Freedom of Information Staff (PA/FOI), will cease
+                    to exist when the procedures outlined herein are effected and the Center is in
+                    full operation.</p>
+            </div>
+            <milestone unit="section" rend="hr"/>
+            <div type="document" xml:id="d2">
+                <head>2. Memorandum From the Deputy Assistant Secretary of State for the
+                    Classification/Declassification Center (Clayton McManaway) to the Deputy
+                    Assistant Secretary of State for Public Affairs (William Blair)<note n="14">Source: Folder “Dissent Channel Package (1980),” Box 3, Lot File 04 D 114,
+                        U.S. Department of State, Washington, DC.</note>
+                </head>
+                <dateline>
+                    <date when="1980-03-19">March 19, 1980</date>
+                </dateline>
+                <p>SUBJECT: CDC Role in Foreign Relations Series Prior to 1955-57</p>
+                <p>As you know, I have been considering on an urgent basis the question of the
+                    extent to which it will be necessary for the Classification/ Declassification
+                    Center to play a role in the process of clearing materials for publication in
+                    the Foreign Relations of the United States series for years prior to the 1955-57
+                    triennium, i.e., material which was in the clearance process when the Center was
+                    established.</p>
+                <p>As part of this process, we have looked at material of this sort pertaining to
+                    selected countries.</p>
+                <p>In our judgment, which is concurred in by the Bureau of European Affairs, the
+                    1952-54 material concerning our relations with the U.K. contains a number of
+                    documents which should remain classified in whole or in part. It contains other
+                    documents which should be declassified only after clearance with the U.K. The
+                    latter category relates directly to our internal discussions concerning policy
+                    with respect to foreign government information provided to us by Commonwealth
+                    governments. Our ultimate decision concerning documents in this category should
+                    await the outcome of these discussions, which will be known in the near
+                    future.</p>
+                <p>Questions have also been raised concerning material related to certain other
+                    countries, questions sufficiently serious to require that they be taken up with
+                    the geographic bureaus concerned.</p>
+                <p>In light of the above, I have decided that the Office of Systematic Review must
+                    go over those materials already in the pipeline but not yet advanced to the
+                    page-proof stage. It is my understanding that this would comprise:</p>
+                <list>
+                    <item>From the 1951 Series - Vols. IV (Europe) &amp; VII (Korea &amp;
+                        China)</item>
+                    <item>From the 1952 - 54 Series - All Volumes except Vol. III</item>
+                </list>
+                <pb n="2"/>
+                <p>We will make every effort to accomplish this review so as not to interfere with
+                    maintenance of your current publication schedule. Thus, we will give first
+                    priority to the review of the volumes in the 1951 series and Volume V of the
+                    1952-54 series. Other priorities will be established in relation to your
+                    schedule. Reviewers are available to begin (in some cases to continue) this task
+                    and I believe it can be accomplished rapidly enough so as to have little or no
+                    effect on your schedule.</p>
+                <p>Please take the necessary steps to assure that the materials involved are handled
+                    in such a way as not to preclude making effective the results of our review.</p>
+            </div>
+            <milestone unit="section" rend="hr"/>
+            <div type="document" xml:id="d3">
+                <head>3. Memorandum of Conversation<note n="15">Source: Folder “Dissent Channel
+                        Package (1980),” Box 3, Lot File 04 D 114, U.S. Department of State,
+                        Washington, DC. Drafted within PA/HO. An unatributed marginal notation reads
+                        “Are these cleared minutes?”</note>
+                </head>
+                <dateline>
+                    <date when="1980-04-02">April 2, 1980</date>
+                </dateline>
+                <p>SUBJECT: Meeting on Re-review of Unpublished <hi rend="underline">Foreign
+                        Relations</hi> Volumes by the CDC for the Years 1951-54, March 27, 1980</p>
+                <p>Participants</p>
+                <list>
+                    <item>Clayton McManaway</item>
+                    <item>William Blair</item>
+                    <item>Laurence Pickering</item>
+                    <item>David Trask</item>
+                    <item>David Baehler</item>
+                </list>
+                <p>Mr. Blair noted that the inclusion of certain material in the European volumes
+                    for 1952-54, already cleared for release, has aroused concern. What was the
+                    rationale for re-review of all unpublished volumes for the entire period? Mr.
+                    McManaway said that the genesis of the re-review was accidental, arising mostly
+                    from Mr. Galloway’s reading the UK compilation for 1952-54 and a resultant
+                    inquiry to the desk, asking how much of the material contained therein should be
+                    published without consultation with the concerned government. He also observed
+                    that concern expressed upon completion of the review of the volume on Indochina.
+                    Mr. Pickering said that specifically the CDC was concerned about some
+                    third-country involvement in bilateral relations between the US and other
+                    countries, such as Swedish intermediary action in US relations with Korea. There
+                    is no evidence, he said, that such third country involvement was cleared either
+                    with the desk having responsibility or with the third country.</p>
+                <p>Mr. McManaway said that the CDC’s concern about the adequacy of the review
+                    coincides with concern about the adequacy of the 1950-54 guidelines. He went on
+                    to say that delays in the FRUS publication would not be a problem because there
+                    is not enough material to slow the process significantly. He gave assurances
+                    that the CDC would start with 1951, v. VII and continue with 1952-54, v. V.
+                    Finally, he assured those present that the CDC did not relish the prospect of
+                    re-review because it delayed somewhat its review of 1955-57 material. Mr.
+                    Pickering said he expected few or no additional deletions from most volumes. Mr.
+                    Trask said that one of HO’s concerns was with the delays the re-review might
+                    cause. Mr. Pickering assured Mr. Trask that the<pb n="2"/> re-review would take
+                    place in the order that HO requested. Mr. Trask noted that even a small delay at
+                    the front end can multiply later on, particularly if the re-review is de novo
+                    and if it should require appeals to different authorities than those now
+                    involved in the process. Mr. Pickering doubted that this would present much of a
+                    problem, since the only area that is likely to become an issue is the UK. Mr.
+                    McManaway agreed with Mr. Pickering. He also gave assurances that the CDC would
+                    not make additional objections unless it had already checked with the concerned
+                    bureau. This should reduce additional objections to a minimum, thus minimizing
+                    delays, and since the publication dates for most of the concerned volumes are so
+                    far off anyway, it was hard to see how CDC action could entail any appreciable
+                    delays.</p>
+                <p>Mr. Blair said he agreed with the concern expressed about UK and certain
+                    Indochina material, but wondered whether this concern justified jettisoning all
+                    bureau reviews on all volumes for the period. Mr. McManaway said that they in
+                    the CDC went through a similar thought process, but concluded that we could not
+                    be certain whether other problems existed unless the CDC looked at everything.
+                        <hi rend="underline">Mr. Pickering pointed out the seriousness of the
+                        problem by saying that the UK desk felt that some of the documents
+                        previously cleared should not even be shown to the UK government, let alone
+                        published.</hi>
+                    <note n="16">This sentence is emphasized in the margin and accompanied by an
+                        unatributed marginal notation that reads “Who on the desk? [unclear] What is
+                        the material?”</note>
+                </p>
+                <p>Mr. Trask inquired about the procedure used to inaugurate re-review of the
+                    1951-54 volumes. He suggested an alternative that might have been used. Ben Read
+                    had established the original division of labor by which the CDC began its review
+                    with the 1955 records. PA was supposed to complete work on the records through
+                    1954. For this reason, given CDC interest, CDC and HO might have returned to Mr.
+                    Read jointly with arguments as to why or why not the 1951-54 records destined
+                    for publication required re-review. If Mr. Read decided in favor of re-review,
+                    the CDC would have made the initial examination and could have consulted with HO
+                    on its conclusions. At that point, the CDC and HO could jointly or individually
+                    consult the bureaus about proposed deletions or about reversals of deletions
+                    made earlier. Mr. McManaway said that the procedure Mr. Trask had outlined was
+                    about what the CDC has envisioned in any event.</p>
+                <p>Pursuing the question of procedure, Mr. Trask asked whether HO and the CDC had
+                    the same understanding of <hi rend="underline">de novo</hi> review. Mr.
+                    Pickering described his conception of <hi rend="underline">de novo</hi> review.
+                    His reviewers would conduct a review of all of the volumes without reference to
+                    the actions the bureaus had taken earlier.<pb n="3"/> Only after that review was
+                    complete would the reviewers compare their actions against actions previously
+                    taken as reflected in the HO galleys. In the event of divergence between desk
+                    and CDC actions, the CDC would discuss the question with the bureaus. Mr. Trask
+                    said that it sounded from Mr. Pickering’s presentation that HO would suffer from
+                    the worst of both the old and new worlds under the contemplated re-review
+                    procedures. It appeared that all the old denials would remain intact, while the
+                    results of the CDC re-review would simply be an add-on to earlier decisions. He
+                    said he thought that the CDC should take full responsibility for all
+                    withholdings directed in the course of re-review. In undertaking the re-review,
+                    the CDC was in effect telling the bureaus that their initial examination was
+                    inadequately done. If that is in fact the case, HO expected CDC to declare the
+                    bureaus’ review invalid. The procedure described by Mr. Pickering did not
+                    explicitly provide for that.</p>
+                <p>Mr. McManaway said in effect that Mr. Trask drew a false distinction between
+                    bureau and CDC review. The CDC, as the bureaus’ agent, will not make any changes
+                    either way -- negatively or positively -- without consulting the bureaus. Mr.
+                    Trask agreed that the CDC acted as the bureaus’ agent. He only wanted to be sure
+                    that the CDC related to the bureaus in the re-review of the 1951-54 records in
+                    the same way that it will relate to them on records for 1955 and later. It did
+                    not appear that the CDC planned to do that. Mr. Blair disagreed with Mr. Trask,
+                    stating that it seemed to him that the CDC and HO were of one mind on the ground
+                    rules for re-review.</p>
+                <p>Mr. Trask then listed three characteristics of de novo review as HO understands
+                    the term and asked whether the CDC had the same understanding: <list>
+                        <item>
+                            <label>1.</label> The prior bureau review was suspended.</item>
+                        <item>
+                            <label>2.</label>
+                            <add>The CDC would</add> accept full responsibility for actions under
+                            the new review; i.e., HO would deal directly with CDC in all matters
+                            relating to the re-review such as appeals.</item>
+                        <item>
+                            <label>3.</label> Re-review might result in release of material withheld
+                            under previous examination as well as denial of material released
+                            previously.</item>
+                    </list> Messrs. McManaway and Pickering indicated agreement. The CDC would
+                    conduct the review without prior knowledge of bureau actions; it would consult
+                    with HO after the review was completed to determine whether there was any
+                    compelling reason for withholding certain material; and it would return to the
+                    bureaus in order to resolve<pb n="4"/> disagreed items. The CDC would assume
+                    full responsibility for all deletions, always recognizing that it functions as
+                    an agent of the bureaus that originated classified information. Mr. Blair
+                    concluded with the observation that PA was present to defend the principles of
+                    openness; he hoped that the CDC would recognize that role.</p>
+                <p>Mr. Trask said that his concern in re-review was not the amount of material that
+                    the CDC might deny. He believed that the object should be to insure that all
+                    desensitized material be declassified and that legitimate sensitive information
+                    remain classified at the appropriate level. Mr. Blair said that the CDC and HO
+                    seemed to be close on general principles of re-review and asked that Mr. Trask
+                    proceed to specifics.</p>
+                <p>At this point Mr. Trask asked that volumes VII, 1951, and V, 1952-54, be exempted
+                    from re-review on the following grounds: <list>
+                        <item>
+                            <label>1.</label> Re-review could entail considerable expense.</item>
+                        <item>
+                            <label>2.</label> Re-review could cause significant delay in
+                            publication.</item>
+                        <item>
+                            <label>3.</label> The volumes have already been fully cleared.</item>
+                    </list> Mr. McManaway replied that the CDC was already mostly finished with
+                    1951, v. VII, and it did not appear that many significant changes would be
+                    necessary. As for the rest of the material, it was not possible to determine
+                    what deletions would be necessary prior to review, but a review would in any
+                    case be necessary. Mr. Pickering pointed out one passage that the CDC found
+                    sensitive in its review of 1951, VII, by way of illustrating what a review of
+                    the aforementioned volumes might turn up. Mr. Trask noted that the passage dealt
+                    with foreign-government information in a U.S. document and sought to clarify
+                    HO’s position on the treatment of FGI. He pointed out that the general
+                    guidelines call for withholding such information contained in US documents only
+                    if the reviewers find it still sensitive. Mr. McManaway thought this point
+                    irrelevant in the case of the UK desk officer who reviewed the UK compilation
+                    previously. Guidelines did not then exist. Besides, it was CDC’s view that the
+                    desk officer did not adequately take account of sensitive documents in his
+                    review. Mr. Trask asked if Mr. McManaway thought the UK desk officer’s review
+                    was incompetent. Mr. McManaway said he did think so, and that is the reason for
+                    the CDC’s returning to the desk at this point to determine what is
+                    sensitive.</p>
+                <p>Mr. Trask then asked to rehearse the reasons why HO thought the re-review
+                    unnecessary for the purpose of placing those views on the record. Mr. McManaway
+                    suggested that he do this with<pb n="5"/> Mr. Pickering. Mr. Trask said he
+                    preferred to do it during the meeting in progress. Mr. Blair asked how long it
+                    would take. Mr. Trask said it would take about 3 minutes, whereupon permission
+                    was granted. The first point, he said was that no showing had been made that a
+                    re-review was necessary. The CDC had not presented a good case to demonstrate
+                    that the bureaus’ review was incompetent. <hi rend="underline">Mr. McManaway
+                        asked if PA wanted to take responsibility for release of something damaging
+                        in the event that a part of the review was incompetent. Mr. Blair said that
+                        ultimately Hodding Carter would have to take responsibility, and that in
+                        practical terms PA would not be able to show that such a re-review was
+                        unnecessary.</hi>
+                    <note n="17">These sentences are emphasized in the margin.</note> He told Mr.
+                    Trask that he disagreed with this criticism of re-review by HO. Mr. Pickering
+                    then read a portion of a telegram cleared for publication with the purpose of
+                    showing that the passage in question raised serious questions about the adequacy
+                    of the initial review. Mr. Trask asked whether HO had previously been consulted
+                    about this passage to see whether the information contained in it was already in
+                    the public domain and thus desensitized. Mr. McManaway said that the CDC had not
+                    so consulted and regretted not having done so.</p>
+                <p>Mr. Trask’s second point in objecting to the re-review was that delays in
+                    publication and in the CDC’s review of 1955-57 (which would result in later
+                    publication delays) was unavoidable, as previously noted, and that re-review
+                    would entail considerable expense, and should be avoided unless the need for it
+                    was fully demonstrated, something that CDC had not yet done. Mr. McManaway
+                    promised to avoid delays if at all possible. He also reiterated that the CDC
+                    would not ask HO to withhold publication of material (which could result in
+                    delays for the purpose of appealing the decision) unless the bureaus have
+                    already agreed in advance with the CDC decision. At this point Mr. Blair asked
+                    for a brief discussion of the agreement mentioned in Mr. Meyers’ memorandum<note n="18">Not located.</note> about a meeting with representatives of the
+                    British Embassy. He stated that PA would have to insist on consulting about any
+                    such arrangement and would oppose granting a foreign government a veto over
+                    publication of such information. Mr. McManaway said that, first of all, no one
+                    had made a decision on how the US would handle such information. Secondly, when
+                    a decision is made by Mr. Read on the question, the material submitted to him
+                    will specifically exclude the possibility that any foreign government will have
+                    the right to exercise a veto right over such information. Thirdly, he assured
+                    those present that HO is already on the ground floor of the decision process and
+                    that HO will continue to be involved in it. Mr. Trask asked that the Meyers’
+                    memo be revised to include the word “consultation” in place of the word “review”
+                    on the grounds that the latter implies that the government concerned has the
+                    right to exercise a veto over information contained in a US document. For the
+                    same reason, he proposed that the word “clearance” be removed from the memo and
+                    that a specific statement be included to indicate<pb n="6"/> that any
+                    arrangement would not diminish the right of the originating government to
+                    dispose of its own documents. Mr. Pickering noted that the memo did not reflect
+                    a formal proposal. Mr. McManaway saw no reason to alter the memcon. Mr. Blair
+                    agreed with Mr. McManaway.</p>
+                <p>Mr. Trask said in conclusion that HO was opposed not only to the way the matter
+                    was handled procedurally, but also to the substance of the proposal discussed at
+                    the meeting. In this connection, he handed Mr. McManaway a memorandum of Nov. 3,
+                    1958 by Mr. Noble on the subject of clearing FGI in US documents with the
+                    government originating that information. (This memorandum strongly opposed any
+                    form of consultation with other governments on FGI in US documents, except in
+                    the case of direct quotations. A copy is appended.)<note n="19">Bernard Noble’s
+                        memorandum was not attached and has not been located.</note> Mr. Blair said
+                    he wished Mr. Trask had given him a copy of the memo. Mr. McManaway said that he
+                    was conscious that the FGI discussion could represent a change in policy. He
+                    would be sure to include HO in discussions of the proposed change.</p>
+            </div>
+            <milestone unit="section" rend="hr"/>
+            <div type="document" xml:id="d4">
+                <head>4. Memorandum From the Assistant Secretary of State for European Affairs
+                    (George Vest) to the Under Secretary of State for Management (Ben Read)<note n="20">Source: Source: Folder “Dissent Channel Package (1980),” Box 3, Lot
+                        File 04 D 114, U.S. Department of State, Washington, DC. Copies of the
+                        memorandum were also sent to Hodding Carter and Clayton McManaway. David
+                        Trask received a copy on April 16, 1980.</note>
+                </head>
+                <dateline>
+                    <date when="1980-04-11">April 11, 1980</date>
+                </dateline>
+                <p>SUBJECT: EUR Clearance of Material for the FRUS, 1950-54</p>
+                <p>The issuance of FRUS Volume 1, 1951, containing material which I would have
+                    preferred not be released, has brought home to me the EUR clearance problem. As
+                    a result of this experience, I think it is important to ensure no
+                    repetition.</p>
+                <p>I feel obligated to withdraw EUR clearances for the FRUS documents and volumes
+                    not yet published. I request that all this material be reviewed again by the
+                    CDC, consulting as advisable with me and other officers in EUR. During this
+                    review, I request that foreign government information proposed for publication
+                    in the FRUS that might require consultation with the governments concerned, if
+                    it is to be published at all, be specifically identified to me or my staff.</p>
+                <p>After the experience of last week, it is especially important to have a sensitive
+                    review procedure. The staff you have assembled in CDC has the background and
+                    sensitivity. I and my Deputies and Office Directors will be ready to work to
+                    ensure orderly and expeditious publication -- but now is the time to ensure the
+                    procedure.</p>
+            </div>
+            <milestone unit="section" rend="hr"/>
+            <div type="document" xml:id="d5">
+                <head>5. Memorandum From the Under Secretary of State for Management (Ben Read) to
+                    All Assistant Secretaries<note n="21">Source: Folder “Dissent Channel Package
+                        (1980),” Box 3, Lot File 04 D 114, U.S. Department of State, Washington,
+                        DC.</note>
+                </head>
+                <dateline>
+                    <date when="1980-04-11">April 11, 1980</date>
+                </dateline>
+                <p>SUBJECT: Re-review of Materials for Publication in the Foreign Relations of the
+                    US: 1950-1954</p>
+                <p>We have recently discovered problems with some of the material previously cleared
+                    by the bureaus for publication in the FRUS covering the years 1950-1954. In
+                    addition, some of these earlier reviews were conducted as long as three years
+                    ago, and circumstances have changed substantially in some cases in the
+                    interim.</p>
+                <p>Consequently, I have directed the CDC to conduct a fresh review of all the
+                    unpublished materials previously cleared for the FRUS covering 1950-1954. This
+                    will be a <hi rend="underline">de novo</hi> review including, also, material
+                    previously withheld.</p>
+                <p>The re-review must be done <hi rend="underline">as expeditiously as
+                        possible</hi>.<note n="22">Underlining added to original. A hand-written
+                        message reads “Hodding - Clay tells me [unclear] his people will complete
+                        their review of the next vol by the end of next week. Ben 4/11”</note> The
+                    CDC will need to consult with the bureaus, as appropriate, and your cooperation
+                    will be appreciated.</p>
+            </div>
+            <milestone unit="section" rend="hr"/>
+            <div type="document" xml:id="d6">
+                <head>6. Memorandum for the Record<note n="23">Source: Folder “Dissent Channel
+                        Package (1980),” Box 3, Lot File 04 D 114, U.S. Department of State,
+                        Washington, DC. Drafted by David Trask.</note>
+                </head>
+                <dateline>
+                    <date when="1980-04-11"/>April 11, 1980</dateline>
+                <p>Subject: Reasons Why the Office of the Historian Opposes All Forms of Dealings
+                    with Other Governments on United States Documents that Include Foreign
+                    Government Information</p>
+                <p>The case against any such proceeding has been extant for a long time, and it has
+                    been adhered to in the past. A good number of the reasons for this view, firmly
+                    held in HO, are listed in a memorandum on the subject that G. Bernard Noble, the
+                    former head of HO, prepared in 1958. A copy of this document is appended.<note n="24">Not located.</note> I attach also a relevant memorandum on the
+                    subject that HO made available to the CDC. Arthur Kogan prepared it.<note n="25">Not located.</note>
+                </p>
+                <p>The basic expediential reason to avoid any exchanges is that any form of
+                    discussion, with other governments, even mere consultation, on U.S. documents
+                    containing foreign government information is that the disadvantages would far
+                    outweigh any conceivable advantages.</p>
+                <p>A question of fundamental principle also obtains; no sovereign state should
+                    compromise in any way its freedom of action to dispose of its records as it
+                    chooses.</p>
+                <p>Below find a systematic listing of the several specific reasons for opposition to
+                    discussing U.S. documents, most of them mentioned in Mr. Noble’s memorandum:</p>
+                <list>
+                    <item>
+                        <label>1.</label> Only the United States can bear responsibility for a
+                        report of foreign-government information in an American document, other than
+                        a direct quotation. Any such report is by definition an American official’s
+                        interpretation of another government’s views not information owned by the
+                        other government.</item>
+                    <item>
+                        <label>2.</label> Review of American documents or consultation about them
+                        may place information in the hands of another government to which it has no
+                        right. Moreover, delivery of such information might not be in the national
+                        interest.</item>
+                    <item>
+                        <label>3.</label> Foreign governments might use review or consultation as an
+                        opening to permit censorship of information other than that submitted to
+                        them for consideration.</item>
+                    <item>
+                        <label>4.</label> Publication of a document that excluded foreign-government
+                        information might distort its meaning.</item>
+                    <item>
+                        <label>5.</label> If asked to consent to publication of certain types of
+                        information a foreign government might well feel the need to oppose
+                        publication, but it might have no objection at all to a unilateral action by
+                        the United States.</item>
+                    <item>
+                        <label>6.</label> Real difficulties could develop with a foreign government,
+                        should it object to publication of certain passages that the United States
+                        government later felt compelled to publish anyway.</item>
+                    <item>
+                        <label>7.</label> In almost every case of foreign-government information
+                        found in U.S. documents historians and others in the Department of State can
+                        make an accurate estimate of the sensitivity of foreign-government
+                        information in the other nation and take that estimate into consideration in
+                        considering declassification and publication. In other words, only in very
+                        rare instances would the United States learn through consultation with a
+                        foreign government what it could not learn by other means.</item>
+                    <item>
+                        <label>8.</label> Reviews or consultations would pose certain legal and
+                        administrative problems that would unduly complicate matters, leading to
+                        unacceptable expense and delay.</item>
+                </list>
+            </div>
+            <milestone unit="section" rend="hr"/>
+            <div type="document" xml:id="d7">
+                <head>7. Memorandum From the Assistant Secretary of State for Public Affairs
+                    (Hodding Carter III) to the Assistant Secretary of State for European Affairs
+                    (George Vest)<note n="26">Source: Folder “Dissent Channel Package (1980),” Box
+                        3, Lot File 04 D 114, U.S. Department of State, Washington, DC.</note>
+                </head>
+                <dateline>
+                    <date when="1980-04-17">April 17, 1980</date>
+                </dateline>
+                <p>Subject: EUR Clearance of Material for the FRUS, 1950-54 </p>
+                <p>Ref: Your Memorandum to Ben Read, April 11, 1980, with a copy to me</p>
+                <p>George,</p>
+                <p>Your withdrawal of EUR clearances for unpublished FRUS volumes covering 1950-54
+                    is surprising and disappointing. As a matter of priority, please send to me a
+                    copy of all material contained in FRUS Volume I which you would have preferred
+                    not to be released, which you cite as your reason for withdrawing clearances for
+                    the 1950-54 volumes. I understand that you sent a copy of FRUS Volume I 1951 to
+                    the British Embassy with an apology for publishing the material in question. I
+                    request also a copy of your communication to the British Embassy. None of us
+                    want to publish material that will be detrimental to the national interest, but
+                    that interest has to be defined and interpreted to include the public’s right to
+                    access. You know well the battles that have been fought over where to draw the
+                    line. I am concerned that in our effort to open the historical record we are
+                    evidently moving backward, taking steps that could lend substance to a charge
+                    that the present Administration is less committed to the goal than either of its
+                    two immediate predecessors.</p>
+            </div>
+            <milestone unit="section" rend="hr"/>
+            <div type="document" xml:id="d8">
+                <head>8. Memorandum From the Assistant Secretary of State for European Affairs
+                    (George Vest) to the Assistant Secretary of State for Public Affairs (Hodding
+                    Carter III)<note n="27">Source: Folder “Dissent Channel Package (1980),” Box 3,
+                        Lot File 04 D 114, U.S. Department of State, Washington, DC.</note>
+                </head>
+                <dateline>
+                    <date when="1980-04-18">April 18, 1980</date>
+                </dateline>
+                <p>SUBJECT: EUR Clearance of Material for FRUS 1950-1954</p>
+                <p>I know that my reservation on the clearances causes a problem, but I stress that
+                    I don’t want to cause a slow-down and only to make assurance doubly sure. As for
+                    the material in the 1951 volume that left me uneasy, Bill Galloway brought it to
+                    my attention and could identify the worrisome sections. As for the British
+                    Embassy, I did not send them a copy with an apology for publishing material. In
+                    the course of the DCM’s call on business, I handed him a copy and suggested that
+                    they might want to look through the Table of Contents to be on the alert in case
+                    the distribution led to newspaper stories. There was therefore no communication
+                    to the British Embassy.</p>
+                <p>Again, I don’t want to move the historical effort backward, and I’m prepared to
+                    take the time and to call on my key Deputies to get a move on, with care.</p>
+            </div>
+            <milestone unit="section" rend="hr"/>
+            <div type="document" xml:id="d9">
+                <head>9. Memorandum From the Historian (David Trask) to the Assistant Secretary of
+                    State for Public Affairs (Hodding Carter III)<note n="28">Source: Folder
+                        “Documents Relating to the Re-Review of Foreign Relations, 1950-1954
+                        (1980),” Box 3, Lot File 04 D 114, U.S. Department of State, Washington,
+                        DC.</note>
+                </head>
+                <dateline>
+                    <date when="1980-05-02">May 2, 1980</date>
+                </dateline>
+                <p>SUBJECT: Actions Concerning Foreign Relations of the United States</p>
+                <p>On April 15, 1980, at your instruction, I sent you a package of materials<note n="29">See David Trask memorandum to Hodding Carter (with tabbed
+                        attachements), April 15, 1980, Folder “Dissent Channel Package (1980),” Box
+                        3, Lot File 04 D 114, U.S. Department of State, Washington, DC.</note>
+                    concerning proposed reactions to re-review of unpublished volumes in the <hi rend="underline">Foreign Relations</hi> series (FRUS). Events having
+                    markedly altered the general situation, HO wishes to substitute this package of
+                    recommendations for the earlier one. The most important of the new elements is
+                    the arrival of a request from the Central Intelligence Agency for the right to
+                    re-review all unpublished volumes. This request covers the items covered in Mr.
+                    Read’s directive.</p>
+                <p>HO’s view is that PA should resist re-review, given the consequent delay and
+                    expense, unless a convincing case is made for re-review in writing.</p>
+                <list>
+                    <item>In this connection HO proposes that you send the draft memorandum to Mr.
+                        White of the CIA attached as Tab 2.<note n="30">Not printed.</note> The
+                        latter rejects the CIA request for re-review.</item>
+                    <item>HO suggests further that you send an action memorandum to Mr. Read
+                        requiring the CDC to cease interfering with HO’s pursuit of declassification
+                        decisions in other agencies. This draft is attached as Tab 3.<note n="31">This attachment is labeled Tab 6. Printed as Document 10.</note>
+                    </item>
+                    <item>HO also proposes that you send a memorandum to Mr. McManaway concerning
+                        the schedule of re-review. This draft memorandum is attached as Tab 4.<note n="32">Not printed.</note>
+                    </item>
+                </list>
+                <p>In addition to these actions, which follow logically from prior activities at the
+                    CDC-bureau level, HO recommends certain initiatives before the Oversight
+                    Committee that was created to monitor and to control the workings of the new
+                    system of central declassification review in the Department. Pursuit of these
+                    initiatives is called for at the present time because the principle<pb n="2"/>
+                    of openness is likely to carry greater weight at that level than in dealings
+                    with the CDC or the bureaus and because PA can then regain the initiative in
+                    discussions relating to FRUS. HO does not propose to stop actions at lower
+                    levels; rather, it proposes that PA act simultaneously at another higher level.
+                    Failure to act now at the higher level might render efforts at lower levels
+                    nugatory.</p>
+                <p>Specifically, HO proposes four initiatives to be undertaken in the Oversight
+                    Committee:</p>
+                <list>
+                    <item>A briefing of the Oversight Committee to acquaint it with the function of
+                        the Foreign Relations series and its present circumstances. Attached as Tab
+                        5 is a brief summary of the information that might be communicated to the
+                        Oversight Committee.<note n="33">Not printed.</note>
+                    </item>
+                    <item>Discussion of numerous weaknesses in the Department’s efforts to undertake
+                        centralized declassification review. The system has not been fully
+                        implemented, especially those aspects of it designed to insure that all
+                        interested parties have an opportunity to contribute to the determination of
+                        policies and procedures relating to classification and declassification.
+                        Moreover, the Classification/ Declassification Center (CDC) has undertaken a
+                        number of initiatives on its own motion without appropriate prior
+                        discussions. Attached as Tab 6 is a memorandum outlining the weaknesses of
+                        the system at present.<note n="34">This attachment is labeled Tab 3. Not
+                            printed.</note>
+                    </item>
+                    <item>Presentation of a proposal to reaffirm the Department’s traditional
+                        opposition to presentation of US documents containing foreign government
+                        information (FGI) to other nations for any purpose, whether consultation or
+                        review. HO’s views on FGI are attached as Tab 7.<note n="35">Not
+                            printed.</note>
+                    </item>
+                    <item>Discussion of a proposed revision of 2 FAM 1350 intended to take recent
+                        changes in policy and procedure into consideration. The proposed revision is
+                        attached as Tab 8.<note n="36">Not printed.</note>
+                    </item>
+                </list>
+                <p>HO believes that delay in taking this integrated package of actions works to the
+                    disadvantage of PA; it urges an early decision. I am eager to discuss these
+                    matters with you at your earliest convenience.</p>
+            </div>
+            <milestone unit="section" rend="hr"/>
+            <div type="document" xml:id="d10">
+                <head>10. Action Memorandum From the Assistant Secretary of State for Public Affairs
+                    (Hodding Carter III) to the Under Secretary of State for Management (Ben
+                        Read)<note n="37">Source: Folder “Documents Relating to the Re-Review of
+                        Foreign Relations, 1950-1954 (1980),” Box 3, Lot File 04 D 114, U.S.
+                        Department of State, Washington, DC. Attached, as Tab 6, to David Trask
+                        memorandum to Hodding Carter, May 2, 1980, Folder “Documents Relating to the
+                        Re-Review of Foreign Relations, 1950-1954 (1980),” Box 3, Lot File 04 D 114,
+                        U.S. Department of State, Washington, DC. A handwritten notation, “Not
+                        sent,” presumably written by Trask, appears at the top of the first page of
+                        the memorandum. Although this copy of the memorandum is dated May 2, another
+                        copy (that also has a handwritten “Not sent” notation), in Folder “Dissent
+                        Channel Package (1980),” Box 3, Lot File 04 D 114, U.S. Department of State,
+                        Washington, DC, is dated May 6. In addition, David Trask memorandum to
+                        Elaine Morton, July 7, 1980, Folder “Dissent Channel Package (1980),” Box 3,
+                        Lot File 04 D 114, U.S. Department of State, Washington, DC includes a
+                        description of the same memorandum and gives the date as May 6.</note>
+                </head>
+                <dateline>
+                    <date when="1980-05-02">May 2, 1980</date>
+                </dateline>
+                <p>SUBJECT: CDC, the <hi rend="underline">Foreign Relations</hi> series, and the
+                    Declassification Muddle</p>
+                <p>
+                    <hi rend="underline">BACKGROUND</hi>
+                </p>
+                <p>Since 1978 PA and HO vigorously supported a centralized declassification program
+                    in A/CDC. We played the leading role in shaping the design of the institution to
+                    allow the Department to implement E.O. 12065. HO has worked to select the
+                    documentary sample from which the CDC is to frame Department declassification
+                    guidelines. HO prepared detailed, classified guidelines to be used to permit
+                    transfer of 1950-1954 Department records to the National Archives and arranged
+                    their clearance in the Department. PA and HO reluctantly agreed to retroactive
+                    review of documents already carefully declassified under previous policies and
+                    procedures. HO met all of CDC’s requests for re- sources to expedite retroactive
+                    review in the hope of mitigating the impact upon the ongoing <hi rend="underline">Foreign Relations</hi> publication program. HO has tried to
+                    work closely with the CDC in establishing appropriate security handling
+                    procedures for historical documents in order to permit prompt, orderly
+                    processing of the <hi rend="underline">Foreign Relations</hi> series.</p>
+                <p>So far, PA’s efforts to assure timely and proper adherence to E.O. 12065 have
+                    been largely unavailing. The primary obstacle is a series of extemporized steps
+                    taken by CDC that (a) have brought production of the <hi rend="underline">Foreign Relations</hi> series to a halt; (b) thrown publication plans for
+                    1980, 1981 and 1982 into confusion, and (c) seriously compromised the
+                    Department’s ability to attain a twenty-year line in declassification.</p>
+                <pb n="2"/>
+                <p>
+                    <hi rend="underline">Halt in Production of the Foreign Relations Series</hi>
+                </p>
+                <p>All thirty <hi rend="underline">Foreign Relations</hi> volumes for the period
+                    1950-54 have been carefully reviewed for declassification in the Department,
+                    following time-tested procedures. Other agencies and governments have cleared
+                    several of them. No other agency or foreign government has objected to these
+                    procedures, but the CDC unilaterally decided that previous review of the 1950-54
+                    material was inadequate. Although no showing of inadequacy was forthcoming, PA
+                    acquiesced in the re-review of volumes not yet fully reviewed by all concerned
+                    parties.</p>
+                <p>Since that re-review was initiated the CDC has expanded its scope, again
+                    unilaterally and without a showing of need, to include re-review of <hi rend="underline">Foreign Relations</hi> volumes that are already fully
+                    declassified and nearing publication. The result has been a halt in issuance of
+                    one of the major products of this Bureau. The result will cast serious doubt on
+                    the readiness of this Department to carry out the will of this Administration
+                    concerning open government.</p>
+                <p>
+                    <hi rend="underline">Disruption of publication plans for 1980, 1981 and
+                        1982</hi>
+                </p>
+                <p>Partly because of the CDC’s unilateral decision to reinvent the wheel in
+                    declassifying 1950-54 materials, and partly because of the CDC’s decision to
+                    delay review of the post-1954 material, PA’s publication plans for the next
+                    three years have been thrown into confusion. The CDC’s recommendation that one
+                    volume on the verge of publication be withheld not only prevents public access
+                    to it, but also must necessarily result in delays in re-review of later material
+                    because the relevant documentation is thirty years old and must be presented to
+                    the secretary for certification before further withholding can legally occur.
+                    Re-review of materials already declassified by the State Department means that
+                    this Bureau will have to halt review on volumes already in progress at the NSC,
+                    since the NSC will act only on materials that have already been finally acted
+                    upon by the constituent <pb n="3"/>agencies. Other volumes poised for
+                    transmission for NSC declassification review must be held back. Finally,
+                    activity on 1955-57 materials now in the CDC is necessarily scaled back and held
+                    up pending a review of the earlier material.</p>
+                <p>
+                    <hi rend="underline">The Department’s Goal of Attaining the 20-Year
+                        Declassification Line</hi>
+                </p>
+                <p>Your directive of November 20, 1978 stipulated that the Department attain a
+                    twenty-year line in declassification as soon as possible but in no case later
+                    than the end of 1985. Five and a half years before the deadline, the CDC is
+                    still reviewing documents dated as early as 1950. I do not deny that attainment
+                    of the goal is possible, but a determined effort is clearly called for--a much
+                    more determined effort than has been made so far.</p>
+                <p>
+                    <hi rend="underline">DISCUSSION</hi>
+                </p>
+                <p>The Department’s declassification effort in the area of systematic review is
+                    seriously flawed as presently constituted.</p>
+                <list>
+                    <item>
+                        <label>1.</label> The CDC has disrupted the existing declassification
+                        system. <list>
+                            <item>
+                                <label>a.</label> The CDC has failed to formulate a rationale for
+                                the need to re-review previously declassified materials. Earlier
+                                action, though far from perfect, was conducted under a clear set of
+                                guidelines defining the goals and purposes of the <hi rend="underline">Foreign Relations</hi> series and of systematic
+                                review generally. In conducting a re-review, the CDC has dispensed
+                                with those guidelines and has substituted nothing for them.</item>
+                            <item>
+                                <label>b.</label> The CDC has also failed to follow the procedures
+                                defined in your enabling memorandum of November 20, 1978. Had the
+                                CDC followed your directive, there might have been a more sober
+                                assessment of the need for re-review. To the best of my knowledge,
+                                no meeting of either the Coordination Committee or the Oversight
+                                Committee, both intended to represent all concerned parties and to
+                                    <pb n="4"/>provide the policy guidance so lacking in recent CDC
+                                decisions, has occurred in the last few months. If one or both of
+                                these committees had met, basic issues concerning systematic review
+                                and the <hi rend="underline">Foreign Relations</hi> series could
+                                have been debated by all concerned parties.</item>
+                            <item>
+                                <label>c.</label> The CDC has demolished existing procedures
+                                relating to review of foreign government information but has failed
+                                to devise a new method for dealing with declassification of such
+                                material. During the past several months the CDC has signalled to
+                                the British Commonwealth countries its willingness to abandon
+                                decades of prior practice by permitting those countries to review
+                                American documents scheduled for inclusion <hi rend="underline">in
+                                    the Foreign Relations</hi> volumes. This review was to be
+                                undertaken on the pretext that it was an appropriate means of
+                                applying the “foreign government information” clauses of E.O. 12065.
+                                Attempted revision of procedures was begun without the benefit of
+                                consultation either through established mechanisms in the Department
+                                or through the Office of the Historian, whose work it directly
+                                affects. It was advanced to Commonwealth representatives on the most
+                                misguided of premises--that Commonwealth anxieties about the FOI
+                                impact on recent intelligence information given to the US in
+                                confidence could be extrapolated to cover thirty-year-old historical
+                                documents scheduled for publication in <hi rend="underline">Foreign
+                                    Relations</hi>. Available evidence suggests that unsolicited
+                                proposals from US officials to reverse long-standing and well-tested
+                                clearance procedures for <hi rend="underline">Foreign Relations</hi>
+                                documents have caused puzzlement among representatives of the
+                                Commonwealth countries. It is highly improbable that the
+                                Commonwealth countries will adopt a reciprocal policy in response to
+                                these proposals.</item>
+                            <item>
+                                <label>d.</label> The CDC has delayed transfer of 1950-54 records to
+                                the National Archives. Although guidelines for systematic review at
+                                Archives of the 1950-54 materials have been completed and approved
+                                in the Bureaus for several months, the CDC has delayed their
+                                transmission, pending a test of their adequacy. While this is part
+                                and parcel of the re-review to which this Bureau has already
+                                acquiesced, further delay will postpone transfer of records to
+                                Archives until 1981. Besides the obvious<pb n="5"/> retrogression in
+                                the Department’s efforts to project a more open image, this
+                                postponement will require the Secretary to certify the withholding
+                                of thousands of pages of thirty-year-old documents that earlier
+                                reviewers judged releasable.</item>
+                            <item>
+                                <label>e.</label> The CDC has interfered with procedures for
+                                acquiring other-agency clearances on documents destined for
+                                publication in the <hi rend="underline">Foreign Relations</hi>
+                                series. Previous practices, sanctioned by Department regulations,
+                                whereby HO assumes responsibility for acquiring declassification
+                                action from other agencies have never elicited the slightest protest
+                                from elsewhere in the government. For reasons unknown the CDC,
+                                reversing a position taken in its formative stages, has recently
+                                involved itself in declassification activities of other agencies on
+                                    <hi rend="underline">Foreign Relations</hi> materials. The
+                                result, wholly unfavorable, has been confusion over who has
+                                authority in this domain.</item>
+                        </list>
+                    </item>
+                    <item>
+                        <label>2.</label> The CDC has yet to replace the disrupted declassification
+                        system with a viable substitute. <list>
+                            <item>
+                                <label>a.</label> The CDC has failed to activate a fully centralized
+                                system for declassification. Despite your memorandum of November 20,
+                                1978, no detailed guidance for review of historical documentation
+                                selected for inclusion in <hi rend="underline">Foreign
+                                    Relations</hi> and the documentary sample has been developed
+                                through authorized channels.</item>
+                            <item>
+                                <label>b.</label> The CDC has yet to develop through authorized
+                                channels a full definition of the term “foreign government
+                                information” as expressed in E.O. 12065.</item>
+                            <item>
+                                <label>c.</label> The CDC has yet to transfer a single document to
+                                the Archives’ custody under guidelines developed by means of the
+                                review.</item>
+                            <item>
+                                <label>d.</label> The CDC has yet to complete systematic review
+                                declassification on a single <hi rend="underline">Foreign
+                                    Relations</hi> volume for the 1955-60 period, despite having
+                                been in existence and at least partly staffed for nearly a year.
+                                Start-up delays in such a complex system are inevitable, but the
+                                projected schedule for review for the 1955-57 period has<pb n="6"/>
+                                slipped badly and no work at all has been done on the 1958-60
+                                documentation. HO has committed two work years toward meeting its
+                                agreed goal of gathering a representative sample of documents from
+                                the period 1958- 1960 for CDC review, a sign of its commitment to
+                                centralized declassification review.</item>
+                        </list>
+                    </item>
+                </list>
+                <p>
+                    <hi rend="underline">Downgrading of Historical Documentation</hi>
+                </p>
+                <p>Related to the delay problem is the question of HO’s handling of classified
+                    information. In preparing the <hi rend="underline">Foreign Relations</hi>
+                    series, HO maintains at any given time some 1,500,000 pages of documents that
+                    are twenty to thirty years old. <hi rend="underline">HO transmits in the average
+                        year at least 50,000 pages of classified documents twenty to thirty years
+                        old. Much of this material is Top Secret. All but a small fraction of it is
+                        eventually declassified. For many years SY has recognized this documentation
+                        as historical and eligible for handling as Confidential. Since 1961 HO has
+                        operated under a formal waiver permitting the handling of all historical
+                        documentation collected for preparation of Foreign Relations to be handled
+                        as Confidential.</hi>
+                    <note n="38">These sentences are emphasized in the margin.</note> Early this
+                    year HO made an effort to bring its procedures more into line with the
+                    Department’s new classification and declassification program. It sought from SY
+                    an extension and reaffirmation of the waiver for historical documents. SY
+                    referred the request to the CDC, which has yet to respond. The absence of denial
+                    of the waiver will have a disastrous effect upon the <hi rend="underline">Foreign Relations</hi> program. Approximately sixteen volumes in linotype
+                    at the GPO would have to be stored in a special handling facility that may not
+                    even be available and would surely be astronomically expensive. Twelve volumes
+                    in manuscript would have to be held in the Department in appropriate storage
+                    facilities, pending long-delayed CDC declassification action. Some $50,000 in
+                    outside editing contracts let by A/FAIM/PS would have to be suspended because
+                    these commercial editing firms do not have top secret clearance and would not
+                    attempt to obtain it. An additional $50,000 in feasibility contracts for
+                    commercial word processing of <hi rend="underline">Foreign Relations</hi>
+                    volumes would also have to be suspended in the absence of either cleared
+                    manuscript or handling waivers. These production delays<pb n="7"/> would be
+                    compounded because of massive reassignment of HO resources to identifying,
+                    labelling, storing, and listing at least 500,000 pages of Top Secret documents
+                    from twenty to thirty years old. The <hi rend="underline">Foreign Relations</hi>
+                    publication would be effectively ended; it would be impossible to resume
+                    publication prior to 1982.</p>
+                <p>
+                    <hi rend="underline">RECOMMENDATIONS</hi>
+                </p>
+                <p>Effective declassification and foreign policy publication programs are essential
+                    to the overall operation of the Department of State. Disarray and delay in
+                    either of these programs will harm the Department in its dealings with Congress,
+                    in its efficient internal operations, and in its relationships with key public
+                    constituencies. A fully operational centralized declassification system must be
+                    brought to bear at the earliest possible moment. It is no less important that
+                    long-established and widely respected Department official publication <hi rend="underline">Foreign Relations of the United States</hi> continues to be
+                    published on a timely and efficient basis. In order to achieve these twin goals,
+                    I recommend that you authorize or direct the following actions:</p>
+                <list>
+                    <item>
+                        <label>1.</label> That HO and CDC work out an accelerated review schedule
+                        for the declassification evaluation of materials for <hi rend="underline">Foreign Relations</hi> volumes for 1955-1957 by the end of 1980.</item>
+                    <item>
+                        <label>2.</label> Convene regular meetings of the Coordination Committee of
+                        CDC to assure building-wide understanding of an participation in the main
+                        lines of the new Department centralized declassification program.</item>
+                    <item>
+                        <label>3.</label> Carry forward the retroactive review of previously
+                        declassified Foreign Relations volumes but confine that review to the 1952-
+                        1954 volumes; create a special task force of CDC, HO, and the Bureaus to
+                        oversee the review and establish guidelines for it.</item>
+                    <pb n="8"/>
+                    <item>
+                        <label>4.</label> Charge the Office of the Historian with the responsibility
+                        for securing declassification of other agency documents proposed for
+                        publication in the official <hi rend="underline">Foreign Relations</hi>
+                        volumes; procedures will be established to assure that CDC is kept fully
+                        informed of declassification decisions by other agencies as well as to
+                        permit reference by CDC to HO of documents with other agency equity.</item>
+                    <item>
+                        <label>5.</label> Suspend negotiations with foreign governments regarding
+                        the application of foreign government information criteria as it applies to
+                        the declassification of documentation intended for publication in the
+                        official Foreign Relations record; assure that HO will be a principal
+                        Department participant in any renewal of such negotiations; place the
+                        question of foreign government information on the agenda of the Coordinating
+                        Committee and the Oversight Committee.</item>
+                    <item>
+                        <label>6.</label> Give final approval to the Department’s classified
+                        declassification guidelines for 1950-1954 which were drafted by HO and
+                        reviewed and cleared by the Bureaus; make the earliest possible arrangements
+                        for the transfer of the 1950-1954 record block, subject to National Archives
+                        approval of the classified guidelines; encourage CDC to monitor this record
+                        block closely and make in-depth spot checks as appropriate; encourage CDC
+                        and FAIM to work expeditiously on this matter in order to obviate violation
+                        of the E.O. 12065 on thirty-year-old documents and to minimize the need for
+                        the Secretary to confirm their protection.</item>
+                    <item>
+                        <label>7.</label> Direct CDC to provide HO with the necessary waiver
+                        expeditiously for the handling of Top Secret documents as
+                        confidential.</item>
+                </list>
+            </div>
+            <milestone unit="section" rend="hr"/>
+            <div type="document" xml:id="d11">
+                <head>11. Memorandum From the Historian (David Trask) to the Deputy Assistant
+                    Secretary of State for Public Affairs (William Dyess)<note n="39">Source: Folder
+                        “Dissent Channel Package (1980),” Box 3, Lot File 04 D 114, U.S. Department
+                        of State, Washington, DC.</note>
+                </head>
+                <dateline>
+                    <date when="1980-05-22">May 22, 1980</date>
+                </dateline>
+                <p>SUBJECT: Delay in Publication of FRUS Volumes, 1950-1954</p>
+                <p>After careful consultation and reflection, I have come to the firmest conclusion
+                    that decisive action should be taken immediately to stop all tampering with
+                    unpublished volumes in the <hi rend="underline">Foreign Relations</hi> series,
+                    1950-1954, both within the Department and at the Central Intelligence
+                    Agency.</p>
+                <p>I should like to meet with you at your earliest convenience to discuss this
+                    matter. If we can agree upon a course of action, I would urge that it be
+                    proposed to Mr. Carter as soon as possible. Should we differ, I would hope that
+                    we could meet very soon with Mr. Carter to deliberate further.</p>
+                <p>
+                    <hi rend="underline">Analysis</hi>
+                </p>
+                <p>Revocation of clearances and re-review of all unpublished volumes entails
+                    extensive delays in publication, considerable extra expenditure, and a
+                    catastrophic setback for open government. Given these considerations re-review
+                    should obviously not occur unless excellent reasons are adduced to justify it.
+                    The Office of the Historian has yet to receive any such justifications, either
+                    from within the Department or from other agencies. Vague generalizations and
+                    unsystematic impressions do not constitute “sound justification.”</p>
+                <p>Re-review has effectively aborted publication of the <hi rend="underline">Foreign
+                        Relations</hi> series. Given delays resulting from the process of re-review,
+                    only one volume can conceivably be published during the remainder of 1980. Even
+                    this book, the fourth volume in the set for 1950, had been held up, although it
+                    was already cleared, printed, and bound. If re-review leads ultimately to
+                    revocation of clearances, the process of reprinting and rebinding will preclude
+                    its release before next year at the earliest, despite the fact that the material
+                    in it is already 30 years old. In all probability few if any volumes will be
+                    ready for publication during 1981 because of the delays that will result from
+                    re-review. (For additional details see note below.)</p>
+                <pb n="2"/>
+                <p>The longer PA postpones its reaction against re-review, the less likely it is
+                    that the bureau can head off a catastrophe for the <hi rend="underline">Foreign
+                        Relations</hi> series. Unjustified delay suborns the Administration’s policy
+                    of open government. Academic users of the series and others will shortly
+                    register strong complaints, some of them to the Congress, unless the Department
+                    corrects its error. In the present circumstances the Department gives the
+                    appearance of scuttling the series. Members of the academic community have
+                    already begun to express this view.</p>
+                <p>In the absence of convincing justification for further delay, we propose to
+                    reverse the Department’s order to re-review the unpublished volumes for
+                    1950-1954 and to oppose any such suggestion by other agencies.</p>
+                <p>
+                    <hi rend="underline">Action</hi>
+                </p>
+                <list>
+                    <item>
+                        <label>1.</label> The Historian should immediately inform the Advisory
+                        Committee about circumstances that have halted publication of the Foreign
+                        Relations series. Garbled versions are already circulating. To correct
+                        misapprehension and to avoid the charge of seeking to cover up an
+                        unjustified action such notice should be authorized as soon as possible. A
+                        draft of such a letter is appended at Tab 1.<note n="40">Not printed.</note>
+                    </item>
+                    <item>
+                        <label>2.</label> The Assistant Secretary for Public Affairs should
+                        immediately write to Mr. White at the CIA, rejecting the proposal of
+                        re-review from CIA. Attached as Tab 2 is copy of a draft of such a letter
+                        submitted earlier.<note n="41">Not printed.</note> This letter could emanate
+                        directly from the Office of the Historian, but response from the Bureau
+                        would presumably carry more weight.</item>
+                    <item>
+                        <label>3.</label> The Assistant Secretary should immediately send a
+                        memorandum to Mr. Vest concerning the contents of volume IV for 1950. This
+                        volume was supposed to appear at the end of April but was delayed without a
+                        showing of the need to hold it up. Attached as Tab 3 is a draft of such a
+                        memorandum submitted earlier.<note n="42">Not printed.</note>
+                    </item>
+                    <item>
+                        <label>4.</label> The Assistant Secretary should immediately request a
+                        meeting of the Oversight Committee. The Committee would be asked to consider
+                        the suspension of re-review within the Department. See Tab 4.<note n="43">Not printed.</note>
+                    </item>
+                    <item>
+                        <label>5.</label> The Assistant Secretary at the appropriate time would ask
+                        for further meetings of the Oversight Committee to consider:<pb n="3"/>
+                        <list>
+                            <item>
+                                <label>(a)</label> a proposal concerning foreign government
+                                information submitted earlier (Tab 5)<note n="44">Not
+                                    printed.</note>;</item>
+                            <item>
+                                <label>(b)</label> a proposal to revise 2 FAM 1350, a draft of which
+                                was submitted earlier (Tab 6)<note n="45">Not
+                                printed.</note>;</item>
+                            <item>
+                                <label>(c)</label> a proposal to insure that the arrangements for
+                                centralized declassification review are followed to the letter. A
+                                memorandum noting deficiencies in this regard was submitted earlier
+                                (Tab 7)<note n="46">Not printed.</note>.</item>
+                        </list>
+                    </item>
+                </list>
+                <p>The measures that should be presented to the Oversight Committee would do much to
+                    correct abuse of the system of centralized declassification review. It has
+                    broken down because it hasn’t been operated according to the directive issued by
+                    M. The Office of the Historian does not oppose centralized declassification
+                    review as such. It insists that the process has been terribly mismanaged and
+                    that drastic action must be taken to avoid further damage. The Oversight
+                    Committee was set up precisely to deal with the type of complaints that have
+                    surfaced in recent weeks.</p>
+                <p>
+                    <hi rend="underline">NOTE</hi>
+                </p>
+                <p>There follows a discussion of the delays that will result from re-review of
+                    unpublished volumes in the <hi rend="underline">Foreign Relations</hi>
+                    series.</p>
+                <list>
+                    <item>
+                        <label>1.</label> The <hi rend="underline">Foreign Relations</hi> series
+                        covering 1950-1954 includes thirty volumes. Of these six have been published
+                        for 1950, three for 1951, and one for 1952-1954, a total of ten. Twenty
+                        volumes are in various stages of production.</item>
+                    <item>
+                        <label>2.</label> Four volumes have reached the page-proof stage. These are
+                        IV-1950; III-1951; V-1951; V-1952-1954. The Office of the Historian planned
+                        to release these volumes between April and October 1980.</item>
+                    <item>
+                        <label>3.</label> At least eight volumes have reached the galley-proof stage
+                        and clearances have been completed or nearly completed. These are VII-1951;
+                        IV-1951; I-1952-1954; IV-1952-1954; IX- 1952-1954; XI-1952-1954; XIII,
+                        1952-1954; XVI-1952-1954. The Office of the Historian planned to release
+                        these volumes during 1981.</item>
+                </list>
+                <p>Re-review has thrown this schedule into complete disarray. Delay results
+                    from:</p>
+                <pb n="4"/>
+                <list>
+                    <item>
+                        <label>1.</label> The time required for CDC to complete the re-review. No
+                        re-review of any unpublished volumes has yet been completed, despite the
+                        passage of two months.</item>
+                    <item>
+                        <label>2.</label> When denials are reported to the Office of the Historian,
+                        it will appeal certain of them, a process that could take several months or
+                        longer. This procedure might entail reference of some materials to other
+                        agencies.</item>
+                    <item>
+                        <label>3.</label> If bound volumes have to be altered as a consequence of
+                        re-review, a lengthy and expensive handicraft process must be used to
+                        correct 4000 individual books.</item>
+                    <item>
+                        <label>4.</label> If printed pages must be corrected, it becomes necessary
+                        to reprint entire “signatures” (usually thirty-two pages) or even larger
+                        segments. Reworking of volumes in page proofs will require a minimum of four
+                        months to a maximum of a year. Volumes in galley proofs will require at
+                        least a year of processing after completion of clearance.</item>
+                </list>
+                <p>Re-review insures that only one volume can conceivably be published in 1980,
+                    namely IV-1950. It is already bound. If revisions are required, It is most
+                    unlikely that the changes could be completed in time to permit publication
+                    before 1981.</p>
+                <p>Two other volumes in page proofs (III-1951 and V-1952-1954) might conceivably be
+                    releasable in 1981, but the prospect appears dim at this time.</p>
+                <p>Another volume (V-1951) contains information relating to Iran and may be in limbo
+                    for an indeterminate time.</p>
+                <p>It is most unlikely that any volume now in galley proofs can be published before
+                    1982, given the delays that will result from re-review.</p>
+                <p>The best possible situation would permit publication of one volume in 1980 and
+                    three volumes in 1981.</p>
+                <p>The worst possible case would be no volumes in 1980 and only one to three volumes
+                    in 1981.</p>
+                <p>If the best possible outcome occurs, the rate of publication over the period
+                    1977-1981 would be:<pb n="5"/>
+                    <list>
+                        <item>
+                            <label>1977</label> 9 volumes</item>
+                        <item>
+                            <label>1978</label> 2 volumes</item>
+                        <item>
+                            <label>1979</label> 2 volumes</item>
+                        <item>
+                            <label>1980</label> 2 volumes (instead of 5)</item>
+                        <item>
+                            <label>1981</label> 3 volumes (instead of 8)</item>
+                    </list> In the best possible case publication during the current Administration
+                    will have fallen from 26-27 years behind currency to 30-31 years behind
+                    currency. In contrast compilation will have improved from 25-23 years behind
+                    currency to approximately 20 years behind currency.</p>
+                <p>Delays in the publication of the <hi rend="underline">Foreign Relations</hi>
+                    series now result principally from slowness in declassification. If re-review
+                    takes place, the Office of the Historian could conceivably have as many as
+                    forty-eight completed but unpublished manuscripts in various stages of
+                    production (20 for 1950-54; 12 for 1955-1957; 16 for 1958-1960) on its hands by
+                    April 1981.</p>
+            </div>
+            <milestone unit="section" rend="hr"/>
+            <div type="document" xml:id="d12">
+                <head>12. Minutes of the Oversight Committee Meeting<note n="47">Source: Folder
+                        “Dissent Channel Package (1980),” Box 3, Lot File 04 D 114, U.S. Department
+                        of State, Washington, DC. The meeting was held on June 5, 1980.</note>
+                </head>
+                <dateline>
+                    <date when="1980-06-09">June 9, 1980</date>
+                </dateline>
+                <p>SUBJECT: <hi rend="underline">Foreign Relations</hi> Re-review</p>
+                <p>PRESENT:</p>
+                <list>
+                    <item>Robert Killer, M/MO, Chairman</item>
+                    <item>Samuel Gammon, M</item>
+                    <item>Clayton McManaway, A/CDC</item>
+                    <item>Laurence Pickering, A/CDC</item>
+                    <item>Paul Washington, PS</item>
+                    <item>William J. Dyess, PA</item>
+                    <item>David F. Trask, PA/HO</item>
+                    <item>William Z. Slany, PA/HO</item>
+                    <item>David M. Baehler, PA/HO</item>
+                </list>
+                <p>Agenda item 1.A.: Role of CDC -- status, schedule</p>
+                <p>Mr. McManaway opened the discussion by passing out a schedule for re-review
+                    according to which the CDC would be completed with <hi rend="underline">Foreign
+                        Relations</hi>, 1951 -54, by November 1, 1980. He emphasized that the CDC
+                    did not welcome the re-review task because it cost the CDC a lot of valuable
+                    reviewer time. But he felt re-review was essential because the Archives has
+                    indicated dissatisfaction with the 1950-54 guidelines. Mr. Manaway said that
+                    these guidelines were inadequate not because of a deficiency in the HO drafting
+                    of them but because the bureaus’ reviews of the volumes for this period were
+                    deficient. Because of this deficiency, the CDC will redraft the guidelines on
+                    the basis of the re-review. CDC is exploring the use of contractors for this
+                    purpose. Some discussion ensured over this proposal.</p>
+                <p>Having had the opportunity to examine the schedule Mr. McManaway passed out, Mr.
+                    Gammon raised the question of how much longer 1950, v. IV, would have to be
+                    withheld from publication on account of the Yugoslav material, now that Tito has
+                    died and the Soviets have yet to invade the country. Mr. McManaway said that he
+                    would raise the issue with Mr. Vest during a meeting they were to have on 1951,
+                    v. III, on Friday, June 6. Mr. Dyess said that he had looked at the questioned
+                    material and failed to find anything sensitive about it. He asked to go along
+                    with Mr. McManaway to the meeting with Mr. Vest. Mr. McManaway agreed, said he
+                    doubted that Mr. Vest would change his mind about 1950, IV, on Friday, but
+                    promised to keep after Mr. Vest on at least a monthly basis. Mr. Gammon and Mr.
+                    Miller both emphasized the urgency of this question.</p>
+                <pb n="2"/>
+                <p>A more general discussion ensued about how material deemed desensitized in the
+                    initial review can become re-sensitized under the pressure of new events. Mr.
+                    Dyess said that applied equally to volumes already published. No political
+                    repercussions have arisen from re-sensitization of already published records and
+                    it was unclear why they should arise from records about to be published. Mr.
+                    Miller responded with the observation that the act of publication can be
+                    construed abroad as a political statement on the part of the US government. Dr.
+                    Dyess then suggested that the schedule for CDC’s completion of the review and
+                    subsequent publication was very important because the implications went well
+                    beyond publication of FRUS to the whole question of sincerity about openness in
+                    government.</p>
+                <p>At that point Mr. Washington indicated that delays should not be a problem
+                    because someone in authority at GPO promised a 10-12 week turnaround from
+                    submission of cleared manuscript to published volumes. The HO representatives
+                    expressed great astonishment, asked if he meant 10-12 weeks for binding alone,
+                    and indicated past experience told us to expect a 10-12 month turnaround even
+                    after clearance of the galleys. It later turned out that Mr. Washington was
+                    talking about GPO capabilities, using its latest technology. It was noted that
+                    nearly all of the volumes in question were begun using the old technology, and
+                    the turnaround time under these circumstances was lengthening rather than
+                    improving.</p>
+                <p>Noting that Mr. Washington has referred to cleared material in making his
+                    projection, Mr. Trask asked for clarification on the classification status of
+                    cleared but still unpublished <hi rend="underline">Foreign Relations</hi>
+                    volumes. Does declassification occur at the point of clearance or at the point
+                    of publication? If the former, wouldn’t any FOI requester have the right to the
+                    already cleared galleys, creating the possibility of privileged access? If the
+                    latter, wouldn’t GPO have to continue its slow method of typesetting, using only
+                    cleared operators who must work on overtime? One suggestion was that the
+                    Department could consider the documents declassified at the point of clearance
+                    and still continue to deny them to FOI requesters on the ground that they are
+                    working papers. The consensus was that the CDC and PA should seek a written
+                    legal opinion from L on the question.</p>
+                <p>In a final comment, Mr. Trask alluded to the statement on the schedule that Mr.
+                    McManaway had passed out that re-review of certain volumes was “completed.” He
+                    said it could not be considered complete until HO received from CDC a formal
+                    listing of denials in the volumes in question. After some discussion about the
+                    desirability of informal talks, it was agreed that written denials would be the
+                    final step in the re-review process. Only upon receipt of these would HO
+                    initiate appeals.</p>
+                <pb n="3"/>
+                <p>Agenda item 1. B.: CIA reclearance issue.</p>
+                <p>Mr. Dyess recommended that CDC flag anything that it thinks should undergo
+                    re-review at CIA but that HO in accordance with regulations should continue to
+                    be responsible for communicating with CIA about any such material. Neither Mr.
+                    McManaway nor Mr. Miller saw the reason for using this channel, since CDC is in
+                    regular contact with CIA on other clearance questions in any case. Mr. McManaway
+                    proposed that CDC flag the appropriate records, then call someone over from CIA
+                    to have a look at them. Mr. Gammon thought that instead we should stick with the
+                    regulations and let HO handle the liaison with CIA on <hi rend="underline">Foreign Relations</hi> materials, despite Mr. McManaway’s claim that he had
+                    responsibility for all declassification activities in the Department. Mr. Miller
+                    agreed.</p>
+                <p>Agenda item 1. C.: Rule of HO -- plans, schedule</p>
+                <p>Mr. Trask presented the case against re-review, noting that delays would be
+                    extensive and costs would be astronomical. A schedule was circulated projecting
+                    HO’s specific volume publication dates under various conditions created by CDC’s
+                        re-review.<note n="48">Not located.</note> Mr. Trask thought the total cost
+                    of reviewing the 20 volumes in question would be upwards of $1 million. In view
+                    of these factors and the lack of a systematic justification for re-review, he
+                    stated that the decision to do so should be revoked.</p>
+                <p>Mr. Gammon and Mr. Miller rejected this proposal and said that re-review would
+                    continue.</p>
+                <p>Mr. Trask stated that the whole procedure has been decided on in a haphazard
+                    manner. He cited as an example the lack of thought given to any provision for
+                    appealing CDC decisions arrived at in the course of re-review. After some
+                    discussion a consensus emerged that the Oversight Committee would not serve as
+                    an appeals panel; rather, appeals would go through the normal chain of command:
+                    bureaus, under secretary for political affairs, deputy secretary, secretary. In
+                    this connection Mr. Trask noted that the E.O. called for the secretary’s
+                    certification of withholding 30 year old documents, that this requirement
+                    already applied to the material in 1950, v. IV, and that it soon would apply to
+                    vast amount of documentation awaiting submission to Archives. Mr. McManaway
+                    interrupted with the statement that this certification provision only meant the
+                    secretary had to certify withholding categories of documents, not individual
+                    documents.</p>
+                <p>Returning to the question of delay, Mr. Pickering thought that the CDC could meet
+                    HO’s original publication schedule after it completed the first few volumes
+                    scheduled for re-review. He and Mr. McManaway failed to understand how HO could
+                    justify the publication schedule just passed around. Mr. Slany explained it in
+                        terms<pb n="4"/> of the delay caused by removing volumes from the clearance
+                    and production pipeline and then, after CDC re-review, trying to get them back
+                    on track. The sense of urgency that HO has sought to instill in agencies on the
+                    need for clearance is also lost by this “loop” within the cycle. Mr. McManaway
+                    agreed to help re-instill this sense of urgency, although he claimed that the
+                    NSC, for one, did not even know that the State Department was conducting a
+                    re-review. On the production question it was agreed that HO, CDC, and PS would
+                    jointly work out a schedule based on the 12 week GPO turnaround that Mr.
+                    Washington had claimed was possible.</p>
+                <p>Adverting to the cost question, Mr. McManaway thought that $1 million was far too
+                    high a figure for review costs. In any case, Mr. Miller thought that $1 million
+                    would not be too high even in a period of budget stringency if it saved us some
+                    foreign policy difficulties. He thought that publication of post-World War II
+                    records would lead to many more such difficulties than had publication of
+                    earlier records. This is because there is continuity between the early postwar
+                    years and the institutions that developed then and the present. Mr. Baehler said
+                    that logically what Mr. Miller said stands up, but that HO has been publishing
+                    postwar documents for fifteen years now and has yet to hear a peep of protest
+                    from foreign governments reflecting foreign policy difficulties. Until we do, we
+                    remain unconvinced of the materials’ sensitivity.</p>
+                <p>Agenda item 2.A.: cost problems -- PBR, HO</p>
+                <p>All agreed that this point had already been covered.</p>
+                <p>Agenda item 2.B.: Image problems</p>
+                <p>Mr. Trask pointed out that the scholarly community was starting to learn of the
+                    re-review and the incumbent delays, albeit in a distorted fashion. He explained
+                    that this group’s influence on the Hill is out of proportion to its size, that
+                    its contacts with the right Representatives and Senators on openness issues
+                    could make political trouble for President Carter, and that such contacts at the
+                    least could cause invoking consultations under the McGovern Amendment.<note n="49">Section 120 of the FY 1979 authorization for the Department of State
+                        states “(a) The Congress finds that the Department of State publication
+                        ‘Foreign Relations of the United States’ plays an important role in making
+                        the documentary record of the United States foreign relations avilable to
+                        the Congress and the American public. (b) The Secretary of State shall
+                        therefore insure that publication of the ‘Foreign Relations of the United
+                        States’ volume is continued in such a manner as will maintain high standard
+                        of comprehensive documentation already established by past volumes.” Trask
+                        described the amendment as the result of lobbying undertaken by academic
+                        historians to “preclude adoption of microform supplements as a means of
+                        adding to the amount of publication.” See “Briefing Paper #8: McGovern
+                        Amendment (David F. Trask),” [no date], Folder “Foreign Relations 2,” Box 2,
+                        Arthur D. Kogan Papers, Lot 83 D 230, RG 59, NARA II.</note> From a more
+                    general standpoint, re-review threatens to put the US behind the UK in opening
+                    records to the public. Mr. Gammon thought that this outcome would be disastrous.
+                    In order to halt distorted views from spreading through the scholarly community,
+                    Mr. Trask emphasized, there was urgent need to inform the Advisory Committee of
+                    exactly what was happening. No one demurred. Mr. Trask also noted that the
+                    Department can use the opportunity of the SHAFR meeting in August to inform the
+                    profession of the status of the <hi rend="underline">Foreign Relations</hi>
+                    series and of the 1950-54 record block.</p>
+                <pb n="5"/>
+                <p>Mr. Gammon and Mr. Miller thought it would be a good idea to use Mr. Read’s talk
+                    at the SHAFR meeting to present a common Departmental position on the re-review
+                    question. Once the text of the talk is drafted and agreed to within the
+                    Department, we can draw on it to inform the Advisory Committee, to respond to
+                    the Gardner inquiry,<note n="50">See Lloyd Gardner letter to George McGovern and
+                        Frank Church, May 6, 1980 and George McGovern letter to Brian Atwood, May
+                        14, 1980 in Folder “Dissent Channel Package (1980),” Box 3, Lot File 04 D
+                        114, U.S. Department of State, Washington, DC.</note> and to answer other
+                    questions about the rationale for re-review. The exact procedures for devising a
+                    common position were left unclear. Mr. Miller noted that HO had action on the
+                    Gardner letter, implying that the draft might serve as a starting point for the
+                    rationale. Mr. Trask thought the Gardner letter would have to be an <hi rend="underline">ad hoc</hi> response. Mr. Dyess said that the rationale
+                    should be cleared in M and L. Who would draft the rationale was left unclear.
+                    Regardless of who drafts it, the meeting scheduled at the Department on August
+                    14 for the SHAFR attendees would be another good opportunity to present the
+                    Department’s rationale.</p>
+                <p>Agenda item III: Other issues.</p>
+                <p>Mr. Trask identified two areas he wanted to discuss:</p>
+                <p>1. Problems of delay - Mr. Trask described the 1955-onward review. In response to
+                    Mr. McManaway’s question as to what he was getting at, he said the problem is
+                    that CDC is seriously behind in reviewing post-1954 records. Mr. McManaway
+                    disagreed, saying that it will not be long until the CDC is well ahead of HO. He
+                    repeated that CDC did not want to do the re-review but that he was unable to
+                    accept responsibility for release of material at Archives under the guidelines
+                    developed from the initial review. He recounted that he had so informed Mr.
+                    Blair and had asked him if PA wanted to accept responsibility. When Mr. Blair
+                    said no, Mr. McManaway had no choice but to conduct a re-review.</p>
+                <p>2. Modes of consultation - Mr. Trask noted that the effects of re-review,
+                    previously described, might have been avoided if CDC had adhered to the
+                    procedures devised for consultation on all policy issues before taking the
+                    re-review decision. Consultation bodies included the Coordination Committee and
+                    the Oversight Committee. Mr. McManaway replied angrily that the Coordination
+                    Committee had been set up only to ease the transition from the old to the new
+                    declassification system and that he should know since he wrote the
+                        directive.<note n="51">the Directive in question establishes the
+                        Coordination Committee as a permanent body. (Footnote in original.)</note>
+                    Mr. Trask said that even if he accepted Mr. McManaway’s interpretation, there
+                    was a perception extant that the CDC had acted in a very cavalier manner in
+                    reaching the re-review decision. Mr. Trask concluded with an expression of
+                    concern that the Oversight Committee also had not previously met to discuss the
+                    issue. The meeting then adjourned.</p>
+            </div>
+            <milestone unit="section" rend="hr"/>
+            <div type="document" xml:id="d13">
+                <head>13. Memorandum From the Historian (David Trask) to the Director of the Policy
+                    Planning Staff (Anthony Lake)<note n="52">Source: Folder “Dissent Channel
+                        Package (1980),” Box 3, Lot File 04 D 114, U.S. Department of State,
+                        Washington, DC.</note>
+                </head>
+                <dateline>
+                    <date when="1980-06-11">June 11, 1980</date>
+                </dateline>
+                <p>SUBJECT: Use of Dissent Channel: Objection to the Policy of Re-reviewing
+                    Classified Information Previously Cleared for Publication in <hi rend="underline">Foreign Relations of the United States</hi>
+                </p>
+                <p>I make use of the dissent channel to appeal the Department’s decision to revoke
+                    all declassification actions previously taken on twenty unpublished volumes of
+                    the series <hi rend="underline">Foreign Relations of the United States</hi> and
+                    to re-review all such actions. Such a policy has no precedent. It can be
+                    justified only in the most extraordinary circumstances. I do not believe that
+                    those circumstances exist. I take action only after pursuing the matter through
+                    all the normal channels.</p>
+                <p>The <hi rend="underline">Foreign Relations</hi> series is the keystone of the
+                    Department’s adherence to the principle of open government. Its preparation and
+                    publication presents an authoritative, official, and objective record of the
+                    nation’s foreign policy. It also triggers deposit of the Department’s records at
+                    the National Archives, where they are opened to the public. If the <hi rend="underline">Foreign Relations</hi> series is compromised, so is the
+                    Department’s commitment to open government. Given the fundamental importance of
+                    information in the function of a democratic society, no policy issue can be of
+                    comparable importance.</p>
+                <p>The Department’s decision to order re-review is stated in a memorandum dated
+                    April 11 from Mr. Read to all assistant secretaries: “We have recently
+                    discovered problems with some of the material previously cleared by the bureaus
+                    for publication in the FRUS covering the years 1950-1954.” Also, “some of these
+                    earlier reviews were conducted as long as three years ago, and circumstances
+                    have changed substantially in some cases in the interim.” No other rationale was
+                    offered.</p>
+                <p>Given the consequences of re-review one would assume that such an action would
+                    take place only after the most serious consideration by all concerned parties
+                    and the preparation of a comprehensive rationale for the decision. No such
+                    consideration occurred and nothing backs up the stated reasons for re-review
+                    except unsupported allegations.</p>
+                <pb n="2"/>
+                <p>Re-review contravenes this Administration’s policy of “openness.” It entails
+                    substantial delays in the publication of the foreign policy record and the
+                    transfer of the Department’s record block for 1950- 1954 to the National
+                    Archives. It means that Great Britain, adhering to a “thirty-year rule,” will
+                    release its foreign policy record for public inspection sooner than the United
+                    States. The order to re-review will certainly lead to extensive protests on the
+                    part of those who make use of the <hi rend="underline">Foreign Relations</hi>
+                    series and the records of the Department deposited at the Archives. It will
+                    certainly arouse grave concern in Congress because re-review may violate the
+                    McGovern Amendment to the Department’s Authorization Act for 1979.</p>
+                <p>These considerations lead me to take the extraordinary step of appealing this
+                    policy decision through the dissent channel. I act with the unanimous support of
+                    all senior supervisors in the Office of the Historian. I act in the conviction
+                    that this step will enjoy universal approbation among other staff members of the
+                    Office.</p>
+                <p>I propose the following:</p>
+                <list>
+                    <item>that the Secretary of State immediately suspend the order to
+                        re-review.</item>
+                    <item>that the Secretary of State immediately arrange an <hi rend="underline">independent</hi> review of the entire issue, one that takes place
+                        outside of the administrative channels already exhausted in this
+                        situation.</item>
+                </list>
+                <p>Upon request the Office of the Historian is prepared to present detailed support
+                    for its contention that a most careful rationale for re-review must exist before
+                    the Department can reconcile re-review with public policy as reflected in EO
+                    12065, FAM regulations relating to the <hi rend="underline">Foreign
+                        Relations</hi> series and the Office of the Historian, and various
+                    legislative prescriptions such as the McGovern Amendment.</p>
+                <p>Should the investigation uphold the policy of re-review, I propose that the
+                    Secretary issue a detailed explanation of the reasons for adopting it so that
+                    the Department may respond properly to public concern.</p>
+                <p>If the investigation does not uphold re-review, I propose that the Secretary of
+                    State revoke the order to re-review permanently.</p>
+            </div>
+            <milestone unit="section" rend="hr"/>
+            <div type="document" xml:id="d14">
+                <head>14. Memorandum From the Historian (David Trask) to Member of the Policy
+                    Planning Staff (Elaine Morton)<note n="53">Source: Folder “Documents Relating to
+                        the Re-Review of Foreign Relations, 1950-1954 (1980),” Box 3, Lot File 04 D
+                        114, U.S. Department of State, Washington, DC.</note>
+                </head>
+                <dateline>
+                    <date when="1980-08-28">August 28, 1980</date>
+                </dateline>
+                <p>SUBJECT : Resensitization as a Rationale for Re-Review</p>
+                <p>In theory information that has previously been declassified for publication in
+                        <hi rend="underline">Foreign Relations of the United States</hi> could
+                    resensitize during the lapse of time between declassification and
+                    publication.</p>
+                <p>In practice this resensitization rarely happens. HO is not aware of
+                    resensitization having ever caused difficulties across the long history of the
+                        <hi rend="underline">Foreign Relations</hi> series and does not believe that
+                    it has occured in connection with the set for 1950-1954.</p>
+                <p>No problems have arisen in the past for a number of good reasons:</p>
+                <list>
+                    <item>
+                        <label>1.</label> Our editorial practice works against
+                        sensationalism.</item>
+                    <item>
+                        <label>2.</label> Our modes of releasing the volume work against surprise
+                        and publicity, in part to avoid irresponsible use of information in the
+                        series.</item>
+                    <item>
+                        <label>3.</label> Mandatory declassification reviews under the Freedom of
+                        Information Act and EO 12055 and revelations in memoirs and journalistic
+                        accounts very often desensitize areas sufficiently so that resensitization
+                        is most unlikely.</item>
+                    <item>
+                        <label>4.</label> Even in the event of some resensitization continued
+                        declassification would very often be justified because of the balancing
+                        clause in EO 12065 requiring that the sensitivity of material, especially as
+                        it ages, be weighed against the public interest in its release.</item>
+                </list>
+                <p>In April the CDC became alarmed that information in Vol. I for 1951 would cause
+                    great troubles if published. An attempt to abort publication of this volume
+                    failed when it became clear that the process of release had gotten beyond the
+                    point of no return. It is most instructive to note that not one jot or tittle of
+                    reaction to Volume I for 1951 has as yet occurred. We deem it most unlikely that
+                    such reactions will occur, and we hold the same view of other volumes as yet
+                    unpublished in the 1950-1954 sequence. The burden of proof concerning
+                    resensitization should lie with those who argue the case. All prior experience
+                    argues that in the cases at issue the likelihood is all but infinitesmal.</p>
+                <pb n="2"/>
+                <p>Concern about “resensitition” is almost always an aspect of “nervous nellyism”
+                    that can prevail in government during periods of stress. It ought to be the
+                    function of responsible agencies to resist “nervous nellyism.” One way to do
+                    this is to insist upon the most comprehensive rationale for any specific claim
+                    of resensitization. The Department ought not to allow incantation of formulas to
+                    decide cases in which resensitization is alleged. It ought to insist on careful
+                    data before it accepts a claim of resensitization. HO has not seen such careful
+                    data in the cases being alleged at the moment. The most useful step that the
+                    Department could take to guard against resensitization is to do all in its power
+                    to expedite publication of FRUS, once declassification actions are
+                    completed.</p>
+                <p>One final word. It is argued that resensitization is much more likely to occur at
+                    present and in the future than in the past because of changes in the nature of
+                    our foreign relations during the years since 1945. This argument is just plain
+                    stupid. It fails to take into account:</p>
+                <list>
+                    <item>
+                        <label>a.</label> The fact that the gap now existing between events and our
+                        publication of them is far greater than in earlier times.</item>
+                    <item>
+                        <label>b.</label> The fact that our role in foreign affairs has come under
+                        much more scrutiny since World War II than in earlier years so that public
+                        knowledge of all aspects of our foreign relations is quite extensive.</item>
+                    <item>
+                        <label>c.</label> The fact that all kinds of open-government practices have
+                        prepared the way for fully authoritative and responsible coverage of events
+                        that might have been extremely sensitive at a closer remove from
+                        currency.</item>
+                    <item>
+                        <label>d.</label> The fact that the editors of the Foreign Relations series
+                        take appropriate steps to guard against problems of this sort not taken in
+                        earlier years.</item>
+                </list>
+                <p>I have observed a lot of smoke screens in my time, but I recall none as patently
+                    ridiculous as this one.</p>
+            </div>
+            <milestone unit="section" rend="hr"/>
+            <div type="document" xml:id="d15">
+                <head>15. Memorandum From the Historian (David Trask) to Member of the Policy
+                    Planning Staff (Elaine Morton)<note n="54">Source: Folder “Documents Relating to
+                        the Re-Review of Foreign Relations, 1950-1954 (1980),” Box 3, Lot File 04 D
+                        114, U.S. Department of State, Washington, DC.</note>
+                </head>
+                <dateline>
+                    <date when="1980-09-09">September 9, 1980</date>
+                </dateline>
+                <p>SUBJECT: Allegations of Foreign Concern About the <hi rend="underline">Foreign
+                        Relations</hi> Series</p>
+                <p>In connection with my Dissent Channel message I should like to add the following
+                    to the information that I have made available to you.</p>
+                <p>Increasingly allegations are made that foreign governments are very much
+                    concerned about release of information in the <hi rend="underline">Foreign
+                        Relations</hi> series. Concern is said to emanate primarily from Great
+                    Britain and the Commonwealth countries, although a few other countries are
+                    mentioned.</p>
+                <p>For whatever reasons those who air such concern have not chosen to present the
+                    evidence for such allegations. I believe this is because no substantial evidence
+                    exists. Let me note the following:</p>
+                <list>
+                    <item>
+                        <label>1.</label> The Office of the Historian knows of no such concern
+                        elsewhere about release of information in the <hi rend="underline">Foreign
+                            Relations</hi> series.</item>
+                    <item>
+                        <label>2.</label> The Office of the Historian believes that concern about
+                        the release of information emanating from other countries does not relate to
+                        the <hi rend="underline">Foreign Relations</hi> series but rather to other
+                        types of release, namely, unauthorized leaks of sensitive information and
+                        authorized release of relatively recent information obtained through the
+                        workings of the Freedom of Information Act and analogous procedures.</item>
+                    <item>
+                        <label>3.</label> The Office of the Historian believes that “nervous
+                        nellyism” and clientism in the Department could stimulate unreasonable
+                        concern elsewhere, and it hopes that steps will be taken to insure that
+                        well-meaning but entirely undesirable prompting of other countries will not
+                        take place. Ari ounce of prevention is worth a pound of cure.</item>
+                </list>
+                <p>I respectfully note that on occasion nervous envoys have assumed that some great
+                    disaster would befall the United States, should we release certain kinds of
+                    information about the nation to which they are accredited. Such a situation
+                    arose some years ago in connection with<pb n="2"/> planned release of
+                    information about certain of our activities just after World War II in Italy.
+                    The Office of the Historian has very elaborate procedures to insure against
+                    sensationalizing of our volumes. These procedures, since improved, insured that
+                    no trouble actually stemmed from the release of the information in Italy. The
+                    ambassador was entirely in error in his predictions of doomsday. The point of
+                    this story is that the Department keeps reinventing the wheel in terms of fears
+                    that somehow, someway, great disasters will flow from publication of the truth
+                    many years after the event. Uniformly, after irruptions of such concern, no
+                    trouble materializes.</p>
+                <p>In any event, even if on some future occasion a row materializes, we have to
+                    weigh some slight evanescent inconvenience against our responsibility to report
+                    the truth at an appropriate time without fear or favor. If we stray from that
+                    principle in publishing our foreign-affairs record objectively at a reasonable
+                    remove from currency, we will be throwing away one of our strong and undeniable
+                    assets in dealing with the rest of the world and informing our own people.</p>
+                <p>It is of great importance that nervous nellies are not allowed to use
+                    international concern about unauthorized leaks or authorized Freedom of
+                    Information releases to injure the <hi rend="underline">Foreign Relations</hi>
+                    series, about which no comparable body of concern has ever been manifest.</p>
+            </div>
+            <milestone unit="section" rend="hr"/>
+            <div type="document" xml:id="d16">
+                <head>16. Memorandum of Conversation<note n="55">Source: Folder “Documents Relating
+                        to the Re-Review of Foreign Relations, 1950-1954 (1980),” Box 3, Lot File 04
+                        D 114, U.S. Department of State, Washington, DC. Drafted by David
+                        Baehler.</note>
+                </head>
+                <dateline>
+                    <date when="1980-10-09">October 9, 1980</date>
+                </dateline>
+                <p>MEETING ON THE APPEAL OF DOCUMENTS IN FRUS, 1951, V. III</p>
+                <p>Participants:</p>
+                <list>
+                    <item>Mr. Newsom - P</item>
+                    <item>Ms. Patterson</item>
+                    <item>Mr. Vest - EUR</item>
+                    <item>Mr. Holmes</item>
+                    <item>Mr. Tracy - A</item>
+                    <item>Mr. Pickering - A/CDC</item>
+                    <item>Mr. Malmborg - L</item>
+                    <item>Mr. Gammon - M</item>
+                    <item>Ms. Morton - S/P</item>
+                    <item>Mr. Dyess - PA</item>
+                    <item>Mr. McNarnara</item>
+                    <item>Mr. Trask - PA/HO</item>
+                    <item>Mr. Baehler </item>
+                </list>
+                <p>The meeting commenced at 11:40 a.m.</p>
+                <p>Mr. Newsom stated at the outset that his purpose in calling the meeting was to
+                    discuss the appeals package,<note n="56">Not located.</note> which he noted had
+                    occasioned considerable interest and heat, on documents denied by CDC in FRUS,
+                    1951, v. III. His purpose was not to question the declassification review
+                    mechanism embodied in the existence of the CDC and in its relations with the
+                    geographic bureaus. Nor was it to question the appeals channel that had been
+                    established to resolve disagreements. Speaking of his own role, he said it was
+                    natural that he should be called on to resolve differences when basic policy
+                    issues arose. Otherwise, when basic policy issues were not involved, he felt the
+                    resolution of appeals should occur at the geographic bureau level. He thought
+                    that the chain of command was the correct channel for resolving appeals.</p>
+                <p>He wished to talk about the appeals package for 1951, v. III, which he had read
+                    with interest. His first question was: what are our obligations to our allies
+                    and to NATO with regard to the release of documents of interest to them? He
+                    noted that by 1951, we have a real problem in this respect. He asked Mr.
+                    Malmborg to explicate the definition of foreign government information as a
+                    means of arriving at an answer to the question.</p>
+                <p>Mr. Malmborg said the Executive Order defined foreign government information not
+                    only as information in other governments’ documents, but also as such
+                    information in US documents.</p>
+                <pb n="2"/>
+                <p>Mr. Newsom asked if that was HO’s view. Mr. Trask said it was. At Mr. Newsom’s
+                    behest, Mr. Trask elaborated HO’s view, to the following effect: HO has no
+                    quarrel with the definition. HO stands on the set of general guidelines signed
+                    by the Secretary governing systematic review at Archives. This set provides that
+                    foreign government information given orally, reported in US documents, and no
+                    longer sensitive is to be released at 20 years. Sensitivity thus becomes the
+                    sole criterion for declassification review of such FRUS material.</p>
+                <p>In response to a question from Ms. Morton, Mr. Trask said that FRUS review is
+                    neither systematic nor mandatory review. It is a special administrative review,
+                    analogous to mandatory review. He said that CDC’s review is also not systematic
+                    review. It is intended to provide the basis for guidelines to be used to perform
+                    systematic review at Archives.</p>
+                <p>Mr. Newsom asked who does systematic review. Mr. Trask said that an Archives
+                    staff does it by examining the records page by page against Department
+                    guidelines. If a given document seems to fall within the guidelines for
+                    continued classification, the Archives staff sets it aside and asks for further
+                    review by the Department. If the Department then decides to deny
+                    declassification, the Secretary must certify the continued withholding of the
+                    document for an appropriate period.</p>
+                <p>Mr. Pickering said that he agreed with everything Mr. Trask said except for his
+                    description of the need for the Secretary’s certification. He felt that the
+                    Secretary had to certify only the guidelines on the basis of which the document
+                    is withheld initially, and that authority to withhold individual documents can
+                    then be delegated to lower levels in the Department. Mr. McNamara disagreed,
+                    stating that PA had an oral opinion from L stating that such authority could not
+                    be delegated. Mr. Newsom asked Mr. Malmborg what he thought. Mr. Malmborg did
+                    not know. Mr. Newsom thought it would be a good idea to resolve the matter. In
+                    the course of this colloquy, Mr. Pickering said that Mr. McManaway had been
+                    operating on the basis of the legal view that Mr. Pickering had propounded.</p>
+                <p>Mr. Newsom then asked Mr. Trask how FRUS fits into the systematic review scheme
+                    he had outlined. Mr. Trask explained that the declassification review of FRUS
+                    was the basis on which CDC drafted the guidelines that Archives would use to
+                    conduct systematic review. It seemed to Mr. Newsom that, according to Mr.
+                    Trask’s conception, the Secretary would have to certify the withholding of FRUS
+                    materials. Mr. Trask said that this was his personal view, but as indicated,
+                    FRUS review was not systematic review and the certification provisions of the
+                    Executive Order did therefore not directly apply. He was uncertain in what way
+                    the Department would resolve this issue.</p>
+                <pb n="3"/>
+                <p>Mr. Newsom then returned to his original question: what are our obligations to
+                    our allies and to NATO? Mr. Trask, referring to the general guidelines, drew the
+                    distinction between foreign government documents, which HO clears and will
+                    continue to clear with foreign governments, and information in US documents,
+                    which HO does not believe the US should clear with foreign governments. Mr.
+                    Newsom said that he understood that there was an issue involved in one of the
+                    documents in the appeal as to whether to clear it with the French. Mr. Baehler
+                    replied that the case was one of a French document that was quoted in part in an
+                    American document. HO had excised the quoted portion in response to a French
+                    request. The American document containing it did not reveal the same information
+                    denied by the French in their own document. Accordingly, HO did not regard as
+                    justified the CDC’s denial of the US document. At this point, Mr. Vest agreed
+                    with Mr. Trask’s earlier assertion that the only issue involved was the
+                    sensitivity of the foreign government information in US documents.</p>
+                <p>At this point, Mr. Gammon noted that HO had recognized the sensitivity of the
+                    kind of information under discussion in the past and had agreed not to release
+                    it even though legally the US could have done so.</p>
+                <p>Mr. Newsom asked if EUR thought that some of the NATO military planning reflected
+                    in the denied material was still sensitive. Messrs. Vest and Holmes indicated
+                    that it remained sensitive because it portrayed the evolution of NATO planning;
+                    from this information enemies of the US could extrapolate present plans existing
+                    in NATO. Mr. Dyess asked if EUR was concerned with delivering the same sort of
+                    message as that allegedly transmitted by the Acheson statement in early 1950
+                    asserting that Korea was outside the containment perimeter, a statement that
+                    allegedly led to the Korean War. Both Mr. Vest and Mr. Holmes indicated that
+                    this was it precisely. Mr. Newsom then asked if what Messrs. Vest and Holmes
+                    were saying was that publication in FRUS gives the documents a status of such
+                    magnitude that the information could be read by an enemy to be a signal or an
+                    official US government statement. Again, Messrs. Vest and Holmes agreed that
+                    this was their meaning.</p>
+                <p>At this point, Mr. Pickering broached the issue of the secrecy agreement made in
+                    NATO concerning admission of Greece and Turkey to NATO in 1951. Mr. Newsom said
+                    he had planned to come to this. Mr. Newsom inquired about the content of the
+                    agreement. Mr. Pickering said it was contained in a document under appeal and
+                    that it constituted unanimous assent to keep records of NATO discussion of the
+                    issue from Greece and Turkey. Mr. Newsom asked if the agreement had included
+                    keeping secret the records of the discussion maintained by individual countries
+                    or if Mr. Pickering was “extrapolating” this interpretation from the agreement.
+                    Mr. Pickering said it was an extrapolation.</p>
+                <pb n="4"/>
+                <p>Reverting to the sensitivity question (as opposed to the foreign government
+                    information arguments) Mr. Newsom asked Mr. Vest for an objective answer to the
+                    question of whether he really thought there was a good possibility the release
+                    through FRUS of the records relating to admission of Greece and Turkey to NATO
+                    would end up in Greek and Turkish newspapers and would as a consequence present
+                    our negotiators with a problem. Mr. Vest replied that he thought there was a
+                    high probability of this happening because the Greek press was given to
+                    sensationalism on the subject and because the Turkish press was given to
+                    distorting the issue at the slightest pretext. Mr. Newsom asked how long it
+                    would be before the <hi rend="underline">Foreign Relations</hi> volume in
+                    question is published if deletions were made that required a revision of the
+                    volume. Mr. Trask replied that it would be six or eight months at the
+                    earliest.</p>
+                <p>Mr. Newsom asked if the problem would be resolved once the reintegration
+                    negotiations are completed. Mr. Vest thought not. The sensitivities on the
+                    subject transcended the issue of whether to reintegrate Greece into NATO. Mr.
+                    Newsom asked, in view of that, when they could be released. Mr. Pickering said
+                    that the CDC sets an automatic re-review date of ten years from the initial
+                    denial and that the Department would take another look at that point. Mr. Newsom
+                    then asked if the documents relating to Greek and Turkish admission to NATO
+                    would be withheld under FOI. Mr. Pickering said that they would be withheld. Mr.
+                    Newsom asked if the denial would be sustainable in court. Mr. Pickering said it
+                    would be.</p>
+                <p>Mr. Vest then offered the view that any discussion of Yugoslavia in the NATO
+                    forum would be very sensitive now because of the instability of the Belgrade
+                    government.</p>
+                <p>Mr. Newsom then rendered a decision: Given the Greek and Turkish problems that
+                    currently exist for US policy, he would recommend withholding the material on
+                    Greek and Turkish admission to NATO until after the reintegration negotiations
+                    have been completed. The decision to withhold would be re-examined at that time.
+                    He further recommended that the references to Yugoslavia in the NATO context
+                    should be withheld pending the stabilization of the situation in that country.
+                    He recommended that the materials relating to NATO military planning in the
+                    event of war be released as no longer sensitive.</p>
+                <p>Mr. Pickering objected to the final decision on the grounds that it is still
+                    sensitive information. He thought the sensitivity could be reduced if the exact
+                    language were deleted and a footnote substituted for it.</p>
+                <p>Mr. Newsom asked Mr. Trask if this was a possibility.</p>
+                <p>Mr. Trask responded that the information should be released for three
+                    reasons:</p>
+                <pb n="5"/>
+                <list>
+                    <item>
+                        <label>1.</label> The plans referred to in the documents were short-term
+                        plans that became obsolete within a short period. They are accordingly no
+                        longer sensitive.</item>
+                    <item>
+                        <label>2.</label> The presentation of the information in its full context
+                        minimizes the chance that others might misunderstand the US reasons for
+                        publishing it. The series has been published for 120 years and foreign
+                        governments understand that its purposes are other than for delivering a
+                        political message. Its goal is to inform the American public of its
+                        government’s activities in the foreign policy area.</item>
+                    <item>
+                        <label>3.</label> As the documents become older, the balancing test must
+                        become more and more prominent in deciding whether to release. The possible
+                        damage of release to national security must be weighed against the right of
+                        the public to the information.</item>
+                </list>
+                <p>Mr. Newsom explicitly recognized the validity of the last point, noting that it
+                    would be wise to consider whether angering the scholarly community would be
+                    worth withholding the information on national security grounds. With that, Mr.
+                    Newsom confirmed his earlier recommendations. He then asked whether Mr. Trask
+                    thought the Secretary had to certify the withholding of the documents for Mr.
+                    Newsom’s recommendations to have legal validity.</p>
+                <p>Mr. Trask offered the opinion that the Secretary did not at this point have to
+                    certify the withholding of FRUS material for the following reasons: 1) There
+                    presently exists uncertainty about whether materials older than 20 years have to
+                    be certified for withholding during the ten-year period allowed agencies by the
+                    Executive Order to reach the 20 year systematic review line; and 2) FRUS
+                    declassification is requested as a special administrative action and is not in
+                    any case covered during the ten-year catch-up period by the certification
+                    provisions of the Executive Order. He indicated that HO’s only interest was to
+                    obtain a high-level hearing. He was satisfied that the material in question had
+                    received a high-level and serious review. He felt that the burden of deciding
+                    appeals should be transferred to an independent appeals panel.</p>
+                <p>Mr. Newsom thought that it was not yet the time for establishing such a panel. He
+                    confirmed his opinion that the present appeals system was workable.</p>
+                <p>Mr. Pickering returned to Mr. Newsom’s decision to release NATO military plans
+                    material. He stated that Mr. McManaway was currently discussing with the NSC a
+                    policy on releasing materials on military planning. He wished to defer a
+                    decision until such time as Mr. McManaway could work out a policy on the
+                    issue.</p>
+                <pb n="6"/>
+                <p>Mr. Newsom asked whether this proposal was all right with Mr. Trask. Mr. Trask
+                    responded that it was.</p>
+                <p>The meeting adjourned at 12:25 p.m.</p>
+            </div>
+            <milestone unit="section" rend="hr"/>
+            <div type="document" xml:id="d17">
+                <head>17. Memorandum From the Director of the Policy Planning Staff (Anthony Lake)
+                    to the Historian (David Trask)<note n="57">Source: Folder “Documents Relating to
+                        the Re-Review of Foreign Relations, 1950-1954 (1980),” Box 3, Lot File 04 D
+                        114, U.S. Department of State, Washington, DC. Limited Official Use; Dissent
+                        Channel.</note>
+                </head>
+                <dateline>
+                    <date when="1980-10-14">October 14, 1980</date>
+                </dateline>
+                <p>SUBJECT: <hi rend="underline">Re-Review of 1950-54 Material for Publication in
+                        Foreign Relations of the United States</hi>
+                </p>
+                <p>As you know, your dissent to the Department’s April 1980 decision to re-review
+                    the sensitivity of material scheduled for publication in <hi rend="underline">Foreign Relations of the United States</hi> for the years 1950-54 has
+                    received very careful and detailed consideration. The issues you raise are
+                    important. That you elected to raise them at the highest levels of the
+                    Department has served to sharpen the focus of those concerned on the dual role
+                    that the Department performs: it is responsible both for conducting the
+                    diplomacy of the United States and for helping to preserve and meet the public’s
+                    right to know about the foreign affairs of their nation.</p>
+                <p>I agree with you that the <hi rend="underline">Foreign Relations</hi> series is
+                    central to the Department’s adherence to the principle of open government. The
+                    specific decision you question, however, was justified, in our view, when it
+                    became apparent that the decentralized nature of previous reviews of the 1950-54
+                    material and events transpiring during the relatively long period of time that
+                    elapsed between some of the initial declassification actions and the dates of
+                    planned publication combined to allow material to be authorized for publication,
+                    the release of which would either:</p>
+                <list>
+                    <item>
+                        <label>1.</label> tend to impede current diplomatic negotiations or other
+                        business;</item>
+                    <item>
+                        <label>2.</label> fail to preserve the confidence reposed in the Department
+                        by individuals and by foreign governments;</item>
+                    <item>
+                        <label>3.</label> give needless offense to other nationalities or
+                        individuals; or</item>
+                    <item>
+                        <label>4.</label> reflect personal opinions presented in internal
+                        communications and not acted upon by the Department.</item>
+                </list>
+                <pb n="2"/>
+                <p>Although the number of similar instances of inappropriately cleared material
+                    expected to be revealed by the re-review was small, their negative impact upon
+                    our ability to conduct an effective diplomacy was properly deemed large enough
+                    to warrant the time and effort necessary to identify and remove them from the
+                    galleys of the 20 volumes of <hi rend="underline">FRUS</hi> that had not yet
+                    been published for the years 1950-54.</p>
+                <p>Your concern about the adverse public impact of any significant delay in the
+                    scheduled publication of <hi rend="underline">FRUS</hi> is one that we share. As
+                    you know, the 20 volumes in question were in various stages of the
+                    previously-mandated clearance process when re-review was initiated. In order to
+                    expedite publication in keeping with our public affairs responsibilities and the
+                    recent E.O. 12065 injunction to declassify foreign affairs information as early
+                    as national security considerations permit, the Department undertook measures
+                    designed to insure that re-review and publication of the 1950-54 <hi rend="underline">FRUS</hi> material proceed as rapidly as possible.</p>
+                <p>The cooperative efforts of HO, CDC, and the regional bureaus in this endeavor
+                    have been crucial. We are informed that re—review by CDC has yet to be completed
+                    on only 6 of the 20 volumes in question.<note n="58">See Clayton McManaway
+                        memorandum to Oversight Committee, September 15, 1980, Folder “Documents
+                        Relating to the Re-Review of Foreign Relations, 1950-1954 (1980),” Box 3,
+                        Lot File 04 D 114, U.S. Department of State, Washington, DC.</note> In
+                    addition, measures have been taken on an experimental basis to expedite
+                    publication by declassifying galley proofs in the final stages of publication so
+                    that more people can work on them. CDC anticipates that their part of the
+                    re-review effort will be completed by November 1, 1980.</p>
+                <p>The major remaining sources of publication delay appear to fall within two areas.
+                    First, there is the process necessary to adjudicate specific classification/
+                    declassification decisions contested by CDC and the regional bureaus on one hand
+                    and PA representing HO on the other. Mr. Newsom has been working on this problem
+                    with those concerned. Second, there is competition for the provision of central
+                    services needed to expedite the publication process. I understand the Department
+                    is working on this as well.</p>
+                <p>Finally, I agree with you that the importance and inherent difficulty of reaching
+                    decisions that balance national security concerns against the public’s right
+                        to<pb n="3"/> know about the history of our foreign policy is such that it
+                    is incumbent upon all of us in the Department who deal with such matters to
+                    follow scrupulously the procedures designed to insure that policy decisions in
+                    these matters are carefully weighed. In this regard, the Oversight Committee and
+                    the Coordination Committee established by Mr. Read’s memorandum of November 20,
+                    1978 setting up the Department’s Classification/Declassification system should
+                    be used to their fullest extent, with regularly scheduled meetings in addition
+                    to special meetings, as necessary, at the request of PA, CDC, or interested
+                    regional bureaus. In particular, the Oversight Committee should be convened
+                    whenever a request is made to re-review material previously declas¬sified in
+                    accordance with FAM 1350.</p>
+                <p>Let me again express appreciation for your provocative and useful dissent
+                    message. </p>
+            </div>
+            <milestone unit="section" rend="hr"/>
+            <div type="document" xml:id="d18">
+                <head>18. Memorandum of Conversation<note n="59">Source: Folder “Documents Relating
+                        to the Re-Review of Foreign Relations, 1950-1954 (1980),” Box 3, Lot File 04
+                        D 114, U.S. Department of State, Washington, DC. Drafted by David
+                        Baehler.</note>
+                </head>
+                <dateline>
+                    <date when="1980-10-17">October 17, 1980</date>
+                </dateline>
+                <p>MEETING WITH AD HOC COMMITTEE OF OAH ON FOREIGN RELATIONS</p>
+                <p>Participants:</p>
+                <list>
+                    <item>Walter LaFeber</item>
+                    <item>Lloyd Gardner</item>
+                    <item>David Trask</item>
+                    <item>William Slany</item>
+                    <item>David Baehler</item>
+                </list>
+                <p>Mr. LaFeber opened the meeting by stating that the Committee’s mandate was to
+                    examine the effects of current declassification practices on FOI and the <hi rend="underline">Foreign Relations</hi> series. They particularly wanted to
+                    talk about the <hi rend="underline">Foreign Relations</hi> series, HO’s
+                    relations with the CDC, and the status of the volumes undergoing re-review.</p>
+                <p>Mr. Trask described the earlier system of review, which was characterized by
+                    decentralization, and the origins of the CDC, which came into existence as part
+                    of the Department’s effort to implement the new Executive Order on
+                    declassification. He then described the CDC as divided into a mandatory review
+                    staff and a systematic review staff that examines the material HO presents.</p>
+                <p>At that point Mr. LaFeber asked whether there were any historians on the CDC
+                    staff. Mr. Trask replied that there were not and resumed his description of the
+                    CDC. Its main purpose, he said, was to develop guidelines to be used at Archives
+                    in the course of systematic review. HO assists in that process by providing a
+                    sample of documents from which the <hi rend="underline">Foreign Relations</hi>
+                    series for that period was compiled and that includes the documents incorporated
+                    in the compilation. The sample is large because the Department considered it
+                    necessary to derive the guidelines from a substantial representative portion of
+                    the Department’s files and because it will be in the interest of HO to
+                    declassify a large body of material when it adopts a microform supplement to the
+                    FRUS volumes.</p>
+                <p>In clarification of a point, Mr. Gardner asked whether the act of
+                    declassification within the CDC had the effect of declassifying any documents
+                    outside of the sample. Mr. Trask replied that it did not.</p>
+                <p>Mr. LaFeber then asked who was doing the re-review of the 1950-54 volumes. In
+                    reply, Mr. Trask noted that his description of the CDC’s procedures applied to
+                    the 1955 and later records and that the re-review was a special case. To answer
+                    the question posed by Mr. LaFeber, Mr. Trask described the transfer of records
+                    to Archives and noted that the Archives demanded guidelines from the
+                    transferring agency before it would accept the records. He stated that HO
+                    assisted by formulating a<pb n="2"/> set of “general guidelines” that all
+                    bureaus approved and the Secretary of State sent to Archives. In addition to
+                    these, there was required a supplementary set of “special guidelines” that HO
+                    also drafted for the 1950-54 period based on the bureau actions and submitted to
+                    the CDC for its and the bureau’s approval. That set was derived from the
+                    declassification actions that the bureaus had taken in the course of their
+                    reviews of the 1950-54 FR volumes. The CDC determined that these special
+                    guidelines failed to cover adequately the areas of sensitivity with which the
+                    Archives would be confronted when the declassification staff there conducted its
+                    systematic review. The CDC made this determination on two bases: the initial
+                    bureau review had been inadequate, and the material in the period since that
+                    review had become resensitized. Mr. Trask noted that HO was not involved in this
+                    determination because HO is not responsible for either declassification or
+                    transfer of records to Archives. He noted finally that the decision to conduct
+                    re-review had been taken and confirmed at the highest levels of the Department,
+                    including Mr. Newsom, by virtue of his activities in connection with appeals of
+                    certain negative re-review decisions.</p>
+                <p>Mr. LaFeber then said that two things bothered him about the existence of the new
+                    declassification system in the Department. First, why are there no historians on
+                    the CDC staff? Second, does not the new system amount to bureaucratic layering,
+                    since the bureaus seem to have the final say on what is declassified in any
+                    case? Mr. Trask replied that, with regard to the first question, HO had no say
+                    on how the CDC would be staffed. Mr. Slany added that there would exist a
+                    conflict of interest if historians from HO were made part of the CDC. Mr.
+                    LaFeber indicated that he did not mean to imply that the historians would have
+                    to come from HO. He went on to say, with regard to his second point, that the
+                    Office had better luck obtaining declassification decisions when it dealt
+                    directly with the desk officers than it now does in dealing with the CDC as an
+                    intermediary.</p>
+                <p>Mr. Gardner asked if the only mechanism for appealing negative decisions was to
+                    appeal directly to Mr. Newsom. Mr. Trask replied that it was not. In fact, three
+                    levels of appeal existed: (1) the CDC; (2) the assistant secretaries concerned;
+                    and (3) Mr. Newsom.</p>
+                <p>Mr. LaFeber pursued the point by inquiring whether the decisions taken by the CDC
+                    and through the appeals mechanism would have the effect of setting precedents
+                    for the 1955 and later records. He went on to say that he feared the guidelines
+                    derived from re-review would set in concrete the same denial principles for all
+                    later periods. Mr. Trask replied that he was not prepared to go into specifics,
+                    but was able to say that HO appealed as a matter of principle all deletions
+                    deemed to be in error that would have a precedent-setting effect.</p>
+                <pb n="3"/>
+                <p>Mr. Gardner then asked if Mr. Trask could quantify the results of re-review in
+                    comparison with the actions that the bureaus and desks had taken earlier. Mr.
+                    Trask said that he could not because it was too early in the process to tell.
+                    Mr. Gardner replied that someone in the State Department was able to do so,
+                    because that person had responded to a letter he had written to Senator McGovern
+                    by asserting that somewhat less than 1% of the records would be withheld by the
+                    CDC. He stated that his original information to the effect that 20% of all
+                    materials was being withheld by the CDC had been reconfirmed by his sources. Mr.
+                    Trask replied that Mr. Gardner had probably received a grossly inflated
+                    estimate, based on our experiences so far with the CDC. Mr. Gardner then
+                    suggested a modification of the claim that 20% of the documents might be
+                    withheld, and asked whether HO would agree to it: Is it possible that 20% of a
+                    given compilation, such as, hypothetically, the Saudi Arabia compilation, might
+                    be withheld and would such action effectively cut out the heart of the
+                    compilation? Mr. Trask responded that this was hypothetically possible but that
+                    we had not received any indication that such a thing had in fact happened. Mr.
+                    Slany said that the same thing could happen if even only 1% of a given
+                    compilation was withheld.</p>
+                <p>Mr. LaFeber asked if everything had been declassified for the 1950-54 period
+                    before re-review occurred. Mr. Baehler replied that this was by no means the
+                    case, although it is true that virtually everything had been through the
+                    clearance prior to the inception of re-review.</p>
+                <p>Mr. Gardner then returned to the issue of whether the results of re-review would
+                    have the effect of setting a bad precedent. He claimed that re-review was
+                    initiated on the premise that more would be withheld from publication than would
+                    have occurred under the first review. He asked whether he could quote Mr. Trask
+                    to that effect. Mr. Trask replied that he could not because it is too early from
+                    the standpoint of CDC returns to tell how much would be withheld. Mr. Slany
+                    noted that the process is at this point one of constant give and take and that
+                    there have been probably forty meetings between representatives of CDC and HO to
+                    work out understandings on withholding documents.</p>
+                <p>Mr. LaFeber asked what role HO had on elaborating the general guide- lines that
+                    would be used at Archives for systematic review. Mr. Trask replied that HO’s
+                    only role was advisory. Responding to Mr. LaFeber’s view that the general
+                    guidelines would permit such restrictiveness in Archives review as to render
+                    nugatory the intent of the Executive Order, Mr. Trask said that these guidelines
+                    established sensitivity as the only criterion for withholding material under
+                    systematic review. He pointed specifically to the foreign government information
+                    provision in the guidelines: These provide that such material in US documents
+                    over 20 years old should be released unless it remains sensitive. HO in the<pb n="4"/> course of the re-review process is insisting that sensitivity is the
+                    sole criterion for withholding material from the FR series.</p>
+                <p>Mr. Slany noted that in view of the fact that we have no basis on which to judge
+                    the substantive results of re-review the sole visible effect of re-review at
+                    this point is that it occasions considerable delay in the publication of
+                    volumes. Heretofore, only one volume of the twenty undergoing re-review has run
+                    its full course and is at GPO for printing. HO had expected that by this time
+                    several more would be at that stage.</p>
+                <p>Mr. Gardner said that he had a suggestion to make regarding a way to get around
+                    the problems that CDC was presenting for the FR series. In view of the series’
+                    mandate to present a comprehensive account of the history of American foreign
+                    relations, he thought that the best means of resolving any issues presented by
+                    re-review would <add>be</add> simply withholding from publication any volume
+                    that proved to be less than complete on any important issue. He would recommend
+                    such a course of action if, for example, 10-20% of the Saudi Arabia compilation
+                    were denied in the declassification process. Mr. Trask assured him that if
+                    important coverages were omitted as a result of declassification action, HO’s
+                    policy would in fact be to withhold the volume. Mr. Gardner asked whether HO was
+                    planning to remove documents in order to publish the volumes. Mr. Trask replied
+                    that there were various expedients for dealing with this problem ranging from
+                    simply removing documents if they were not important through substituting other
+                    documents for the deleted material to withholding the volume from publication
+                    until the documents were declassified.</p>
+                <p>Mr. Slany replied to Mr. Gardner’s affirmation of comprehensiveness as the prime
+                    criterion guiding the FR series by pointing out that HO’s lack of access to
+                    other agencies’ files compromised this principle, quite apart from unfavorable
+                    declassification actions. He said that access was the other half of the
+                    declassification coin. Mr. Gardner said that he recognized this.</p>
+                <p>Mr. LaFeber asked what triggered the change in the declassification system. Was
+                    it complaints from foreign governments, he asked? Mr. Trask replied that this
+                    was a more appropriate question for the CDC, but that he was not aware of any
+                    foreign government complaints regarding publication of documents in the FR
+                    series. Mr. LaFeber continued that if the change was not induced by foreign
+                    government complaints, then it must be internally generated. Mr. Trask replied
+                    that the CDC came into existence as part of the Department’s response to the new
+                    Executive Order on classification. He noted that there were concerns within the
+                    Department regarding foreign government information and explicated once again
+                    the manner in which such information is to be handled.</p>
+                <pb n="5"/>
+                <p>Mr. Gardner stated that the new Executive Order flagged foreign government
+                    information contained in US documents and said that, even if the State
+                    Department was handling it sensibly, other agencies seemed not to be doing so.
+                    Pursuing the point, Mr. LaFeber referred to the 30 year foreign government
+                    information guidelines that in his opinion would make it even harder for HO to
+                    release the information that was previously routinely released under the old
+                    Executive Order. Mr. Baehler noted that these 30 year foreign government
+                    information guidelines do not apply to the work done by HO because HO requests
+                    declassification earlier and under special procedures to which the systematic
+                    review of 30 year old information does not apply. Mr. LaFeber had not realized
+                    this, but thought that the existence of restrictive guidelines for systematic
+                    review at thirty years would make the release of material under other reviews
+                    even more difficult prior to thirty years. Mr. Trask drew the distinction
+                    between systematic review and the review that FR undergoes and said that
+                    whatever provisions exist for systematic review do not affect review of FR. He
+                    said that the presumption of the Executive Order and particularly of the
+                    balancing test provision contained in it is that more material is going to be
+                    released earlier.</p>
+                <p>Mr. Gardner responded that in theory this made sense but in fact the Executive
+                    Order has not resulted in the release of more material and that it would be
+                    wrong to assume that the guidelines currently existing for systematic review
+                    will not affect the amount of material that is released in FR. Mr. Trask replied
+                    that he was unwilling to confirm the point of view expressed by Mr. Gardner.</p>
+                <p>In closing, Mr. Trask emphasized that HO itself did not undertake
+                    declassification or transfer of records and that the representatives should talk
+                    with CDC and FAIM to get a first-hand account of their actions and the reasons
+                    for them. Mr. Gardner assured Mr. Trask that they intended to do so. Mr. Gardner
+                    indicated that the committee needed certain information from HO and that this
+                    was the reason for the present discussion. As an afterthought, Mr. LaFeber
+                    having left the room, Mr. Gardner asked how many volumes have been through
+                    re-review. Mr. Baehler replied that there are several stages in the process,
+                    but, as indicated earlier, one volume had run the full cycle. Five other volumes
+                    were in the appeals stage, which meant that the CDC was effectively finished
+                    with its review work. The remaining 14 volumes were nearing completion. Mr.
+                    Trask suggested that Mr. Gardner talk with the CDC, which would give him a
+                    different version of how much has been completed. Mr. Gardner also asked how
+                    long it would take to complete the appeals. Mr. Trask replied that he did not
+                    know because it depends on how expeditiously the CDC submits the results and how
+                    acceptable those results are. Mr. Slany interjected that the CDC is seeking ways
+                    to <pb n="6"/>minimize the delay occasioned by the re-review in the area of
+                    technical production of the volumes. It remains to be seen how successful these
+                    efforts will be.</p>
+                <p>Mr. Gardner closed by reiterating his concern that HO not sacrifice the
+                    comprehensiveness of the series in the effort to attain the twenty year line.
+                    Mr. Trask replied that HO desired both to maintain -- indeed to enhance -- the
+                    comprehensiveness of the volumes and to attain the twenty year line. He thought
+                    that in the long run the existence of the CDC would abet reaching the latter
+                    goal.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

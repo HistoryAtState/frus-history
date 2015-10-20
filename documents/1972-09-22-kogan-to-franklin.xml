@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Memorandum From Arthur Kogan to William Franklin, September
+                    1972</title>
+                <title type="short">Kogan to Franklin, 1972</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-06-23">June 23, 2014</date>
+                <date type="created" when="1972-09-22">September 22, 1972</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1972-09-22-kogan-to-franklin.pdf">PDF</ref>, 746 KB, 11pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: National Archives and Records Administration, Record Group
+                    59, Entry UD-WW-9: Bureau of Public Affairs, Office of the Historian, Arthur
+                    Kogan Files, 1945-1980 (83 D 230), Box 2, Access, History of. Drafted by Arthur
+                    Kogan. Posted from an uninitialed carbon copy of the memorandum.</hi></p>
+            <div type="document">
+                <head>Memorandum From Arthur Kogan (Special Assistant to the Director of the
+                    Historical Office) to William Franklin (Director of the Historical
+                    Office)</head>
+                <dateline>September 22, 1972</dateline>
+                <p>Subject: Access to the Department’s Records: Historical Survey</p>
+                <p>First Phase (to 1921): Without Specific Regulations</p>
+                <p>It appears that prior to 1921 no clear-cut rules or procedures were in existence
+                    defining in precise terms the Department’s policy on access to its records by
+                    outside researchers. But undoubtedly there were accepted procedures, practices
+                    and traditions on the basis of which the responsible officers of the Department
+                    made their decisions about admitting specific individuals or categories of
+                    persons to the files. The ill-defined nature of the Department’s access policy
+                    may be gauged from a report given at the meeting of the AHA in 1893 and
+                    incorporated in the annual report of the AHA for 1894 in which it was stated
+                    that “historical papers in the State Department are not accessible to the
+                    historical student except as a special favor...”</p>
+                <p>Even though the terms under which access to the files could be granted were not
+                    clearly defined, there is sufficient evidence that the files of the Department
+                    were used to a considerable extent by historical researchers in the first two
+                    decades of the 20th century. On the basis of correspondence in decimal file
+                    116.2 the following conclusions may be drawn with regard to the conditions under
+                    which access to the files was granted:</p>
+                <p>All the records since the beginnings of the Republic were in the custody of the
+                    Department and were serviced by the personnel responsible for these materials.
+                    Researchers had to make applications for access with each case being decided on
+                    an <hi rend="underline">ad hoc</hi> basis. There was no “open” period as we
+                    would understand this term. Researchers had to submit their notes for clearance
+                    by Departmental officers regardless of the period covered in their research. It
+                    seems that there was relatively “free” access to the files up to 1850 or 1860
+                    but that it was much more difficult to gain permission to consult materials of
+                    the subsequent period. Yet even notes from documents of the pre-1860 period
+                    could be withheld. Correspondence in the files indicates, for instance, that in
+                    1916 notes were withheld relating to the diplomatic papers of 1849-1851
+                    (116.2/34). There were even outright refusals of access to such early materials
+                    as in the case of a Dominican scholar who had wanted to see diplomatic
+                    correspondence relating to Santo Domingo in the period 1845-1869 (116.2/146). As
+                    late as 1921, Henry Wriston, who had been allowed to see papers relating to the
+                    Special Agents of the pre-Civil War period, was refused permission to expand his
+                    research into the post-1861 period (116.2/203). In inter-Departmental
+                    correspondence in 1920 it was stated explicitly that only under exceptional
+                    circumstances had the Department allowed examination of its archives subsequent
+                    to 1860. This statement was made in connection with a refusal of access
+                    involving a researcher who had wanted to see secret files of the period
+                    1861-1865 (116.2/195, 196).</p>
+                <p>In this early period there was no relationship between the publication of <hi
+                        rend="italic">Foreign Relations</hi> and access to the files. Since <hi
+                        rend="italic">Foreign Relations</hi> stayed within 10 years to currency
+                    until into World War I and as access was granted primarily to older records, the
+                    question of tying <hi rend="italic">Foreign Relations</hi> to access could not
+                    arise.</p>
+                <p>During this early part of the 20th century researchers in the Department’s files
+                    were accommodated only to the extent that the personnel was able to service the
+                    records and deal with the researchers. Thus, after the United States entered
+                    World War I, all applications for access were rejected because of the pressure
+                    of business. For the next 2-3 years researchers were discouraged from making
+                    application because the Department, as it informed one of them, lacked
+                    facilities and personnel “to properly supervise procurement of records and
+                    examination of notes” (116.2/175).</p>
+                <p>Second Phase (1921-1938): The Departmental Orders</p>
+                <p>The second phase of the Department’s policy on access was inaugurated by the
+                    issuance of the first set of regulations dealing specifically with the question
+                    of research access to records.</p>
+                <p>Departmental Order 210 of May 28, 1921, was issued in compliance with the spirit
+                    of the Congressional Act of March 3, 1901 (31 Stat. 1039) which provided that
+                    “facilities for study and research in the Government Departments ... shall be
+                    afforded to scientific investigators and duly qualified individuals, students,
+                    and graduates of institutions of learning ... under such rules as the heads of
+                    the Departments ... may prescribe.”</p>
+                <p>The Departmental Order emphasized that space and personnel limitations would
+                    permit servicing only a few researchers at a time; that records would not be
+                    open to undergraduates; that the applicant must be known to the Department or be
+                    “duly accredited by sources known to the Department”; that the Department must
+                    be convinced of the “responsibility” of the applicant and of the purpose of his
+                    research being “legitimate and useful”. The Order also stipulated that material
+                    on “pending business” or material which might prove to be “injurious to the
+                    public interest” must not be used and that notes, at the discretion of the
+                    Department, were “subject to inspection”.</p>
+                <p>Departmental Order 210 was superseded by Departmental Order 309, issued August
+                    11, 1924. This Order did not change the basic policy set forth in the earlier
+                    Order but it was more detailed with regard to procedures. It is to be noted that
+                    neither Order limited access chronologically. Yet it can be assumed that there
+                    was no departure from the existing practice of not giving access to any
+                    materials less than 25 years old.</p>
+                <p>A further revolution in the Department’s access policy was inaugurated by the
+                    creation of an Archives Section in the Division of Publications which was given
+                    custody of the Department’s records prior to August 1906. This new arrangement
+                    also affected access policy, as reflected in Departmental Order 377 of June 15,
+                    1926, which gave the Division of Publication supervision over outside
+                    researchers. The Chief of that Division was given responsibility for conferring
+                    with all interested offices in the Department “as to what, if any, of the
+                    correspondence prior to August 16, 1906, may not be available for purposes of
+                    research to competent students”. It was also stated that “the practice in this
+                    regard shall be similar to that which is in use in the selection of documents
+                    for <hi rend="italic">Foreign Relations</hi>”.</p>
+                <p>Departmental Order 377 established a definite limit beyond which research in the
+                    Department’s records was not to be carried out. Yet it would certainly not be
+                    accurate to characterize the period prior to August 1906 as a truly “open” or
+                    even a “restricted” period as we would understand it. A letter of June 1927,
+                    written by Tyler Dennett, stated that the archives of the Department, for
+                    purposes of general research, were not open beyond the year 1898 although
+                    certain subjects “might be pursued down to 1906” (116.2/4440). Moreover, the
+                    records were not available to all members of the public but only to “professors,
+                    publicists, doctors, doctoral candidates and persons of established position in
+                    the community”. A letter from Mr. Wynne, dated October 22, 1927, made it clear
+                    that only persons in those categories would be given access to the pre-1906
+                    files. Finally, notes taken by such persons were subject to review by the
+                    Department which reserved the right to refuse permission to publish or to use
+                    the material in the files (116.2/5640).</p>
+                <p>While under the provisions of Departmental Order 377 access was not granted to
+                    files after August 1906, the <hi rend="italic">Foreign Relations</hi> volumes
+                    were released within 9 years of currency. During the next twelve years, from
+                    1926-1938, this gap between publication and currency increased to 15 years.
+                    Access was still in back of the publication of <hi rend="italic">Foreign
+                        Relations</hi> when significant changes in access policy occurred in the
+                    period 1938-1939.</p>
+                <p>Third Phase (1938-1946): Opening the Records in the National Archives</p>
+                <p>An important event in the evolution of the Department’s policy with respect to
+                    records was the establishment of the National Archives in 1936. Between 1937 and
+                    1939 the Department transferred to the National Archives its basic file of
+                    diplomatic and consular correspondence for the period 1789-1906 as well as
+                    diplomatic and consular post records of the period 1793-1937 and other
+                    miscellaneous groups of records. No restrictions were placed on the use of these
+                    files, except for certain categories of the kind now covered by Restrictions
+                    Statements. Thus, only after the transfer of the old policy records to the
+                    National Archives can we speak of a truly “open” period of the files in the
+                    present meaning of the term.</p>
+                <p>Since the basic file of Departmental records of the period 1789-1906 was
+                    generally open to researchers in the National Archives, a new Departmental Order
+                    (751 of April 5, 1938) clearly applied only to post-1906 records. This Order
+                    regulated the use of the Department’s records by outside researchers more or
+                    less along the lines of the previous order, especially with respect to
+                    applications and review of notes. No specific time limitations were placed on
+                    the use of records but it was stipulated in this Order that files “which are in
+                    current use or which cannot be made public without the disclosure of confidences
+                    reposed in the Department or which adversely affect the public interest” should
+                    not be made available to researchers.<note place="foot" n="1">Under the liberal
+                        provisions of this Order of 1933 Samuel Flagg Bemis was allowed to examine
+                        notes on records of the most recent period in connection with his study of
+                        United States policy toward Latin America. But servicing the records for him
+                        and examining and evaluating his notes proved to be a big burden to the
+                        responsible officers of the Department. The limitation on access in the
+                        Departmental Order of 1939 discussed in the next paragraph may have been
+                        partly promoted by the experiences with Professor Bemis (116.2/926, 930,
+                        931).</note></p>
+                <p>But the provisions of Departmental Order 751 were soon changed under the pressure
+                    of events preceding the outbreak of World War II. Revised regulations set forth
+                    in Departmental Order 796 of June 19, 1939 stipulated that in view of the
+                    international situation confidential or unpublished records of the Department
+                    dated later than December 31, 1918, would no longer be made available to outside
+                    researchers. But each year the Department would give consideration to the
+                    situation then existing “with a view to advancing the date fixed whenever such
+                    action is deemed possible”. Records dated prior to December 31, 1918, “or such
+                    subsequent date as may be fixed by the Department” might be made available to
+                    persons who are not officials of the United States Government, subject to
+                    certain conditions. The categories of persons to whom permission might be given
+                    to consult the records “through the date fixed by the Department” were similar
+                    to those enumerated in the Departmental Order of 1926. It is also to be noted
+                    that the Order of 1939 like the preceding one of 1938 allowed aliens to submit
+                    applications for access to the records if they were accompanied by letters from
+                    the respective foreign mission certifying that the applicant was “favorably
+                    known” to that mission and that the latter was “familiar with the purpose of the
+                    applicant’s work”.</p>
+                <p>Thus, by 1939 there was a genuinely “open” period of the files as a result of the
+                    transfer of unrestricted records through 1906 to the National Archives, while
+                    the “closed” period (after 1918) and the “restricted” period (1907-1918) were
+                    defined in Departmental Order 796 of June 19, 1939.</p>
+                <p>By 1939, when the open period extended through 1906 and the restricted period
+                    through 1918 the annual volumes of the <hi rend="italic">Foreign Relations</hi>
+                    series had completed coverage through 1924. After the initial transfer of
+                    records to the National Archives in 1938 and 1939, the end of the open period
+                    was normally advanced when additional files of portions of files were sent to
+                    the Archives. In November 1942 that date was advanced to December 31, 1910, and
+                    in September 1945 to December 31, 1913.<note place="foot" n="2">This information
+                        is based on various memoranda in our old “Access” and “Regulations” folders
+                        drawn from items in file 116.2.</note> With respect to the records
+                    transferred to the National Archives, it is to be kept in mind (as was mentioned
+                    earlier) that certain restrictions were placed on specific categories of records
+                    such as passport files, unsettled claims, Foreign Service inspection reports,
+                    etc.</p>
+                <p>Parallel to the advance of the terminal date of the “open” period as a result of
+                    the transfer of records to the National Archives, there were two advances of the
+                    “restricted” period. By Departmental Order 955 of July 18, 1941, the terminal
+                    date of the period of restricted access (subject to applications to the
+                    Department and review of notes) was moved from December 31, 1918 to December 31,
+                    1920. By Departmental regulation 420.1 of March 15, 1946, that date was advanced
+                    to December 31, 1932.</p>
+                <p>Fourth Phase (1947-1963): The Three Periods of Access</p>
+                <p>In 1947 the Department for the first time issued a regulation (420.1, May 5,
+                    1947) which dealt with all its records in terms of three periods of access.
+                    Unpublished records prior to January 1, 1922 (except for specially restricted
+                    categories such as passports, citizenship, etc.) were “available for inspection
+                    by the general public in the National Archives, subject to its regulations”. On
+                    January 1, 1948, and each year thereafter until January 1, 1955, this date was
+                    to be automatically advanced one year. Unpublished records in the period between
+                    the open date and January 1, 1933 “or each subsequent date as may be fixed by
+                    the Department” could be made available under basically the same conditions that
+                    applied to the use of the post-1906 records under the Departmental Order of June
+                    19, 1939. Records of the “closed” period (defined as dated later than January 1,
+                    1933) were not to be made available to outside researchers except in
+                    circumstances “determined to be exceptional”. A determination to permit access
+                    to records of the “closed” period could be made only “on the grounds that the
+                    interests of national policy are served thereby”.</p>
+                <p>These regulations issued first in March 1947 were revised in March 1948 (420.1 of
+                    March 12, 1948). This revised version of 1948 listed for the first time the
+                    three periods of access as “open”, “restricted”, and “closed”. The open period
+                    was the period prior to January 1, 1923; the restricted period was the period
+                    between the end of the open period and January 1, 1933; and the closed period
+                    was the period after January 1, 1933.</p>
+                <p>In 1947 and 1948 when the regulations described above were issued, the annual <hi
+                        rend="italic">Foreign Relations</hi> volumes for 1932 were being completed.
+                    Therefore, the closed period of the files (after January 1, 1933) was
+                    essentially the period in advance of <hi rend="italic">Foreign Relations</hi>.
+                    But the special <hi rend="italic">Foreign Relations</hi> volumes “Peace and War:
+                    United States Foreign Policy 1931-1941” and “Japan: 1931-1941” which featured
+                    documents through 1941 had already been published in 1943, at a time when the
+                    “restricted” period of access under Departmental Order 955 of July 18, 1941
+                    terminated with December 31, 1920, and when the records in the National Archives
+                    were not open beyond 1910.</p>
+                <p>The Division into three periods of access (open, closed, and restricted) remained
+                    a permanent feature of the Department’s regulations on access to records until
+                    January 1972.</p>
+                <p>In regulation 183.21-2 of January 4, 1951 the open period was defined as the
+                    period prior to January 1, 1926. In January 1, 1952, and each year thereafter
+                    until January 1, 1955, the terminal date of the open period was to be advanced
+                    automatically one year.</p>
+                <p>The period described as “restricted” in the regulations of 1948 was now
+                    designated “limited-access” period and defined as the ten-year period
+                    immediately following the open period. Use of the records of this period was to
+                    be confined to “qualified researchers and other persons demonstrating a
+                    legitimate need for the information requested”.</p>
+                <p>The period following the “limited-access” period was designated the “closed”
+                    period. Records of that period were not made “normally” available to
+                    non-governmental researchers. Exceptions to this rule were to be limited to
+                    “mature scholars” undertaking research regarded by the Department as being
+                    “desirable in the national interest”. These regulations also contained detailed
+                    provisions on the “limitations on the use of records”, i.e., on various
+                    restrictions applying to specific categories of records, and on the clearance of
+                    notes taken by researchers.</p>
+                <p>Regulations 183.21-183.26 were revised on July 8, 1953. There was no change with
+                    respect to the “open” period. Its terminal date was January 1, 1928 and it was
+                    to be advanced one year each January 1 until 1955 as had been anticipated in the
+                    regulations of 1951. But the “limited-access” period was now defined as the
+                    period from the end of the “open” period to January 1, 1942. Thus, the terminal
+                    date of the “limited-access” period was advanced four years beyond the date
+                    which would have been reached under the automatic ten-year period established in
+                    1951. The “closed” period was the period after January 1, 1942. The “larger
+                    portion of the records of the closed period” was not available to
+                    non-governmental researchers, but exceptions could be made in the case of
+                    “qualified researchers undertaking broad studies regarded by the Department as
+                    desirable in the national interest[”] and in the case of studies “more limited
+                    in scope involving non-sensitive and generally unclassified materials”. The
+                    advance of the “limited-access” period through 1941 presumably reflected the use
+                    of the Department’s files of the early phase of World War II by prominent
+                    historians who had been given special access to these materials.</p>
+                <p>The next revision of these regulations issued December 7, 1956 (185.41-185.45)
+                    eliminated the yearly advance of the terminal date of the open period. The
+                    “open” period ended with January 1, 1930 and the “limited-access” period still
+                    with January 1, 1942. Records subsequent to that date remained in the closed
+                    period, but the exceptions provided for in the regulations of 1953 still
+                    applied.</p>
+                <p>Between 1948 and 1956 the terminal date of the “restricted” or “limited-access”
+                    period advanced beyond the date covered by the most recent annual volume of the
+                        <hi rend="italic">Foreign Relations</hi> series. In 1951 the
+                    “limited-access” period terminated with December 31, 1936, while <hi
+                        rend="italic">Foreign Relations</hi> was completing coverage for 1934. In
+                    1953 when the “limited-access” period terminated with January 1, 1942, <hi
+                        rend="italic">Foreign Relations</hi> had covered all of 1935 and was
+                    beginning to publish volumes for 1936. By 1956, with the “limited-access” period
+                    still terminating January 1, 1942, <hi rend="italic">Foreign Relations</hi> had
+                    brought out all but one of the volumes for 1939. But the special <hi
+                        rend="italic">Foreign Relations</hi> volume on the conferences at Yalta and
+                    Malta published in 1955 contained material of 1944 and 1945 and thus opened up
+                    highly significant materials that were not available to researchers in the
+                    “limited-access” period. The special volumes on the conferences at Cairo,
+                    Tehran, and Potsdam published in 1960 and 1961 put additional high-level
+                    diplomatic papers of the period 1943-1945 in the public domain.</p>
+                <p>Fifth Phase (since 1963): Access Tied to <hi rend="italic">Foreign
+                    Relations</hi></p>
+                <p>On August 15, 1963, new regulations were issued (1854.2-1854.5) which introduced
+                    a significant change in the Department’s policy on access to records. As
+                    explained in a memorandum of December 1963 by the Director of the Historical
+                    Office, the three different periods of access were retained but the fixed dates
+                    were replaced by a progressive opening of files tied to the publication of the
+                    <hi rend="italic">Foreign Relations</hi> series. The “closed” period was now
+                    defined as the period in advance of the <hi rend="italic">Foreign Relations</hi>
+                    series and its beginning date was to be revised automatically as the <hi
+                        rend="italic">Foreign Relations</hi> volumes were being released. The
+                    “restricted” period (formerly “limited-access” period) was defined as the ten
+                    years in back of the “closed” period. The “open” period covered the years prior
+                    to the beginning date of the “restricted” period. The regulations of August 1963
+                    no longer mentioned the possible exceptions with respect to access to records of
+                    the closed period.</p>
+                <p>Since <hi rend="italic">Foreign Relations</hi> had published through 1942 when
+                    the revised regulations of 1963 were issued, the terminal date of the
+                    “restricted” period was advanced to January l, 1943 and that of the “open”
+                    period to January 1, 1933.</p>
+                <p>On August 9, 1966 it was announced in Department of State press release 183 that
+                    the Department’s records were now open in the National Archives up to 30 years
+                    from the current year. This flat 30-year rule meant that records which
+                    previously had been open through 1933 were now open to January 1, 1936. As <hi
+                        rend="italic">Foreign Relations</hi> had completed coverage for 1943 by
+                    1966, the restricted period extended from 1936 through 1943.</p>
+                <p>These changes were incorporated in regulations issued July 11, 1966
+                    (1855.1-1855.4). It should perhaps be noted that the regulations of 1966
+                    explicitly excluded foreign nationals from access to records of the “restricted”
+                    period.</p>
+                <p>The 30-year rule established in 1966 has remained a feature of the Department’s
+                    access regulations to this day. The provisions applying to the “restricted” and
+                    “closed” periods did not change until January 1972. But a significant new
+                    element into the Department’s regulations was introduced as a result of the
+                    passage of the Freedom of Information Act (Public Law 89-487) which came into
+                    effect July 4, 1967. Departmental regulations issued July 5, 1967 (5 FAM 480)
+                    and slightly revised May 21, 1968 incorporated in Appendix A the provisions of
+                    CF[M?] 22, Part 6 which dealt with the availability of the Department’s records
+                    to the public. Sections 6.1-6.8 contained provisions covering the right of
+                    members of the public to request copies of “identifiable” unclassified records
+                    from the Chief of the Department’s Records Services Division in accordance with
+                    the Freedom of Information Act.</p>
+                <p>Another innovation of the regulations of 1967 was a provision permitting “former
+                    incumbents of senior positions” within the Department to have access to records
+                    “relating to their own activities” unless the Secretary determined that such
+                    access was not in the national interest. Persons who enjoyed such access which
+                    could extend to records of the “closed” as well as “restricted” periods were
+                    required to submit their notes or manuscripts for review by the Department prior
+                    to publication.</p>
+                <p>At the time when the revised regulations of 1967 were issued, <hi rend="italic"
+                        >Foreign Relations</hi> was about to complete coverage for the year 1944.
+                    Accordingly, the restricted period ended with 1944 and the closed period began
+                    with January 1, 1945.</p>
+                <p>On May 15, 1969, an announcement was made in press release 119 that the
+                    Department, while not changing its “standing regulation” for the opening of
+                    records 30 years old, had determined that the records of the years from 1939
+                    through 1941 would henceforth be treated “as though they were in the ‘open’
+                    period.” Thus, the effective terminal date of the open period was moved from
+                    December 31, 1938 to December 31, 1941. As <hi rend="italic">Foreign
+                        Relations</hi> had completed coverage of 1945 in the course of 1969, the
+                    closed period began with January 1, 1946 and the restricted period extended from
+                    1942 through 1945.</p>
+                <p>No further changes in the access situation took place until 1972. On January 21
+                    of that year the Department announced in press release 19 that it had
+                    declassified almost all of its foreign policy records for the years 1942-1945
+                    inclusive. This action “taken by special administrative decision” was not
+                    intended, however, to void the Department’s “standing regulation” providing for
+                    the opening of records 30 years old.</p>
+                <p>This action by the Department eliminated for all practical purposes the
+                    “restricted” period of access and left in existence only an “open” and a
+                    “closed” period of the files. This became even clearer when the release of all
+                    the <hi rend="italic">Foreign Relations</hi> volumes for 1946 was followed by an
+                    announcement by the Department in press release 193 of August 10,
+                    1972, stating that the Department had declassified almost all of its foreign
+                    policy records through 1946. Like the earlier decisions regarding the records of
+                    the period 1942-1945, this opening of the files through 1946 was not to be
+                    interpreted as a departure from the standing regulation providing for the
+                    opening of the Department’s records 30 years old. Moreover, by August 19 the
+                    opening of records after 30 years had become mandatory for all Government
+                    Departments under the terms of Executive Order 11652 of March 1972, which
+                    became effective on June 1, 1972.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

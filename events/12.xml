@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+    <id>1</id>
+    <title>Panel on FRUS and Responsible Transparency at American Historical Association (AHA) 2014
+        Annual Meeting</title>
+    <created>2013-12-09</created>
+    <icon>
+        <width>150px</width>
+        <height>150px</height>
+        <url>http://static.history.state.gov/frus150/aha-2014-logo.png</url>
+        <alttext>Still image of AHA 2014 Annual Meeting Logo</alttext>
+    </icon>
+    <link>/historicaldocuments/frus-history/events#aha-2014-frus-responsible-transparency</link>
+    <link-alttext>More information about this event</link-alttext>
+    <event-type>Public Presentation</event-type>
+    <event-date>2014-01-04</event-date>
+    <teaser>
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <a href="/historicaldocuments/frus-history/events#aha-2014-frus-responsible-transparency">“Historicizing the Debate about
+                Responsible Transparency: The Past and Future of the <em>Foreign Relations of the
+                    United States</em> Series”</a> (a panel at the American Historical Association
+            Annual Meeting)</div>
+    </teaser>
+    <full-description>
+        <div xmlns="http://www.w3.org/1999/xhtml" id="aha-open-secrets">
+            <a style="float:right" class="not-external" href="https://aha.confex.com/aha/2014/webprogram/Session10069.html" title="Link to AHA Annual Meeting homepage">
+                <img width="150px" height="150px" style="border:1px black solid" src="http://static.history.state.gov/frus150/aha-2014-logo.png" alt="AHA 2014 Annual Meeting Logo"/>
+            </a>
+            <h3>
+                <a href="https://aha.confex.com/aha/2014/webprogram/Session10069.html">“Historicizing the Debate about Responsible
+                    Transparency: The Past and Future of the <em>Foreign Relations of the United States</em>
+                    Series”</a>
+            </h3>
+            <p style="font-size: 0.825em; text-transform: uppercase;">American Historical Association Annual
+                Meeting<br/>January 4, 2014</p>
+            <p>
+                <ul>
+                    <li>Chair <ul>
+                        <li>Stephen Randolph, U.S. Department of State</li>
+                    </ul>
+                    </li>
+                    <li>Panel 
+                        <ul>
+                            <li>Steven Aftergood, Project on Government Secrecy, Federation of
+                                American Scientists</li>
+                            <li>Brian Balogh, University of Virginia</li>
+                            <li>Joshua Botts, Office of the Historian, U.S. Department of State</li>
+                            <li>Malcolm Byrne, National Security Archive, George Washington
+                                University</li>
+                            <li>Richard H. Immerman, Temple University</li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+            <p>On January 4, 2014, Office of the Historian staff members will participate in a
+                roundtable discussion at the American Historical Association Annual Meeting on
+                “historicizing the debate about responsible transparency: the past and future of the
+                Foreign Relations series.” Informed by new historical research, this discussion will
+                provide an opportunity to consider the value ascribed to openness in government
+                alongside the efforts made to protect sensitive information. Participants Steven
+                Aftergood, Brian Balogh, Joshua Botts, Malcolm Byrne, Richard Immerman, and Stephen
+                Randolph will comment upon the ways in which the history of <hi rend="italic">FRUS</hi> clarifies our
+                understanding of the debate about transparency and secrecy and illuminates broader
+                themes in American history. Following these comments, the roundtable will engage the
+                audience in a wider discussion about the past and future of responsible
+                transparency.</p>
+        </div>
+    </full-description>
+</event>

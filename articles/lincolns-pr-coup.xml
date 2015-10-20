@@ -1,0 +1,32 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Lincoln’s P.R. Coup</title>
+                <title type="short">Lincoln’s P.R. Coup</title>
+                <author>Aaron W. Marrs</author>
+                <sponsor>Office of the Historian, U.S. Department of State</sponsor>
+            </titleStmt>
+            <publicationStmt>
+                <date when="2011-12-02">December 2, 2011</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>
+                    <ref target="http://opinionator.blogs.nytimes.com/2011/12/01/lincolns-p-r-coup/">Lincoln’s P.R. Coup (<hi rend="italic">New York Times</hi> article)</ref>
+                </head>
+                <p>In addition to the domestic challenge it presented, the fledgling Confederacy
+                    posed a foreign policy dilemma for Abraham Lincoln’s administration. The
+                    Confederacy hoped to use its position as a crucial source of cotton to secure
+                    recognition from foreign powers and boost its legitimacy, and it sent
+                    commissioners abroad to sway other countries into supporting its cause.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Minutes of Historical Advisory Committee Meeting, November
+                    1982</title>
+                <title type="short">HAC Meeting Minutes, 1982</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-05-05">May 5, 2014</date>
+                <date type="created" when="1982-11-05">November 5, 1982</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1982-11-05-hac-meeting-minutes.pdf">PDF</ref>, 255 KB, 14pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 4, 1982—Report, Minutes, Correspondence. The
+                    classified annex referenced in the afternoon session has not been
+                located.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 9, <ref
+                    target="../chapter-9#fn79">Footnote 79</ref></p>
+            <div type="document">
+                <head>Minutes of the 1982 Meeting of the Advisory Committee on Historical Diplomatic
+                    Documentation</head>
+                <dateline>November 5, 1982</dateline>
+                <p rend="underline">American Historical Association</p>
+                <list>
+                    <item>Dr. Gary R. Hess, Department of History, Bowling Green State University,
+                        Bowling Green, OH 43403</item>
+                    <item>Dr. John L. Gaddis, Department of History, Ohio University, Athens, Ohio
+                        45701</item>
+                    <item>Dr. Ernest R. May, John F. Kennedy School of Government, Harvard
+                        University, Cambridge, Massachusetts 02138</item>
+                </list>
+                <p rend="underline">American Political Science Association</p>
+                <list>
+                    <item>Dr. Richard N. Rosecrance, Center for International Studies, Cornell
+                        University, Ithaca, New York 14853</item>
+                </list>
+                <p rend="underline">Organization of American Historians</p>
+                <list>
+                    <item>Dr. Gaddis Smith, Department of History, Yale University, New Haven,
+                        Connecticut 06520</item>
+                </list>
+                <p rend="underline">American Society of International Law</p>
+                <list>
+                    <item>Dr. Seymour J. Rubin, Executive Vice President &amp; Executive Director,
+                        The American Society of International Law, 2223 Massachusetts Avenue, N.W.,
+                        Washington, D.C. 20008</item>
+                </list>
+                <p rend="underline">Other Persons Present</p>
+                <p>The Bureau of Public Affairs (PA):</p>
+                <list>
+                    <item>John H. Kelly, Senior Deputy Assistant Secretary</item>
+                </list>
+                <p>The Office of the Historian (HO):</p>
+                <list>
+                    <item>William Z. Slany, The Historian</item>
+                    <item>Neal H. Petersen, Acting Deputy Historian</item>
+                    <item>John P. Glennon, Acting General Editor of the <hi rend="italic">Foreign
+                            Relations of the United States</hi> (<hi rend="italic">FRUS</hi>)</item>
+                    <item>Nina J. Noring, Acting Adviser on Research</item>
+                    <item>Charles S. Sampson</item>
+                    <item>M. Paul Claussen</item>
+                    <item>David W. Mabon</item>
+                    <item>David M. Baehler</item>
+                    <item>Carol A. Becker</item>
+                    <item>Bret D. Bellamy</item>
+                    <item>Evan M. Duncan</item>
+                    <item>Suzanne E. Coffman</item>
+                    <item>Evans Gerakas</item>
+                    <item>Kay K. Herring</item>
+                    <item>N. Stephen Kane</item>
+                    <item>Edward C. Keefer</item>
+                    <item>Ronald D. Landa</item>
+                    <item>James E. Miller</item>
+                    <item>David S. Painter</item>
+                    <item>David S. Patterson</item>
+                    <item>William F. Sanford</item>
+                    <item>Harriet D. Schwar</item>
+                    <item>Stanley Shaloff</item>
+                    <item>Sherrill B. Wells</item>
+                </list>
+                <p>Classification/Declassification Center (A/CDC):</p>
+                <list>
+                    <item>Ambassador John R. Burke, Deputy Assistant Secretary of State for
+                        Classification/Declassification</item>
+                    <item>Laurence G. Pickering, Director, Office of Systematic Review</item>
+                </list>
+                <p>Foreign Affairs and Information and Management Center (A/FAIM):</p>
+                <list>
+                    <item>Frank M. Machak, Chief, Information Services Division (PS)</item>
+                    <item>John F. Ellsworth, Chief Editing Branch</item>
+                    <item>Margie R. Wilber, Chief, Documentary Editing Section</item>
+                    <item>Rita M. Baker, Deputy Chief, Documentary Editing Section</item>
+                    <item>Vicki L. Ettleman</item>
+                </list>
+                <p>The National Archives and Records Service (NARS):</p>
+                <list>
+                    <item>Milton O. Gustafson, Chief, Diplomatic Records Division</item>
+                    <item>Edwin A. Thompson, Chief, Records Declassification Division</item>
+                </list>
+                <p>Others:</p>
+                <list>
+                    <item>Arthur G. Kogan, retired</item>
+                    <item>Beverly Zweiben, Bureau of International Organization Affairs, Department
+                        of State</item>
+                    <item>Lisle A. Rose, Bureau of Oceans and International Environmental and
+                        Scientific Affairs</item>
+                    <item>Daniel Helmsteder, President, Scholarly Resources, Inc.</item>
+                </list>
+                <p>[<hi rend="italic">Omitted here is a list of abbreviations.</hi>]</p>
+                <p rend="center"><hi rend="underline">Morning Session</hi></p>
+                <p>Mr. Slany called the meeting to order at 9:18 A.M. He introduced Mr. Kelly, who
+                    welcomed the Advisory Committee on behalf of John Hughes, Assistant Secretary
+                    for Public Affairs and Department Spokesman, who could not be present because he
+                    was on Capitol Hill with the Secretary of State, George Shultz, that
+                    morning.</p>
+                <p>Mr. Kelly said that the Committee played a vital role in providing advice and
+                    support to the Office of the Historian, especially for the <hi rend="italic"
+                        >Foreign Relations</hi> series. He stated that the Department had a
+                    commitment to the prompt and efficient publication of the series, always
+                    balancing scholarly integrity and quick disclosure against the needs of
+                    continued security. He welcomed the Committee’s candid discussion and solicited
+                    their advice.</p>
+                <p>Mr. Slany distributed a revised agenda for the meeting. He regretted that time
+                    had not permitted arrangements for the attendance of records personnel from
+                    other foreign affairs agencies, but he solicited suggestions from the Committee
+                    as to who they might like to have attend next year. He noted that the morning
+                    session was open to the public, but that the afternoon session was closed so
+                    that classified information could be discussed. Mr. Slany called upon the
+                    Committee to elect a chairman. Mr. May nominated Mr. Hess, which was seconded by
+                    Mr. Smith. Mr. Rubin moved that the nominations be closed. Mr. Hess was chosen
+                    by acclamation.</p>
+                <p rend="underline">Report of the Historian</p>
+                <p>Mr. Slany made an oral report of the activities of the Office to supplement the
+                    written report on the subject that had been mailed to the Committee members
+                    earlier. He noted that several leadership positions in the Office had been
+                    filled on an acting basis pending permanent assignments which must be made under
+                    the mechanism approved by the Office of Personnel Management.</p>
+                <p>Although the Office had been given budgetary support by the Bureau of Public
+                    Affairs and the Department itself, costs in the Office had been lower than in
+                    the past because only two volumes in the <hi rend="italic">FRUS</hi> series had
+                    been published in the last year. During the coming fiscal year, Mr. Slany
+                    reported that the size of the Office staff would be reduced from 35 to 29
+                    professional and support members. The staff cuts were not unique to the Bureau.
+                    The lost positions were earmarked by Management Operations as “declassification”
+                    positions because so much of the declassification function had been lost to the
+                    CDC several years ago. These lost positions would in no way affect the <hi
+                        rend="italic">Foreign Relations</hi> series. Mr. Rubin asked if the loss
+                    would affect the declassification that the Office still engages in. Mr. Slany
+                    said that it would not. Mr. Slany then added that the Office was still able to
+                    hire selectively, having acquired two new historians in the past year, David
+                    Painter and Janet Heininger, whom he introduced.</p>
+                <p>Mr. Slany said that eight volumes of the <hi rend="italic">Foreign Relations</hi>
+                    series were declassified but not yet published. Although the declassification
+                    process has operated much more smoothly in the last year, the printing process
+                    at the GPO has not. Some volumes now take longer than one year at GPO. The major
+                    problem is one of technology; fifteen to twenty <hi rend="italic">FRUS</hi>
+                    volumes were prepared on lead plates for the linotype process. GPO plans to
+                    phase out its linotype operation in the next year. Some of the volumes, those
+                    that cannot possibly be declassified by the time the linotype process is no
+                    longer available, are already being converted to magnetic tape for GPO’s
+                    photocomposition process. Mr. Smith asked if optical scanning might be able to
+                    convert the galleys to magnetic tape without retyping. Mr. Slany responded that
+                    the Office had tried that, but the optical scanning technology was still not
+                    able to handle the type face used in the series. In order to publish the volumes
+                    in the quickest fashion possible after declassification, the Office is now
+                    exploring the possibility of requesting a waiver from the requirement to publish
+                    through GPO, which would necessitate the approval of the Joint Committee on
+                    Printing of the U.S. Congress. Waivers such as this are difficult to obtain, he
+                    added, but they had been acquired in the past by the National Archives, the
+                    Center of Military History, and for the history of the Atomic Energy Commission.
+                    Mr. Rosecrance asked how those agencies had acquired waivers. Mr. Slany said
+                    that they had been acquired long ago, but that recent waivers had been awarded
+                    on the grounds that GPO could not meet deadlines, which was certainly applicable
+                    for our series. To Mr. Smith’s question as to why reduced cost would not be a
+                    strong argument for a waiver, he replied that the State Department had never
+                    been able to get a full breakdown of GPO’s costs on an item by item basis. There
+                    was reason to suspect that some of the <hi rend="italic">Foreign Relations</hi>
+                    volumes “carried” less prestigious publications printed by GPO for other
+                    agencies. Mr. Slany estimated that a private publisher might be able to produce
+                    a volume for one half of the GPO cost of about $150,000 per volume. Mr. Gaddis
+                    asked if the Office had already been in contact with a private publisher, to
+                    which Mr. Slany answered that some companies seemed interested. He added that
+                    the request for a waiver at a time when GPO was trying to modernize would be
+                    resisted strongly. With a waiver, however, a commercial or university press
+                    would be able to produce the series faster, more economically, and with a larger
+                    press run to include a paperback edition. Mr. Rubin suggested that perhaps a
+                    good strategy would be to ask for a waiver just for the backlogged volumes still
+                    in lead galleys rather than for the whole series. Mr. Slany agreed.</p>
+                <p>Mr. Slany then pointed out because all the 1955-57 volumes in the series would be
+                    published using the photocomposition technology, it would be very likely that
+                    some of those volumes would appear before the 1952-54 volumes had all appeared.
+                    Mr. Gaddis remarked that precedents already existed for publishing <hi
+                        rend="italic">FRUS</hi> volumes out of sequence. Mr. Smith asked if the lead
+                    plates themselves could be photoprinted. Mr. Slany replied that the galleys had
+                    to be altered prior to printing to account for declassification decisions, and
+                    thus photoprinting would not be possible.</p>
+                <p>Mr. Slany concluded this section of his oral report by stating that there was
+                    certainly no guarantee, given the GPO problems, that any more volumes would be
+                    published in 1983 than had been published in 1982.</p>
+                <p>The problems associated with publishing the <hi rend="italic">Foreign
+                        Relations</hi> series, however, are not being allowed to interfere with the
+                    earliest access by the public to the records on which the series is based. He
+                    pointed with pride to the arrangements that had been made by the Department of
+                    State and the National Archives whereby the Department has provided a subvention
+                    which supports the work of 22 archivists at NARS who are working on applying the
+                    CDC’s guidelines to the 1950-54 record bloc. Very shortly a portion of that
+                    record bloc will be opened. Mr. Pickering estimated that by the end of the next
+                    fiscal year the Department will have committed $460,000 to this effort. Mr.
+                    Slany expected that the whole record bloc will have been opened by 1986 or
+                    sooner. The records relating to Europe are proving to be the most sensitive to
+                    declassify and will probably be the last to be released. The CDC meantime is
+                    working now on guidelines for the 1955-59 record bloc.</p>
+                <p>Mr. Slany announced that, to supplement this effort, a joint project of the
+                    Historical Office and the CDC was underway to microfiche and then publish
+                    separately high-level files of a multi-topical and multinational nature that are
+                    not easily covered by the CDC’s review guidelines. The microfiche publication
+                    would include the Department’s publication <hi rend="italic">Current Economic
+                        Developments</hi>, the Top Secret Daily Summaries, White House summaries,
+                    memoranda of the Secretary of State, and conference files prepared by the
+                    Executive Secretariat. The microfiche would be distributed to depository
+                    libraries around the country and the world. Mr. Sampson, who heads this project,
+                    added that the microfiche publication must make clear what portion of the files
+                    the user is getting. When asked by Mr. Gaddis if all these files were from the
+                    1950-54 period, Mr. Sampson replied that some of the files begin in 1945. Mr.
+                    Gaddis asked about the integrity of the files; Mr. Slany responded that this
+                    Office’s concern for file integrity was another motive for the project. Mr.
+                    Sampson noted that the historians had come across many damaged files with
+                    missing documents and missing pages from documents, estimating that one percent
+                    to five percent of the files are degraded by each handling of them. Mr. May
+                    asked if these files would be sanitized or appear in full. Mr. Sampson answered
+                    that less than one-half of one percent were being withheld. Mr. Slany said that
+                    the Office would prepare essays to accompany the fiche, explaining what the
+                    documents were and what portion they represented. There would be no editing of
+                    the documents to be microfiched. Because these documents are easily declassified
+                    in that they mention very few names, their review does not interfere with the
+                    CDC’s regular declassification schedule for <hi rend="italic">FRUS</hi>.</p>
+                <p>Mr. Rosecrance asked when all these documents might be available to the public,
+                    noting that the British were far ahead of us in releasing their documents for
+                    the early 1950s. Mr. Slany said that the thirty-year line was certainly not
+                    possible for some records, but he commented that, based on the observations of
+                    several members of the staff who had actually visited the Public Records Office
+                    in the last year, the British were withholding many sensitive files as well. Mr.
+                    Gaddis asked if the Office plans any retrospective volumes to pick up
+                    documentation not available at the time of publication of the volumes in the
+                    series. Mr. Slany and Mr. Petersen agreed that the Office was very interested in
+                    publishing retrospective volumes, having already partially compiled one such
+                    volume made up of intelligence and national security documents declassified at
+                    the Truman Library subsequent to publication of the <hi rend="italic">FRUS</hi>
+                    volumes for the time period.</p>
+                <p>The meeting then adjourned for a short break for 15 minutes.</p>
+                <p rend="underline">User Survey</p>
+                <p>Mr. Slany reported that the results of the <hi rend="italic">Foreign
+                        Relations</hi> User Survey, prepared by the Office and conducted in
+                    September 1982, were very encouraging. Both the size of the response and the
+                    number of people who took the time to add comments indicated considerable
+                    support for the series outside the Department.</p>
+                <p>Mr. Glennon reported on the Survey in detail. Of the 1593 questionnaires that
+                    were sent out (deliberately excluding any past and present Office employees),
+                    766 were returned; this represented almost 50%. Both the mailing list of the
+                    Society for Historians of American Foreign Relations (SHAFR) and that of the
+                    Bureau of Public Affairs were used to determine the mailing list for the Survey.
+                    Prior to a comprehensive statistical analysis to be conducted by a data
+                    processing firm in Baltimore, Mr. Glennon looked at a sampling of 250 returns to
+                    derive some preliminary unofficial statistics. Almost 89% of the respondents
+                    said they had used the series in the last three years. 64% preferred to wait for
+                    a more comprehensive volume than to receive a more timely but less complete one.
+                    Over 90% said the series was vital and that it would be a serious loss if it
+                    were discontinued. 41%, however, said that they were not specialists in
+                    diplomatic history, indicating a use of the series outside the obvious narrow
+                    audience. Interest was strong in possible paperback editions, but the responses
+                    were mixed concerning the addition of aids and other features such as purport
+                    lists, narrative summaries, and bibliographies.</p>
+                <p>Mr. Slany said that the Office, in conjunction with the Bureau, had been trying
+                    to circulate this Survey ever since 1977, although many of the respondents
+                    apparently thought that the timing of the Survey had some significance for the
+                    survival of the series and/or the Office. One obvious purpose of the Survey was
+                    to let managers in the Department know of the size and breadth of the <hi
+                        rend="italic">FRUS</hi> constituency, but the main objective was to improve
+                    the utility of the series.</p>
+                <p>Mr. Glennon continued by saying that over 35% of the respondents wrote comments
+                    on the page provided. Microform editions and microform supplements were not
+                    enthusiastically welcomed. Mr. Smith asked if any of the respondents had noted
+                    the usefulness, as he did, of the series as an undergraduate teaching aid. Mr.
+                    Glennon said that they had. Mr. Smith added that the utility of narrative
+                    summaries and bibliographies depended on the use to which one put the series in
+                    general. He, for one, would hate to see any documents sacrificed to make room
+                    for editorial apparatus. Mr. Hess asked if the committee would be provided with
+                    copies of the summary data when it was complete. Mr. Slany assured him that they
+                    would certainly be sent copies, but not until the full analysis was complete
+                    after the first of the year.</p>
+                <p>Mr. Slany said that before turning to Mr. Glennon for the report on the status of
+                    the <hi rend="italic">Foreign Relations</hi> series he wanted to tell the
+                    Committee about the suggestion put forward by the Society for Historians of
+                    American Foreign Relations for an internship/fellowship program to be instituted
+                    in the Department for post-doctoral students of diplomatic history. The
+                    intention would be to assign the fellows not to the Historical Office but to
+                    other Bureaus and perhaps even embassies overseas. There might be problems in
+                    funding such a program entirely by the Department, but the idea was receiving
+                    serious attention in the Office and the Department.</p>
+                <p rend="underline">Report on the Status of the <hi rend="italic">Foreign
+                        Relations</hi> Series</p>
+                <p>Mr. Glennon reported on the problems encountered in publication of <hi
+                        rend="italic">FRUS</hi>. Only two of the projected eight volumes scheduled
+                    for publication in 1982 had actually appeared. Various printer errors had to be
+                    corrected in Volume III for 1951, including replacement of the title page.
+                    Volume V (The Near East and Africa) was scheduled for release by the end of the
+                    year. Six cleared volumes were in the pipeline and would probably be released by
+                    August 1983.</p>
+                <p>An average of 12 months elapsed between clearance and publication, and this
+                    figure was likely to increase to 13. China 1949 was exceptional in taking only
+                    seven months to publish after clearance. The recent Geneva Conference volume
+                    took ten months on “fast track,” while Indochina 1952-54 took sixteen.
+                    Declassification was slow, but five volumes had been cleared this year and three
+                    more were in the final stage of clearance at NSC. A total of 44 volumes were in
+                    the pipeline for the years 1951 through 1958-60. Little except exploration of
+                    the Presidential Libraries was planned at this stage for the post-1960 period.
+                    While some 1958-60 material had gone to CDC for review, the emphasis was on
+                    1951-54. Volumes V and VII for 1951 were scheduled for release by January,
+                    agreement with CDC on Volume IV was expected shortly, making publication likely
+                    in 1984. Only three out of sixteen volumes for 1952-54 had been published. Five
+                    were scheduled for 1983, three were at NSC, and five more were encountering
+                    clearance problems and were threatened by GPO’s plans to phase out linotyping.
+                    The 1952-54 cycle was unlikely to be completed until 1985, with clearance being
+                    slowest on the European and Near East volumes.</p>
+                <p>The first of the 1955-57 series might be published in early 1984. Twelve volumes
+                    were complete, the CDC had returned preliminary declassification memos on two,
+                    and was expected to return memos on two more. Compilation was about half
+                    completed for the 1958-60 series, which was expected to comprise 16 volumes.</p>
+                <p>The floor was then opened to questions from the committee.</p>
+                <p>Mr. Smith, noting that Mr. Glennon’s written report had said that no <hi
+                        rend="italic">FRUS</hi> compiling was going on at present, wondered whether
+                    this inactivity might eventually erode compilation skills. Mr. Glennon said that
+                    compiling still continued on a very small scale, and he did not think the skills
+                    would disappear. Mr. Smith imagined that selecting and editing of documents was
+                    the most intellectually stimulating part of the <hi rend="italic">Foreign
+                        Relations</hi> work, not the declassifying and negotiating part. Mr. Slany
+                    and Mr. Glennon agreed.</p>
+                <p>Mr. Rosecrance asked about the long delays in clearing European volumes, and was
+                    told that political questions were the main reason. Mr. Hess asked how much time
+                    was spent in deletions. He was told that declassification was the longest phase
+                    of the process. Compilation began in 1974 for the 1952-54 series, while it had
+                    begun ten years ago for the 1951 series. Even the binding is taking 5 months
+                    instead of the promised 2 1/2 months. Mr. May asked about means of expediting
+                    the process, particularly contracting either printing or binding to private
+                    firms. Mr. Rubin was particularly interested in this possibility. While it might
+                    be difficult to persuade Congress to agree to a waiver, private printing would
+                    be in line with the Administration’s search for means of cutting costs and its
+                    belief in the virtues of the private sector.</p>
+                <p>Mr. Glennon described possible changes in the series. CDC was reviewing proposed
+                    microfiche supplements to two of the 1955-57 volumes. These would include
+                    verbatim records, background papers, and other material that could not be
+                    conveniently included in the regular volumes. Narrative summaries also seemed
+                    worthwhile. Current planning called for summaries and purport lists to be
+                    collected and published as a separate volume after a triennial series was
+                    completed.</p>
+                <p>Mr. Glennon continued that the Office had been working with GPO in designing some
+                    format changes for the 1958-60 triennium. The purpose of the possible format
+                    changes was to make the pages of the series more readable, less crowded, and
+                    more efficiently handled in the new computerized printing technology.</p>
+                <p>Mr. Gaddis asked if name lists now appeared in every volume. Mr. Glennon said
+                    that from now on, with few exceptions, each newly published volume would contain
+                    a name list.</p>
+                <p>Mr. Slany observed that not enough volumes had been released as yet in the new
+                    triennial format to make a judgment on it. The Office was not rigidly committed
+                    to the triennial format. Mr. Pickering pointed out that the triennial style gave
+                    added problems to the declassification process because such a long period of
+                    time was involved.</p>
+                <p>Mr. Glennon noted that <hi rend="italic">FRUS</hi> received considerable
+                    publicity when the Indochina volume was released in August 1982. Extensive
+                    coverage was provided in UPI and the <hi rend="italic">Washington Post</hi>.</p>
+                <p>Mr. Slany stated that 18 to 20 journals regularly got review copies of new
+                    volumes. Mr. Glennon noted that private publication might yield more extensive
+                    publicity. In the near future, the Foreign Press Center would receive press
+                    releases and summaries when new volumes appear. Mr. Smith commented that often
+                    he did not receive notice of a volume’s availability until the supply had
+                    already been exhausted. Mr. Glennon responded that a commercial publisher would
+                    undoubtedly devote more effort to marketing the series.</p>
+                <p>Mr. Gaddis asked how drafters of documents would be identified. Mr. Glennon said
+                    that such details would be indicated in footnotes of future volumes. Mr. Gaddis
+                    and Mr. Glennon then discussed the problem of how to judge whether a document
+                    reflected the views of its drafter, or those of his superiors.</p>
+                <p>Mr. Slany commented that the Office was experimenting with microfiche in other
+                    contexts before trying to add such supplements to <hi rend="italic">FRUS</hi>.
+                    To interrelate the fiche and the volume line by line with accurate and useful
+                    cross-references involved much work and human resources. Long runs of documents,
+                    such as verbatim minutes of conferences and negotiations or large bodies of
+                    briefing papers seemed more suitable for <hi rend="italic">FRUS</hi> microfiche
+                    supplements until techniques and technology were considerably refined and
+                    developed.</p>
+                <p>Mr. Hess noted that the scholarship required to compile a comprehensive
+                    collection of important documents of an era on a subject had become increasingly
+                    more complex. The important documents were not limited to the Department of
+                    State’s files. Presidential libraries and the Freedom of Information offices
+                    throughout the foreign affairs community also declassified documents; to keep
+                    control of what was available was becoming very complex.</p>
+                <p>Mr. Slany said that the Office has begun inventories of those papers available
+                    outside the Department official files worth preserving which might not routinely
+                    be preserved at the National Archives under current regulations and procedures.
+                    Mr. Glennon added that trips to Presidential libraries, begun in 1975, have
+                    shown that more and more documents are available there on a declassified basis
+                    as the years go by. Mr. Slany observed that FAIM has started to put onto fiche
+                    long series of documents frequently requested through Freedom of Information.
+                    The Historical Office would inventory such collections and help in their
+                    preparation and preservation where necessary.</p>
+                <p>The meeting adjourned at noon, to be resumed at 2 P.M. for the closed
+                    session.</p>
+                <p rend="center"><hi rend="underline">Afternoon Session (Closed to the
+                    Public)</hi></p>
+                <p>[Here follow a presentation on foreign government information and related
+                    subjects by Ambassador John R. Burke, Deputy Assistant Secretary for
+                    Classification/Declassification, and discussion with the Committee. This portion
+                    of the minutes is retained in the Office of the Historian as a classified
+                    document.]</p>
+                <p rend="underline">Policy-Related Research</p>
+                <p>Mr. Slany reported that the policy-related research program in the Office had
+                    taken the largest segment of the Office’s resources for the last 12 months. The
+                    Office had paused in the compilation of <hi rend="italic">FRUS</hi> volumes and
+                    had concentrated on contributing historical background to the policy-making
+                    process in the Department of State. Moreover, the Office felt a political need
+                    to demonstrate to the Department our utility in these times of fiscal austerity.
+                    He asked Ms. Noring to distribute a classified list of research projects done by
+                    the Office in the past year.</p>
+                <p>Although the historians in the Office had many areas of expertise, he went on, in
+                    some instances the Office has not been or might not be able to respond to a
+                    Department request on particular topics or those with a short time fuse. We
+                    solicited Committee opinion on the idea of contracting out some research work
+                    for the Department to the academic community. Mr. May asked what exactly did he
+                    have in mind. Mr. Slany responded that he envisioned making use of the insight
+                    and knowledge of the larger community of scholars for the good of the Department
+                    on an as-needed basis when Office resources were unavailable or not suitable for
+                    the topic. Mr. Smith asked if clearances would be necessary, to which Mr. Slany
+                    responded that they could be arranged. Mr. Rubin said that the Department
+                    already makes use of scholars in the international economic field. Mr. Slany
+                    added that what he suggests is reaching out, much as the British and French do,
+                    to professional expertise outside the government. Mr. Gaddis said the idea is
+                    admirable, but real problems arise with clearances and the subsequent
+                    restrictions a scholar must place on himself later on. Mr. Rubin said, that from
+                    his own experience doing this type of contract work, most of the material is
+                    unclassified. Mr. Rosecrance said that an interesting area for outside input
+                    might be a comparison of the 1930s with the 1980s on the subject of
+                    international economic policy. Even graduate students might be usefully employed
+                    on that type of research. Mr. Rubin and Mr. Rosecrance both said that the
+                    Department could probably get a lot of research done free.</p>
+                <p>Mr. Gaddis returned to the issue of clearance, citing the problems that have
+                    arisen on restrictions in the CIA Scholar in Residence Program. Mr. Slany said
+                    that a line might be drawn on the necessity for clearances, or that limited
+                    access might be arranged <hi rend="underline">ad hoc</hi>.</p>
+                <p>Mr. Hess wondered how the Office selected the projects that were on the
+                    list--were they self-initiated, solicited, or did they come through normal
+                    channels? Mr. Slany answered that it was a mixture of all three. The Office
+                    responds the best it can, and is now engaged in prioritizing a list of suggested
+                    projects that we could do, which it will then circulate for Department reaction.
+                    Mr. Smith asked if the Office worked on the research alone. Mr. Slany said that,
+                    other than going back to the requester for redefinition or arranging access or
+                    providing feedback the Office does the work without collaboration.</p>
+                <p>Mr. Smith queried whether historical research is produced in other bureaus. Mr.
+                    Slany replied that INR, the Department Library, the National Archives, the
+                    Office of the Legal Adviser, and the Bureau of Economic and Business Affairs all
+                    prepare research papers; the Historical Office prepares only a small percentage
+                    of the Department’s research. We must make the Department aware of our skills,
+                    he added. Mr. Rubin felt that perhaps the Department did not know of the
+                    existence of the Office at all. Mr. Slany said that the Department was most
+                    aware of the Office in its role as an advocate for the release of documents and
+                    that this reputation worked against the Office in most other contexts.</p>
+                <p>Mr. Gaddis, returning to the idea of contract historians, asked if Mr. Slany was
+                    thinking of individual academic historians or groups of academic historians. Mr.
+                    Slany said he was thinking of both. Mr. Gaddis suggested trying out the idea on
+                    an unclassified basis. Mr. Smith said that small research projects might be done
+                    on a volunteer basis. Mr. May reminded the Committee that when you set up a
+                    board of consultants to whom you grant special access, others without that
+                    access become extremely sensitive. Mr. Smith said that access to classified
+                    material often helps a researcher to ask the right questions even if he
+                    eventually makes no direct use of the classified information. Mr. Gaddis
+                    reiterated his support for the idea that thus a broad range of previously
+                    untapped expertise can be plugged into.</p>
+                <p rend="underline"><hi rend="italic">American Foreign Policy: Current
+                        Documents</hi></p>
+                <p>Mr. Slany reported that, despite promises made to the Committee last year,
+                    neither Current Documents 1981 or Basic Documents 1977-80 had yet been
+                    published. The reasons are twofold: the microfiche supplement to the 1981 volume
+                    created technical problems far beyond our expectations, and the private
+                    publisher we contracted with has unexpectedly delayed the process. Mr. Claussen
+                    was asked to report in more detail.</p>
+                <p>Mr. Claussen said that HO has received the page proofs for <hi rend="italic"
+                        >Basic Documents</hi> 1977-1980 and that 75% of <hi rend="italic">Current
+                        Documents</hi> 1981 has been set. He offered to leave these items and some
+                    prototype samples with the Committee. Mr. Claussen described <hi rend="italic"
+                        >Current Documents</hi> as a “learning experience,” stating that this is the
+                    first time HO has used a large team of editors to compile a volume as well as a
+                    smaller team of senior editors to review it.</p>
+                <p>Mr. Claussen discussed the new technology being explored with <hi rend="italic"
+                        >Current Documents</hi>: computerized typesetting and microform supplements.
+                    The former does not involve a waiver from GPO, but still eases the most
+                    labor-intensive part of the publication process. It takes 9 to 10 months to set
+                    up, at which point the camera-ready copy goes to GPO. GPO signs the project over
+                    to a contractor, but HO will have control of the camera-ready copy. Once the
+                    bugs are worked out of the system, a 10-day turn-around time should be
+                    possible.</p>
+                <p>HO has built a methodology for preparing microform supplements and has identified
+                    its pitfalls. The <hi rend="italic">Supplement</hi> to <hi rend="italic">Current
+                        Documents</hi> will have an index and eye-visible document numbers. The
+                    printed volume will have cross-references to the <hi rend="italic"
+                        >Supplement</hi>. The volume is intended to stand by itself.</p>
+                <p>Mr. Rosecrance asked how it was possible to publish volumes in the manner Mr.
+                    Claussen described without getting a waiver from GPO. Mr. Slany replied that we
+                    are allowed to present GPO with camera-ready copy. GPO is still the printer.
+                    This method may or may not have saved the taxpayers money. He continued that the
+                    first part of the <hi rend="italic">Supplement</hi> will contain the full texts
+                    of documents extracted in the printed volume and texts of additional documents
+                    arranged by subject, while a second microfiche supplement containing the
+                    Department’s noon press briefings, materials from the White House Press Office,
+                    and Department of Defense briefings will be published later. Mr. Claussen stated
+                    that we intend to ask GPO to prepare a paperback version of <hi rend="italic"
+                        >Current Documents</hi> to sell at a lesser price. Mr. Gaddis asked if the
+                    lessons learned from <hi rend="italic">Current Documents</hi> will be applied to
+                        <hi rend="italic">Foreign Relations</hi>. Mr. Slany said they would.</p>
+                <p>The meeting adjourned at 3:21 p.m. so that the Committee could hold its private
+                    meeting.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Minutes of Historical Advisory Committee Meeting, January
+                    1988</title>
+                <title type="short">HAC Meeting Minutes, January 1988</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-02-24">February 24, 2014</date>
+                <date type="created" when="1988-01-07">January 7, 1988</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1988-01-07-hac-meeting-minutes.pdf">PDF</ref>, 779 KB, 21pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 5, Minutes-1987. Confidential. These minutes
+                    were originally separated into an unclassified document and a classified annex.
+                    They are posted in combined form.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 10, <ref
+                    target="../chapter-10#fn35">Footnote 35</ref></p>
+            <div type="document">
+                <head>Minutes of the January 1988 Meeting of the Advisory Committee on Historical
+                    Diplomatic Documentation</head>
+                <dateline>January 7, 1988</dateline>
+                <p rend="underline">American Historical Association</p>
+                <list>
+                    <item>Dr. Robert Dallek, Department of History, University of California, Los
+                        Angeles, California 90024</item>
+                </list>
+                <p rend="underline">American Political Science Association</p>
+                <list>
+                    <item>Dr. Deborah W. Larson, Department of Political Science, Columbia
+                        University, New York, New York 10027</item>
+                </list>
+                <p rend="underline">American Society of International Law</p>
+                <list>
+                    <item>Dr. John Lawrence Hargrove, Executive Vice President and Executive
+                        Director, The American Society of International Law, 2223 Massachusetts
+                        Avenue, N.W., Washington, D.C., 20008</item>
+                </list>
+                <p rend="underline">Organization of American Historians</p>
+                <list>
+                    <item>Dr. Bradford Perkins, Department of History, University of Michigan, Ann
+                        Arbor, Michigan 48109</item>
+                </list>
+                <p rend="underline">Society for Historians of American Foreign Relations</p>
+                <list>
+                    <item>Dr. Warren I. Cohen, Department of History, Michigan State University,
+                        East Lansing, Michigan 48824</item>
+                    <item>Dr. Michael H. Hunt, Department of History, University of North Carolina,
+                        Chapel Hill, North Carolina 27514</item>
+                </list>
+                <p rend="underline">Other Persons Present:</p>
+                <p>Bureau of Public Affairs (PA):</p>
+                <list>
+                    <item>Charles A. Redman, Assistant Secretary and Spokesman of the
+                        Department</item>
+                    <item>George B. High, Deputy Assistant Secretary</item>
+                </list>
+                <p>The Office of the Historian (PA/HO):</p>
+                <list>
+                    <item>William Z. Slany, The Historian</item>
+                    <item>Neal H. Petersen, Deputy Historian</item>
+                    <item>John P. Glennon, Foreign Relations Division Chief</item>
+                    <item>Rita M. Baker</item>
+                    <item>Elizabeth Barwick</item>
+                    <item>M. Paul Claussen</item>
+                    <item>Suzanne Coffman</item>
+                    <item>Karen A. Collias</item>
+                    <item>Evan A. Duncan</item>
+                    <item>Vicki Futscher</item>
+                    <item>Nancy Golden</item>
+                    <item>Robert Hayashida</item>
+                    <item>David Herschler</item>
+                    <item>Nina Howland</item>
+                    <item>Ted Keefer</item>
+                    <item>David Mabon</item>
+                    <item>Michelle Maynard</item>
+                    <item>Blair Mitchell</item>
+                    <item>Nina Noring</item>
+                    <item>David Patterson</item>
+                    <item>Althea Robinson</item>
+                    <item>Charles S. Sampson</item>
+                    <item>Harriet Schwar</item>
+                    <item>Luke Smith</item>
+                    <item>Sherrill Wells</item>
+                </list>
+                <p>Center for Classification/Declassification (A/CDC):</p>
+                <list>
+                    <item>Acting Deputy Assistant Secretary Kenneth Hartung</item>
+                    <item>Acting Director, Systematic Review Staff (SR), Dwight Ambach</item>
+                    <item>Acting Deputy Director (SR) William Hamilton</item>
+                    <item>Sidney Sober</item>
+                    <item>Stuart McIntyre</item>
+                    <item>Lewis Purnell</item>
+                </list>
+                <p>Office of Management Operations (M/MO):</p>
+                <list>
+                    <item>Deputy Director, Ambassador C. E. Dillery</item>
+                </list>
+                <p>Others:</p>
+                <list>
+                    <item>E. Allen Thompson, Project Director, Records Declassification Division,
+                        National Archives and Records Administration (NARA)</item>
+                    <item>David Langbart, Records Appraisal Division, NARA</item>
+                </list>
+                <p rend="center"><hi rend="underline">Thursday Morning Session (Closed)</hi></p>
+                <p rend="underline">Welcome by Assistant Secretary Redman</p>
+                <p>The meeting was convened by Assistant Secretary Redman at 9:10 a.m. He welcomed
+                    the Advisory Committee, noting that it represents professional organizations
+                    that provide the Department with advice and counsel as it endeavors to
+                    accelerate the publication of the <hi rend="italic">Foreign Relations</hi>
+                    series. In 1987, we published nine volumes. We have made a “sustained effort to
+                    accelerate” publication and meet the Presidential goal of 1960 by 1990 while
+                    maintaining the quality of the series. We believe we have succeeded in this
+                    goal. We welcome the Committee’s views on this point as well as on priorities
+                    and on methods of improving efficiency. The Department has a tight budget, and
+                    choices are limited . We must ask how much we can afford to publish and how much
+                    we need to publish in order to maintain a credible record. We will continue to
+                    publish print volumes, but because of budgetary problems we’ve begun to release
+                    some of the record in microfiche. He asked for the Committee’s views and
+                    recommendations regarding print and microfiche volumes.</p>
+                <p>The Committee was scheduled to meet again with Mr. Redman on Friday.</p>
+                <p>The Committee recessed to select a Chairman; Professor Perkins was re-elected.
+                    The meeting reconvened at 9:30 a.m.</p>
+                <p>The agenda was briefly discussed. Professor Perkins pointed out the committee had
+                    two major issues which it wanted to discuss: declassification and reduction of
+                    the size of the volumes.</p>
+                <p rend="underline">Report by the Historian</p>
+                <p>Dr. Slany stated that the past year was one of achievement with many volumes
+                    published. We plan to complete publication of the record of the Eisenhower
+                    administration by 1990, meaning publication of over 40 volumes. This long-term
+                    goal is within reach even though there has been some slippage in publication
+                    schedules. In the past year, we published 9 volumes, including 2 microform
+                    supplements. The issue is not whether the Department can publish but whether the
+                    users of the series will be satisfied. Microfiche publications have been the
+                    most difficult to step up, but this will be the only way to produce the full
+                    record while keeping costs within budget. Another step taken to reduce costs and
+                    improve efficiency is the transfer to the Historical Office of a team of senior
+                    editors from the Bureau of Administration of the Department.</p>
+                <p>Some historians in the office are compiling <hi rend="italic">FRUS</hi> volumes
+                    for the last of the Eisenhower administration. Planning for the Kennedy years is
+                    ongoing, but with the large backlog of compiled volumes, actual compiling has
+                    proceeded slowly. Compiling on the special series of volumes on Vietnam has also
+                    stopped because access to records for 1966 and beyond at the Johnson Library is
+                    limited. NARA does not have the resources to process records at the Johnson
+                    Library and make them available to even official historians.</p>
+                <p>Historical Office resources have been allocated to compiling a supplemental
+                    volume on intelligence covering the late 1940’s. Intelligence records of this
+                    period are becoming available since CIA began a project of declassifying its
+                    records 1-2 years ago. Department historians have assisted in focusing the CIA
+                    declassification effort by helping to determine priorities. Dr. Slany asked that
+                    the Committee consider the value of this volume. He felt there would be a
+                    minimum drain on <hi rend="italic">Foreign Relations</hi> resources and would
+                    not appreciably affect other compilation.</p>
+                <p>Professor Hunt asked if this volume would add to the load on government
+                    declassifiers.</p>
+                <p>Dr. Slany agreed that it would, but noted that by making the size of the books
+                    smaller, the material may be cleared more quickly. If A/CDC resources remain
+                    fixed or are reduced, clearing the Vietnam and intelligence volumes ahead of
+                    others requires trade-offs.</p>
+                <p>In the declassification effort, A/CDC reviewers are sympathetic advocates of the
+                        <hi rend="italic">FRUS</hi> series. Some with the most expertise, however,
+                    are retiring. Dr. Hamilton of A/CDC commented that A/CDC reviewers want to
+                    release as much material as can be released “consistent with national security
+                    interests”. Dr. Slany remarked on the necessity of submitting only the most
+                    important documents to the reviewers to make the most efficient use of their
+                    time.</p>
+                <p>Regarding the budget, Dr. Slany said that the Office had not so far been
+                    prevented from publishing; the budget should allow for 8-10 volumes to go
+                    forward this year if they are cleared.</p>
+                <p>At this point, Professor Dallek proposed alternative sources of money for
+                    publishing the <hi rend="italic">FRUS</hi> volumes. First, he suggested the U.S.
+                    Institute of Peace, headed by former Ambassador Samuel W. Lewis, which funds
+                    historical research on foreign relations subjects. Another source might be a
+                    private foundation such as the Ford, Rockefeller, or Carnegie Foundations.
+                    Professor Dallek noted that there are complaints among scholars about the
+                    shrinking size of the volumes. The additional funds could be used to increase
+                    the size of the projected volumes.</p>
+                <p>Dr. Slany said that we are willing to explore this. Professor Perkins asked if
+                    there was a problem of principle in taking money from a foundation. Mr. High
+                    thought not. Professor Cohen was skeptical, commenting that this might suggest
+                    that the government is shirking its responsibility to publish the books.</p>
+                <p>Dr. Slany said that any funds would help, but that a large part of the cost of
+                    declassifying the volumes was personnel resources which outside funds presumably
+                    could not support. It might be more useful for the Peace Institute to go to the
+                    Johnson Library and offer to support the cost of processing records.</p>
+                <p>Dr. Thompson of NARA commented that NARA’s budget situation was very bad. He
+                    noted that much of NARA’s staff time is taken up with FOIA requests. He
+                    questioned if the Peace Institute would pay personnel costs or have the same
+                    priorities as Archives.</p>
+                <p>Professor Cohen asked if a study had been done comparing the cost of the present
+                    system of declassification with the old one. Dr. Slany said that there had been
+                    no formal study. He noted that under the old system, the desk officer reviewed
+                        <hi rend="italic">Foreign Relations</hi> manuscripts along with his other
+                    duties.</p>
+                <p>Dr. Hamilton of A/CDC commented that the present system is more efficient than
+                    the old one, in which declassification was in the hands of the operational
+                    bureaus, where it was always a low priority. Because A/CDC can recruit senior
+                    people who are known and trusted by the leaders of the geographic bureaus, most
+                    of the responsibility for declassification has come into A/CDC’s hands. He
+                    observed that A/CDC views the 30-year line as a minimum, a “Golden Mean”; if the
+                    material were reviewed before 30 years, more would be withheld from
+                    publication.</p>
+                <p>Professor Perkins the Historical Office was much too optimistic about meeting the
+                    1960 by 1990 goal. He said that a year ago the Historical Office had projected
+                    13 volumes declassified in 1987, but that in fact only 6 had been declassified.
+                    Nine volumes were to be published, but only 7 print volumes and 2 microfiche
+                    supplements were published. Only 5 of 7 volumes had been scheduled for
+                    publication in 1987, one for 1986, and another for 1988. Two of the 1952-1954
+                    volumes were still not published (it was pointed out that one is at press).
+                    Professor Perkins thought the goal of 1960 by 1990 was “rapidly escaping”.</p>
+                <p>Dr. Slany agreed that the goal seemed to be “slipping away”, but was not
+                    irretrievably lost. Declassification delays at the National Security Council
+                    were a particularly severe problem. At the present time, A/CDC is holding
+                    thousands of pages for NSC clearance. The Historical Office feels that the <hi
+                        rend="italic">Foreign Relations</hi> volumes cannot be published without NSC
+                    documents. NSC does not refuse to declassify our material, but does not have the
+                    resources for review.</p>
+                <p>Professor Perkins then asked about the volume on national security policy for
+                    1955-1957. Dr. Glennon replied that it is 1 of 14 volumes ready for NSC
+                    clearance, but we do not expect any further progress on clearance for some time.
+                    The NSC is working exclusively on the Iran-Contra problem and will be for the
+                    foreseeable future. This is the main reason why we were not able to meet the
+                    goals set at the end of 1985.</p>
+                <p>Professor Cohen asked whether there was any way to circumvent the NSC bottleneck.
+                    Dr. Slany replied that the Historical Office and A/CDC had offered various
+                    measures including the detail of personnel but the NSC was unable to do more
+                    than it has. Mr. Ambach of A/CDC stated that the Department had raised the
+                    problem at a high level but the demands on NSC declassification resources were
+                    monumental. Dr. Thompson noted that the Iran-Contra matter had for some months
+                    fully taken up the NSC staff. Professor Cohen suggested that the NSC might be
+                    helped on a one-time basis by an institute or foundation. Mr. High commented
+                    that the NSC would not accept such support. Dr. Thompson stated that a
+                    highly-trained specialist, of which there was a shortage, would be required.</p>
+                <p>Professor Hunt commented that the “monumental effort” to declassify greatly
+                    increased amounts of material is compounded by the decreasing budget and the
+                    fact that the cost of declassification is no longer hidden. The volumes are
+                    being slowed and squeezed to the detriment of the <hi rend="italic">Foreign
+                        Relations</hi> series. He feared that serious damage will be done to the
+                    series. He emphasized the importance of making the record available to the
+                    public in a timely manner.</p>
+                <p>Professor Larson questioned how the British are able to release their material at
+                    the end of the 30-year period. Where do the resources come from? She felt the
+                    Department was doing the public a disservice by withholding the U.S. perspective
+                    on foreign policy issues. Mr. Ambach explained the British do not open all of
+                    their files after 30 years; the release date is based on the last document in
+                    each file. Mr. Thompson stated that each department in the Foreign Office
+                    reviews its own files so each department bears the cost. He also noted that the
+                    British have no FOI Act. Resources in this country increasingly are devoted to
+                    FOIA requests; almost half of his resources go for this purpose.</p>
+                <p>Professor Hunt asked how the change in the declassification system affected costs
+                    for the series. Dr. Slany replied that declassification costs come out of the
+                    funds of another bureau. He commented on the printing costs of the series. In
+                    1981 the total printing budget was about $400,000. At that time the cost of
+                    printing a volume at the GPO was about $100,000. Now the cost of printing has
+                    shrunk to $25,000-30,000 per volume and the total printing budget is about
+                    $150,000. We could produce longer volumes and fall back to the 40-year line but
+                    we would lose our role in working with other agencies for earlier release of
+                    documents.</p>
+                <p>In response to a question from Professor Perkins about the effect of budget cuts,
+                    Mr. High stated that if sequestration had gone into effect, the Historical
+                    Office’s budget would have been cut by two-thirds.</p>
+                <p>Professor Cohen commented that he feared the volumes, because of their shrinking
+                    size, were no longer comprehensive and did not serve the purpose they used to
+                    have as a primary research tool. Dr. Slany remarked that is why the microform
+                    program is so important. Professor Perkins commented that even truncated volumes
+                    are guides to lead researchers through the records, even if they are not the
+                    comprehensive records they once were. Perhaps the basic premise of the <hi
+                        rend="italic">Foreign Relations</hi> series should be revised. The Committee
+                    would work with the Department on this.</p>
+                <p rend="underline">Statement by Deputy Assistant Secretary High</p>
+                <p>Mr. High felt that we have come close to achieving the goals projected last year.
+                    Regarding the clearance and publication of <hi rend="italic">Foreign
+                        Relations</hi> volumes, a lot depends on A/CDC and other agencies. The
+                    Historical Office has been alert to resolving problems of clearance, budget, and
+                    the use of technology. He complimented Dr. Slany and his office for finding
+                    solutions, both administrative and technical, to many problems it had
+                    encountered. Adding the editors to HO’s staff has made a major difference in
+                    cost and efficiency. </p>
+                <p>Mr. High reviewed developments since the Committee’s last meeting. The
+                    committee’s report had raised four areas of concern: maintenance of the
+                    publication schedule; the size of the volumes; staffing and funding; and
+                    declassification. He also mentioned Professor Perkins’ meeting with Deputy
+                    Secretary Spiers and their discussion of establishing an ombudsman. In an aside,
+                    he mentioned that the Department’s Office of Management is reviewing the
+                    activities of all Department of State advisory committees as part of a
+                    government-wide GSA study and ruling on advisory committee management. The
+                    general question of the proper role of advisory committees had been raised when
+                    this administration took office. The Department will report back to the
+                    committee when this review is completed.</p>
+                <p>Mr. High explained the impact of recent budget cuts on the foreign affairs
+                    budget, which has been reduced from $26 billion in 1985, to $20 billion in 1986,
+                    to $18.7 billion in 1987, and to $18.1 billion in 1988. Inflation, the fall of
+                    the dollar, and Congressional earmarking have reduced the available funds still
+                    further. Even with the continuing resolution, we have a substantial shortfall,
+                    and M is trying to prepare for an even greater problem in 1989, when the budget
+                    will increase by only 2 percent. This has meant cuts for PA and for A/CDC.</p>
+                <p>Nevertheless, Mr. High believes that the office is basically on target to achieve
+                    the Presidential goal of 1960 by 1990. It is useful to have the committee’s
+                    views and to hear its concerns. One idea we have proposed is a pre-publication
+                    review of the volumes by a Committee member or someone named by the Committee.
+                    This review would ensure that major topics are adequately covered. He hoped this
+                    would “enhance” the end product and make the smaller volumes more acceptable to
+                    scholars.</p>
+                <p>The Department is also looking at the idea of an ombudsman which came out of the
+                    Perkins-Spiers conversation. This proposal, that someone follow a volume through
+                    the entire declassification and publication process, goes substantially beyond
+                    what had been envisioned in previous discussions. We hope to have an answer on
+                    this soon--in a month or two. Many people in the Department, not only A/CDC but
+                    also the geographic bureaus, have an interest in this and might not be in
+                    agreement, especially since it is perceived in the Department as an
+                    all-or-nothing proposition.</p>
+                <p>Professor Perkins remarked that in his conversation with Ambassador Spiers, he
+                    did not specify a particular mechanism. He and the Committee had no inflexible
+                    concept of what mechanism would be best. Professor Cohen commented the Committee
+                    and the Department were not adversaries. The Committee realizes the severe
+                    budget constraints which affect the schedule and size of the <hi rend="italic"
+                        >Foreign Relations</hi> volumes, but he was concerned with the quality of
+                    the volumes. He felt that he could not testify on the quality to his
+                    constituents if he was not allowed to see material withheld in the
+                    declassification process. The Committee should concentrate on creation of a
+                    mechanism to verify the accuracy and comprehensiveness of the volumes in the
+                    series. Professor Dallek recalled that Dr. Slany had previously proposed a board
+                    of editors or experts who would oversee the process and endorse each volume. He
+                    urged some action on this problem, commenting he had seen very little movement
+                    on it during his 3-year tenure on the Committee.</p>
+                <p>Mr. High continued, stating that under the Committee’s charter, we look to the
+                    Committee to provide advice on the series and on other HO responsibilities and
+                    to provide a channel to professional organizations. He suggested the Committee
+                    might consider in their report:</p>
+                <list>
+                    <item>1) volumes published in 1987;</item>
+                    <item>2) the shape and content of the volumes;</item>
+                    <item>3) suggestions for an editorial board or similar mechanism;</item>
+                    <item>4) comments on any inadequacies in the program;</item>
+                    <item>5) suggestions on the selection and presentation of material;</item>
+                    <item>6) priority subjects for treatment in the 1958-1960 and 1961-1963
+                        volumes;</item>
+                    <item>7) the relevance of HO’s special projects, such as internal research and
+                        the <hi rend="italic">Current Documents</hi> series.</item>
+                </list>
+                <p>The Committee agreed on the necessity of a mechanism to evaluate the
+                    comprehensiveness, context, and completeness of the volumes. But Professor
+                    Perkins said the Committee can’t make valid suggestions “until we have a
+                    dialogue” with Department officials. He repeated that the Committee was open to
+                    any proposal that would work for both sides. Professor Hunt noted the
+                    Committee’s concern with what the budget is doing to volumes (i.e., reducing the
+                    size) and what the declassification process is doing to volumes. He did not want
+                    to bog down the declassification process by injecting an editorial board into
+                    the middle. Professor Larson voiced her fear that incomplete volumes could lead
+                    to misinterpretations of history and at best could mislead.</p>
+                <p>Professor Dallek speculated on the process: the Historian would come to the
+                    Committee with a completed volume; the Committee would suggest a scholar with
+                    expertise in the area to review it and report to the Department and the
+                    Committee. The Historical Office would address the issues raised before
+                    publication. There was some discussion of the procedure that might be followed,
+                    for example mailing the manuscript to the reviewing scholar, as is done with
+                    pre-publication review of a manuscript for a publisher.</p>
+                <p>Dr. Slany noted that the Committee should take the responsibility for
+                    recommending a mechanism for pre-publication review. Professor Dallek agreed.
+                    Mr. High suggested that the Committee make a proposal to Assistant Secretary
+                    Redman when it meets with him.</p>
+                <p>Professor Cohen pointed out that such an arrangement still did not deal with
+                    material withheld in the declassification process. He repeated that the
+                    Committee was open to discussion of any kind of mechanism that would be
+                    acceptable to both sides. Professor Perkins commented that the Committee had not
+                    been able to find out what principles or guidelines of declassification applied.
+                    Mr. Ambach stated that the reviewers making presentations at the afternoon
+                    session would describe as best they could the still-sensitive areas.</p>
+                <p>Professor Perkins asked who decides the priority of which volumes to publish
+                    first. Dr. Glennon replied that volumes are published as they are cleared. Dr.
+                    Slany noted that it was a management decision taken to maximize the number of
+                    published volumes.</p>
+                <p>At this point, the meeting was adjourned for the working luncheon.</p>
+                <p>During lunch, the Committee examined manuscript of <hi rend="italic">Foreign
+                        Relations</hi>, 1955-1957, volume VIII and page proofs of 1955-1957, volume
+                    XI, to determine the extent and impact of the deletion of documents by the
+                    historians.</p>
+                <p rend="center"><hi rend="underline">Thursday Afternoon Session (Closed)</hi></p>
+                <p rend="underline">Opening Comments by Dr. Glennon</p>
+                <p>The meeting reconvened at 2:10 p.m.</p>
+                <p>Dr. Glennon introduced the session on declassification with general remarks on
+                    compilation and declassification review. He announced that A/CDC reviewers would
+                    discuss 1955-1957, volume VIII, South Asia (Sober); volume XI, United Nations
+                    and General (McIntyre); and 1958-1960, volume 14, South and Southeast Asia,
+                    Thailand, and the Philippines (Hamilton and Purnell).</p>
+                <p>Professor Perkins asked whether these volumes were in the higher or lower range
+                    of cuts. Dr. Glennon responded that they were in the lower range--4% of volume
+                    VIII and 7-8% of volume XI. He mentioned that none of these were problem
+                    volumes. The average percentage of excisions from the eight published 1955-1957
+                    volumes was approximately 3.4%. Glennon considered excisions above 4-5% to be on
+                    the high side.</p>
+                <p>Professor Perkins asked why these particular volumes had been chosen. Dr. Glennon
+                    said these volumes were chosen because they were at different stages of
+                    completion. The first was recently issued, the second was currently in
+                    production, and the third was in the clearance process. Their choice was also
+                    based on the availability of reviewers to brief the Committee. Mr. Ambach said
+                    that from A/CDC’s point of view these volumes were chosen because they were
+                    normal, average volumes.</p>
+                <p>Dr. Glennon opined that some of the subjects in the most recently published
+                    volumes might no longer be included in the published volumes if budget
+                    constraints continued (i.e. volume XI, United Nations). He asked the committee
+                    for its views on what the series should be doing and suggested that it review
+                    the list of 16 volumes for the 1961-1963 triennium in light of the current
+                    budget crisis. He said that for years the series had not been a series of
+                    record, but a comprehensive overview of U.S relations that covers all geographic
+                    areas and all important topics from national security to law of the sea.
+                    Although he could find a champion in the Historical Office for each of the
+                    compilations in volume XI (Outer Space comprised 60 pages--all NSC and White
+                    House documents), he foresaw a time when none of these compilations would be
+                    published. Volumes 20 (Africa), and VIII (South Asia), for example, were greatly
+                    reduced in manuscript pages. Because of declassification and printing costs the
+                    size of <hi rend="underline">all</hi> volumes must be similarly reduced. The
+                    average size volume for the 1955-1957 series will be 800 pages. The Historical
+                    Office has tried to cut more from the less significant volumes, but has found it
+                    painful to cut cleared documents from any volume.</p>
+                <p>Microfiche supplements will be increasingly relied upon in the future to augment
+                    the printed volumes. Both the <hi rend="italic">Current Economic
+                        Developments</hi> and the <hi rend="italic">China</hi> microfiche
+                    supplements are considerably larger than the printed volumes. Optimum size of
+                    the supplements would be 40 fiche cards, or the equivalent of 4,000 printed
+                    pages. Clearing these supplements is a costly process in terms of A/CDC
+                    resources as these documents still require review by A/CDC.</p>
+                <p>Professor Perkins said all deletions should be identified in footnotes since the
+                    series serves as a “map” through the government records. He also said that the
+                    Historical Office should expand and increase the value of footnotes. Dr. Glennon
+                    said that in the future the Department historians will have more time to review
+                    deletions and annotate them more comprehensively. He explained that in some of
+                    the recently published volumes, the historians had worked under tight time
+                    constraints.</p>
+                <p>Professor Cohen asked if white space in volumes VIII and XI could be reduced in
+                    future to add more documents. Ms. Baker replied that she has notified the
+                    contractor to amend the computerized typesetting program to allow for less white
+                    space. The nature of computerized typesetting made it inevitable that some white
+                    space would still remain because certain elements could not be separated.</p>
+                <p rend="underline">Comments by Mr. Hartung, A/CDC</p>
+                <p>Mr. Hartung, who is currently serving as Acting Deputy Assistant Secretary for
+                    A/CDC in place of recently retired Ambassador John Burke, explained A/CDC’s
+                    twofold responsibilities: Mandatory Review, which is legislatively mandated, and
+                    Systematic Review under which <hi rend="italic">FRUS</hi> clearance falls. He
+                    said that litigation under the Freedom of Information and Privacy Acts, which
+                    falls under Mandatory Review, is A/CDC’s highest priority since deadlines to
+                    respond are often mandated by the courts. Mr. Hartung estimated that one-third
+                    of Mandatory Review resources are focused on litigation, much of which is
+                    initiated by businesses in the FOIA document retrieval industry. There is also
+                    close Congressional oversight of this function; the General Accounting Office is
+                    at present auditing A/CDC.</p>
+                <p>A/CDC has the same budget problems as other offices in the Department, maybe more
+                    so because all A/CDC operating funds go for personnel expenses. A/CDC’s budget
+                    reached its peak in 1986; it has been reduced 30% since then. Congress restored
+                    the 1988 A/CDC funding level, amounting to a 21% reduction for 1988. This does
+                    not, however, include a 2% payraise and 4% increase in social security
+                    contributions. In spite of budget constraints Systematic Review’s share of the
+                    pie has remained constant.</p>
+                <p>Mr. Hartung noted that in FY 1986 the Department spent $5 million on all facets
+                    of FOIA, while collecting only $10,008 in fees. He noted the Department can now
+                    charge businesses more if these documents are to be used for financial gain.
+                    Large organizations (environmental and refugee groups for example) now take the
+                    “lion’s share” of resources and are quick to litigate. Time taken up by interest
+                    group and company requests means less time for individual requests.</p>
+                <p>Professor Dallek noted that FOIA is extensively used because the public perceives
+                    that there is no need to wait 30 years for declassification; one need only
+                    request material through FOIA. Professor Larson added that if Systematic Review
+                    were moving along, there would not be this perception. If the State Department
+                    accelerated declassification, there would be no need for FOIA.</p>
+                <p>Mr. Ambach said criticism that the declassification of documents in the <hi
+                        rend="italic">FRUS</hi> series takes too long is no longer warranted, as it
+                    might have been in the early 80’s. He noted that during the last 2 years the
+                    Department has greatly accelerated release of material even as the burden of
+                    litigation and FOIA has greatly increased. Declassification of an <hi
+                        rend="italic">FRUS</hi> volume used to take 4 years. This was not so in 1986
+                    and 1987. All but one of the 1952-1954 volumes are declassified. A/CDC has
+                    completed its clearance of all 1955-1957 volumes and volumes I and II of the
+                    1961-63 series. Of the volumes not yet published, 13 are at NSC for clearance; 5
+                    are with other agencies and/or foreign governments; and 2 still need to be
+                    resolved with HO. Of the 1958-1960 series, A/CDC has completed its review of 10
+                    of 18 volumes and has the other 8 volumes under current review. It also has
+                    completed review of Volumes I and II of the 1964-1966 series.</p>
+                <p rend="underline">Foreign Government Documents/Information</p>
+                <p>Professor Perkins asked about the difference in handling declassification of
+                    foreign government documents versus foreign government information. Mr. Ambach
+                    replied that for documents originating with friendly governments, the Department
+                    asks that government to acquiesce in their release. Foreign government
+                    information, that is information in a U.S. Government document from a clearly
+                    identified foreign source, is reviewed by A/CDC for national security
+                    sensitivity and a decision is made to clear or deny the material, or refer it to
+                    the source government for publication approval. We use this process in the hope
+                    that foreign governments would reciprocate.</p>
+                <p>In reply to a query by Professor Cohen, Mr. Ambach replied that A/CDC uses the
+                    principles outlined in E.O. 12356 for declassifying this type of material, that
+                    is will release of the material hamper ongoing negotiations or affect current
+                    relations?</p>
+                <p>At this point, Mr. Kenneth Hartung, Acting Deputy Assistant Secretary (A/CDC) and
+                    members of his staff discussed with the Advisory Committee the declassification
+                    process as it applied to specific <hi rend="italic">Foreign Relations</hi>
+                    volumes. The session adjourned at 5:00 p.m. The proceedings of that discussion
+                    have been classified SECRET and are thus not included in the minutes.</p>
+                <p>BEGIN CLASSIFIED</p>
+                <p rend="underline">Review of <hi rend="italic">Foreign Relations</hi>, 1955-57,
+                    volume VIII, South Asia</p>
+                <p>Sidney Sober of A/CDC led off the discussion of excisions of 1955-57, volume VIII
+                    by advising the Committee members that he would brief them on specific excisions
+                    made in the volume. He said he would read out loud the excisions as well as
+                    explain the reason for the excisions.</p>
+                <p>In reviewing the context of U.S. policy in South Asia in 1955-57, Mr. Sober said
+                    the following were important US concerns at that time: collective security,
+                    SEATO, CENTO, U.S. military presence in South Asia, beginning of Afghan-Pakistan
+                    relations, relations with India and Pakistan, and U.S. intelligence. Subjects in
+                    this area of world that are currently sensitive include U.S. interest in
+                    military bases in South Asia, especially in Pakistan, in light of the Soviet
+                    invasion of Afghanistan and U.S. relations with India.</p>
+                <p>Mr. Sober read one excised excerpt from Document 207, then explained Indian
+                    sensitivities then and now regarding U.S. interest in bases in Pakistan. He said
+                    that the United States has acknowledged establishing a radar tracking station in
+                    Pakistan and use of bases for U-2 flights, but has consistently denied even an
+                    interest in establishing military bases there.</p>
+                <p>Professor Hunt told Mr. Sober that if the Indian Government sees the published
+                    volume as excised, it will think we excised portions on U.S. arming Pakistan.
+                    Why not include this material because years down the road this information will
+                    eventually become public?</p>
+                <p>Mr. Sober replied that the Indians could think what they liked, but as long as
+                    the information was not in a published official U.S. document, they cannot claim
+                    that the U.S. Government is on public record as having had or having now any
+                    intentions of establishing bases in Pakistan.</p>
+                <p>Professor Hunt said these excisions also increase public mistrust of
+                    government.</p>
+                <p>Mr. Sober replied that the sensitivities of today may change tomorrow. The
+                    Department could have deleted the entire document instead of publishing it with
+                    excisions. It’s a risk with a cost, but we think it’s worth it.</p>
+                <p>Professor Cohen queried if the U.S. Government is doing something of which it is
+                    ashamed? Do we make excisions because they would shame or embarrass the United
+                    States?</p>
+                <p>Mr. Sober replied that “embarrassing things” are not deleted; that under
+                    Executive Order 12356 the criteria for deletions are whether release of the
+                    information would damage current U.S. negotiations or relations.</p>
+                <p>Mr. Sober, in introducing his next excerpt, said that during the 1955-57 period,
+                    when U.S. relations with Afghanistan and between Pakistan and Afghanistan were
+                    in the embryonic stages, an official of the Pakistan Government confided in an
+                    American official that they would like to “do in” the Afghan Government. This
+                    was the Daoud government, which was overthrown soon thereafter. Daoud, however,
+                    returned to power 10 years later and remained in power until overthrown by the
+                    Communists. Mr. Sober then read an excerpt on page 235 quoting Admiral Radford
+                    urging the overthrow of the Daoud government.</p>
+                <p>Professors Larson and Dallek demurred on the need for the excisions. Professor
+                    Larson commented that everyone knew Admiral Radford was a fool and no one would
+                    pay any attention to what he had said. Professor Dallek said that more rational
+                    minds would consider the source and place the excised material in context.</p>
+                <p>Mr. Sober then read an excised excerpt from page 465 regarding a discussion
+                    between Vice President Nixon and President Mirza of Pakistan. He also commented
+                    on a denied document, an NSC policy paper, that commented on India and the
+                    Congress Party--the same party in power today. Mr. Sober noted that U.S.
+                    relations with India are still quite sensitive and that any reference to the
+                    United States instructing India how to behave would not be taken well by
+                    India.</p>
+                <p>Professor Hunt reiterated his view that once excised material becomes available
+                    to the public, foreign government historians and others will view deletions as
+                    something the U.S. Government considered embarrassing and shameful and therefore
+                    will interpret the facts to confirm their worst fears of U.S. intentions.</p>
+                <p>Mr. Sober replied that we are as open as we can be. We must live with the doubts
+                    and the eventual consequences.</p>
+                <p>Professor Cohen said we must remember our responsibility for keeping public trust
+                    in what we’re doing; patterns of deletions play into the hands of cynics who
+                    want to discredit the U.S. Government.</p>
+                <p>Mr. Sober replied that he thought these concerns were obsessive. The 2% deleted
+                    material was not that important; it was better to concentrate on the 98% that
+                    was published.</p>
+                <p>Professor Larson asked if anything we printed ever harmed oar relations with
+                    other nations. For example, when U.S. relations with Egypt under Sadat became
+                    friendlier, he must have known that the United States had previously wanted to
+                    overthrow Nasser. So why not print it? She added that foreign government
+                    officials are more concerned about present U.S. policy and would not take
+                    offense at U.S. policies of 30 years ago.</p>
+                <p>Mr. Sober replied that it was a matter of judgment. The people in the geographic
+                    bureaus are responsible for making this decision.</p>
+                <p>Professor Dallek said this dialogue has been most useful and informative, more so
+                    than any he has participated in during the past 3 years. There is extraordinary
+                    cynicism in the American public about U.S. foreign policy. Deletions such as
+                    these only add to this cynicism. Secrecy increases cynicism as demonstrated by
+                    the Iran-Contra hearings. There is a need for consensus and support for foreign
+                    policy. We must always keep in mind the domestic dimension of U.S. foreign
+                    affairs.</p>
+                <p>Mr. Sober moved on to discuss the United Kingdom role in the subcontinent. He
+                    mentioned National Archives guidelines regarding Great Britain’s special
+                    interest in the Commonwealth. He read material excised from pages 102 and 129
+                    and said that some material was published without U.K. agreement.</p>
+                <p rend="underline">Review of <hi rend="italic">Foreign Relations</hi>, 1955-1957,
+                    volume XI, UN and General Matters</p>
+                <p>The A/CDC review of deletions within specific volumes continued with Stuart
+                    McIntyre’s assessment of the deletions made in 1955-1957, volume XI. Dr. Glennon
+                    introduced the discussion by noting that budgetary strictures might make it
+                    necessary to eliminate a U.N. volume from the print series for 1961-1963. U.N.
+                    and General volumes have been compiled through the end of the Eisenhower
+                    administration, however, and Dr. Glennon indicated that the 1955-1957 volume
+                    fared reasonably well in the clearance process. He added that the decisions made
+                    in the Historical Office to reduce the size of the manuscript owing to budgetary
+                    pressure were not as difficult as those affecting a number of other volumes
+                    because the climate of scholarly interest had shifted and rendered some of the
+                    documentation, such as that relating to Charter review, “quaint” or dated.</p>
+                <p>Dr. McIntyre began his assessment of the declassification review of the volume by
+                    noting that the original manuscript submitted for review consisted of 1254
+                    pages. A/CDC deletions, including those mandated by other agencies, amounted to
+                    a total of 100 pages, or 8% of the manuscript. HO further reduced the manuscript
+                    after clearance by 61 pages, or an additional 5% reduction. The volume, as
+                    currently scheduled for publication, runs to 787 printed pages.</p>
+                <p>Dr. McIntyre indicated that the bulk of the deletions related to foreign
+                    government information, the protection of sensitive sources of information, and
+                    the impact of the documentation on ongoing relations with allied countries. A
+                    small number of deletions were made to protect military information and some 4%
+                    of the deletions related to intelligence matters.</p>
+                <p>The review process was long and complicated. A different A/CDC employee did the
+                    initial review in 1982, which IO approved. The Historical Office responded with
+                    a reclama. Dr. McIntyre rereviewed the manuscript and proposed additional
+                    release of material at issue but IO disagreed. Dr. McIntyre went back to IO a
+                    second time, noting changed circumstances, and IO finally agreed to release the
+                    additional material. The process took more than 2 years but made possible more
+                    complete release of documentation.</p>
+                <p>Dr. McIntyre then reviewed specific documents affected by the clearance process.
+                    Several documents related to espionage activities involving U.N. employees. He
+                    discussed one such document which involved an FBI report dealing with
+                    intelligence methods and sources. Another document named a U.N. official as a
+                    source of sensitive information.</p>
+                <p>The Committee, led by Professors Perkins, Larson, and Hunt, questioned the
+                    necessity of these deletions given the passage of time. Dr. McIntyre noted that
+                    many of the deletions involved in the volume were limited to the removal of a
+                    name.</p>
+                <p rend="underline">Review of <hi rend="italic">Foreign Relations</hi>, 1958-1960,
+                    volume 14, South and Southeast Asia</p>
+                <p>The discussion of specific declassification actions concluded with an assessment
+                    of the clearance action in progress on the 1958-1960 Philippines and Thailand
+                    compilations. A/CDC reviewers Lewis M. (Skipper) Purnell and William Hamilton
+                    were introduced by Dr. Glennon, who gave a summary of the substance involved in
+                    the compilations. </p>
+                <p>Dr. Hamilton began with the Thai compilation he had reviewed. He said that of the
+                    122 documents submitted for clearance in the compilation, only 17 were affected
+                    by deletions and no document was denied in full. He estimated that A/CDC had
+                    recommended a total of approximately 3 pages of deletions in a 336 page
+                    manuscript. Some 28 documents in the compilation were still being considered by
+                    other agencies and one foreign government. He noted that the government
+                    involved, the United Kingdom, will not consider clearance of the document until
+                    some time in 1989 because of its own 30 year rule. Dr. Hamilton attributed the
+                    clean review of the compilation to the nature of the reporting from the Embassy
+                    in Bangkok, and to the good relationship between the reviewer and a
+                    knowledgeable desk officer in EA.</p>
+                <p>Dr. Hamilton listed 5 major bases for deletions in the Thai compilation:</p>
+                <list>
+                    <item>1. Clinical medical particulars concerning Prime Minister Sarit.</item>
+                    <item>2. Pejorative remarks.</item>
+                    <item>3. Intelligence activities and sources.</item>
+                    <item>4. The King’s involvement in Thai internal affairs.</item>
+                    <item>5. Military contingency plans.</item>
+                </list>
+                <p>Mr. Purnell followed and noted that the Philippine compilation had also done
+                    reasonably well in the A/CDC review process. The compilation consisted of 65
+                    documents comprising 203 pages. A/CDC was prepared to recommend that 4 documents
+                    be denied in full and that excisions be made in 9 others. Most of the deletions
+                    related to issues that were still very sensitive in U.S.-Philippine
+                    relations.</p>
+                <p>Mr. Purnell identified four categories of deletions as constituting the bulk of
+                    the problems posed in the clearance process:</p>
+                <list>
+                    <item>1. Issues relating to [<hi rend="italic">text not declassified</hi>] the
+                        Philippines.</item>
+                    <item>2. Criminal jurisdiction of U.S. Armed Forces personnel in the Philippines
+                        and Japan (Status of Forces Agreements). The Japanese were and remain
+                        extremely sensitive about these agreements.</item>
+                    <item>3. References to political figures still active in the Philippines.</item>
+                    <item>4. Issues relating to U.S. military bases in the Philippines on which
+                        renewal negotiations begin this year.</item>
+                </list>
+                <p>END CLASSIFIED</p>
+                <p rend="underline">Declassification Principles</p>
+                <p>After Mr. Purnell concluded the briefing on specific declassification actions,
+                    Professor Perkins asked what kind of “guidelines” were being developed by A/CDC
+                    for the declassification of these records at the National Archives. Mr. Ambach
+                    pointed out that the guidance which emerged in part from the review of the <hi
+                        rend="italic">FRUS</hi> volumes was not definitive enough to be styled as
+                    “guidelines”. Rather, he felt that the “aids” provided by A/CDC to Archives
+                    reviewers simply identified those types of documents which had to come back to
+                    the Department of State for further review before release in conjunction with
+                    the declassification of the overall record group. Mr. Ambach outlined the
+                    screening process by which A/CDC reviewers make the final decision on the denial
+                    or release of documents referred for consideration by the Archives
+                    reviewers.</p>
+                <p>Professors Perkins and Dallek pressed to know how specific the A/CDC guidance
+                    was, and Professor Cohen asked to see a set of the guidelines or aids. Mr.
+                    Ambach responded that the A/CDC consulted with other offices within the
+                    Department as well as with agencies outside of State before formulating these
+                    aids, which apply to all documents, not only to <hi rend="italic">FRUS</hi>
+                    related ones. Mr. Ambach declined to address the issue of the Committee’s
+                    charter or the scope of its activities, which are currently being reviewed in
+                    the Office of Management Operations of the Department of State. Deputy Assistant
+                    Secretary High explained that the Committee’s charter constituted a brief to
+                    make recommendations concerning the Department’s records policy as well as to
+                    advise on the publication of <hi rend="italic">FRUS</hi>. Mr. Ambach, at Mr.
+                    High’s suggestion, agreed to take the Committee’s request for the guidelines
+                    under advisement and respond later.</p>
+                <p>Mr. Ambach concluded by commenting on the interplay between HO and A/CDC in the
+                    effort to find creative ways to facilitate the release of documentation.</p>
+                <p>The Committee applauded A/CDC’s forthcoming briefings on the clearance process,
+                    noting that it was very helpful to have concrete examples in devising a
+                    mechanism to assist the Committee in its advisory role.</p>
+                <p>The meeting adjourned at 5 p.m.</p>
+                <p rend="center"><hi rend="underline">Friday Session</hi></p>
+                <p>The scheduled Friday sessions were cancelled because of a snowstorm which closed
+                    Federal government operations for the day. The Advisory Committee did, however,
+                    meet in a private session with Dr. Slany during the morning. The Committee also
+                    met with Assistant Secretary Charles Redman at 12:30 p.m. in the Department to
+                    discuss the results of the meeting and to advise him of probable recommendations
+                    the Committee would make in its report. This meeting adjourned at 1:10.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

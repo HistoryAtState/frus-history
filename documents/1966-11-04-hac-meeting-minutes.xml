@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Minutes of Historical Advisory Committee Meeting, November
+                    1966</title>
+                <title type="short">HAC Meeting Minutes, 1966</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-04-08">April 8, 2014</date>
+                <date type="created" when="1966-11-04">November 4, 1966</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1966-11-04-hac-meeting-minutes.pdf">PDF</ref>, 1.8 MB, 28pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 2, 1966—Minutes. Limited Official
+                Use.</hi></p>
+            <div type="document">
+                <head>Minutes of the 1966 Meeting of the Advisory Committee on <hi rend="italic"
+                        >Foreign Relations of the United States</hi></head>
+                <dateline>November 4, 1966</dateline>
+                <p rend="center"><hi rend="underline">PARTICIPANTS</hi></p>
+                <list>
+                    <item>The Advisory Committee:<list>
+                            <item>William W. Bishop, Jr., Chairman, Professor of Law, University of
+                                Michigan Law School</item>
+                            <item>Robert H. Ferrell, Professor of History, Indiana University</item>
+                            <item>Philip E. Mosely, Director, European Institute, Columbia
+                                University</item>
+                            <item>Robert E. Osgood, Director, Washington Center of Foreign Policy
+                                Research, School of Advanced International Studies, The Johns
+                                Hopkins University</item>
+                            <item>J. E. Wallace Sterling, President, Stanford University</item>
+                            <item>Robert B. Stewart, Professor of International Law and
+                                Organization, Fletcher School of Law and Diplomacy, Tufts
+                                University</item>
+                        </list></item>
+                    <item>The Historical Office:<list>
+                            <item>William M. Franklin, Director</item>
+                            <item>Richardson Dougall</item>
+                            <item>S. Everett Gleason</item>
+                            <item>Edwin S. Costrell</item>
+                            <item>Arthur G. Kogan</item>
+                            <item>Fredrick Aandahl</item>
+                            <item>Velma H. Cassidy</item>
+                            <item>Rogers P. Churchill</item>
+                            <item>Herbert A. Fine</item>
+                            <item>John P. Glennon</item>
+                            <item>Ralph R. Goodwin</item>
+                            <item>Marvin W. Kranz</item>
+                            <item>Neal H. Petersen</item>
+                            <item>John G. Reid</item>
+                            <item>William Slany</item>
+                            <item>David H. Stauffer</item>
+                            <item>Howard M. Smyth</item>
+                            <item>Almon Wright</item>
+                        </list></item>
+                    <item>The Bureau of Public Affairs:<list>
+                            <item>Richard I. Phillips, Deputy Assistant Secretary of State for
+                                Public Affairs</item>
+                        </list></item>
+                    <item>The Publishing and Reproduction Services Division:<list>
+                            <item>Jerome H. Perlmutter, Chief</item>
+                            <item>Peter A. Smith</item>
+                        </list></item>
+                    <item>Bureau of European Affairs (EUR):<list>
+                            <item>Milan W. Jerabek</item>
+                        </list></item>
+                    <item>Bureau of East Asian and Pacific Affairs (EA):<list>
+                            <item>Oscar V. Armstrong</item>
+                        </list></item>
+                </list>
+                <p>The morning session began at approximately 9:30.</p>
+                <p rend="underline">AGENDA ITEM 1: Opening remarks</p>
+                <p>Mr. Franklin announced that the new Assistant Secretary of State for Public
+                    Affairs, Dixon Donnelley, was unable to attend the meeting of the Committee and
+                    that Deputy Assistant Secretary Phillips would welcome the members. He stated
+                    that not all of HO’s hopes and plans had been realized but that we would have
+                    been much worse off without “Dick” Phillips.</p>
+                <p>Mr. Phillips conveyed the Assistant Secretary’s regrets at not being able to be
+                    present. He expressed his appreciation of the time and effort given by the
+                    Committee to the <hi rend="italic">Foreign Relations</hi> series. He welcomed
+                    its advice and pointed out that its sage counsel had been followed almost
+                    consistently by the Department, with one major exception - its plea for
+                    increased staff. Its advice, in this connection, had not been followed, not
+                    because the advice was not sound nor because the Bureau was not in agreement,
+                    but because of budgetary stringency.</p>
+                <p>Mr. Phillips noted that the idea of restricting the number of volumes compiled to
+                    that which could actually be published, about six a year, entailed greater
+                    selectivity and less comprehensiveness. This approach, at the same time, fitted
+                    the realities of the budgetary situation and therefore merited consideration by
+                    the Committee. Mr. Phillips then departed.</p>
+                <p>Mr. Franklin called on Mr. Mosely, who proposed Mr. Bishop as Chairman. After
+                    this was agreed to, Mr. Bishop took the chair and stated that he was pleased to
+                    be with the Committee after having missed the meeting the year before. He
+                    expressed the hope that the Committee would contribute to the furtherance of the
+                    series through its report and by making personal contacts.</p>
+                <p>Mr. Franklin announced that Stanley D. Metzger of Georgetown University was not
+                    present as a participating member of the Committee because of teaching
+                    activities in Ceylon and that Mr. Ferrell, delayed by a snowstorm, would put in
+                    an appearance shortly after 11 a.m. He noted also the two changes in the <hi
+                        rend="italic">Foreign Relations</hi> staff during the past year, the
+                    transfer of George O. Kent to the Library of Congress and the reappointment of
+                    an old friend, David H. Stauffer, after service with the Peace Corps.</p>
+                <p rend="underline">AGENDA ITEM 2: Report on status of series and publication
+                    plans</p>
+                <p>Mr. Aandahl handed a chart to each of the Committee members showing the 12 stages
+                    of the various compilations through 1948, from manuscript in preparation to
+                    actual release, and giving target dates for anticipated publication. He noted
+                    that the animal volumes had caught up with the China volumes as far as
+                    publication was concerned, so that we were not in such disarray as before; that
+                    all 1947 volumes were close to completion of compilation; that the 1948 volumes
+                    were organized in name only - although several were in process - except for the
+                    China volumes, which were already in galleys. He also commented on the
+                    bottlenecks in the clearance pipelines.</p>
+                <p>Mr. Franklin detailed for the Committee the organizational structure of the <hi
+                        rend="italic">Foreign Relations</hi> Division in its three branches. He
+                    pointed out that the notable stage on Mr. Aandahl1s chart was No. 7, i.e.,
+                    completion of clearance, at which point the basic HO work on a volume was
+                    completed.</p>
+                <p>Mr. Franklin announced that at 3:30 the Public Affairs Officers of EA and EUR
+                    would discuss clearance problems with the Committee. He noted that Mr. Armstrong
+                    of EA was receptive to our needs but that action was still needed. He mentioned
+                    that release of the 1944 Chine volume was being held up this time pending the
+                    vote of the General Assembly regarding the admission of Communist China to the
+                    United Nations. He suggested that the Committee “lean on” the PAO from EA to
+                    ensure early release of the volume.</p>
+                <p>Mr. Aandahl stated that advance paperback copies of 1944, volume I were now
+                    ready. This volume contained documents on the European Advisory Commission and
+                    various other general subjects, and it should be published within the next few
+                    weeks. He then distributed a second chart, showing an ever widening interval
+                    between events and publication if we continued to release volumes at the present
+                    rate of about four per year. On this basis, the manuscript for the Latin
+                    American volume for 1947, which was sent to PBR for copy editing three weeks
+                    ago, would not be released until 1975, 28 years after the events covered.
+                    Similarly, it would require nearly three years just to publish the 11 volumes
+                    for 1946, and this would further increase the spread for all future years. Mr.
+                    Bishop inquired whether the target date of 1971 for publication of the 1946
+                    Paris Peace Conference documentation, as set forth in the Aandahl chart, meant
+                    that the two volumes would take five additional years to release, even though
+                    compilation was completed. Mr. Franklin replied that he expected Messrs.
+                    Perlmutter and Smith at 11:30 to give the Committee insight into the technical
+                    editing problem. We had been pressing PBR to expedite production, but that
+                    office had been handicapped by inability to obtain replacements. Some indexing
+                    had been contracted out, but this practice had been far from an unqualified
+                    success. It was hoped that with further contracting out of indexes, with greater
+                    safeguards, we would be able to release up to five volumes this year.</p>
+                <p>Mr. Franklin then raised the question of the relative rates of progress by the
+                    staff in compiling and the actual release of printed volumes. Mr. Gleason stated
+                    that compiling was a speedier process than publication.</p>
+                <p>Mr. Bishop asked, looking at the chart once more, whether there would be five
+                    years more of time lag for volumes III, IV, V, and VI for 1946. Mr. Gleason
+                    noted that PBR could process about four volumes a year. Mr. Franklin commented
+                    that PBR was unable to replace any retirees and was therefore farming out work
+                    on indexes, hoping thereby to process five volumes annually.</p>
+                <p>Mr. Bishop asked at what stage clearance took place. Mr. Gleason informed him
+                    that clearance took place after printing of the galleys. The galleys for any
+                    given volume were sent to the one or more bureaus concerned with the substance
+                    of the documents. There was normally no further clearance after the page-proof
+                    stage but rather the processes of editing, indexing, and binding.</p>
+                <p>Mr. Franklin stated that the suggestion of clearing manuscript instead of galleys
+                    to save time would not work satisfactorily. The making of sufficient copies
+                    would be very expensive and the material would be very bulky and difficult to
+                    read. The result would be to lengthen the present clearance time of about one
+                    year. He noted that, except for the China volumes, once the galleys were
+                    cleared, that was final and there was no further submission to the desks at the
+                    page-proof stage. The sole problem at the latter stage centered around the time
+                    of release, lest publication of a volume be interpreted <hi rend="underline">per
+                        se</hi> as an act of foreign policy. Deletion of documents from page proof
+                    was rare, fortunately, as this would bring the credibility of the series into
+                    question. PBR was efficient at catching errors. Its standards were high and very
+                    few errors had ever gotten into print.</p>
+                <p>Mr. Stewart inquired whether Miss Vary’s staff had any function dealing with the
+                    substance of compilations. Mr. Franklin replied that PBR did not deal with
+                    substance but that its technical editing was of a very high order. Those
+                    sharp-eyed ladies caught inconsistencies which might be a thousand pages apart
+                    in a volume or even in different volumes. Mr. Bishop asked about the length of
+                    time required for release of a typical volume after compilation of the
+                    manuscript. Mr. Gleason answered that average clearance took about 18 months. To
+                    this should be added the long time expended in getting to the page-proof stage,
+                    indexing and binding. He noted that although he had been Editor of <hi
+                        rend="italic">Foreign Relations</hi> for several years, he had yet to see
+                    published any of the volumes he had edited. He observed that the manuscript for
+                    1944, volume I, one of the better ones, for time taken, had been sent to PBR in
+                    fiscal year 1963; the master galleys had been received on December 1, 1964; the
+                    cleared galleys had been sent to PBR in May 1965, and the volume was only now
+                    about to be released.</p>
+                <p>Mr. Bishop queried how much delay was accounted for by clearance, how much by PBR
+                    editing and indexing, and how much by the Government Printing Office. Mr.
+                    Franklin underscored the distinction between the work of clearing by the desks
+                    and the work of PBR in processing the volumes. In the bureaus, our work often
+                    lay untouched for long periods of time presumably at the bottom of file
+                    cabinets; the problem was to get a desk man to devote time to it. In PBR, our
+                    work did not lie buried. The time spent there was used to improve our product.
+                    In the one, however, it was a question of getting to the job; in PBR it was a
+                    problem of insufficient manpower. Some had suggested that PBR be combined with
+                    HO, as indeed it once was. The manpower shortage, however, would remain a
+                    problem regardless of where PBR was domiciled. Mr. Franklin noted,
+                    parenthetically, that PBR had not been as successful in securing replacements as
+                    the <hi rend="italic">Foreign Relations</hi> Division. </p>
+                <p>Mr. Bishop asked if there would still be long delay, even if clearance were
+                    speeded. After Mr. Franklin’s affirmative reply, Mr. Bishop inferred the need
+                    for more personnel in both PBR and in the staff of <hi rend="italic">Foreign
+                        Relations</hi>.</p>
+                <p rend="underline">AGENDA ITEM 3: Report on wartime conference volumes</p>
+                <p>Mr. Dougall reported that two wartime conference volumes were still to be
+                    released. One, dealing with the three Washington Conferences and the Casablanca
+                    Conference, covered the period December 1941 to the middle of 1943 and had been
+                    in galleys for many months. Mr. Dougall mentioned three clearance problems that
+                    were giving us difficulties. A problem involving the Australian Government might
+                    well be brought to a head soon. The problem with EA centered around an old
+                    difficulty - not so much the question of substance as the matter of getting that
+                    bureau to review the galleys. The third problem was the most difficult because
+                    it involved a question of substance - the problem of the occupation of the
+                    Azores under certain contingencies by the United States and the United Kingdom.
+                    The Portuguese desk had exhibited deep sensitivity on the matter and HO had been
+                    turned down flatly on one occasion. Our Embassy at Lisbon had also expressed
+                    grave disquiet, and the views of our new Ambassador there, Tapley Bennett, were
+                    being sounded out. Mr. Franklin was not sanguine that the Ambassador would “rock
+                    the boat”. He pointed out that a memorandum by Mr. Gleason had demolished the
+                    argument against publication. It showed that knowledge of Allied efforts to gain
+                    bases in the Azores was already in the public domain, placed there by
+                    authoritative memoirs, by the Potsdam and Cairo-Tehran volumes, and by
+                    Portuguese historians. Thus there was no possibility that Salazar would be
+                    surprised by new revelations. Mr. Dougall thought it ironic that the later
+                    events in the story were already public knowledge while we were being asked to
+                    withhold the earlier portions of the record on the grounds that publication
+                    would adversely affect our current relations with Portugal. He regarded the
+                    Anglo-American plan as an important element in our wartime diplomacy, which must
+                    be documented, and said that we were now fighting the battle for clearance
+                    through Assistant Secretary Donnelley. A further problem was that the desks
+                    shied away from clearing <hi rend="italic">Foreign Relations</hi> because the
+                    publication was official but cleared the work of private scholars more freely
+                    since they felt no responsibility for them.</p>
+                <p>Mr. Franklin noted that one of the effects of our clearance difficulties was the
+                    growing gap between the year of the printed record and the present time. <hi
+                        rend="italic">Foreign Relations</hi> was falling back to a gap of 30 years.
+                    The British, on the other hand, were hoping to move from a lag of 50 years to
+                    one of 30 years in the opening of their records.</p>
+                <p>Mr. Gleason suggested that we encounter greater difficulties in the matter of
+                    clearance with our own officials than with foreign governments. Mr. Sterling
+                    inquired whether our difficulties were related to current problems. Mr. Gleason
+                    answered in the affirmative. Yet he confessed his inability to discern why our
+                    uneasy relations with Portugal caused by our current attitude on Angola and
+                    Mozambique would be worsened by publishing documentation on other matters that
+                    took place over 20 years ago.</p>
+                <p>Mr. Dougall concluded his discussion of the Washington-Casablanca conference
+                    volume by stating that the attitude of the Assistant Secretary for European
+                    Affairs was all-important. If he were understanding and sympathetic to printing
+                    the record, the problem would be solved quickly. Otherwise, we might still
+                    appeal to the Secretary of State, something we would do only if we thought we
+                    would win.</p>
+                <p>Mr. Dougall then discussed the volume documenting the Quebec Conferences of 1943
+                    and 1944, which was not nearly so far along as the one for the
+                    Washington-Casablanca Conferences. We had largely collected the documents and
+                    done much annotation for First Quebec, but we were trying to get additional
+                    documents from Defense, Hyde Park and elsewhere. Second Quebec was not being
+                    worked on because its compiler, Mr. Kogan, was engrossed with his new duties as
+                    Chief of the Research Guidance and Review Division.</p>
+                <p>Mr. Franklin explained that the open and closed periods of the State Department
+                    files presented no difficulty to Mr. Kogan. Rather it was the restricted period,
+                    geared to the release of <hi rend="italic">Foreign Relations</hi>, which
+                    provided the bulk of his work. One effect of the slowing down of publication of
+                    the series was to narrow the restricted period and thus reduce the potential
+                    volume of work for Mr. Kogan’s office. Mr. Franklin was optimistic, therefore,
+                    that Mr. Kogan would get back to Second Quebec as the pressure of his current
+                    duties lessened.</p>
+                <p>Mr. Bishop summarized the situation regarding the two remaining conference
+                    volumes, stating that they were the furthest behind currency. Clearance
+                    problems, he noted, were a challenge to the former; as for the second,
+                    compilation of manuscript was the problem.</p>
+                <p rend="underline">AGENDA ITEM 4: Report on annual volumes for 1947</p>
+                <p>Mr. Gleason stated his report would constitute “minor variations on a melancholy
+                    theme by Gleason”. His Division had set three major objectives for 1947
+                    compilations: (1) to cover the major themes for the year in six or seven
+                    volumes, exclusive of the China volume; (2) to limit the size of the volumes to
+                    about 1,000 printed pages; and (3) to compile the manuscript in the space of one
+                    year. These objectives reflected the view, he thought shared by the Committee,
+                    that since no additional staff was likely, our only hope of staying even in
+                    sight of the 20-year line was to limit the number of volumes by being more
+                    selective in our choice of subjects. The attempt to achieve these objectives
+                    meant the disappearance of certain favorite themes of the past for which we
+                    could expect criticism. It had also meant a more rigorous definition of the
+                    major American policies to be covered as well as a more austere treatment of
+                    them, an economy he did not think would be universally applauded. On the other
+                    hand, we could point to the advantage to scholars in obtaining access to the
+                    files immediately after publication. This emphasized the desirability of trying
+                    to keep within sight of the 20-year gap.</p>
+                <p>Mr. Gleason said that we had not achieved our objectives but had come close
+                    enough to warrant optimism that further progress may be attained in another
+                    year. The bulk of the work on 1947 had been done and completion of the remainder
+                    was anticipated by the end of the winter. If we decided on six volumes, several
+                    would exceed the desired thousand-page limit, but except for the China volume,
+                    which was already in galleys, by not very significant margins. If the
+                    seven-volume plan seemed more desirable, most would fall within this limit. The
+                    China volume, because of the exceptional circumstances of its compilation, would
+                    approximate 1300 pages.</p>
+                <p>In view of the fact that the 1946 volumes totaled nine, not including two China
+                    volumes, Mr. Gleason felt that we were making progress toward attainment of the
+                    first two objectives. As to the third objective of compiling a year in a year,
+                    progress was much less notable. No single volume had been compiled within the
+                    space of a year, although two might be described as near misses. He was not
+                    sanguine that this objective could be achieved in the future without additional
+                    personnel unless the character of the series were drastically altered. Paper in
+                    the files would continue to proliferate by geometric progression and our efforts
+                    to reduce the number and size of the volumes by greater selectivity would be
+                    increasingly time-consuming.</p>
+                <p>Mr. Gleason reminded the Committee that even if the staff succeeded in achieving
+                    the three objectives, there was no likelihood that we alone could close the
+                    20-year gap or even keep it from falling further behind the 22-year gap it has
+                    reached. This unfortunate situation derived from the lack of sufficient
+                    personnel in PBR and, unless some means were found to speed its technical
+                    editing and indexing, six or seven volumes could not be published is one year,
+                    even though compiled.</p>
+                <p>Mr. Bishop commented that according to Mr. Aandahl’s chart, the 1947 volumes
+                    would not be published for 6 to 7 years. Mr. Gleason agreed. In reply to a
+                    question from Mr. Stewart, Mr. Gleason stated that we were sending manuscript to
+                    PBR as rapidly as possible.</p>
+                <p>Mr. Franklin commented on one aspect of the PBR bottleneck - the question of
+                    indexing. PBR had come up with the idea of contracting out the preparation of
+                    indexes. Its experience in this field had been unfortunate. The work had not
+                    been satisfactory and had to be redone by PBR. Normally an index prepared in PBR
+                    took one experienced person at least three months full time.</p>
+                <p>Mr. Goodwin reported for the General Branch. He noted that if he stuck narrowly
+                    to the agenda, he would have little to say as his branch was immersed in 1946
+                    and had not gotten deeply into 1947. Yet the situation was favorable, possibly
+                    because it had been so unfavorable before. He stressed two reasons for the
+                    previously unfavorable situation: (1) new types of compilations had produced
+                    unfamiliar substantive and procedural problems with respect to the United
+                    Nations; and (2) problems had inevitably been created by the advent of new
+                    personnel. Actually, there had been a complete turnover in the Branch’s
+                    personnel since 1962. Admittedly, the Branch had been in a wilderness, but with
+                    the staff approaching a level of optimum performance, it was now coming out into
+                    the open.</p>
+                <p>The problem of the UN had been brought under control, both as to what was going
+                    to be done and how it was going to be done. Much of the planning brought to the
+                    attention of the Committee two years ago had by now become reality and was being
+                    tested in a second round with the UN in 1947. He emphasized that the General
+                    Branch handled United States policy on constitutional and organizational
+                    problems involved at the UN. These, basically, were projections of issues of
+                    Dumbarton Oaks and San Francisco. Regional and substantive issues at the United
+                    Nations were being handled by area compilers. He was pleased to report that many
+                    of the critical UN issues for 1946 diminished in scope and intensity in 1947 and
+                    even disappeared. He predicted that in no future year would the UN documentation
+                    printed be as bulky or present such acute problems as that for 1946. Mr. Goodwin
+                    noted that he was personally responsible for this part of his Branch’s work.</p>
+                <p>Mr. Petersen compiled the record in a second area of multilateral and conference
+                    diplomacy for which the General Branch had responsibility, and in which the UN
+                    factor continued to loom large. He referred to that whole segment of United
+                    States foreign relations that might be described loosely as “disarmament and
+                    related matters”. The whole vast subject of international control of atomic
+                    energy and regulation of conventional armaments fell within this field, as well
+                    as so-called collective security subjects. Also within this area, the Branch
+                    covered the interminable Soviet attempts at the UN to get the armed forces of
+                    the West out of foreign countries and foreign bases. It also had a whole new
+                    field of politico-military subjects, separate from the armaments and atomic
+                    energy subject, yet closely related. This field, described as “national security
+                    policy”, would include such items as “think pieces” ground out by the State
+                    Department, the State-War-Navy Coordinating Committee and the Joint Chiefs of
+                    Staff, reflecting the new partnership between the political and military
+                    elements in the Executive Branch in the formulation of United States foreign
+                    policy. Other subjects to be covered here could be the United States development
+                    of atomic energy, that is, questions relating to accessibility to raw materials,
+                    the relationship of the United Kingdom to the United States, etc.</p>
+                <p>The third major area of multilateral and conference diplomacy related
+                    preponderantly to economic foreign policy. Mr. Kranz was handling these
+                    compilations, which included such large-scale subjects as the efforts by the
+                    United States to bring about the establishment of an International Trade
+                    Organization and GATT. A complex 1946 story done by Mr. Kranz on the foreign
+                    financial and loan program of the United States in the 18-month period following
+                    the end of the war had led him into the Western Branch jurisdiction and the
+                    General Branch has undertaken to compile the record of the diplomacy of the
+                    Marshall Plan. It is also doing a story relating to the British financial crisis
+                    of 1947 and its impact upon the multilateral financial diplomacy of the late
+                    1940’s, with specific reference to the implementation of the Anglo-American
+                    Financial Agreement of 1945. Mr. Goodwin stated that we were thus tackling this
+                    complex of issues relating to international commercial and financial policy and
+                    diplomacy as a more or less unified subject although jurisdictionally the
+                    individual components fell between two of our Branches.</p>
+                <p>As to the volumes themselves, volume I for 1946 would be a fat 1600 printed
+                    pages; volume I for 1947 had just been started and was projected at about 1200
+                    pages, to be completed by April 1967, except possibly in the field of economic
+                    foreign policy. Little could be said about volume I for 1948. A very rough,
+                    tentative projection had been made calling for its completion by the end of 1967
+                    in a slightly smaller volume than that for 1947.</p>
+                <p>Mr. Bishop inquired whether we would be documenting at length the activities of
+                    the specialized agencies such as the International Bank, the International Labor
+                    Organization, and the International Monetary Fund. Mr. Goodwin stated we would
+                    try to avoid getting bogged down in this field unless United States policy were
+                    deeply involved. In reply to a further question from Mr. Bishop about the
+                    Chicago Civil Aviation Conference of 1944, Mr. Aandahl stated that the
+                    compilation on that Conference had been a very lengthy one but that it had been
+                    cut back drastically lately, its technical matter, particularly, being
+                    excised.</p>
+                <p>The meeting resumed after a short intermission.</p>
+                <p>Mr. Aandahl spoke of the activities of the Western Branch, which took in Western
+                    Europe and Latin America. He noted that Latin America was traditionally the area
+                    fastest compiled and the slowest cleared, and that compilation for Western
+                    Europe was being retarded by a shortage of personnel. He reported that the Latin
+                    American volume for 1947, compiled by Mr. Wright and Mrs. Cassidy, had recently
+                    been sent to PBR, the first of any of the 1947 volumes to be turned over to the
+                    technical editors. He concluded by saying that we were bound to have staffing
+                    complications when the 12 historians of the Division have had to deal with the
+                    40 volumes now in process, covering the years 1944 through 1948 as well as the
+                    two earlier Conference volumes.</p>
+                <p>Mr. Ferrell arrived at 11:10.</p>
+                <p>Mr. Churchill then reviewed the work of the Eastern Branch. He advised that he
+                    and Mr. Slany had completed the 1947 compilations for the Soviet Union and
+                    Eastern Europe and that Mr. Reid had completed the compilations for the same
+                    year on the Far East. The Near East was well along, awaiting primarily Mr.
+                    Fine’s compilation on the Truman Doctrine, which he estimated would be completed
+                    by the end of this winter.</p>
+                <p>As for 1948, Mr. Churchill informed the Committee that except for the Near East,
+                    compilation was well under way. He predicted completion of the Soviet Union and
+                    Eastern Europe by September 1967 and the Far East possibly by the end of 1967.
+                    The Near East volume was not expected to be completed until the end of the
+                    summer of 1968.</p>
+                <p rend="underline">AGENDA ITEM 5: Efforts to expedite output (editorial
+                    procedures):</p>
+                <p>Messrs. Perlmutter and Smith joined the Committee at 11:15 to discuss efforts to
+                    expedite output through editorial procedures. Mr. Franklin referred to the
+                    second chart produced by Mr. Aandahl (agenda item 2) and stated that it
+                    illustrated painfully the time lag between completion of compilation and
+                    publication. He observed that the longer portion of the time interval was
+                    accounted for by clearance; the PBR record was much better and its efforts were
+                    devoted continually to improving our product. Yet it was barely able to keep
+                    pace with the manuscript sent over by HO.</p>
+                <p>Mr. Perlmutter announced himself as the bearer of good tidings regarding the
+                    editorial picture. PBR had turned the corner in production and would turn out
+                    five volumes in fiscal year 1967: volumes I, II, and VII for 1944 and I and II
+                    for 1945. It would thus bring out all volumes thus far cleared. He felt the
+                    prospects were excellent for bringing out volumes III, IV, and V for 1945 after
+                    June 30, 1967. Thereafter, he predicted, PBR would keep up with all cleared
+                    material. He lauded the splendid cooperation he had had from Mr. Franklin.</p>
+                <p>He then discussed the steps he had taken to accelerate progress on publication.
+                    The first had been to identify efficient outside indexers to take up the slack
+                    in that area. Then he announced that he was exploring the possibility of making
+                    arrangements with the Columbia University Press, which had edited the Alexander
+                    Hamilton Papers, to assume responsibility for processing one <hi rend="italic"
+                        >Foreign Relations</hi> volume, beginning next February. He stated lastly
+                    that the productivity of the PBR staff was increasing.</p>
+                <p>Mr. Perlmutter said that he had sent a questionnaire to some 150 publishers and
+                    indexers, hoping to recruit outside help thereby. He had no hope for increasing
+                    the PBR staff because of budgetary restrictions, but he did not feel this an
+                    unmitigated evil because the slack would be taken up by outsiders. He concluded
+                    by restating his optimism for the next year.</p>
+                <p>Mr. Stewart asked Mr. Perlmutter whether private enterprise in the field of
+                    technical editing would do the job more cheaply and efficiently than PBR. Mr.
+                    Perlmutter asserted that certain phases of the work would be done more cheaply
+                    and efficiently on the outside. Several veterans on his staff were being paid
+                    “top-dollar” wages that would not be matched outside. In any event, resort to
+                    outside contracting was made necessary by the lack of sufficient regular
+                    staff.</p>
+                <p>Mr. Franklin expressed concern that outsiders might dilute the qualitative job
+                    done by PBR and that it had to be proved that they would not do so. Mr. Smith
+                    replied that the work in PBR was of top quality but was expensive. He felt that
+                    if the outside work required a minimum of review by PBR, the system would be
+                    faster and more efficient. In response to questions from Messrs. Bishop and
+                    Sterling, he noted his intention to contract out for proofreading. Time limits,
+                    he said, would be set in the contract with Columbia University Press.</p>
+                <p>Mr. Bishop inquired whether there had been any difficulty with the work performed
+                    by outside indexers. Mr. Smith replied that one volume had been contracted out
+                    successfully. Mr. Bishop asked if Mr. Smith thought it necessary for outside
+                    editors to have familiarity with the content of the material. Mr. Smith said
+                    that it depended on the individual as to how well it would be done. He remarked
+                    also that it would be uneconomical to contract out a single volume to an outside
+                    indexer. Actually that indexer was acquiring training for subsequent work. He
+                    regarded the Columbia University Press as a pilot project which would be
+                    carefully reviewed by PBR. He hoped that the results would be such as to warrant
+                    extension of the plan.</p>
+                <p>After questions by Mr. Bishop, Mr. Smith commented on the security aspects of the
+                    pilot project. He cited the understanding with the Office of Security (SY)
+                    regarding handling manuscript material as confidential. Outside editors would
+                    have to be cleared by SY and their facilities for storage would require official
+                    approval. Many outside contractors were already cleared for handling classified
+                    material of the Department and the security aspects provided no major
+                    problem.</p>
+                <p>Mr. Dougall inquired whether PBR could increase its pace from the five volumes
+                    promised for fiscal year 1967 to six volumes the following year. Mr. Perlmutter
+                    asserted that every volume cleared in 1967 and 1968 would be published. Mr.
+                    Smith felt that chances were good for six volumes to appear in 1968. Mr. Bishop
+                    took note of the likelihood that PBR would cease to be a bottleneck if the steps
+                    contemplated by Mr. Perlmutter were successful. Mr. Perlmutter stated he had
+                    every confidence in the matter.</p>
+                <p>Mr. Stewart asked if the time forecast in Chart No. 2 for producing published
+                    volumes could now be shortened. Mr. Perlmutter said he believed so on the ground
+                    that our growing outside help would supplement a basically static in-house
+                    capability.</p>
+                <p>Mr. Franklin stated that last year, he and Mr. Perlmutter had had several
+                    conferences regarding shortcuts in technical editing and they had agreed to cut
+                    corners, some of a potentially dangerous character. HO had relieved PBR of
+                    checking footnote citations, taking responsibility for their accuracy in what
+                    could best be described as a calculated risk. Mr. Gleason stated that he was
+                    attempting to cut down on the number, length, and elaborateness of footnotes,
+                    retaining those that clarified the documents to which they were appended and
+                    eliminating those merely of general help to the reader. Mr. Bishop testified to
+                    the soundness of this approach, pointing out that our first duty was to bring
+                    out published volumes. </p>
+                <p>Messrs. Perlmutter and Smith left the meeting at 11:45.</p>
+                <p rend="underline">AGENDA ITEM 5: Efforts to expedite output (clearance):</p>
+                <p>Mr. Gleason stated that in the past year there had been no appreciable change for
+                    the better or worse and that the situation remained, therefore, thoroughly
+                    discouraging. Within the Department, the best performance was clearance of a
+                    volume in 10 months; the worst, in 22 months, and then only a “threatening
+                    letter” had produced action. The average clearance time was approximately a year
+                    and a half, as against our goal of clearance in three months.</p>
+                <p>In may cases, the galleys simply lay at the bottom of a file cabinet, untouched
+                    for long periods of time. When the bureaus finally did take action, they often
+                    requested us to delete a few documents for what often appeared to us to be
+                    frivolous reasons. We could only conclude that the delay resulted from
+                    procrastination and inexperience.</p>
+                <p>In the case of Argentina, clearance was turned over to an FSO-5 who seemingly
+                    felt that he would keep out of difficulty by finding problems. What was required
+                    for this work was a mature, high level officer with continuity of experience and
+                    willingness to assume direct responsibility. A person of this caliber would have
+                    known that the Department’s Blue Book on Argentina long ago had said everything
+                    of substance that we proposed to print. The FSO-5 was apparently unfamiliar with
+                    the Blue Book.</p>
+                <p>Occasionally, there was a genuine problem of sensitivity, such as the case of
+                    Iceland, where there had been a realistic fear that the Government would fall if
+                    we published the compilation on American bases there. In this case, we had
+                    deleted the story. More typical were the dubious objections, such as those
+                    encompassed in the Argentine desk’s view that printing documents on Perón would
+                    make cold our present tepid relations with Argentina. Overlooked was the fact
+                    that the current Argentine Government was most anti-Perón and our relations with
+                    it were not likely to be injured by <hi rend="italic">Foreign
+                    Relations</hi>.</p>
+                <p>Mr. Bishop asked if HO might send the Blue Book or similar work along with the
+                    galleys to assist clearing officers. Mr. Gleason stated that it had not been our
+                    practice to send supporting material with the galleys. Mr. Franklin asserted
+                    that in times past, however, we had marked with clips the passages HO thought
+                    might be regarded as sensitive by the clearing desks. Our idea in so doing was
+                    that the desks would concentrate their efforts on these matters and pass
+                    routinely and rapidly over the reminder. The results had been most unfortunate.
+                    The desks had requested deletion of the clipped items and then had requested
+                    further deletions from other portions of the galleys which we had felt were not
+                    sensitive. Mr. Franklin suggested that the long delays in clearance would be a
+                    fitting subject to bring up with Under Secretary Rostow during the Committee’s
+                    luncheon with him. As a new man, he might be appalled that it took almost two
+                    years to clear a volume.</p>
+                <p>Mr. Franklin suggested that what was needed was to get one or two men in each
+                    bureau, at the level of a Deputy Assistant Secretary or a Special Assistant to
+                    the Assistant Secretary, to do the clearing work. We have thus far been unable
+                    to get such high-level people with sufficient time to do this chore. Yet
+                    maturity, background and a firm conviction that the series was useful were
+                    necessary requirements for clearing officials.</p>
+                <p>Mr. Gleason deplored the fact that the desks did not think in terms of the value
+                    of a given volume but rather of the impact of page X; this negative attitude was
+                    most disturbing. Mr. Franklin noted that Mr. Rusk had made an address a few
+                    years ago at the University of Wisconsin and that we had been able to work into
+                    it a sympathetic word for Mr. Harrington and the Committee.</p>
+                <p>Mr. Osgood inquired whether guidelines were provided to reviewing officers by HO.
+                    Mr. Franklin replied that a “Notice to Reviewing Officers” suggested that they
+                    make no requests for deletions unless publication of a document or passage would
+                    constitute a “clear and present danger” to our current international
+                    relationships, requested that review be completed in three months, etc. The
+                    notice stressed that the reviewers should “think big”, but it seems to have made
+                    no impression.</p>
+                <p>Mr. Sterling inquired how much time was actually spent on clearance once the
+                    reviewing officer got around to it and whether there was one person in each
+                    bureau to “bird dog” the operation. Mr. Franklin stated that each bureau had a
+                    Public Affairs Officer (PAO) and that two of them would meet with the Committee
+                    in the afternoon. Mr. Gleason noted that the PAO’s played the “bird-dogging”
+                    role but not very effectively.</p>
+                <p>Mr. Bishop expressed great interest in HO’s efforts at obtaining a clearance time
+                    limit. Mr. Franklin stated that three years ago Mr. Manning had introduced a
+                    memorandum at a meeting of the Assistant Secretaries in which he had set a time
+                    limit of three months for clearance. The Assistant Secretaries had agreed to the
+                    time limit. Regrettably, HO had not enforced this limit because of its potential
+                    wastefulness. A bureau not giving direct clearance during the galley stage might
+                    make numerous requests for deletions in the page proof stage. In any event, we
+                    did not dare to take a strong stand on the matter without backing at the highest
+                    levels.</p>
+                <p>Mr. Gleason then turned to other aspects of the clearance question. He stated
+                    that compared with the difficulties we faced in the Department, those with other
+                    agencies and foreign governments were pale. The British Foreign Office patiently
+                    cleared large numbers of documents with only a rare refusal. Even the Quai
+                    d’Orsay had not discovered in refusal of permission to print French documents
+                    another way to irritate the United States. Defense was certainly slower than we
+                    wished in clearing political military documentation, but there was little point
+                    in increasing pressure on them when our own bureaus moved even more slowly.</p>
+                <p>Mr. Gleason then announced the impending retirement of Almon Wright from our
+                    Latin American field. He paid generous tribute to Mr. Wright’s contributions to
+                    the series and stated how great a loss his retirement would be to us. He spoke
+                    of the difficulty of replacing him; in fact, we were not even sure of being able
+                    to get a new employee to fill his slot.</p>
+                <p>Mr. Bishop then inquired whether Assistant Secretary Donnelley shared Mr.
+                    Manning’s convictions on the clearance operation. Mr. Franklin was not sure
+                    because of the paucity of his contacts with Mr. Donnelley, all of which,
+                    however, had been very helpful. Mr. Bishop suggested that since there had been
+                    so much turnover in the ranks of the Assistant Secretaries in the Department, it
+                    might be useful to submit a new memorandum on three-month clearance to be signed
+                    by Mr. Donnelley. Mr. Franklin agreed, proposing to incorporate examples of our
+                    worst experiences.</p>
+                <p>Mr. Stewart raised the question of clearance with Eastern European countries. Mr.
+                    Gleason said that in the past we had published documents from those Communist
+                    states without clearance from the Governments involved. Recently, the Office of
+                    Eastern European Affairs had suggested that we regard Yugoslavia as a “friendly
+                    government” and submit its documents for clearance. Mr. Gleason stated that he
+                    was horrified at the suggestion, for United States relations with Yugoslavia in
+                    1946 and 1947 were as bad as almost any, and he had prevailed on EE to hold off
+                    on its suggestion at least until the 1948 papers. He anticipated great
+                    difficulty in clearance simply because Yugoslavia was a Communist state and he
+                    felt it likely that the Yugoslavs would not be interested in clearing documents
+                    anyway. Mr. Gleason also mentioned the case in which our Embassy in Nicaragua
+                    had recommended that certain Nicaraguan documents not be submitted for
+                    clearance. Needless to say we had hastened to concur.</p>
+                <p>Mr. Bishop asked whether Mr. Gleason shared the optimism expressed and radiated
+                    by Mr. Perlmutter. Mr. Gleason said he was quite skeptical and had reservations
+                    about the quality of work by outsiders. Mr. Mosely referred to some of his
+                    dealings with Columbia University Press in which he had found them very slow. In
+                    fact, he had withdrawn from the Press certain studies on the Soviet Union and
+                    sent them elsewhere for editing and printing.</p>
+                <p>The Committee adjourned at 12:15 for luncheon (AGENDA ITEM 7) with Under
+                    Secretary Rostow.</p>
+                <p rend="center">*****</p>
+                <p>The afternoon session began at 2:30.</p>
+                <p>Mr. Bishop announced the Committee’s intention to complete its work the same
+                    afternoon, obviating any need for a Saturday session.</p>
+                <p rend="underline">AGENDA ITEM 6: Problems of technical editing:</p>
+                <p>Mr. Bishop requested the Committee to turn its attention to the technical editing
+                    reforms proposed by the PBR officers. Mr. Stewart felt it was the consensus of
+                    the members that the Perlmutter-Smith report had been overly optimistic and that
+                    the program of contracting out a portion of PBR’s work was not likely by itself
+                    to result in the elimination of the bottleneck posed by technical editing.</p>
+                <p>Mr. Mosely left the meeting at this point.</p>
+                <p>Mr. Franklin expressed the view that the proposed PBR measures were being
+                    undertaken because it was easier for government agencies to obtain funds for
+                    external contract activities than to hire additional government employees. He
+                    said that the quality of outside editing procedures remained to be assessed. In
+                    response to a question from Mr. Bishop, Mr. Franklin thought that a report on
+                    the success of these procedures could be made at the Committee meeting next
+                    November, and that the agenda for that meeting could include an item for
+                    assessing their effectiveness. He felt, tentatively, that the contracting-out
+                    system might be of some help since it was impossible for PBR to hire new
+                    personnel. He also took occasion to review the great difficulties encountered so
+                    far in contracting out <hi rend="italic">Foreign Relations</hi> indexes,
+                    pointing out that considerable time was often expended by PBR personnel in
+                    bringing the indexes prepared by outsiders up to acceptable standards. Mr.
+                    Bishop, similarly, related the difficulties encountered by the <hi rend="italic"
+                        >American Journal of International Law</hi> in letting a contract for
+                    outside indexing.</p>
+                <p>Mr. Aandahl expressed doubt that outside contracting was going to be of decisive
+                    help since the work to be contracted for was in the early stages of technical
+                    editing, whereas the real bottleneck existed in the area of final editing. Mr.
+                    Dougall expressed skepticism that the contracting out of technical editing would
+                    progress far enough by next November to permit the Committee to evaluate its
+                    merits.</p>
+                <p>Mr. Churchill observed that editing by out-of-town contractors would make
+                    impossible the current regular consultation by PBR with the personnel in HO who
+                    had prepared the manuscript.</p>
+                <p>Mr. Sterling emphasized the seriousness of the fact that two of the three senior
+                    technical editors were approaching retirement age and that, in view of current
+                    and prospective job freezes, the Department had a real problem in being able to
+                    hire replacements.</p>
+                <p>Mr. Bishop wondered whether the Committee should urge the grooming of
+                    replacements for the senior editors in addition to approving the proposed
+                    contracting out of technical editing, for the latter in any case would not be
+                    the sole solution of the editing problem. He requested that Mr. Franklin have a
+                    memorandum prepared for the Committee, reviewing the organization and numerical
+                    strength of PBR personnel and setting forth the approximate dates of anticipated
+                    retirement.</p>
+                <p>Mr. Ferrell gave his opinion that the technical editors, who were turning out for
+                    publication only five volumes a year, were being much too thorough in their
+                    work. He recalled that the 25-member staff of the Indiana University Press
+                    prepared over 50 volumes a year for publication, and that not only technical
+                    editing but promotional and other activities were included. He reiterated his
+                    shock at learning that the 11 technical editors turned out but five volumes
+                    annually and speculated that perhaps a too-leisurely work pace contributed to
+                    this record.</p>
+                <p>Mr. Franklin spoke out in defense of PBR, stating that it was dangerous to hack
+                    away at the standards used. He averred his complete satisfaction with the
+                    thoroughness, dedication, accuracy and skill of the PBR staff, but admitted it
+                    might exhibit a degree of over-conscientiousness and over-attention to detail.
+                    He reminded the Committee that in the past few years, by agreement between HO
+                    and PBR, various short cuts in editorial practices had been introduced. He also
+                    noted that technical editing of <hi rend="italic">Foreign Relations</hi> did not
+                    involve straight narrative texts such as produced by university presses. A
+                    sample of raw, difficult manuscript was shown to the Committee as typical of the
+                    kind that PBR works on. The volumes, moreover, were much larger than those
+                    generally produced by university presses.</p>
+                <p>Mr. Smyth noted, by way of comparison, that the technical editing of the German
+                    Foreign Office documents in Washington by PBR was at a substantially higher
+                    level of accuracy and speed than for those volumes edited in London. Mr. Aandahl
+                    noted that the <hi rend="italic">Foreign Relations</hi> volumes included
+                    extensive cross-referencing of intricate inter-relationships which required
+                    considerable time and effort by PBR.</p>
+                <p>Mr. Ferrell expressed his desire for a 15-year time lag for <hi rend="italic"
+                        >Foreign Relations</hi> and subsequently said that a 20-year limit should be
+                    our target, even at the expanse of less meticulous preparation of the volumes.
+                    Mr. Franklin pointed out the dangers of appreciably lowering editorial
+                    standards. One could not be certain whether errors which might then creep in
+                    were major or minor ones. He cited the possibility of unfavorable reviews and
+                    comments by users.</p>
+                <p>Mr. Ferrell gave his opinion that there were relatively few scholarly reviews of
+                    the series. Generally, the reviewers restricted themselves to “sizing up” the
+                    volumes and there was little likelihood that they would detect the occasional
+                    typographical errors that might result from relaxation of editorial standards.
+                    In any case, expedited publication would result in earlier opening of the State
+                    Department archives--Mr. Ferrell stressed the great importance he attached to
+                    this--so that scholars would be able to detect and correct any errors. Mr.
+                    Franklin reiterated his fear that lowered editorial standards might result in
+                    major errors, thereby compromising the series in the eyes of its users.</p>
+                <p>Mrs. Cassidy recalled that the 1946 Paris Peace Conference volume, which she
+                    compiled and fully prepared for publication in about three months in 1947,
+                    received one unfavorable review for poor editorial practices that are eliminated
+                    in <hi rend="italic">Foreign Relations</hi> by the painstaking and
+                    time-consuming PBR processes. Because the aim of the Department was to release
+                    her special publication as speedily and cheaply as possible, the original
+                    Conference papers, most of which were poorly mimeographed and full of errors,
+                    were reproduced by the photo-offset process, without correction of errors,
+                    without annotation, without benefit of technical editing, and without an index.
+                    The above-mentioned critic complained, also, of the limited documentation in the
+                    single volume, and various individuals here and abroad sent written requests to
+                    the Department for additional material and information. Mr. Franklin added what
+                    he termed a sorrowful postscript--that the compilation on the Peace Conference
+                    had had to be redone, this time in a manner consonant with <hi rend="italic"
+                        >Foreign Relations</hi> standards. Mr. Bishop noted that the only real
+                    problem with the Cassidy volume was that it was released in too short supply.
+                    Many potential reviewers were unable to obtain copies. If the volume had been
+                    issued in sufficient numbers, the critical review would likely have been
+                    outweighed by more favorable ones.</p>
+                <p>Mr. Sterling summarized the situation posed to the Committee by the proposed PBR
+                    reforms: (l) it would be necessary for the Committee to examine the quality of
+                    the editorial work accomplished under private contract; (2) as a tool to aid in
+                    evaluating the efficiency of editorial practices within PBR, the Committee
+                    should be provided with a memorandum giving a detailed picture of the practices
+                    and procedures of that office.</p>
+                <p>Mr. Stewart made a strong plea for retention of cross-referencing devices
+                    currently employed in <hi rend="italic">Foreign Relations</hi> as they were of
+                    tremendous value to scholars. Mr, Franklin said that cross-references within the
+                    series would be retained; but other types of annotation would have to be
+                    curtailed in order to save time. These included such items as elimination of
+                    references to printed sources for treaties, statutes, and the like.</p>
+                <p>Mr. Osgood stated that Mr. Ferrell’s basic point concerning the desirability of
+                    hewing to the 20-year line and its relationship to the question of access to the
+                    files by scholars, even at the expense of lowering somewhat the quality of the
+                    volumes, should be represented in the report of the Committee. He also expressed
+                    his concern that Under Secretary Rostow was not thoroughly familiar with the
+                    situation. (Mr. Rostow, during luncheon with the Committee, had expressed his
+                    desire to retain the qualitative standards of <hi rend="italic">Foreign
+                        Relations</hi>, and had said that if this involved a further slipping away
+                    from the 20-year line, it was a price he was willing to pay.)</p>
+                <p>Mr. Ferrell, who had been engaging in arithmetic computations, asserted that
+                    given an annual production of five volumes, each of the technical editors was
+                    turning out an average of two pages a day, a shockingly low figure. He
+                    reiterated the necessity for speeding technical editing by reducing qualitative
+                    standards. He then suggested elimination of the index in order to maintain the
+                    20-year line.</p>
+                <p>Mr. Sterling thought it would be very useful for the Committee to have detailed
+                    information on the actual range of activities of the PBR staff, the number of
+                    volumes each editor worked on, etc. Mr. Bishop was also of the opinion that the
+                    Committee needed additional knowledge of PBR’s operations and procedures and
+                    called for a detailed memorandum on the matter.</p>
+                <p>Mr. Franklin recalled that in 1962, when he and Mr. Perlmutter had recently
+                    assumed their present duties, both had been impatient with the slowness of the
+                    technical editing process. They had investigated the problem thoroughly and had
+                    agreed to cut out certain of the operations. They had both deemed it unwise to
+                    cut out further steps for fear of grievously lowering standards.</p>
+                <p>Mr. Franklin took issue with Mr. Ferrell’s statistics about the daily work-rate
+                    per PBR editor, noting that they failed to take into account, for example the
+                    time-consuming job of preparing indexes.</p>
+                <p>Mr. Ferrell recalled that he and his wife had completed the index for his recent
+                    book on Secretary Marshall in two days. The process of indexing <hi
+                        rend="italic">Foreign Relations</hi> should be speeded up enormously.</p>
+                <p>Mr. Smyth suggested that the rate of producing <hi rend="italic">Foreign
+                        Relations</hi> be compared with that of other major diplomatic documentary
+                    series such as those of the British, French, and Italians. He felt certain that
+                    the rate of producing the American volumes would be found to compare most
+                    favorably with those of the others. He spoke additionally of the high quality of
+                    our product. Mr. Ferrell agreed that the <hi rend="italic">Foreign
+                        Relations</hi> series was the best of its kind published and the closest to
+                    currency as well. He insisted, however, on the importance of maintaining the
+                    20-year line. Mr. Franklin noted that an appreciable lowering of standards might
+                    make <hi rend="italic">Foreign Relations</hi> look poor in comparison with
+                    similar publications of other nations.</p>
+                <p>In response to a request by Mr. Bishop, Mr. Franklin promised to supply the
+                    Committee with a descriptive list of PBR processes recently prepared at his
+                    request by PBR. Mr. Bishop concluded the discussion of technical editing by
+                    requesting that a PBR senior editor appear before the Committee at its next
+                    meeting.</p>
+                <p rend="underline">AGENDA ITEM 8: Discussion with Public Affairs Officers on
+                    clearance problems:</p>
+                <p>Mr. Bishop inquired whether Committee members cared to make any observations on
+                    clearance before the Public Affairs Officers arrived at 3:30. Mr. Stewart
+                    observed that the present system of using PAO’s as the liaison agents to clear
+                    galleys had resulted in great delay. He speculated whether the Committee should
+                    request the views of the PAO’s as to whether the process would be more
+                    expeditious if they should turn over their clearance role to Deputy Assistant
+                    Secretaries, who had greater prestige and knowledge. Mr. Franklin went a step
+                    further and suggested that the PAO’s be asked whether the Deputies could assume
+                    the entire clearance responsibility, rather than have our material parceled out
+                    to the various country desks.</p>
+                <p>Mr. Aandahl suggested referral to the Bureaus, initially, of only a table of
+                    contents with a request that clearance be given immediately to compilations
+                    whose title promised no difficulty, and that only galleys specifically requested
+                    by the Bureaus because of their sensitivity be sent.</p>
+                <p>Mr. Bishop queried whether the PAO’s were really “sold” on the desirability of
+                    rapid clearance. Mr. Ferrell deplored the widespread indifference to the series
+                    apparent in the Department. He said the basic question was how such an attitude
+                    could be corrected. Mr. Bishop emphasized the need for an educational campaign
+                    to convince Department officers, both at the highest level and the lowest, of
+                    the importance of the series. It was not enough to educate one group of officers
+                    any more than it sufficed to educate one group of students at a university. Such
+                    a campaign should be a continuing one and the Committee should maintain a
+                    continuing responsibility in this field.</p>
+                <p>Mr. Franklin assured the Committee of HO’s appreciation of the work already done
+                    by the Committee along these lines. He recalled that articles by Dick Leopold
+                    and others had made quite a “splash”. In response to a question from Mr. Osgood,
+                    Mr. Franklin agreed that the Committee’s efforts to have pro-<hi rend="italic"
+                        >Foreign Relations</hi> material placed in the <hi rend="italic"
+                        >Congressional Record</hi> had been useful but that benefits had been
+                    minimal.</p>
+                <p>Mr. Goodwin cited Joseph M. Jones’ <hi rend="italic">The Fifteen Weeks</hi>
+                    (1955) as authority for the existence of a “deep and yawning chasm that existed
+                    between the operational and informational areas of the Department”. Mr. Gleason
+                    observed that much of the clearance difficulty was caused because the geographic
+                    desks were badly overworked and understaffed and were subject to rapid and
+                    continuing turnover.</p>
+                <p>Mr. Jerabek, PAO for the Bureau of European Affairs, joined the meeting at 3:30.
+                    Mr Franklin introduced him to the Committee as a veteran PAO who had expended
+                    great efforts and time on the clearance problem and that HO was much further
+                    ahead because he had filled his role well. Mr. Bishop summarized for Mr. Jerabek
+                    the efforts to be taken by PBR to speed editing of the series and asked in the
+                    name of the Committee whether he, Mr. Jerabek, could suggest measures to speed
+                    clearance.</p>
+                <p>Mr. Jerabek reviewed the past and present status of EUR clearance. He noted that
+                    clearance of wartime volumes had presented no special problems and had moved
+                    along well. Difficulties began to crop up with the ending of the war. Procedural
+                    difficulties in EUR had also resulted in clearance delays. He recalled two
+                    specific clearance problems, in connection with Tito in mid-1945 and with de
+                    Gaulle; but once these had been settled, clearance had moved swiftly. The major
+                    problem in recent years had been the Azores. In connection with the ease of
+                    difficulty of clearance, he gave his theory that where relations with a foreign
+                    government were hopelessly bad or exceptionally good, clearance presented few
+                    problems at the geographic desk level; but that where relations were in between
+                    these extremes, clearance was more difficult.</p>
+                <p>In response to a question from Mr. Ferrell, on actual clearance procedures in
+                    EUR, Mr. Jerabek stated that he reviewed all the galleys and decided which of
+                    them required no further review. He sent to the desks only those galleys which
+                    required further scrutiny.</p>
+                <p>Mr. Bishop inquired if some improvement in the clearance procedure might be
+                    realized by shifting the first overall galley clearance from the PAO’s to the
+                    Deputy Assistant Secretary level. Mr. Jerabek stated that this procedure had not
+                    been tried in EUR, but he was most dubious that the Deputies would be able to
+                    devote the necessary time to clearance. They would doubtless refer the galleys
+                    to desk officers for examination in much the same way the PAO’s now did.</p>
+                <p>Mr. Sterling asked if it were true, as the Committee understood, that galleys
+                    often lay unexamined for months in file cabinets of desk officers. Mr. Jerabek
+                    conceded that this was often the case. Not only were desk officers extremely
+                    pressed for time but they usually had higher priority work. Because of these
+                    pressures, desk officers found that the only way to review the galleys was to
+                    come to the Department on weekends. Mr. Sterling inquired whether a reluctance
+                    to make decisions was a factor in delay. Mr. Jerabek said that this was probably
+                    true in some cases.</p>
+                <p>At this point, Mr. Armstrong, PAO for the Bureau of East Asian and Pacific
+                    Affairs (EA), arrived and was introduced to the Committee. It was noted that he
+                    was newly arrived at his job, having come from USIA about two months ago. Mr.
+                    Franklin explained to him the functions of the Committee in examining the
+                    operations and problems of the <hi rend="italic">Foreign Relations</hi> series.
+                    He said that while clearance had been singled out for attention at this point,
+                    the practices of HO and PBR were also under scrutiny. He pointed out that
+                    clearance delays involving the Defense Department and foreign governments were
+                    generally much less severe than those involving the geographic bureaus.</p>
+                <p>Mr. Bishop referred to Mr. Manning’s memorandum of 1963 which specified that
+                    clearance was to be completed in three months. He noted for the PAO’s that the
+                    Manning memorandum had been concurred in at the time by the Assistant
+                    Secretaries in charge of the bureaus and asked whether reissuing the memorandum
+                    at this time would serve to expedite clearance. Mr. Jerabek informed the
+                    Committee that he reminds his desk officers of the necessity of working on the
+                    galleys after three months. He felt uncertain whether a reissue of the Manning
+                    memorandum would provide a sufficient prod to accomplish HO’s purposes.</p>
+                <p>Mr. Sterling suggested that the PAO’s obtain clear authority to fix clearance
+                    deadlines, but there was no discussion of this point.</p>
+                <p>Mr. Osgood asked whether publication of diplomatic documents had interfered with
+                    or adversely affected the conduct of diplomacy. In his own experience, he said,
+                    he remembered virtually no documents that had had such impact. He observed that
+                    the burden of proof as to whether publication of documents would upset current
+                    negotiations should be placed on the desks, not on HO. Mr. Armstrong told the
+                    Committee that Department officers were not opposed to publication of the series
+                    and that delay in clearance was not the result of a negative attitude. Rather it
+                    was simply a question of having time to get around to the work.</p>
+                <p>Mr. Dougall wondered how adverse would be the effect of publishing the 1944 China
+                    volume in comparison with the impact of the President’s decision not to visit
+                    Taiwan on his recent Asian trip. Mr. Armstrong expressed his hope that EA would
+                    approve publication of that volume so that it could be released with the other
+                    1944 volumes. Mr. Franklin informed him that the rest of the 1944 volumes would
+                    be in print shortly, so that EA would have to hurry to attain that goal and
+                    prevent the China volume from looking conspicuous by coming out long after the
+                    remainder of the volumes for that year.</p>
+                <p>Mr. Ferrell explained to the PAO’s two major reasons why historians were anxious
+                    to speed publication of the series. The first was that access to the
+                    Department’s files was geared to publication of the series; the second was that
+                    by publishing a comprehensive record speedily, the United States would influence
+                    all written history. He cited the very speedy publication of pre-1914 diplomatic
+                    correspondence by the German Republic soon after the ending of World War I and
+                    stated that the history of the origins of that war was written on the basis of
+                    the German documents since they were the first and for long the only official
+                    documents published.</p>
+                <p>Mr. Franklin recalled that when the series was sliding from 15 years behind
+                    currency to 20 years, everyone had felt that the longer lapse would facilitate
+                    clearance. Clearly this had not happened.</p>
+                <p>In response to a question from Mr. Armstrong about the seriousness of the delays
+                    in clearance, Mr. Gleason asserted that currently the time required for
+                    clearance varied from 10 months to 22 months, despite the three months that the
+                    bureaus had agreed to “in principle”.</p>
+                <p>Mr. Sterling described as unacceptable the fact that <hi rend="italic">Foreign
+                        Relations</hi> material was simply put aside and cleared only after great
+                    delay. He noted that he had been a university president for 18 years and knew
+                    well that there were not enough hours in a day. Yet if clearance were
+                    accomplished in 22 months, why couldn’t the process be accomplished much
+                    earlier. “If it can be done on Tuesday, why can’t it be done on Monday?,” he
+                    asked. He expressed his utter inability to understand the interminable delay and
+                    characterized it as irresponsible.</p>
+                <p>Mr. Armstrong stated that the pressures on clearance officers in their regular
+                    assignments kept mounting and they were simply unable to undertake clearance
+                    until the pressures relaxed somewhat. He observed, in answer to a question from
+                    Mr. Bishop, that PAO’s did not need greater power in as much as they already had
+                    authority to clear galleys if they saw fit to do so.</p>
+                <p>At one point, Mr. Armstrong stated that only recently he had discovered in a file
+                    cabinet certain galleys to be cleared in EA. Mr. Churchill asked him if these
+                    galleys were those for 1945, volume VI, which had been sent to his predecessor
+                    on August 30, 1965. After the laughter had subsided, Mr. Armstrong replied that
+                    they probably were the ones Mr. Churchill had referred to. Mr. Franklin
+                    suggested that perhaps clearance would be expedited by pre-dating our
+                    transmittal memoranda.</p>
+                <p>Mr. Gleason pointed to the dangers in assigning clearance tasks to young,
+                    inexperienced, low-level FSO’s, who were reluctant to risk clearing material for
+                    publication. Would it not be preferable, he asked, to assign clearance to mature,
+                    experienced, high-level officers who would be able to clear galleys with
+                    confidence and dispatch?</p>
+                <p>Mr. Franklin recalled that at the time of the Manning memorandum, it had been
+                    recognized that some weeks would be too full for officers to work on clearance
+                    but that three months was a realistic time limit. He felt that it might be
+                    worthwhile to renew the three-month rule; the PAO’s agreed it would be worth
+                    trying.</p>
+                <p>Mr. Bishop stressed that not only did delay in clearance hold up publication of a
+                    historical series but that it was also detrimental to the morale of the HO staff
+                    who, after striving to cut down the time expended on compilation, saw the
+                    product of their labors lie idle in the clearance stage.</p>
+                <p>Mr. Bishop again asked Messrs. Jerabek and Armstrong for suggestions on speeding
+                    clearance. Their sole suggestion was to have the galleys downgraded. Mr.
+                    Franklin promised to see what could be done about downgrading the galleys to
+                    Limited Official Use. At this point he showed the PAO’s Mr. Aandahl’s
+                    projection indicating that if publication continued at the present rate for the
+                    next four years, the series would soon drop behind an additional six years.</p>
+                <p>Mr. Bishop expressed the Committee’s appreciation to Messrs. Jerabek and
+                    Armstrong for participating in the meeting, and they departed. The Committee
+                    discussed their contributions to solving the clearance problem.</p>
+                <p>At this point, the HO staff withdrew and the Committee went into private
+                    session.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

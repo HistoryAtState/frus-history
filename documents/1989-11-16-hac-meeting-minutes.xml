@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Minutes of Historical Advisory Committee Meeting, November
+                    1989</title>
+                <title type="short">HAC Meeting Minutes, 1989</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2013-12-09">December 9, 2013</date>
+                <date type="created" when="1989-11-16">November 16, 1989</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1989-11-16-hac-meeting-minutes.pdf">PDF</ref>, 1.1 MB, 27pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 5, Advisory Committee
+                Minutes—1989-1990.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 10, <ref
+                    target="../chapter-10#fn92">Footnotes 92</ref>, <ref
+                    target="../chapter-10#fn96">96</ref>, and <ref
+                    target="../chapter-10#fn97">97</ref></p>
+            <div type="document">
+                <head>Minutes of the 1989 Meeting of the Advisory Committee on Historical Diplomatic Documentation</head>
+                <dateline>November 16-17, 1989</dateline>
+                <p rend="underline">American Historical Association</p>
+                <list>
+                    <item>Dr. Ronald H. Spector, Department of History, University of Alabama</item>
+                </list>
+                <p rend="underline">Organization of American Historians</p>
+                <list>
+                    <item>Dr. Bradford Perkins, Department of History, University of Michigan</item>
+                </list>
+                <p rend="underline">Society for Historians of American Foreign Relations</p>
+                <list>
+                    <item>Dr. Warren I. Cohen, Department of History, Michigan State
+                        University</item>
+                    <item>Dr. Michael H. Hunt, Department of History, University of North
+                        Carolina</item>
+                </list>
+                <p rend="underline">American Society of International Law</p>
+                <list>
+                    <item>Dr. Stephen T. Zamora, University of Houston Law Center</item>
+                </list>
+                <p rend="underline">International Studies Association</p>
+                <list>
+                    <item>Dr. Paul M. Kattenburg, Institute of International Studies, University of
+                        South Carolina</item>
+                </list>
+                <p rend="underline">Society of American Archivists</p>
+                <list>
+                    <item>Anne H. Van Camp, Hoover Institution, Stanford, California</item>
+                </list>
+                <p rend="center"><hi rend="underline">Thursday Morning Session (Open)</hi></p>
+                <p rend="underline">Committee Members Present:</p>
+                <list>
+                    <item>Dr. Warren Cohen</item>
+                    <item>Dr. Bradford Perkins</item>
+                    <item>Dr. Michael Hunt</item>
+                    <item>Ms. Anne Van Camp</item>
+                    <item>Dr. Paul Kattenburg</item>
+                    <item>Dr. Stephen Zamora</item>
+                    <item>Dr. Ronald Spector</item>
+                </list>
+                <p rend="underline">Others Present:</p>
+                <list>
+                    <item>G. Alfred Kennedy, Deputy Assistant Secretary of State for Public
+                        Affairs</item>
+                </list>
+                <p rend="underline">The Office of the Historian:</p>
+                <list>
+                    <item>William Z. Slany, The Historian</item>
+                    <item>John P. Glennon, Chief, Foreign Relations Division</item>
+                    <item>Rita M. Baker</item>
+                    <item>David H. Herschler</item>
+                    <item>Edward C. Keefer</item>
+                    <item>David W. Mabon</item>
+                    <item>Elaine M. McDevitt</item>
+                    <item>David S. Patterson</item>
+                    <item>Charles S. Sampson</item>
+                    <item>Louis J. Smith</item>
+                    <item>Harriet D. Schwar</item>
+                </list>
+                <p rend="underline">Historical Documents Review Division:</p>
+                <list>
+                    <item>Mr. Richard Morefield</item>
+                    <item>Mr. Eugene Bovis</item>
+                    <item>Mr. William Hamilton</item>
+                    <item>Mr. Henry Barduch</item>
+                </list>
+                <p rend="underline">Publishing Services Division:</p>
+                <list>
+                    <item>Mr. Paul Washington</item>
+                    <item>Ms. Barbara Bacon</item>
+                </list>
+                <p rend="underline">Others:</p>
+                <list>
+                    <item>Dr. George C. Chalou, External Affairs, (NARA)</item>
+                    <item>Mr. David A. Langbart, Records Appraisal Division, (NARA)</item>
+                    <item>Mr. E. Allen Thompson, Records Declassification Division, (NARA)</item>
+                    <item>Mr. Jim Gardner, National Coordinating Committee for the Promotion of
+                        History</item>
+                    <item>Ms. Virginia Saunders, Congressional Printing Management, Government
+                        Printing Office</item>
+                    <item>Mr. Daniel Helmstadter, <hi rend="underline">Scholarly
+                        Resources</hi></item>
+                </list>
+                <p><hi rend="underline">Dr. Cohen</hi> opened the meeting by announcing his
+                    agreement to serve as chairman of the Committee and he asked Committee members
+                    to adopt the agenda, which they did.</p>
+                <p>He thanked Mr. Bovis and Mr. Morefield for being cooperative in past
+                    misunderstandings regarding the classification/declassification procedures. He
+                    also thanked George High (not present) for his past cooperation and support and
+                    welcomed Deputy Assistant Secretary Kennedy to his first meeting with the
+                    Advisory Committee.</p>
+                <p rend="underline">Remarks by Deputy Assistant Secretary Kennedy</p>
+                <p><hi rend="underline">Mr. Kennedy</hi> welcomed the members of the Committee and
+                    expressed the Department's appreciation to the members. He also welcomed the
+                    newest representatives at the meeting (Ms. Van Camp, Dr. Kattenburg, Dr.
+                    Spector, and Dr. Zamora).</p>
+                <p>Mr. Kennedy discussed the Department's efforts to accelerate the FRUS publication
+                    schedules and explained how budget difficulties have hindered this goal. He
+                    assured the Committee that the Bureau of Public Affairs is committed to
+                    supporting the work of the Committee. He also detailed the new structure of the
+                    Bureau and the new role of the Assistant Secretary. While Ms. Tutwiler may not
+                    be available for discussions with them, Mr. Kennedy and Ms. Hoggard are
+                    interested in working with the Committee. The tradition of strong PA Front
+                    Office support will continue.</p>
+                <p rend="underline">Report of The Historian</p>
+                <p><hi rend="underline">Dr. Slany</hi> began the discussion with a review of several
+                    points in the report of the Advisory Committee made in March 1989 and a brief
+                    summary of what the Department is doing in response to these
+                    recommendations.</p>
+                <p>Regarding the structural changes in the FRUS series, Dr. Slany commented that
+                    there are many options under consideration, especially for those volumes
+                    documenting the Kennedy administration. Chapter headings and tables of contents
+                    will be given to the Committee for review and recommendation. Also area
+                    specialists may be included in the process of planning and review of future
+                    volumes.</p>
+                <p>Some changes being considered in the series are the addition of a narrative
+                    summary, a calender of files, or a bibliographic guide, or a combination of all
+                    three, to the documents. Microfiche is being considered to replace as much as
+                    50% of the text as budget constraints become more pressing. The British have
+                    adopted a similar approach.</p>
+                <p>A bibliographical guide in addition to a documentary text would assist in
+                    research of related documents at NARA and the Presidential libraries and would
+                    encourage the preservation of these documents.</p>
+                <p><hi rend="underline">Dr. Zamora</hi> initiated a discussion on the problem of the
+                    Vietnam volumes. These volumes were projected through 1969. The body of
+                    documents, however, was much larger than anticipated and access difficulties to
+                    the Johnson papers prevented projection past 1965, funds are being focused on
+                    more short term goals. The compilation will include congressional documents and
+                    collections of private papers as well as interviews that supplement the
+                    documents.</p>
+                <p>Budget restrictions have required reductions in volume size. To compensate,
+                    scanning and laser disc technology are being considered.</p>
+                <p>Discussion next turned to the consideration of a disclaimer in the volumes
+                    explaining why some documents or portions of documents were not declassified.
+                    FPC argues that even mention of missing documents can be a security risk. The
+                    Advisory Committee agreed that a carefully worded general disclaimer will be
+                    drafted for further discussion.</p>
+                <p><hi rend="underline">Dr. Slany</hi> turned to the subject of completing 1960
+                    documentation by 1990, a goal which will not be reached due to NSC and other
+                    delays. 1992 is a more realistic target date. The Committee was asked to review
+                    this development and make any recommendations for improvements.</p>
+                <p>Dr. Slany commented that among the subjects to be covered during the meeting were
+                    the expansion the Advisory Committee to include representatives of Federal
+                    agencies other than State and other interested disciplines, and preservation of
+                    electronic records as well as those subjects mentioned briefly above.</p>
+                <p rend="underline">Report on the Printing and Distribution of the Foreign
+                        Relations Series</p>
+                <p>Paul M. Washington, Chief of the Publishing Services Division, Bureau of
+                    Administration and Information Management, reported on the printing and
+                    distribution of the <hi rend="italic">Foreign Relations</hi> series.</p>
+                <p>In February 1986, the Superintendent of Documents requested guidance from the
+                    Depository Library Council to recommend titles for conversion to microfiche in
+                    order to achieve Congressionally-mandated cost reductions in the Depository
+                    Library Program. Since that time, 20 volumes have been published but not
+                    distributed to the libraries because of delays the letting a contract to produce
+                    microfiche copies for the depository libraries. GPO estimates that the cost of
+                    reprinting the volumes to place them in the depository libraries is $600,000, as
+                    compared with $15,000 to publish and distribute the volumes as microfiche. For
+                    future volumes, the cost would be $10,000 per volume to place a print copy in
+                    1,100 depository libraries, as opposed to $800 per volume for microfiche.</p>
+                <p>Dr. Perkins asked if the copyright law requires GPO to provide copies to the
+                    depository libraries. Mr. Washington responded that only the Superintendent of
+                    Documents has the authority to determine the distribution of publications to
+                    depository libraries.</p>
+                <p>Mr. Washington stated that after all the effort to produce the <hi rend="italic"
+                        >Foreign Relations</hi> volumes, it seemed essential that copies be made
+                    available to the depository libraries. He posed three options in this regard:
+                    provide Department funds to place print volumes in selected depository libraries
+                    (approximately $10,000 per volume); provide a Department contract to prepare
+                    microfiche copies of the volume at the time of publication; and award a contract
+                    to the National Technical Information Service (NTIS) to produce the backlogged
+                    volumes quickly.</p>
+                <p>Dr. Hunt observed that the GPO requirement to opt for the low bidder presented a
+                    problem with the quality of the contractor. It was a troublesome characteristic
+                    of the GPO contracting system. Mr. Washington stated that it was the GPO policy
+                    to have one contractor do all the microfiche work.</p>
+                <p>Dr. Spector asserted that the only viable option should be to go back and print
+                    the 20 volumes for distribution to the depository libraries. He argued that the
+                    Advisory Committee could go to Congress and request the $600,000, since
+                    congressmen can be lobbied over the fact that there were no <hi rend="italic"
+                        >Foreign Relations</hi> volumes in the various state and university
+                    libraries that comprise a large portion of the depository library system.</p>
+                <p>Mr. Washington thought it would be useful if the Committee would campaign to
+                    produce some movement from GPO on this question. To get 20 volumes behind is a
+                    major problem. By no longer producing copies for the depository libraries, GPO
+                    had reduced the print run for the <hi rend="italic">Foreign Relations</hi>
+                    volumes from 2,500 to 1,400 copies. Dr. Slany reported that the Department had
+                    not been aware of the GPO decision to discontinue distribution of <hi
+                        rend="italic">Foreign Relations</hi> print volumes to the depository
+                    libraries. Mr. Washington had been effective in persuading the Superintendent of
+                    Documents to keep <hi rend="italic">Foreign Relations</hi> volumes in stock for
+                    at least 10 years.</p>
+                <p>Dr. Hunt inquired whether it would be possible to combine projected sales and
+                    depository library distribution in the same print run; the fewer volumes sold,
+                    the more available for distribution to the depository libraries. Mr. Washington
+                    stated that the GPO handles the two distributions separately from a funding
+                    standpoint: the sales program returned money to GPO, while depository library
+                    volumes are funded by appropriations. He pointed out that the increasing price
+                    of <hi rend="italic">Foreign Relations</hi> volumes may limit sales.</p>
+                <p>Dr. Spector argued that the <hi rend="italic">Foreign Relations</hi> volumes can
+                    be marketed more aggressively.</p>
+                <p>Mr. Washington asserted that the Department was looking into different marketing
+                    options, but said the high price of the book and the irregular printing schedule
+                    limit marketing options.</p>
+                <p>Dr. Slany stated that the Department should be in a better position to market the
+                        <hi rend="italic">Foreign Relations</hi> volumes than the GPO. West Germany
+                    planned to privatize its official publications. The market would control
+                    pricing. A comparable publication under this option in West Germany, however,
+                    might cost as much as $80.</p>
+                <p>Mr. Helmstadter pointed out that the private sector was better positioned to
+                    print and market the <hi rend="italic">Foreign Relations</hi> volumes more
+                    effectively. He thought that the cost of reprinting the volumes should not
+                    exceed $10.00 per volume (or $200,000 total). Marketing of the volumes can be
+                    increased dramatically. Given the number of college and university libraries,
+                    sales and distribution of the volumes should be more than 2,500.</p>
+                <p>Mr. Washington stated that from his perspective, there would be no problem having
+                        <hi rend="italic">Foreign Relations</hi> published by the private sector
+                    provided there were no legal impediments caused by the GPO mandate.</p>
+                <p>Dr. Cohen asked Mr. Washington if he would provide a list of key individuals at
+                    the Government Printing Office and the Joint Committee on Printing to write to
+                    regarding the distribution of the <hi rend="italic">Foreign Relations</hi>
+                    volumes to the depository libraries. He also requested a brief history of the
+                    problem so that the Committee could better formulate its recommendations in its
+                    report.</p>
+                <p>Mr. Gardner, representing the National Coordinating Committee for the Promotion
+                    of History, asserted that the NCC will look into playing a role in this
+                    matter.</p>
+                <p>Ms. Saunders, representing the Government Printing Office, noted that the
+                    depository libraries can select among the GPO publications. Approximately 1,100
+                    of the 1,400 have selected <hi rend="italic">Foreign Relations</hi>. The
+                    decision to go to microfiche distribution copies came about because of budget
+                    cuts at the GPO.</p>
+                <p>Before concluding, Mr. Washington reported that the cost of printing <hi
+                        rend="italic">Foreign Relations</hi> had come down to a reasonable level.
+                    The Department was particularly pleased with the current contractor, although
+                    the existing contract was due to expire at the end of November.</p>
+                <p>Dr. Cohen thanked Mr. Washington for his report, and stated that the matter of
+                    the distribution of <hi rend="italic">Foreign Relations</hi> to the depository
+                    libraries is a high priority for the Committee.</p>
+                <p rend="center">Thursday Afternoon Session (Closed)</p>
+                <p rend="underline">Committee Members Present:</p>
+                <list>
+                    <item>Dr. Cohen</item>
+                    <item>Dr. Hunt</item>
+                    <item>Dr. Kattenburg</item>
+                    <item>Ms. Van Camp</item>
+                    <item>Dr. Perkins</item>
+                    <item>Dr. Spector</item>
+                    <item>Dr. Zamora</item>
+                </list>
+                <p rend="underline">Office of the Historian:</p>
+                <list>
+                    <item>Dr. Slany</item>
+                    <item>Dr. Glennon</item>
+                    <item>Ms. Baker</item>
+                    <item>Dr. Herschler</item>
+                    <item>Dr. Keefer</item>
+                    <item>Dr. Mabon</item>
+                    <item>Ms. McDevitt</item>
+                    <item>Dr. Sampson</item>
+                    <item>Dr. Schwar</item>
+                    <item>Dr. Smith</item>
+                </list>
+                <p rend="underline">Historical Documents Review Division:</p>
+                <list>
+                    <item>Mr. Richard Morefield</item>
+                    <item>Mr. Charles Flowerree</item>
+                    <item>Mr. Theodore Tremblay</item>
+                    <item>Mr. William Hamilton</item>
+                    <item>Mr. Dwight Ambach</item>
+                    <item>Mr. Eugene Bovis</item>
+                    <item>Mr. Phillip Valdes</item>
+                </list>
+                <p rend="underline">Report on the Declassification Review of Foreign Relations</p>
+                <p><hi rend="underline">Richard Morefield</hi>, the Director of the Historical
+                    Documents Review Division HDR (formerly the Office of Systematic Review,
+                    Classification/Declassification Center), explained the recent reorganization of
+                    the Bureau of Administration and how his division fits into it. Essentially, HDR
+                    has been integrated into the information and management element of the Bureau of
+                    Administration and Information Management, the bureau which also handles Freedom
+                    of Information, Privacy, and Declassification matters. The same people are doing
+                    the same job with the same mandate, but under a different name. The philosophy
+                    of the reorganized bureau is that it will be user-driven, service-oriented, and
+                    dedicated to using modern technology.</p>
+                <p>Mr. Morefield reviewed the past year's work of HDR and noted that it had been
+                    highly successful. Ten volumes had been released, principally for 1955-57. This
+                    left four 1955-57 volumes to be cleared, of which three are now at the NSC. The
+                    remaining volume is still being considered by the UK. He added that ten volumes
+                    are likely for 1990.</p>
+                <p>Mr. Morefield also reported that the NSC logjam was essentially broken, in large
+                    part because of the assistance that HDR had provided NSC as well as from an
+                    exceptional effort by the NSC itself to clear volumes. Only 6 volumes remained
+                    at NSC (of these, 3 had been submitted to them in June 1989).</p>
+                <p>Mr. Morefield had hoped to be able to announce that the block of 1955-1959 of
+                    Department of State records was totally available at the National Archives, but
+                    this was not yet the case. He expected the records for this period to be
+                    available soon.</p>
+                <p>Finally, Mr. Morefield announced that HDR was beginning to examine the problem of
+                    multilateral records, such as those of NATO, and to consider how these could be
+                    systematically declassified.</p>
+                <p>Mr. Morefield then noted that there were clouds on the horizon: the first being
+                    resources available for processing documents under systematic review versus
+                    those devoted to the ever increasing number of FOIA requests. In particular, he
+                    cited the large number of FOIA requests on the Cuban missile crisis and noted
+                    that so far the Department had been willing to provide the resources necessary
+                    to deal with large requests, but that this may not always be the case. Secondly,
+                    he informed the Committee that the exponential growth of paper in the 1960's
+                    might well siphon off resources from review of <hi rend="italic">Foreign
+                        Relations</hi> documents.</p>
+                <p>Thirdly, he noted that the number of agencies needed to clear any given document
+                    would continue to increase and this, in turn, would slow down processing.</p>
+                <p><hi rend="underline">Dr. Spector</hi> asked if it were true that the Department
+                    of State did not know what it had released as he had been told by someone
+                    outside the Department. He had also been told State had no FOI reading room.</p>
+                <p>Mr. Morefield denied this. There was a reading room and documentation was
+                    released on microfilm, not by case, but by subject. The question facing HDR was
+                    should this operation be computerized and should material he made available by
+                    modem.</p>
+                <p>Asked by <hi rend="underline">Dr. Hunt</hi> if FOIA requests threatened to
+                    overwhelm the Department, Mr. Morefield answered that it would be more efficient
+                    to declassify wholesale, that is, systematically, but that the law was written
+                    differently.</p>
+                <p>Dr. Hunt inquired if blanket declassification was a possibility. Mr. Morefield
+                    responded that the Department was unalterably opposed to automatic
+                    declassification.</p>
+                <p><hi rend="underline">Dr. Zamora</hi> asked if HDR was operating under a
+                    presumption of release or denial. Mr. Morefield answered that there was a
+                    definite presumption of release and denials could only be made for a few
+                    specific reasons. Dr. Spector pointed out, however, that it had been his
+                    experience at the Navy that each new executive order on declassification allowed
+                    for more denials and, if declassifiers chose, they need not release
+                    anything.</p>
+                <p>Mr. Morefield said that was an attitudinal problem. He believed his system of
+                    using retired FSO's with area expertise created an attitude favoring release
+                    while still protecting sensitive material. The problem was that most denials
+                    were based on current events. If the Department released information given in
+                    confidence by a foreign government, it risked not getting that kind of
+                    information in the future.</p>
+                <p><hi rend="underline">Ted Tremblay</hi> then discussed the declassification of <hi
+                        rend="italic">Foreign Relations</hi> 1961-1963, vol. III, Vietnam, 1963. Dr.
+                    Glennon noted that the deletions were minor, about 2.5%, and then Mr. Tremblay
+                    characterized them and placed them within the context of the volume.</p>
+                <p><hi rend="underline">Ted Keefer</hi> pointed out that, perhaps due to modesty,
+                    Tremblay was not telling the full story of the declassification of this volume.
+                    Initially, CIA had made massive deletions which would have destroyed fully the
+                    credibility of the volume. HDR went back to CIA twice and convinced them to
+                    restore virtually all their denials and to make only minor excisions. Dr. Keefer
+                    noted that Vietnam was unique in that, from a certain point in time, the CIA was
+                    prepared to acknowledge its existence in Saigon. Therefore, some headings will
+                    be from the Station Chief to the Agency and vice versa. Unfortunately, this
+                    situation occurs only in the case of Saigon and only in a specific timeframe,
+                    and is not the beginning of a general trend.</p>
+                <p>Asked by Dr. Cohen if he was satisfied with the HDR review of the volume, Dr.
+                    Keefer replied that he was very pleased and that it represented a success. The
+                    only fly in the ointment, and it was a small fly at that, was that we were
+                    unable to convince the British, the Canadians, and State's Office of Soviet
+                    Affairs to release a British report, a Canadian intermediary exercise, and a
+                    discussion between a Soviet Embassy official and a White House aide on Vietnam.
+                    While these were only small parts of the volume, they raised issues would impact
+                    on the series coverage of Vietnam in the late 1960's.</p>
+                <p>Mr. Tremblay recounted the opposition of the British and the Canadians to our
+                    releasing their documents. He stated that in the case of the 1961 Vietnam
+                    volume, after the death of Gromyko, the Department was prepared to release a
+                    disputed conversation but by that time it was too late for inclusion in the
+                    volume.</p>
+                <p><hi rend="underline">Charles Flowerree</hi> of HDR discussed the declassification
+                    of <hi rend="italics">Foreign Relations</hi>, 1955-1957, vol. XIX, National
+                    Security Policy. He noted that it was a long time in review, but that in itself
+                    had allowed for more to be declassified. He briefly described the
+                    declassification results. Of 185 total documents, 12 had been denied, and of
+                    those, 9 were National Intelligence Estimates (NIEs) dealing with the way we
+                    evaluated Soviet capabilities. That was a stumbling block for CIA. The other 3
+                    were JCS analyses of Soviet capabilities which were denied for similar reasons.
+                    Mr. Flowerree then described the contents of the volume. Returning to the
+                    deletions, Mr. Flowerree described the excisions. [<hi rend="italic">Text not
+                        declassified.</hi>]</p>
+                <p>Both Dr. Spector and Dr. Perkins asked why the NIEs were denied and Mr. Flowerree
+                    explained that methods of assessing Soviet capabilities were still considered
+                    sensitive.</p>
+                <p>Asked why the volume was so long in review, Mr. Flowerree responded that the
+                    problem was with the other agencies and foreign governments and then, as the
+                    volume went to NSC, it was delayed by the Iran-Contra roadblock.</p>
+                <p>Dr. Hunt asked if the reader would be able to determine from this volume how the
+                    Soviet threat was assessed. Mr. Flowerree answered that the specifics would not
+                    be there. Even if CIA had cleared the NIEs, the detail would still not be there.
+                    Rather one had to use the high-level discussions at the NSC meetings to
+                    understand how the Soviet threat was being assessed.</p>
+                <p><hi rend="underline">Phillip Valdes</hi> then gave an account of the
+                    declassification of the USSR compilation in <hi rend="italic">Foreign
+                        Relations</hi> 1955-1957, vol. XXIV, Soviet Union and Eastern Mediterranean,
+                    which is already published. He described the denials and excisions in the Soviet
+                    compilation, which were extensive (10% and 23% respectively). Of the 482
+                    documents in the volume, 51 had been denied and 110 excised. He described
+                    briefly the contents of the volume and then raised the issues which presented
+                    problems. [<hi rend="italic">Text not declassified.</hi>] The Cyprus compilation
+                    (206 documents, 16 denied, 52 excised) had problems with documents discussing
+                    the division of the island and 3 Greek government documents which the Embassy in
+                    Athens refused to ask the Government to clear. The Greek compilation's (50
+                    documents, 8 denied and 8 excised) [<hi rend="italic">text not
+                    declassified</hi>.] The Turkish compilation (83 documents, 5 denied and 5
+                    excised) was essentially a matter of removing material on intelligence
+                    operations [<hi rend="italic">text not declassified</hi>.] Dr. Glennon observed
+                    that the percentage of material denied on this volume was about 6.5%, slightly
+                    higher than the general average of 4.5%.</p>
+                <p>Dr. Cohen then asked if he could see the documents which were described in this
+                    session, those that were not Top Secret or other-agency documents.</p>
+                <p>Mr. Morefield replied that the Committee had only Secret clearances, and most of
+                    these documents were Top Secret and non-Department of State documents. All the
+                    Committee would be able to see were just a few of the least impressive and he
+                    was not sanguine that they could see even these.</p>
+                <p>Dr. Cohen stressed that the integrity of the series demanded that the Committee
+                    insist on seeing these deletions. Dr. Spector suggested that the Department
+                    grant a Top Secret clearance to the Chairman and that he be allowed to see them.
+                    Dr. Cohen said that the Advisory Committee had already sent a letter to its
+                    constituent bodies saying that the members would be seeing the deletions and he
+                    felt access had to be granted in the near future. He stated that he believed
+                    this was the bargain that had been struck with the Department.</p>
+                <p rend="underline">Report on the Longevity and Preservation of Electronic
+                    Records</p>
+                <p>Deputy Assistant Secretary Robert K. Carr then spoke to the Committee about
+                    Department's efforts in the area of information management. Mr. Carr explained
+                    that on October 1 the Department had merged six separate offices dealing with
+                    information management. A “Foreign Affairs Information System” is being
+                    installed throughout the Department. The Under Secretary for Management is
+                    anxious to move the Department to a new information environment. We are truly
+                    looking toward the day of the “paperless office”. The number of documents is
+                    growing and information techniques are changing. Comments which formerly were
+                    marginal are being replaced by electronic communication between offices through
+                    “electronic mail”.</p>
+                <p>Mr. Carr suggested that it is the responsibility of the National Archives to take
+                    the lead in developing criteria for how and when the Department should transfer
+                    documents. The volume of information continues to grow dramatically. For
+                    example, one can look ahead to an era when voice transmissions will be part of
+                    the record</p>
+                <p>Ms. Van Camp noted that it might well benefit the Committee at some occasion to
+                    plan a visit to the Archives to observe first-hand their research efforts in the
+                    area of electronic records.</p>
+                <p rend="center"><hi rend="underline">Friday Morning Session</hi> (Closed)</p>
+                <p rend="underline">Committee Members Present:</p>
+                <list>
+                    <item>Dr. Cohen</item>
+                    <item>Dr. Spector</item>
+                    <item>Dr. Zamora</item>
+                    <item>Dr. Perkins</item>
+                    <item>Dr. Kattenburg</item>
+                    <item>Ms. Van Camp</item>
+                </list>
+                <p rend="underline">Others Present:</p>
+                <list>
+                    <item>Professor Bruce Kuniholm, Duke University</item>
+                </list>
+                <p rend="underline">Office of the Historian:</p>
+                <list>
+                    <item>Dr. Slany</item>
+                    <item>Dr. Glennon</item>
+                    <item>Ms. Baker</item>
+                    <item>Dr. Herschler</item>
+                    <item>Dr. Mabon</item>
+                    <item>Ms. McDevitt</item>
+                    <item>Dr. Sampson</item>
+                    <item>Dr. Schwar</item>
+                    <item>Dr. Smith</item>
+                </list>
+                <p rend="underline">Historical Documents Review Division:</p>
+                <list>
+                    <item>Mr. Richard Morefield</item>
+                    <item>Mr. Eugene Bovis</item>
+                    <item>Mr. Henry Bardach</item>
+                    <item>Mr. Charles Flowerree</item>
+                </list>
+                <p rend="underline">Evaluation of Foreign Relations, 1952-1954, Volume X, Iran,
+                    1951-1954</p>
+                <p>At the invitation of the Committee, Professor Bruce Kuniholm of Duke University
+                    commented on the recently published volume <hi rend="italic">Foreign
+                        Relations</hi>, 1952-1954, vol. X, Iran, 1951-1954. Kuniholm concluded that
+                    the publication of what he saw as a seriously misleading account of U.S.
+                    relations with Iran at a critical juncture constituted “something like fraud” by
+                    the Department of State. The publication of such a volume, Kuniholm felt, called
+                    into question the credibility as well as the purpose of the series. He
+                    emphasized, however, that in criticizing the volume he was not criticizing the
+                    work which went into the compilation of the volume, but rather the political
+                    decisions which underlay the removal of documentation essential to a credible
+                    account, and the decision to publish what he considered to be a seriously flawed
+                    and misleading record of U.S.-Iranian relations.</p>
+                <p>Professor Kuniholm reviewed the volume in some detail and elaborated on his
+                    criticisms. A reading of the volume, Professor Kuniholm noted, created an
+                    impression concerning the overthrow of the Mosadeq government in 1953 which was
+                    simplistic and wrong: Mosadeq was anti-British, the British opposed Mosadeq, the
+                    British tried to enlist the support of the U.S., to some extent the U.S.
+                    supported the British, the British departed, the U.S. tried to patch up the
+                    relationship, and in the end Mosadeq was overthrown by a popular uprising.</p>
+                <p>Professor Kuniholm argued that the account of the overthrow of the Mosadeq
+                    government, to the extent that it was covered in the <hi rend="italic">Foreign
+                        Relations</hi> volume at all, is vastly different from the real story which
+                    can be pieced together from memoirs of participants, such as Kermit Roosevelt,
+                    and from other available accounts of [<hi rend="italic">text not
+                        declassified.</hi>] Professor Kuniholm stressed that, despite all that has
+                    been revealed in such accounts, the volume is entirely silent on the CIA's role
+                    in the overthrow of Mosadeq. CIA plans and activities leading up to the
+                    restoration of the Shah to the throne are totally absent from the volume. He
+                    conceded that the volume did include useful information on a number of other
+                    issues, and was “good as far as it goes”, but he added that “all the crucial
+                    stuff is omitted.”</p>
+                <p>Professor Kuniholm raised and dismissed all of the arguments he felt the CIA
+                    might have used to justify withholding the missing information. Weighed against
+                    those arguments was the public's right to be informed and the importance of an
+                    accurate record for analysts inside as well as outside the government. In
+                    arguing the importance of an accurate record for internal analysts, he recalled
+                    his difficulty in obtaining access to a CIA study of this episode when he was in
+                    the Department working on a highly classified study of the background of U.S.
+                    policy toward Iran during the hostage crisis. He also noted that Iranian
+                    nationalists have reacted to the United States since the overthrow of Mosadeq on
+                    the presumption that the CIA was behind the change. It might have been better
+                    for U.S.-Iranian relations to have made the actual story available long
+                    since.</p>
+                <p>The Committee generally applauded and concurred in Professor Kuniholm's
+                    assessment of the volume. Chairman Cohen agreed that the volume was badly flawed
+                    and he stated that he was concerned about the impact on the series as a whole of
+                    publishing obviously misleading accounts. Dr. Perkins seconded those concerns
+                    and said that it would be better not to publish a volume that distorts the
+                    record to such an extent unless a disclaimer could be included to the effect
+                    that the published account did not constitute the entire record. Dr. Kattenburg
+                    agreed in general, but played devil's advocate to the extent of wondering
+                    whether Roosevelt's published account wasn't self-serving, and the entire
+                    episode of the overthrow of Mosadeq largely something engineered by the British.
+                    Professor Kuniholm replied that he was certain that the United States was the
+                    principal actor. At that point, he was asked what he would have done if faced
+                    with the necessity of having to publish an incomplete account. He replied that
+                    he would have resigned.</p>
+                <p>Dr. Spector felt that two issues were raised by Professor Kuniholm's
+                    presentation. At one level the volume highlighted the specific problems
+                    confronted by the Historian's Office in attempting to present a complete account
+                    of U.S. foreign policy. At another and higher level, there was the more serious
+                    problem of a government institutionalizing the practice of lying to itself.
+                    Drawing on his background in the Navy's historical program, Dr. Spector noted
+                    that the case was always made by military historians that detailing mistakes and
+                    omissions in an account of a military operation might save some lives if those
+                    who studied the record for lessons to be learned actually profited from the
+                    lessons of history. He felt that a similar presentation should be made to the
+                    officers with substantive responsibilities for declassification of the documents
+                    selected for the <hi rend="italic">Foreign Relations</hi> series. Misinformation
+                    in the record of foreign relations and national security policy can be similarly
+                    dangerous, particularly when perpetuated as a basis for analysis.</p>
+                <p>Dr. Slany expressed appreciation for Professor Kuniholm's presentation and said
+                    that HO was aware of the problems raised by the Committee. He noted that HO was
+                    still groping for a solution to the problem highlighted in the presentation and
+                    perhaps had not made a strong enough case to other agencies on the issue. He
+                    indicated that this was one of the problems to be worked out as the office felt
+                    its way from the old <hi rend="italic">Foreign Relations</hi> series to the
+                    new.</p>
+                <p>Dr. Glennon pointed out that the volume does contain some good material and
+                    called the Committee's attention to one or two documents. He commented that
+                    researchers cannot use the volume alone but must use other sources as well. He
+                    said that in terms of pages, HO lost only about 2% of the pages in the volume in
+                    the declassification process. With the help of the CIA historian, we were able
+                    to get access to about 36 pages, double spaced, of CIA cables that had been
+                    retyped by the CIA; they essentially said what Kim Roosevelt said in his book
+                    but could not be included in the volume. We had 1,100 pages of good material and
+                    were faced with the question of whether to sit on it or publish it. Dr. Perkins
+                    pointed out that HO had withheld the 1949 China volume documenting the Chou
+                    En-lai demarche for several years. Dr. Glennon replied that we had reason to
+                    believe that the China volume would be cleared after the death of Chou and Mao
+                    Tse-tung. This had been correct. When they died, the volume was cleared.</p>
+                <p>Committee members asked about the volumes concerning Guatemala in 1954 [<hi
+                        rend="italic">text not declassified.</hi>] Dr. Glennon thought the Guatemala
+                    compilation was far less complete than the Iran volume. Our major problem was
+                    one of access. Dr. Glennon, Dr. Schwar, and Dr. Keefer commented [<hi
+                        rend="italic">text not declassified.</hi>] Dr. Glennon added that the
+                    problem of coverage of covert operations in the series was perhaps more
+                    widespread than the Committee realized.</p>
+                <p>Mr. Morefield pointed out that the Iran volume included a great deal of material
+                    concerning international economic issues and the involvement of the Seven
+                    Sisters in Iran. Professor Kuniholm said the volume included a great deal of
+                    good material. He said he could see the dilemma but thought the volume should
+                    include a disclaimer.</p>
+                <p>Dr. Spector thought this was a fundamental decision for the Department: whether
+                    or not to claim this is a complete record of U.S. foreign policy. Dr. Perkins
+                    pointed out that a disclaimer was a two-edged sword in that it could be used by
+                    other agencies as an excuse to deny documents. Dr. Slany raised the possibility
+                    of an introduction explaining the circumstances under which a volume was
+                    compiled.</p>
+                <p>Dr. Zamora asked about review of a volume by an independent scholar. Dr. Slany
+                    said there was a plan to have Michel Oksenberg look at a China volume. Dr. Cohen
+                    thought there were two problems with involving an academic in the compilation
+                    process: (1) they did not have time, and (2) they were concerned about being
+                    co-opted. Dr. Spector suggested that an early review of a completed compilation
+                    by an outside scholar might serve as an early warning system to indicate the
+                    reaction to a volume like this one. Dr. Kattenberg thought this was unnecessary;
+                    HO historians could see the problems with such a volume without any outside
+                    review. Drs. Slany and Glennon indicated that they had recognized the problems.
+                    Dr. Spector noted that most government agencies have a review panel with one
+                    outside scholar and one participant in the events.</p>
+                <p>Dr. Perkins asked what HO thought about a disclaimer. Dr. Glennon pointed out
+                    that there was a question as to whether we could clear a meaningful disclaimer.
+                    Dr. Cohen thought we should not allow publication of another volume like this
+                    one without such a disclaimer. Dr. Kattenberg thought we should make clear to
+                    the upper echelons that something had to be done along this line. He thought
+                    there should be a high-level interagency review of the situation and some sort
+                    of interagency cooperation. He mentioned the Center for the Study of
+                    Intelligence which has done work in this area.</p>
+                <p>Discussion of a possible disclaimer continued, with the committee in general
+                    agreement that a disclaimer was necessary, although Dr. Perkins again noted that
+                    it was a two-edged sword. Reverting to Dr. Slany's suggestion of an introduction
+                    to specific volumes rather than a general disclaimer, Dr. Perkins asked Dr.
+                    Slany what he would have said in an introduction to the Iran volume. Dr. Slany
+                    replied that he would have said we did not have access to all agency documents.
+                    Dr. Cohen thought that was not sufficient; we can not assume everyone has the
+                    background to understand the import of such a statement. He thought it was
+                    essential to protect the integrity of the volumes.</p>
+                <p>Dr. Zamora thought a general disclaimer would be better. Dr. Kattenberg thought
+                    an introduction should state how many documents had been denied by each agency.
+                    Bruce Kuniholm suggested a bibliographic essay, including not only memoirs but
+                    secondary material, such as the article the August 1987 issue of the <hi
+                        rend="italic">Journal of Middle East Studies</hi>, on such matters as the
+                    Iran coup. Mr. Morefield said such an essay might say “Since it is U.S. policy
+                    not to discuss these matters, we can neither confirm nor deny these
+                    allegations.”</p>
+                <p>Dr. Smith pointed out that the CIA has an interest in releasing some documents.
+                    When Congress exempted the CIA from the Freedom of Information Act, the CIA
+                    agreed to find some vehicle for the systematic release of some of its documents.
+                    For this reason, the agency is interested in HO's project for a supplementary
+                    intelligence volume. However, this would only include documents concerning
+                    intelligence in general. In response to questions from the Committee concerning
+                    the supplementary intelligence volume, Dr. Slany said HO may be able to get Tom
+                    Thorne, a former Deputy Assistant Secretary in INR, to work on it.</p>
+                <p>Dr. Cohen concluded that the committee had to let the Secretary know that this
+                    was a serious problem which was undermining the series. The purpose of the
+                    series is to give the American people an accurate record of U.S. foreign policy.
+                    It is essential to warn the reader that important aspects are not included. Dr.
+                    Cohen asked Committee members to reflect on the problem and to send him their
+                    thoughts. It was important to make a thoughtful, concerted approach to the
+                    Secretary on the matter, and Dr. Cohen noted that he would be in Washington all
+                    winter and could formulate and press such an approach.</p>
+                <p rend="underline">Discussion of Revisions of the Charter of the Foreign Relations
+                    Series</p>
+                <p>Dr. Slany requested the Committee's comments on revision of the <hi rend="italic"
+                        >Foreign Relations</hi> directive, especially in connection with the
+                    preparation of volumes for the Kennedy period. Dr. Cohen noted that the
+                    directive specified use of other agency documents when necessary and withdrew
+                    his previous proposal that the Office consider publication of Department of
+                    State documents only.</p>
+                <p>Dr. Slany said that PA/HO might stop any pretence of publishing the whole record,
+                    and concentrate on selected issues. Dr. Perkins said there were really two
+                    issues, topicality and comprehensiveness. Dr. Spector recalled that when PA/HO
+                    had concentrated exclusively on Vietnam for a few years, it had gotten many
+                    complaints from researchers in other areas despite the high quality of the
+                    Vietnam volumes. He had liked the approach, but many others had not. Dr. Cohen
+                    said that there was a danger that some of the areas on which complete
+                    documentation was available, unlike Vietnam, might not be the ones of most
+                    central importance. Dr. Perkins argued against starting with the assumption that
+                    documentation on some topics was so slim that no volume was possible. It might
+                    prove to be the case, but the <hi rend="underline">a priori</hi> assumption should
+                    not be made.</p>
+                <p>There was general agreement that in the future more selectivity was inevitable.
+                    Dr. Zamora wondered if modern computerized systems might not make possible a
+                    series with a few book publications, but a great mass of documentation available
+                    on line. Dr. Herschler pointed out some of the problems with this approach given
+                    the difficulty of compiling documents from other agencies. Dr. Kattenburg said
+                    there should be an Executive Order declassifying everything up to 1960, with all
+                    the burden of proof to be on the government for continued classification of all
+                    subsequent materials.</p>
+                <p>Dr. Slany said another problem was that many agencies did not properly maintain
+                    the record, much less make it accessible. Dr. Spector said that this was
+                    properly a job for the Archivist of the United States. The Archivist had never
+                    done this before, but the new one seemed disposed to try. In the Department the
+                    historians should identify what needed to be kept. Dr. Herschler mentioned that
+                    such a provision was already in Departmental regulations. Dr. Spector said,
+                   “Make it stronger.” Dr. Cohen discussed an article by Nancy Tucker, which stated
+                    that while she was temporarily on the China desk materials of historical value
+                    had been routinely destroyed. Dr. Spector suggested that PA/HO see to it that
+                    the Inspector General carried out his responsibilities with respect to record
+                    retention. Historians should accompany the IG on his inspections. This
+                    technique, he recalled, had been valuable when he was at the Naval Historical
+                    Center. Also, Congressional scrutiny would help.</p>
+                <p>Dr. Slany again asked for the Committee's recommendations on selectivity. Dr.
+                    Spector said outside advice would help the Office to justify future decisions.
+                    Dr. Perkins believed that narratives would be a mistake. Dr. Cohen suggested an
+                    introduction which would explain what was included, and why, and what was left
+                    out, and why, with archival and bibliographic information on both classes of
+                    material. Dr. Kattenburg said it would look “damn silly” for the Department to
+                    send readers to secondary sources on matters on which the Department was charged
+                    with printing the record. Dr. Cohen said that the Committee would come up with
+                    recommendations on the selectivity issue, especially on how to refer to omitted
+                    materials.</p>
+                <p>Dr. Perkins wondered if it would be desirable or possible to distinguish between
+                    a disclaimer, earlier discussed in connection with the Iran volume, and a
+                    description of missing substantive material. Dr. Kattenburg recommended that the
+                    disclaimer be as bland and neutral as possible.</p>
+                <p>There ensued discussion as to whether advice should be solicited from individuals
+                    or groups of experts. Dr. Cohen thought that consultation with individuals
+                    should be done if useful, and not for the purpose of a cover to justify anything
+                    the Office did. Dr. Slany cautioned that consultation would lengthen the time it
+                    would take to prepare the volumes. Dr. Kattenburg emphasized that the compilers,
+                    as trained historians, were perfectly capable of utilizing the secondary
+                    literature themselves.</p>
+                <p>There was some discussion of the possibility of getting a private subsidy to help
+                    the series' financial problems. The Department can receive private money. There
+                    was general agreement that channeling of funds through a private foundation was
+                    preferable because donors would prefer to give to it rather than directly to the
+                    government.</p>
+                <p rend="center"><hi rend="underline">Friday Afternoon Session (Closed)</hi></p>
+                <p rend="underline">Committee Members Present:</p>
+                <list>
+                    <item>Dr. Cohen</item>
+                    <item>Dr. Spector</item>
+                    <item>Dr. Zamora</item>
+                    <item>Dr. Perkins</item>
+                    <item>Dr. Kattenburg</item>
+                    <item>Ms. Van Camp</item>
+                </list>
+                <p rend="underline">Office of the Historian:</p>
+                <list>
+                    <item>Dr. Slany</item>
+                    <item>Dr. Glennon</item>
+                    <item>Ms. Baker</item>
+                    <item>Dr. Herschler</item>
+                    <item>Dr. Mabon</item>
+                    <item>Ms. McDevitt</item>
+                    <item>Dr. Sampson</item>
+                    <item>Dr. Schwar</item>
+                    <item>Dr. Smith</item>
+                </list>
+                <p rend="underline">Historical Documents Review Division:</p>
+                <list>
+                    <item>Mr. Richard Morefield</item>
+                    <item>Mr. Henry Bardach</item>
+                    <item>Mr. Eugene Bovis</item>
+                    <item>Mr. William Hamilton</item>
+                </list>
+                <p rend="underline">National Archives and Records Administration:</p>
+                <list>
+                    <item>Mr. John Fawcett</item>
+                    <item>Dr. George Chalou</item>
+                    <item>Ms. Nancy Smith</item>
+                </list>
+                <p rend="underline">Report on Access to Documentation at Presidential Libraries</p>
+                <p>Mr. Fawcett said that the National Archives has been working on procedures to
+                    assist the <hi rend="italic">Foreign Relations</hi> series and has tried to cut
+                    out some of the burdensome aspects of the process, but pointed out that this was
+                    a complex problem. His office and HO could not solve the declassification
+                    problem by themselves. Declassification was an extremely cumbersome, frustrating
+                    process, but NARA was attempting to cut some bureaucratic procedures.</p>
+                <p>The Department of State had helped NARA to send an additional employee to the
+                    Kennedy Library last year but a 3-month detail was not enough to handle the
+                    project; such help needs to be long-term. Mr. Fawcett also maintained that the
+                    funds for such a long-term project had to be provided by the Department because
+                    much of it would aid government historians but would not help the public.</p>
+                <p>NARA is also taking other actions to help HO move forward with <hi rend="italic"
+                        >Foreign Relations</hi>; the Kennedy Library has reassigned an archivist
+                    from domestic records to foreign affairs. It has also hired two additional
+                    staffers, although they have not yet received their security clearances. The
+                    Johnson Library has not filled an oral history vacancy and has transferred the
+                    position to declassification/mandatory review (at some cost to its oral history
+                    program).</p>
+                <p>Mr. Fawcett said that his main point is that NARA is unhappy with the current
+                    situation, despite these cooperative efforts, because it has had a negative
+                    effect on public access to the records. Therefore, the same people who do
+                    mandatory review have less time to work on public access.</p>
+                <p>He stated that NARA knows much more about handling classified material and
+                    mandatory review than it did 20 years ago. Without question, in the absence of
+                    huge increases in funding and personnel, the most effective way to handle
+                    declassification is systematic review from Department of State guidelines. This
+                    has worked at the Eisenhower Library, where they have made tremendous progress,
+                    and Mr. Fawcett urged that such guidelines be provided at an earlier stage. He
+                    also noted that the Department is the only agency that has given NARA guidelines
+                    (still incomplete) for the Eisenhower administration.</p>
+                <p>Mr. Fawcett has talked to the directors of Ford, Carter, and Reagan Libraries
+                    regarding the most effective way of handling classified materials. This would be
+                    to process classified material specifically for <hi rend="italic">Foreign
+                        Relations</hi> access as the first stage for systematic review/mandatory
+                    review, i.e., to sort the files by classification, code word, etc., so that
+                    Department of State historians could begin work on them. This would mean that
+                    the libraries would not have to do the work over again for mandatory review
+                    requests because they would have both the physical arrangement and an
+                    intellectual overview of the files.</p>
+                <p>He asked HO to develop preliminary priorities for the Ford, Carter, and Reagan
+                    administrations. (The Nixon Library is a special case because it has to follow
+                    the cumbersome access procedures written into law.) He pointed out that if HO
+                    began its research before 20 years have passed, it could start to work with the
+                    Department's declassification people earlier. NARA resources could then be
+                    devoted to providing public access to those records.</p>
+                <p>Mr. Fawcett concluded his report by pointing out that there are problems with
+                    limited resources; therefore, the Department and HO have to support additional
+                    resources for declassification. If such resources are provided, the Presidential
+                    libraries could be more effective.</p>
+                <p rend="underline">Discussion With the Advisory Committee</p>
+                <p>Dr. Perkins commented that this was quite a change from last year, when the
+                    Advisory Committee was told that the Kennedy Library had no resources. Dr.
+                    Warren Cohen noted that the Committee has continued to receive complaints from
+                    researchers.</p>
+                <p>Mr. Fawcett replied that, obviously, they have had problems. For years, the
+                    Kennedy Library had not directed its resources toward archival processing as
+                    much as the other Presidential libraries. Now there is a new director who is
+                    concerned about this and is taking steps to improve the situation, but they
+                    cannot catch up immediately. In response to Dr. Perkins' query as to whether the
+                    new director was a professional archivist, Mr. Fawcett that he was not, but that
+                    he had a great interest in the subject as well as an academic background.</p>
+                <p>Mr. Fawcett admitted that scholars have had problems. The Kennedy Library is
+                    still waiting for the two new staffers to get their clearances, which would
+                    improve the situation. (He pointed out, however, that he himself was still
+                    waiting for codeword clearance.) He also noted that NARA had to balance
+                    mandatory review requests and appeals; Presidential libraries respond wherever
+                    there is the greatest pressure.</p>
+                <p>Dr. Perkins asked if the staff at the Presidential libraries ever moved around,
+                    to which Mr. Fawcett replied that usually they did not. He noted that the
+                    average time of employment at the Roosevelt Library was 18 years.</p>
+                <p>Dr. Cohen argued that Presidential libraries with no declassification work need
+                    fewer people and asked whether NARA could transfer people to the Kennedy or
+                    Johnson Libraries. Mr. Fawcett replied that they could not move people, although
+                    they could shift positions when vacancies occurred and noted that NARA had
+                    shifted declassification positions. He also pointed out that these employees
+                    have acquired expertise regarding collections, which is necessary for reference
+                    work as well as declassification. He added that the workload does not go down
+                    when collections are declassified; it shifts from processing to helping
+                    researchers. Dr. Perkins asked whether employees need as much skill to do
+                    reference work, to which Mr. Fawcett replied that skill consists of knowledge of
+                    the records, not of the process.</p>
+                <p>Mr. Fawcett noted that one of their biggest problems was getting agencies to
+                    follow proper procedures regarding classified material before NARA received it.
+                    Agencies at the highest level (such as the National Security Council) often
+                    ignored these procedures but NARA could not.</p>
+                <p>Dr. Perkins asked if someone could be detailed on a temporary basis, to which Mr.
+                    Fawcett replied that this had happened last year (with Department of State
+                    funds) but it was very expensive.</p>
+                <p>Regarding the problem of lack of resources, Dr. Spector asked why the
+                    Presidential libraries did not say that they could not operate the Carter and
+                    Reagan Libraries without more resources. Mr. Fawcett pointed out that the
+                    Presidential libraries have only 5% of the total records at NARA and are often
+                    regarded as “country clubs” whose resources can be cut. He noted that NARA's top
+                    priority is the new building and that the records in Washington and Suitland
+                    have to be processed before they can be moved to a new building.</p>
+                <p>Dr. Spector argued that NARA has an enormous mission with no resources to fill
+                    it. To Mr. Fawcett's statement that the budget process has to have priorities,
+                    Dr. Spector asked why NARA did not ask for a bigger “pie.” Mr. Fawcett replied
+                    that Don Wilson was asking for a bigger pie but that within the pie he had to
+                    make choices. Dr. Spector accused NARA of “doing it backwards” and suggested
+                    telling Congress how much it needed. Mr. Fawcett answered that NARA <hi
+                        rend="underline">did</hi> tell Congress all of its needs, adding that
+                    Congress was sympathetic but not always responsive. He pointed out that Don
+                    Wilson has had more meetings with the President than all of his predecessors
+                    combined, adding that this President is interested in history. He is trying to
+                    raise the Archives' budget incrementally, but to push the Presidential libraries
+                    angle would jeopardize other priorities.</p>
+                <p>Dr. Spector asked why not say, before a new Presidential library opens, that NARA
+                    has to have more resources to operate it. Mr. Fawcett replied that, after having
+                    to “cannibalize” other libraries to set up the Carter Library, they had asked
+                    for money in advance for the Reagan Library and received it. To Dr. Cohen's
+                    suggestion that they transfer some of this to the Kennedy Library, Mr. Fawcett
+                    responded that NARA had to spend appropriations as Congress intended.</p>
+                <p>To Dr. Spector's accusation that Presidential libraries have had a record of
+                   “failure” for the last 15 years, Ms. Van Camp commented that every archival
+                    institution in the world has a backlog of unprocessed records.</p>
+                <p>Dr. Cohen pointed out that the Committee's concern was getting material out of
+                    the Kennedy and Johnson Libraries, adding that he had done well 10 years ago at
+                    the Johnson Library, when working on his book. He asked for an estimated
+                    timeframe after which the Committee could tell its constituents that there would
+                    be no problem at the Kennedy Library. Mr. Fawcett responded that once the two
+                    new staffers were on board, the backlog should be cleared quickly.</p>
+                <p>Dr. Cohen asked if there were a way that the Advisory Committee could help the
+                    Presidential libraries to get the resources they need. Mr. Fawcett said that one
+                    big priority was larger appropriations for declassification; he would put the
+                    NARA congressional liaison people in touch with the Committee via the
+                    Historian's Office.</p>
+                <p>Ms. Van Camp asked about getting clearer guidelines, to which Mr. Fawcett
+                    responded that there were problems with either himself or Dr. Slany asking for
+                    changes in the Executive Order. Therefore, he suggested that the Committee get
+                    in touch with Page Miller, who has been working on this issue. Helping Ms.
+                    Miller would help the Presidential libraries.</p>
+                <p>The 33rd meeting of the Advisory Committee adjourned at 2:45 p.m.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Minutes of Historical Advisory Committee Meeting, December
+                    1988</title>
+                <title type="short">HAC Meeting Minutes, December 1988</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-02-24">February 24, 2014</date>
+                <date type="created" when="1988-12-08">December 8, 1988</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1988-12-08-hac-meeting-minutes.pdf">PDF</ref>, 450 KB, 25pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 5, 1988-Minutes of the Advisory Comm. Drafted
+                    on December 20 and revised on December 30, 1988. Cleared by Acting Assistant
+                    Secretary of State for Public Affairs George High and Director for Systematic
+                    Review (A/CDC) Richard Morefield.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 10, <ref
+                    target="../chapter-10#fn59">Footnote 59</ref></p>
+            <div type="document">
+                <head>Minutes of the December 1988 Meeting of the Advisory Committee on Historical
+                    Diplomatic Documentation</head>
+                <dateline>December 8-9, 1988</dateline>
+                <p rend="underline">American Historical Association</p>
+                <list>
+                    <item>Dr. Robert Dallek, Department of History, University of California at Los
+                        Angeles</item>
+                    <item>Dr. Blanche Wiesen Cook, Professor of History, John Jay College, CUNY, New
+                        York City</item>
+                </list>
+                <p rend="underline">American Political Science Association</p>
+                <list>
+                    <item>Dr. Michel Oksenberg, Center for Chinese Studies, University of
+                        Michigan</item>
+                </list>
+                <p rend="underline">Organization of American Historians</p>
+                <list>
+                    <item>Dr. Bradford Perkins, Department of History, University of Michigan</item>
+                </list>
+                <p rend="underline">Society for Historians of American Foreign Relations</p>
+                <list>
+                    <item>Dr. Warren I. Cohen, Department of History, Michigan State
+                        University</item>
+                    <item>Dr. Michael H. Hunt, Department of History, University of North
+                        Carolina</item>
+                </list>
+                <p rend="center"><hi rend="underline">Thursday Morning Session (Open)</hi></p>
+                <p rend="underline">Committee Members Present:</p>
+                <list>
+                    <item>Professor Warren I. Cohen (Chairman)</item>
+                    <item>Professor Blanche Wiesen Cook</item>
+                    <item>Professor Robert Dallek</item>
+                    <item>Professor Michael H. Hunt</item>
+                    <item>Professor Bradford Perkins</item>
+                </list>
+                <p rend="underline">Others Present:</p>
+                <list>
+                    <item>George B. High, Acting Assistant Secretary of State for Public
+                        Affairs</item>
+                </list>
+                <p rend="underline">The Office of the Historian (PA/HO):</p>
+                <list>
+                    <item>William Z. Slany, The Historian</item>
+                    <item>John P. Glennon, Chief, Foreign Relations Division</item>
+                    <item>Rita M. Baker</item>
+                    <item>M. Paul Claussen</item>
+                    <item>Evan M. Duncan</item>
+                    <item>Vicki E. Futscher</item>
+                    <item>Nancy L. Golden</item>
+                    <item>David H. Herschler</item>
+                    <item>Nina D. Howland</item>
+                    <item>Sherri Jennings</item>
+                    <item>Edward C. Keefer</item>
+                    <item>James E. Miller</item>
+                    <item>David W. Mabon</item>
+                    <item>Nina J. Noring</item>
+                    <item>David S. Patterson</item>
+                    <item>Charles S. Sampson</item>
+                    <item>William F. Sanford</item>
+                    <item>Louis J. Smith</item>
+                    <item>Harriet D. Schwar</item>
+                    <item>Sherrill B. Wells</item>
+                </list>
+                <p rend="underline">Center for Classification/Declassification (A/CDC):</p>
+                <list>
+                    <item>H. Eugene Bovis, Acting Director</item>
+                    <item>Mr. Richard Morefield, Chief, Office of Systematic Review</item>
+                </list>
+                <p rend="underline">Office of the Assistant Secretary of State for Management Policy
+                    (M/MP):</p>
+                <list>
+                    <item>Susan T. Tait</item>
+                </list>
+                <p rend="underline">Others:</p>
+                <list>
+                    <item>George C. Chalou, External Affairs Staff, National Archives and Records
+                        Administration (NARA)</item>
+                    <item>Milton O. Gustafson, Chief Civil Reference Branch, NARA</item>
+                    <item>Mr. David A. Langbart, Records Appraisal Division, NARA</item>
+                    <item>Page Putnam Miller, Executive Director, National Coordinating Committee
+                        for the Promotion of History</item>
+                    <item>Jeanne Schauble, Records Declassification Division, NARA</item>
+                </list>
+                <p>The public session of the meeting was opened at 9:22 a.m. by William Z. Slany,
+                    The Historian of the Department. He turned over the direction of the meeting to
+                    the new chairman, Professor Cohen, who accepted the position and invited Acting
+                    Assistant Secretary of State George High to address the Committee.</p>
+                <p rend="underline">Remarks by Acting Assistant Secretary High</p>
+                <p>Mr. High welcomed the Committee on behalf of Assistant Secretary Charles Redman,
+                    who was traveling with the Secretary of State in Brussels. Mr. High noted that
+                    the Committee met at a time of transition for the Department and the Bureau, but
+                    he assured Committee members that the work of the Historian’s Office would not
+                    be affected by the change in leadership. PA/HO’s program will, however, continue
+                    to be impacted by budget constraints and the large amounts of documentation to
+                    be examined for inclusion in the <hi rend="italic">Foreign Relations</hi>
+                    series. He acknowledged past chairman Professor Perkins’ leadership,
+                    perseverance, and dedication, and he welcomed Professor Cohen as chairman of the
+                    Committee.</p>
+                <p>Turning to a review of developments of the last year, Mr. High noted that the
+                    series was short of the accelerated schedule because of delays in
+                    declassification at the National Security Council. The schedule was to bring
+                    publication of the series to a 30-year line by 1990. He anticipated that the
+                    series would not complete the Eisenhower administration until 1992. The good
+                    news, he noted; was that PA/HO had virtually completed the compilation of the
+                    documents for the Eisenhower era, A/CDC has completed declassification for all
+                    volumes for 1989 and several for 1990, and volumes were now being returned from
+                    the NSC at a rate of about one a month. Most importantly, the commitment of
+                    PA/HO and A/CDC to support accelerated publication of the series has not
+                    faltered. The news on the budget front was still generally bad, but there was a
+                    widespread feeling in the Department that the cuts in the foreign relations
+                    budget had bottomed out. The PA budget has supported the accelerated PA/HO
+                    publication program throughout the budgetary problems, and would continue to do
+                    so. Mr. High added that the microfiche publication program initiated by PA/HO
+                    should offset the slimmer print volumes in the Foreign Relations series.</p>
+                <p>Mr. High informed the Committee that its charter had been renewed by the
+                    Department for 2 years, without substantive change. The Department was examining
+                    the possibility of broadening the Committee to include representatives from the
+                    American Economics Association, the Society of American Archivists, and the
+                    International Studies Association.</p>
+                <p>Mr. High reported that the Department had considered the Committee’s Annual
+                    Report. During the first 6 or 7 months of this year there had been an ongoing
+                    dialog between the Committee Chairman and Assistant Secretary Redman which
+                    focused on two issues of pressing importance to the Committee: access to
+                    classified materials which have been denied publication and access to the
+                    guidelines prepared by A/CDC for the National Archives declassification review
+                    of Department of State files. Mr. High told the Committee that the Department
+                    had considered the Committee’s views and concerns on these issues carefully and
+                    had reached decisions: The Department will continue the briefings of the
+                    Committee by A/CDC reviewers on specific <hi rend="italic">Foreign
+                        Relations</hi> volumes. The Department will solicit advice from the
+                    Committee on which volumes to review, but cannot guarantee that the Committee’s
+                    requests will be honored in every instance. The Department has also decided that
+                    it cannot make available to the Committee the A/CDC guidelines. These guidelines
+                    are viewed in the Department as an internal management tool; they outline
+                    specific topics which must be reviewed by the Department prior to any
+                    declassification or release action. They are the responsibility of A/CDC and are
+                    outside the purview of the Advisory Committee and the process of publishing the
+                        <hi rend="italic">Foreign Relations</hi> series. Access to classified
+                    information within the government is based on the principle of “need to know”,
+                    and the Committee, whose advisory role is focused on the content and direction
+                    of the <hi rend="italic">Foreign Relations</hi> series and the work of the
+                    Historian’s Office, is not deemed to have a need to know that would authorize
+                    access to the guidelines prepared by A/CDC.</p>
+                <p>Mr. High observed that in June Assistant Secretary Redman had shown Professors
+                    Perkins and Cohen the general guidelines to the National Archives and a
+                    country-specific guideline so they could see what they looked like and report
+                    back to the Committee. This was a one-time effort to demonstrate what the
+                    guidelines were about and to show that they did not affect the selection of
+                    material for the series.</p>
+                <p>Mr. High went on to say that the Department had looked at this issue closely over
+                    a substantial period of time. The decisions set out in the Redman meeting in
+                    June represented a considered decision by Department leadership. The Department
+                    considers the <hi rend="italic">Foreign Relations</hi> series a thoroughly
+                    professional work and that declassification decisions are made in a fully
+                    professional manner. The PA Bureau and the Historian’s Office stand behind the
+                    volumes and the declassification work. Mr. High noted that he was not aware of
+                    any concern within the Historian’s Office about what is being withheld from
+                    publication. The Advisory Committee, then, has several insights into the
+                    declassification process: one is the professionalism of the Department’s staffs,
+                    another is the annual briefing given to the Committee by A/CDC on
+                    declassification. We hope that individually and cumulatively these briefings
+                    will be a very substantial answer to the concerns the Committee has
+                    expressed.</p>
+                <p>Mr. High concluded with the basic message from the Department to the Committee:
+                    We have heard your concerns, we have attempted to address them, we have gone as
+                    far as we can. It is now time to move on to the rest of a pressing agenda
+                    relating to the <hi rend="italic">Foreign Relations</hi> series. He added that
+                    the Department needed the Committee’s advice on a variety of issues. Among these
+                    issues were the question of the utility of microfiche publications, the future
+                    and structure of the <hi rend="italic">Foreign Relations</hi> series, the
+                    efficacy of pre-publication professional review of <hi rend="italic">Foreign
+                        Relations</hi> volumes, and the question of access to unprocessed materials
+                    at Presidential libraries.</p>
+                <p>Professor Hunt initiated the Committee’s response by asking for a copy of the
+                    Committee’s current charter, and he asked for some clarification, which was
+                    provided, of the June meeting with Mr. Redman. Professor Perkins observed that
+                    the professional organizations represented by the Committee would not accept
+                    that its advisory charter was limited to the <hi rend="italic">Foreign
+                        Relations</hi> series. Professor Cook added that she understood from past
+                    Committee chairman Betty Unterberger that the existing charter had established
+                    an advisory role for the Committee that extended to State Department records
+                    retired to the National Archives as well as an oversight responsibility for the
+                        <hi rend="italic">Foreign Relations</hi> series. Mr. High responded that the
+                    Department viewed Committee members as advisers to the <hi rend="italic">Foreign
+                        Relations</hi> series and the Office of the Historian, not to the
+                    declassification staff and the declassification program.</p>
+                <p>Professor Cohen cited the two areas of non-agreement between the Committee and
+                    the Department: the restriction of the purview of the Committee to the <hi
+                        rend="italic">Foreign Relations</hi> series and access to the guidelines for
+                    NARA declassification review. While not abandoning these issues, he noted that
+                    the Committee was prepared to set them aside to concentrate on the pressing
+                    issues confronting the <hi rend="italic">Foreign Relations</hi> series as it
+                    moves into the 1960’s. He noted in passing that the Committee had asked that a
+                    volume dealing with relations with the Soviet Union and Eastern Europe be
+                    included in the declassification briefing, and the volume was not included in
+                    the briefing list. He concluded, however, that he and the Committee felt a new
+                    spirit of cooperation on all issues, and they were generally encouraged.</p>
+                <p>Professor Cook stated that the Committee was interested in problems relating to
+                    the preservation and disposition of State Department documentation at the
+                    Archives, not just declassification. Dr. Slany assured her that the <hi
+                        rend="italic">Foreign Relations</hi> process was archival in its
+                    implications, and PA/HO had an equal interest in the integrity of the files.
+                    Professor Hunt pointed to Mr. High’s statement regarding the professional
+                    standards maintained by the series, and noted that it was the Committee’s
+                    purpose to support and attest to those standards. Professor Cohen noted that in
+                    the past the Committee had not received sufficient information to provide advice
+                    to the scholarly community on the integrity of the series. The A/CDC briefings
+                    will provide information about an area which in the past has concerned the
+                    Committee.</p>
+                <p>Dr. Slany stated that the issue of records policy is so important that PA/HO may
+                    need to focus resources on records issues and work still more closely with
+                    A/CDC, A/FAIM, NARA, and others to achieve more comprehensive planning,
+                    especially for the <hi rend="italic">Foreign Relations</hi> series. Someone in
+                    the Office of the Historian might be assigned responsibility to coordinate such
+                    planning with regard to the documentation involved and the structure of the
+                    volumes. Professor Perkins asked about the kind of planning which underlies the
+                    volumes now. Dr. Slany stated that there is no formal structure; planning is
+                    guided by past experience and the availability of documents in the Department.
+                    Professor Cohen noted that an annual meeting did not allow the Committee to have
+                    the impact it wants especially in the planning process; a continuing dialog was
+                    needed.</p>
+                <p rend="underline">Report by The Historian</p>
+                <p>Dr. Slany referred to his written report on the future of the <hi rend="italic"
+                        >Foreign Relations</hi> series circulated to the Committee in advance of the
+                    meeting. He foresaw the expanded scope and altered contents of the future
+                    volumes that will be used by all levels of readers. It would not be possible to
+                    include complete documentation on important diplomatic developments, but it
+                    would be possible to present information on how and where such developments
+                    could be researched. A volume could include some documents, some explanatory
+                    material, and some apparatus to point toward further research. In essence, the
+                    object was to provide a true documentary history. Biographical information and
+                    an explanation of the structure of the Department at the time could be included.
+                    Dr. Slany stated “we need a great deal of interaction with the scholarly
+                    community and the teaching fraternity” to help decide the future structure of
+                    the volumes. He added that the options remain open; we may have some combination
+                    of printed volumes supplemented with microfiche. Dr. Slany noted,
+                    parenthetically, that the sales of PA/HO’s microfiche publications have been
+                    unexpectedly good. Professor Hunt asked about attempting to survey microfiche
+                    users, and the Committee concluded that it would be difficult to do.</p>
+                <p>Professor Perkins commented on the Historian’s written report. He was encouraged
+                    by the beginning of work on an oral history program and the collection of
+                    historical data on U.S. consuls. He had two requests: (1) a chart showing where
+                    each volume is in the clearance/publication process such as the Committee was
+                    given previously, and (2) a statement of the percentage of material deleted in
+                    the various volumes. He wondered how confident we were that we could reach the
+                    30-year line by 1992; he recognized that we had been held up by NSC delays in
+                    declassification. Dr. Slany said the NSC was currently returning one volume a
+                    month. He thought there was a reasonable prospect that we could hold to the
+                    schedule.</p>
+                <p>Professor Perkins asked if faster NSC declassification meant that less material
+                    was declassified. Dr. Glennon said the problem with the NSC had not been one of
+                    withholding material but of delay. Dr. Slany added that in some cases the NSC
+                    declassified more than other agencies.</p>
+                <p>Professor Cook asked whether PA/HO had a problem of access at the Eisenhower
+                    Library. Dr. Slany said no, except for a few things which were not available or
+                    not processed at the time when we did our research.</p>
+                <p>Professor Cohen asked where the resources were coming from for new projects such
+                    as oral history and the project on consuls, when resources for <hi rend="italic"
+                        >Foreign Relations</hi> were declining. Dr. Slany assured him that these
+                    projects would not be done at the expense of the series; they would attract
+                    money and interest on their own merits.</p>
+                <p>Professor Perkins asked who would do the interviews for oral history. Dr. Slany
+                    indicated that the interviewers would be Foreign Service officers who could
+                    establish rapport and gain the confidence of the interviewees. Professor Dallek
+                    pointed out the great range of quality in oral history interviews; it was
+                    crucial to combine the documentary record with the interview in order to provide
+                    a context. Dr. Slany stated that PA/HO would provide background material and
+                    training for the interviewers and noted how important it was that the
+                    interviewee have confidence in the interviewer. Professor Hunt asked what would
+                    be done with the record of the interview. Dr. Slany replied that the interview
+                    record would be a classified document under the control of the relevant bureau
+                    where the information could be used. Professor Hunt questioned whether under
+                    these circumstances an interview would be likely to elicit comments that were
+                    not already part of the official record. Professor Dallek asked what kind of
+                    restrictions would be placed on access to the interview records. Dr. Herschler
+                    replied that they would be official records, subject to the FOIA. Dr. Slany
+                    added that the records of interviews would become part of the Department’s
+                    historical records and eventually be included in <hi rend="italic">Foreign
+                        Relations</hi> volumes.</p>
+                <p rend="underline">Future of the <hi rend="italic">Foreign Relations</hi>
+                    Series</p>
+                <p>Professor Cohen stated that the Committee would now turn to the question of the
+                    future of the <hi rend="italic">Foreign Relations</hi> series. Professor Hunt
+                    noted that he had just read the 1961 Vietnam volume, which was excellent. He
+                    assumed it would be a model for the future of the series. The White House
+                    documents in the volume underlined the importance of that material and the fact
+                    that the White House had become the focus of policymaking. Professor Perkins
+                    asked if that was a universal truth; Dr. Slany replied that it depended on the
+                    issue.</p>
+                <p>Professor Dallek pointed out the danger of becoming focused entirely on White
+                    House documents. He suggested breaking away from the geographic organization of
+                    the series and organizing it around important issues or episodes in Presidential
+                    administrations and including in it State Department, White House, and
+                    other-agency documentation. Planning the volumes would be very important, and
+                    the Committee’s advice and that of area specialists would be valuable.</p>
+                <p>Professor Dallek also cautioned regarding the use of historical narratives, which
+                    were bound to be colored by the author’s viewpoint. PA/HO should be the
+                    presenter of the record rather than the interpreter of it. Inclusion of
+                    guidances or “signposts” to groups of records would be valuable, however.
+                    Professor Perkins agreed that the inclusion of narratives would be a very
+                    “dubious experiment.” Interpretation should be avoided, and a cursory narrative
+                    would not be useful. A statement of the major issues with respect to a
+                    particular country in a given time period with a guide to the files would be
+                    acceptable. Dr. Slany pointed out that we already did some of that in the
+                    editorial notes in already-published volumes and in summary accounts of the
+                    contents of volumes prepared at the time they are released.</p>
+                <p>Professor Hunt pointed out that the 1961 Vietnam volume included some synopses of
+                    this nature. Professor Cohen asked if that volume represented what Dr. Slany had
+                    in mind. Dr. Slany replied that the Vietnam volume had a broader range of
+                    documents than previous volumes. Professor Hunt acknowledged that Vietnam was a
+                    special case but thought the series should continue its fundamental geographic
+                    organization. He suggested, as an example, a Latin America volume focusing on
+                    the Alliance for Progress with bibliographic guidance on bilateral relations
+                    with countries of the area. Professor Dallek observed that documentation was
+                    often geared to crises, which have ramifications in other areas. The volumes
+                    would therefore need guides to other sources of material. Professor Hunt pointed
+                    out that the national security volume provided some overview. Professor Perkins
+                    observed that some of these questions could not be answered in principle but
+                    only in detail.</p>
+                <p>In response to a question by Professor Cohen, Drs. Slany and Glennon stated that
+                    including brief synopses with bibliographic guidance would not inherently
+                    increase clearance problems. Professor Dallek concluded that a consensus
+                    regarding the topics to be included in <hi rend="italic">Foreign Relations</hi>
+                    volumes was necessary prior to compilation.</p>
+                <p>Professor Hunt raised the question of the audience of the <hi rend="italic"
+                        >Foreign Relations</hi> series. Professor Cohen pointed out that the volumes
+                    were an important research tool for students and that, for that purpose,
+                    documents were more important than bibliographical guidance to files in the
+                    Archives. Professor Perkins asked how PA/HO viewed its audience. Dr. Slany
+                    listed Department officials, scholars, students, and readers in countries
+                    outside the United States that have no foreign affairs documentary publications.
+                    Professor Cohen noted that the volumes were very important in countries such as
+                    China. Professor Cook pointed out that journalists constituted another
+                    audience.</p>
+                <p>Professor Dallek suggested publishing the bibliographical material in microfiche.
+                    Dr. Slany replied that such material would not constitute more than 10 percent
+                    of a volume; microfiche would be reserved for additional documentation. Dr.
+                    Smith interjected that an integrated print and microfiche publication opened up
+                    opportunities for compilers to include more documents. Professor Dallek
+                    supported this, suggesting placing documentation on minor countries in the
+                    fiche. Dr. Glennon said we were already doing this.</p>
+                <p>Professor Perkins stressed the importance of printing substantial collections of
+                    documents on major subjects, even though this raised difficult choices in
+                    selecting the topics. He preferred printing “thick documentation” on subjects
+                    such as the Cuban missile crisis and consigning some subjects to the fiche
+                    rather than printing shallow documentation on everything.</p>
+                <p>There was further discussion of the question of the organization of the volumes
+                    and of the projected list of volumes for 1961-1963. Dr. Mabon pointed out that
+                    some volumes were structured around issues more than would appear from the brief
+                    list of volume titles. The Southeast Asia volume, for example, would focus
+                    largely on the Laos crisis, but the organizational details could only be worked
+                    out in the course of research on the volume.</p>
+                <p>Professor Hunt stated that the key questions were: what did the President decide,
+                    on the basis of what information did he make the decision, and what impact did
+                    those decisions have. He thought the volumes should not merely document the
+                    Presidential decisions but include the input preceding the decisions and the
+                    effects they had. He thought that rather than publishing bibliographical
+                    information in microfiche, it would be better to include more documents in
+                    microfiche.</p>
+                <p>Professor Dallek inquired about records of the FBI and the Department of Justice;
+                    would bibliographical material regarding these, for example, be included? George
+                    Chalou of NARA pointed out that NARA had a 2-volume guide to FBI records and
+                    that some of those records were being transferred to the Archives. The
+                    suggestion was made for a separate volume with bibliographical material, but Dr.
+                    Glennon thought such a volume could be held up in clearance because of a handful
+                    of sensitive files. Both Professors Hunt and Cohen preferred to integrate the
+                    bibliographic information into the documents in the volume.</p>
+                <p>The meeting adjourned at 11:45 a.m. for lunch.</p>
+                <p rend="center"><hi rend="underline">Thursday Luncheon Meeting</hi></p>
+                <p rend="underline">Participants:</p>
+                <p>Committee members:</p>
+                <list>
+                    <item>Professor Cohen, Chairman</item>
+                    <item>Professor Cook</item>
+                    <item>Professor Dallek</item>
+                    <item>Professor Hunt</item>
+                    <item>Professor Perkins</item>
+                </list>
+                <p>Office of the Historian:</p>
+                <list>
+                    <item>Dr. Slany</item>
+                    <item>Dr. Glennon</item>
+                    <item>Dr. Herschler</item>
+                </list>
+                <p>National Archives and Records Administration:</p>
+                <list>
+                    <item>Mr. Langbart</item>
+                </list>
+                <p>The Advisory Committee held a working luncheon meeting at the Garden Restaurant,
+                    12:15 - 1:30 p.m.</p>
+                <p>At this meeting, Mr. Langbart, an officer of the Records Appraisal and
+                    Disposition Division of the National Archives and Records Administration,
+                    briefed the Committee on the status of efforts to identify, appraise, and
+                    preserve the decentralized records of the Department of State.</p>
+                <p>Mr. Langbart outlined his responsibilities as a records appraiser and the
+                    regulations governing the authorities and duties of the National Archives and
+                    the Department in the disposition of Department records. He also briefly
+                    described the organizational units within NARA concerned with Department
+                    records, including the Washington National Records Center and the archival
+                    custodial unit holding accessioned Department records. He then delineated the
+                    emergence of Department lot files (that is, special, decentralized retired
+                    office or bureau records) and their relationship to the Central Foreign Policy
+                    File in the period since World War II. He described the efforts made, often
+                    unsuccessful, to manage the lot file system in the Department and the pressure
+                    which the vast increase in paper documentation placed on recordkeepers in the
+                    Department. This pressure required some restraints on the growth of lot files
+                    and led to their screening (and sometimes destruction), at times at the
+                    unfortunate expense of unique and important sources.</p>
+                <p>Mr. Langbart pointed out that through the cooperative efforts of the Historian’s
+                    Office, NARA, and the Department records managers (A/FAIM), certain categories
+                    of lot files that may be archival and may constitute unique, substantive,
+                    self-contained collections of documents relating to significant offices,
+                    functions, people, and events will be exempt from the screening process and
+                    preserved intact until they can be properly reviewed by Department historians
+                    and appraised by NARA. Such categories of records include the non-housekeeping
+                    files of the Department’s principals controlled by the Executive Secretariat;
+                    records of the Policy Planning Staff; records of bureau and office chiefs;
+                    records of inter- and intra-departmental committees, working groups, and task
+                    forces; records of individuals and offices concerning specific, substantive,
+                    unique functions, events, or issues; crisis files; non-housekeeping records of
+                    the Bureau of Intelligence and Research; and other specialized collections.</p>
+                <p>The presentation emphasized the need for continued cooperation between the
+                    National Archives and the Department to ensure the proper identification,
+                    preservation, and accessioning of the Department’s diverse files if researchers
+                    in the future will have access to a comprehensive and accurate historical
+                    record.</p>
+                <p rend="center"><hi rend="underline">Thursday Afternoon Session (Closed)</hi></p>
+                <p rend="underline">Committee Members Present:</p>
+                <list>
+                    <item>Professor Cohen (Chairman)</item>
+                    <item>Professor Cook</item>
+                    <item>Professor Dallek</item>
+                    <item>Professor Hunt</item>
+                    <item>Professor Perkins</item>
+                </list>
+                <p rend="underline">Others Present:</p>
+                <p>Bureau of Public Affairs (PA)</p>
+                <list>
+                    <item>Mr. High, Acting Assistant Secretary</item>
+                </list>
+                <p>The Office of the Historian (PA/HO):</p>
+                <list>
+                    <item>Dr. Slany, The Historian</item>
+                    <item>Dr. Glennon, Chief, Foreign Relations Division Chief</item>
+                    <item>Ms. Baker</item>
+                    <item>Ms. Futscher</item>
+                    <item>Ms. Golden</item>
+                    <item>Dr. Herschler</item>
+                    <item>Dr. Keefer</item>
+                    <item>Dr. Mabon</item>
+                    <item>Dr. Noring</item>
+                    <item>Dr. Patterson</item>
+                    <item>Dr. Sampson</item>
+                    <item>Dr. Sanford</item>
+                    <item>Dr. Schwar</item>
+                    <item>Dr. Smith</item>
+                    <item>Dr. Wells</item>
+                </list>
+                <p>Center for Classification/Declassification (A/CDC):</p>
+                <list>
+                    <item>Dr. Bovis, Acting Director</item>
+                    <item>Mr. Morefield, Chief, Office of Systematic Review</item>
+                    <item>Mr. Charles Flowerree</item>
+                    <item>Mr. Sidney Sober</item>
+                    <item>Mr. Theodore Tremblay</item>
+                </list>
+                <p>Office of the Assistant Secretary of State for Management Policy (M/MP):</p>
+                <list>
+                    <item>Ms. Tait</item>
+                </list>
+                <p>Professor Cohen convened the meeting at 2 p.m. and called on Mr. Morefield to
+                    conduct the A/CDC briefing of the Committee.</p>
+                <p rend="underline">Mr. Morefield’s Comments</p>
+                <p>Mr. Morefield began by saying that A/CDC was in the process of reorganization.
+                    A/CDC’s role began after the <hi rend="italic">Foreign Relations</hi> volumes
+                    were compiled by PA/HO historians. A/CDC served as the representative of
+                    Department bureaus to obtain clearance of State Department documents and also
+                    obtained clearances from other agencies.</p>
+                <p>He distributed a List of Executive Orders involved in classification and a
+                    Checklist of Exemption Citations.</p>
+                <p>Mr. Morefield mentioned three constant guidelines A/CDC uses:</p>
+                <list>
+                    <item>1) In an open society decisions on access were based on the right to know
+                        and the need to know;</item>
+                    <item>2) The decision to withhold information included periodic review of those
+                        decisions;</item>
+                    <item>3) Within the concept of “need to know”, A/CDC must find the person with
+                        the authority to declassify the information.</item>
+                </list>
+                <p>Professor Perkins asked how “need to know” was defined. Mr. Morefield responded
+                    that the person who classifies decided who has the “authority” to make the
+                    decision; these presumptions can be overcome when circumstances changed. The
+                    basic question was, is there now a need to protect? Mr. Morefield asked, based
+                    on the list of cleared volumes, which volumes the Committee would like reviewed
+                    next year.</p>
+                <p>[The classified briefing by A/CDC reviewers followed.]</p>
+                <p>Professor Cohen thanked the A/CDC members for their briefing. He remarked that it
+                    had been a good discussion which gave the Committee additional insights into
+                    A/CDC’s role in the preparation of <hi rend="italic">Foreign Relations</hi>
+                    volumes.</p>
+                <p rend="underline">Access to Documents in Presidential Libraries</p>
+                <p>Dr. Slany opened the discussion, stating that the present slow rate at which the
+                    John F. Kennedy and Lyndon B. Johnson Libraries were processing documents for
+                    their respective administrations threatened to delay the accelerated compilation
+                    of the post-1960 period. He added that an $18,000 Department subvention in FY
+                    1988 to facilitate processing at the Kennedy Library had not yielded results
+                    commensurate with the outlay. He said Dr. Stanley Katz, President of the
+                    American Council of Learned Societies, had suggested that the Department and the
+                    National Archives jointly establish a “Friends of <hi rend="italic">Foreign
+                        Relations</hi>” committee to solicit funds from major foundations to enable
+                    Presidential libraries to accelerate the opening up of their records to
+                    research. Dr. Herschler stated that the job would cost approximately $600,000
+                    over 4 or 5 years. Dr. Slany added that, without an improvement, <hi
+                        rend="italic">Foreign Relations</hi> compiling could not achieve the 30-year
+                    line called for by President Reagan.</p>
+                <p>In response to a question from Professor Cook about the possibility of sending a
+                    State Department historian to research unprocessed materials, Dr. Slany advised
+                    her that official historians did not have access to unprocessed material and
+                    that the libraries would each need one or two people to work full time to solve
+                    the problem. He added that the Archivist of the United States, Don W. Wilson,
+                    was aware of the problem and was exploring various solutions. The key to the
+                    issue was for the Archivist to find a way to reapportion scarce NARA resources
+                    and meet the special needs of the Presidential libraries. Dr. Herschler pointed
+                    out that a new archivist at a Presidential library would require a year or more
+                    to be fully cleared and trained. Dr. Slany stated that he wished to enlist the
+                    Advisory Committee’s advice and support both in its capacity as a committee and
+                    through the associations that it represents.</p>
+                <p>Professor Dallek suggested that members of the Committee talk to people connected
+                    with the libraries who he believed would be sympathetic to accelerating records
+                    processing. He specifically mentioned Nancy Smith, David Humphrey, and LBJ
+                    Library Director Harry Middleton. He added that the pre-Presidential LBJ records
+                    were now almost completely available to the public. He asked about the
+                    possibility of foundation funds earmarked for the development of oral history
+                    being shifted to records processing and declassification. Dr. Slany responded
+                    that the Presidential libraries would have to be persuaded that document
+                    processing was a higher priority. Professor Hunt suggested that Professor Cohen
+                    should express his concern to the libraries on behalf of the Committee.
+                    Professor Cook added that the Eisenhower Library was initially slow in
+                    processing its records until outside pressure had been brought to bear.</p>
+                <p>Professor Hunt asked whether the National Archives would suffer if <hi
+                        rend="italic">Foreign Relations</hi> were not published; whether, for
+                    example, the possibility of not receiving State Department records as a result
+                    of a slowdown would offer an incentive for the Archivist to speed the processing
+                    of Presidential library documents. Professor Perkins asked whether people could
+                    be moved from the older Presidential libraries where the processing had
+                    presumably been done to the more recent ones. Professor Cook expressed doubt
+                    that there were people to spare. She noted that the Eleanor Roosevelt papers had
+                    still not been processed at the FDR Library.</p>
+                <p>Professor Cohen then asked for the names of people to contact. Dr. Slany
+                    responded that Don Wilson and John Fawcett, Assistant Archivist for Presidential
+                    Libraries, were the most important since they determined the apportionment of
+                    resources to the Presidential library system. Professor Dallek suggested that
+                    prominent scholars of the Kennedy period such as Arthur Schlesinger and Theodore
+                    Sorenson, and Senator Ted Kennedy be asked to support the need for accelerated
+                    access to materials at the JFK Library.</p>
+                <p>Dr. Smith pointed out that part of the problem was the libraries’ difficulty in
+                    hiring cleared individuals to process classified materials. He recalled the
+                    difficulty experienced at the JFK Library to find someone who was cleared to
+                    work on materials requested by PA/HO researchers. Professor Cohen then asked, if
+                    this were the case, whether the Advisory Committee could do anything. Dr. Slany
+                    emphasized his hope that the Advisory Committee would explain and support the
+                    requirements of the Historian’s Office. Perhaps the Department might have to
+                    strike a deal whereby PA/HO historians would somehow assist in processing the
+                    material in return for access. Dr. Smith stated that access by Department
+                    historians to unprocessed materials could significantly assist Library personnel
+                    to process documents of special historical interest. He noted that in his last
+                    research trip to the JFK Library, he and the archivist had worked together to
+                    bring about the processing of a particularly important collection. Dr. Slany
+                    stated that it would nevertheless be more effective to provide the Library with
+                    the resources it needed to do the job. In response to a suggestion by Professor
+                    Cook that a Department historian be assigned to do the processing, Dr. Slany
+                    said that such an arrangement might arouse the concerns of other agencies who
+                    would discern favoritism and inequity.</p>
+                <p>Professor Perkins said that the key to progress on the processing issue was to
+                    get foundation funding for it. Dr. Slany said that PA/HO and the National
+                    Archives were formulating a joint proposal. The Department could not legally
+                    accept foundation or private funding, but the National Archives could through
+                    its Trust Fund. In any case, any private funding would not be for compiling but
+                    for processing files at the Presidential libraries. Professor Cohen concluded by
+                    saying that the Advisory Committee would send a letter to Dr. Wilson and asked
+                    The Historian to provide necessary information.</p>
+                <p rend="underline">Report on the U.S. Consular Project</p>
+                <p>Dr. Slany explained the U.S. consular project, based on the unique historical
+                    consular card file housed in the Historian’s Office, and stated that his
+                    ultimate goal was to stimulate and facilitate some serious history of the U.S.
+                    consular service and American foreign policy. He said he hoped to find a method
+                    to collate the information contained in the card file about where the consular
+                    officers served with information about their publications and papers. He wished
+                    to explore with the Committee his idea for a conference on consular history.
+                    This conference of diplomatic historians and others interested in consular
+                    history would be convened to advise him on what should be done with the data on
+                    consular officials already obtained by PA/HO and on how best to make it
+                    available to researchers.</p>
+                <p>Professor Hunt asked what was the rationale for spending more money on the
+                    consular project and what the cost would be. Dr. Slany replied that the
+                    information about consular officials and their posts had been inaccessible in
+                    the past since it remained in PA/HO in the form of several thousand 8" x 12"
+                    cards. It should, therefore, be made available to researchers in order that more
+                    could be learned about those individuals who laid the foundation for U.S.
+                    foreign policy. He said it would cost $30-40,000 to put the data already
+                    obtained in a database management system. He said a small portion of the work
+                    was already done and that he could bring someone in on contract to complete the
+                    task.</p>
+                <p>Professor Hunt reported that one of his Ph.D. students had done his dissertation
+                    on U.S. chiefs of diplomatic missions and principal officers at major consular
+                    posts during the 1890s. This student had found there was little scholarly
+                    interest in consuls per se. Professor Hunt questioned whether a further
+                    expenditure of that amount was worth the effort.</p>
+                <p>Dr. Slany explained that he believed it very important to have insight into
+                    another dimension of foreign relations and that there was a need to make the
+                    information already collected available to researchers. He said the guide to
+                    manuscripts was valuable. When asked about the final product, he said the data
+                    about these officials would be available in a digital database.</p>
+                <p>Professor Cook said this project was “really important” as it provided “another
+                    world view.” While Professor Dallek remarked that some may see it as “quaint,”
+                    Professor Perkins said it would be used selectively by area specialists.
+                    Professor Cohen stated that it was the consensus of the Committee that this
+                    consular project was important and worth considering. Regarding a conference, he
+                    said it would be useful to have a broader range of opinion to consider whether
+                    the arrangement of the tranche of information presented by PA/HO is useful and
+                    suggested directors of graduate schools be invited to the Department for a
+                    briefing.</p>
+                <p>The session adjourned at 4:30 p.m.</p>
+                <p rend="center"><hi rend="underline">Friday Morning Session (Closed)</hi></p>
+                <p rend="underline">Committee Members Present:</p>
+                <list>
+                    <item>Professor Cohen (Chairman)</item>
+                    <item>Professor Cook</item>
+                    <item>Professor Dallek</item>
+                    <item>Professor Hunt</item>
+                    <item>Professor Michel Oksenberg</item>
+                    <item>Professor Perkins</item>
+                </list>
+                <p rend="underline">Others Present:</p>
+                <p>Professor J.C. Hurewitz, Columbia University</p>
+                <p>Bureau of Public Affairs (PA)</p>
+                <list>
+                    <item>Mr. High, Acting Assistant Secretary</item>
+                </list>
+                <p>The Office of the Historian (PA/HO):</p>
+                <list>
+                    <item>Dr. Slany, The Historian</item>
+                    <item>Dr. Glennon, Chief, Foreign Relations Division</item>
+                    <item>Ms. Baker</item>
+                    <item>Ms. Futscher</item>
+                    <item>Dr. Herschler</item>
+                    <item>Dr. Howland</item>
+                    <item>Dr. Keefer</item>
+                    <item>Dr. Mabon</item>
+                    <item>Dr. Noring</item>
+                    <item>Dr. Patterson</item>
+                    <item>Ms. Robinson</item>
+                    <item>Dr. Sampson</item>
+                    <item>Dr. Schwar</item>
+                </list>
+                <p>Center for Classification/Declassification (A/CDC):</p>
+                <list>
+                    <item>Dr. Bovis, Acting Director</item>
+                    <item>Mr. Morefield, Chief, Office of Systematic Review</item>
+                    <item>Mr. Sober</item>
+                </list>
+                <p>Office of the Assistant Secretary of State for Management Policy (M/MP):</p>
+                <list>
+                    <item>Ms. Tait</item>
+                </list>
+                <p>Professor Cohen convened the session at 9:05 a.m., and introduced J.C. Hurewitz,
+                    Emeritus Professor of History at Columbia University, to provide a
+                    pre-publication review of <hi rend="italic">Foreign Relations</hi>, 1955-1957,
+                    volumes XIV and XV, Arab-Israeli Dispute through July 1956. (The volumes are
+                    scheduled for publication in the spring of 1989.)</p>
+                <p>Professor Hurewitz warmly complimented the editors of the two volumes he had
+                    reviewed. He emphasized the accuracy and completeness of the foreign affairs
+                    record presented in the volumes and assured the Committee that the American
+                    record of the Arab-Israeli dispute was fully and accurately documented. Although
+                    he considered himself highly knowledgeable about the events of 1956 and 1957, he
+                    had learned many new details in reviewing the volumes and he intended to include
+                    some of them in his own current research.</p>
+                <p>Professor Hurewitz reminded the Committee that the <hi rend="italic">Foreign
+                        Relations</hi> volumes under discussion only presented the American role in
+                    the Arab-Israeli dispute and the actions of Britain and France against Egypt.
+                    This limitation could not be held against the Department or the editors of the
+                    series. The editors had done their job well and the results were volumes of
+                    solid scholarship. Professor Hurewitz emphasized, however, that serious students
+                    and researchers would not be content with the official American view of these
+                    events, and they would have to seek the wider historical context elsewhere. It
+                    was necessary for the serious scholar to be aware of the broader range of
+                    historical events as well as to consult foreign government documents, especially
+                    British, but also Israeli and Egyptian sources. U.S. policy was more reactive
+                    than it appeared in the two volumes. In reply to Professor Hunt’s question,
+                    Professor Hurewitz said that it was not necessary to include or refer to all
+                    these materials in the volumes. The job of the editors of <hi rend="italic"
+                        >Foreign Relations</hi> volumes was to show how the United States got
+                    involved in significant events, how U.S. officials saw their responsibilities,
+                    and how they carried them out. The volumes could not be faulted in this
+                    respect.</p>
+                <p>Professor Hurewitz described the three main themes of volume XIV, all of which
+                    were related to British initiatives: (1) Alpha, a major U.S.-U.K. peace
+                    initiative to resolve the Arab-Israeli dispute; (2) the Soviet-Egyptian arms
+                    deal; and (3) the decision to build the Aswan Dam.</p>
+                <p> After providing some historical background on these three themes, Professor
+                    Hurewitz noted most of this background could not be obtained from the two
+                    volumes. Professor Hurewitz emphasized that while the <hi rend="italic">Foreign
+                        Relations</hi> volumes made an important contribution, they did not provide
+                    the full historical picture, and he cited some recent and forthcoming
+                    publications on the Suez question.</p>
+                <p>Professor Hurewitz then took up a few specific points. He said the volumes lacked
+                    three British memoranda of conversations between Francis Russell and Evelyn
+                    Shuckburgh, which were important for an accurate record. These memoranda were
+                    available in the Public Record Office and ought to be included, if possible, in
+                    the volume. Professor Perkins observed that he thought it was placing too much
+                    responsibility on the compilers to have them search foreign materials. Dr. Slany
+                    said that in some vital instances, compilers should and did concern themselves
+                    with foreign records.</p>
+                <p>There was some discussion about the need of the Department to restrain the size
+                    of <hi rend="italic">Foreign Relations</hi> volumes, and the inability of
+                    Department historians to provide complete details on all interesting issues.
+                    Microform supplements were being looked to as a means of providing users with
+                    more details than could be included in present volumes. Professor Hurewitz made
+                    a personal plea that the <hi rend="italic">Foreign Relations</hi> series
+                    continue to provide full coverage of the details relating to major crises in
+                    print volumes. He noted the difficulties in using microfiche.</p>
+                <p>Professor Hurewitz offered the Committee some personal views on how to enlist
+                    wider support for the publication of the <hi rend="italic">Foreign
+                        Relations</hi> series. Because it was in the U.S. interest to publish this
+                    record, he felt that Congress should become involved. Official CIA documentation
+                    also should be pursued, in order to counterbalance fragmentary, inaccurate, and
+                    often self-serving memoirs.</p>
+                <p>Professor Hurewitz suggested that for accuracy the running head for one of the
+                    topics be extended beyond the pages it presently covers, and that the title for
+                    one of the sections be changed to describe more correctly what occurred. He also
+                    noted that the volumes did not contain the first conversation of the Anderson
+                    mission and that messages numbered 3-12 were omitted. Dr. Nina Noring pointed
+                    out that some of the missing and unaccounted for numbered cable messages dealt
+                    with administrative matters (scheduling of planes and meetings) and that the
+                    volume did present the complete set of the Anderson discussions. Dr. Slany
+                    assured the Committee that the volume would provide editorial explanations that
+                    would allay confusion about such omitted documents.</p>
+                <p>The Committee posed a number of questions relating to pre-publication review. At
+                    what stage would it be useful to have this kind of review? Dr. Slany said that
+                    it might be possible to insert it earlier in the process of preparing a volume,
+                    but that would require obtaining security clearances. He said that if egregious
+                    omissions or errors were found in a volume at pre-publication review, changes
+                    could be made. Dr. Hurewitz noted that with computerized printing adjusting a
+                    volume was not as difficult as it once was. Mr. Slany pointed out that PA/HO
+                    operated on a slim margin, budget-wise.</p>
+                <p>Professor Hurewitz also made to the Committee a recommendation that the original
+                    document classifications, which had once appeared beneath the heading and were
+                    now included in a footnote, be restored. Because the classification said so much
+                    about a document, it should be highlighted. Professor Cook felt that prominent
+                    identification of the original classification of documents was very
+                    important.</p>
+                <p>After additional discussion, Professor Cohen noted that there were several stages
+                    at which pre-publication review might take place: a general discussion by
+                    specialists in the area or topic of issues and subjects prior to undertaking
+                    compilation, or the pre-publication review of the completed volume. Neither
+                    review would involve classified records or require special security
+                    clearances.</p>
+                <p>Professor Oksenberg made some observations concerning any pre-publication review
+                    process for the series. The earlier an expert entered the process, the more the
+                    final product would be trusted among the academic community. There was a danger
+                    that the volume as eventually published could become identified with a
+                    particular academician and his or her particular conception of the subject
+                    matter. This could affect the perceived objectivity of the volume. Professor
+                    Dallek expressed some agreement with this formulation. Professor Cohen appeared
+                    to see no serious danger in a review process involving outside experts, but
+                    noted that another scholar would have given a much different interpretation of
+                    the period than had Professor Hurewitz.</p>
+                <p>Professor Oksenberg went on to say that Professor Hurewitz had identified an
+                    inherent limitation of the series by pointing to the existence of relevant
+                    foreign government documents that were not included in the <hi rend="italic"
+                        >Foreign Relations</hi> volumes. He asked if Professor Hurewitz thought
+                    there were any missing, easily declassifiable documents of which he had
+                    knowledge, and whether he thought the omission of denied material had resulted
+                    in distortion. Professor Hurewitz replied that the questions assumed he had full
+                    knowledge, which he didn’t. From what he knew of the subject, he “could live
+                    with these two volumes.” He expressed regret that U.S. documentation did not
+                    come out on a regular basis compared to the British practice of opening records
+                    at the Public Record Office after 30 years. He questioned the need for a
+                    triennium and noted that declassification of the first year was held up until
+                    declassification of the last year.</p>
+                <p>Professor Cohen commented that the key point was whether something was hidden. An
+                    outsider could not add credibility to the series, but could only determine
+                    whether publicly-known things were left out. Professor Cook noted that the
+                    Committee had already been told that covert matters were omitted. Professor Hunt
+                    asked Professor Hurewitz whether he thought, from his knowledge of public
+                    disclosures of U.S. covert activities of the period, that the volumes gave an
+                    adequate sense of the CIA role. Professor Hurewitz replied that they did not. He
+                    acknowledged and agreed with the CIA desire to protect names and methods, but
+                    thought the substance of such material should be included. He used as an example
+                    of what he would find interesting a statement by Allen Dulles to the National
+                    Security Council that indicated that the Soviet-Egyptian connection on armaments
+                    began in March 1955. Professor Hurewitz would like to see the reporting on which
+                    Dulles’ statement was based. He was not interested in the names of agents or the
+                    methods, but there was information in this area he would be happy to see.</p>
+                <p>Professor Cohen then raised the question of whether there should be a disclaimer
+                    in the volumes, so that students would not be misled that they were getting the
+                    whole story. Dr. Slany thought that prefaces to volumes could include a more
+                    precise statement on the series. Professor Cook suggested a printed bracketed
+                    note at the location of denied documents, indicating an omission. Dr. Slany said
+                    that her proposal had been suggested but had proved to be not feasible. Specific
+                    disclaimers would be unacceptable to the CIA and other agencies. He noted that
+                    bibliographic apparatus in the reshaped <hi rend="italic">Foreign Relations</hi>
+                    volumes of the future would make users more aware of the omissions in the
+                    series.</p>
+                <p>Professor Oksenberg asked whether PA/HO had ever confronted a situation where the
+                    denial of material had created a serious distortion. Dr. Slany replied that this
+                    had happened in the case of <hi rend="italic">Foreign Relations</hi>, 1952-1954,
+                    volume IV, which included documentation on the overthrow of the Arbenz regime in
+                    1954 in Guatemala. The Historian’s Office decided, after careful and even
+                    painful evaluation of options, to publish the volume because it was more
+                    important to publish -- with the incomplete Guatemala story -- rather than keep
+                    the entire volume out of the public’s hands. Mr. Sober pointed out publication
+                    of the 1952-1954 volume on Iran had been held up due to the current tensions in
+                    U.S.-Iranian relations rather than because covert activities were
+                    documented.</p>
+                <p>Professor Cohen explained that the Committee’s meeting with Mr. High had been
+                    moved forward and would take place at 11:00 a.m. Further discussion on the
+                    future of the <hi rend="italic">Foreign Relations</hi> series, which had been
+                    scheduled for the late morning, would take place at lunch.</p>
+                <p>The session adjourned at 10:47 a.m.</p>
+                <p rend="center"><hi rend="underline">Friday Luncheon Meeting</hi></p>
+                <p rend="underline">Participants:</p>
+                <p>Committee members:</p>
+                <list>
+                    <item>Professor Cohen, Chairman</item>
+                    <item>Professor Cook</item>
+                    <item>Professor Dallek</item>
+                    <item>Professor Hunt</item>
+                    <item>Professor Oksenberg</item>
+                    <item>Professor Perkins</item>
+                </list>
+                <p>Office of the Historian:</p>
+                <list>
+                    <item>Dr. Slany</item>
+                    <item>Dr. Glennon</item>
+                    <item>Dr. Herschler</item>
+                </list>
+                <p>The Advisory Committee convened its working luncheon meeting at noon in the
+                    Department’s Buchanan Dining Room. Discussion at the luncheon centered on the
+                    redefinition of the content, scope, and format of the <hi rend="underline"
+                        >Foreign Relations</hi> series for the 1961-1963 triennium.</p>
+                <p>Professor Dallek restated his earlier comment that the volume of records,
+                    especially the preponderance of key documents at the Presidential libraries and
+                    in other collections outside the Department, made necessary the organization of
+                    the series around key issues, with the most important documents published in the
+                    print volume, other selected documentation published in microfiche, and gaps in
+                    the historical record filled by narratives providing a comprehensive guide to
+                    the full record.</p>
+                <p>Professor Perkins argued that the series would be less useful to readers if the
+                    texts of documents in the print volume were replaced by narrative, although he
+                    recognized that some narrative or at least bibliographic description would be
+                    necessary to compensate for the gaps in documentation. Dr. Slany explained that
+                    the narrative summaries and guide to the full record was not meant to replace
+                    the texts of documents, but were essential because the series could no longer
+                    publish as large a part of the full record as in the past. Professor Cohen
+                    expressed agreement with this principle, and this seemed to be the general sense
+                    of the Committee. Professor Cohen asked Dr. Slany to prepare a mock-up of what a
+                    new-style volume might look like so the Committee might better understand the
+                    proposed changes in focus and content.</p>
+                <p>Professor Hunt again expressed his satisfaction with the Vietnam 1961 volume and
+                    thought it might be used in some ways as a prototype for the rest of the
+                    triennium, particularly because of the breadth of sources and the expanded
+                    bibliographical apparatus. There was some discussion of the role of microfiche
+                    for these volumes. While some Committee members seemed willing to accept the use
+                    of microfiche to publish larger numbers of documents, there was no clear
+                    consensus on how the fiche and print volumes should be organized. Professor Hunt
+                    stated that Committee members might be able to provide some direction for the
+                    1961-1963 triennium after they had an opportunity to examine a combined print
+                    and microfiche volume. Dr. Glennon reported that the 1958-l960 Latin America
+                    volume, which was likely to be the first to be cleared, might provide the
+                    Committee useful insight.</p>
+                <p>Professor Hunt asserted that the current plan for the 1961-1963 triennium
+                    reflected a focus on issues, rather than the traditional geographic
+                    organization, citing the Berlin Crisis and National Security volumes -- in
+                    addition to the Vietnam publication -- as examples. Professor Dallek thought all
+                    the volumes ought to focus on issues rather than concentrate on particular
+                    issues highlighted within a “geographic” volume. He argued that, in light of the
+                    heavy concentration of foreign policy documentation in the White House, the
+                    series should reflect not only key international events but also the domestic
+                    political factors influencing U.S. foreign policy. Professor Oksenberg cautioned
+                    that a radical departure in format of the volumes might have a negative impact
+                    on the series’ readership, which for decades had seen the consistent publication
+                    of volumes according to geographic orientation, with the exception of “special”
+                    volumes, such as the World War II conferences. He wondered if the future
+                    compilations in the series could somehow focus on major issues without
+                    abandoning the traditional organization of the volumes.</p>
+                <p>Professor Cohen thought the Committee should provide advice on the issues to be
+                    presented in the print volumes. He inquired whether the list of volumes for
+                    1961-1963 could be expanded to include a detailed table of contents for each
+                    volume which would indicate the topics being documented. On the basis of such
+                    information, the Committee could propose areas and topics of emphasis or suggest
+                    additional issues. Dr. Glennon said that his staff had prepared a draft which
+                    could be made available to the Committee, although it would have to be revised
+                    in light of the refocus of the triennium on issues. Dr. Slany said that the
+                    Office would prepare this and send it out to the Committee as soon as
+                    possible.</p>
+                <p>The luncheon meeting adjourned at 1:15, and the participants returned to Room
+                    5531 for a brief review of the action items PA/HO and the Committee had agreed
+                    to undertake.</p>
+                <p>Professor Cohen requested that PA/HO provide him with a list of names and titles
+                    of individuals to be contacted by the Committee and their representative
+                    organizations to expedite the processing of materials at the Presidential
+                    libraries. He also restated his request for the detailed table of contents for
+                    the 1961-1963 triennium that had been discussed during the luncheon.</p>
+                <p>After brief discussion, the Committee indicated a desire to be briefed by A/CDC
+                    at the next Committee meeting on the 1951-1954 Iran and 1955-1957 National
+                    Security volumes, as well as the 1955-1957 volume containing the USSR
+                    compilation. Professor Cohen thought that he and other Committee members might
+                    come to Washington in the spring to continue and expand the dialog with the
+                    Historian’s Office and other Department officials, and asked Dr. Slany to
+                    provide travel orders and other pertinent information.</p>
+                <p>As to the preparation of the Committee report, Professor Cohen said that he
+                    expected to have the report written during January and delivered to the
+                    Department in February. He requested Committee comments by the end of December.
+                    Dr. Slany said that the Minutes of the meeting would be sent to Professor Cohen
+                    as soon as possible.</p>
+                <p>The meeting of the Advisory Committee was adjourned at 1:45 p.m.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

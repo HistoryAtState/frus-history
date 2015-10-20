@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Summary of Unofficial Meeting Between HAC Members and
+                    Department Officials, July 1990</title>
+                <title type="short">Unofficial HAC Meeting, 1990</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-06-02">June 2, 2014</date>
+                <date type="created" when="1990-07-23">July 23, 1990</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1990-07-23-hac-meeting-summary.pdf">PDF</ref>, 123 KB, 6pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 6, Advisory Committee—1990—Correspondence
+                    &amp; Memos.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 11, <ref
+                    target="../chapter-11#fn32">Footnote 32</ref></p>
+            <div type="document">
+                <head>Summary Record of a Conversation Regarding the <hi rend="italic">Foreign
+                        Relations</hi> Series</head>
+                <dateline>July 23, 1990</dateline>
+                <p rend="underline">Participants:</p>
+                <list>
+                    <item>Prof. Betty Glad, University of South Carolina</item>
+                    <item>Prof. Bradford Perkins, University of Michigan</item>
+                    <item>Ms. Anne Van Camp, Archivist at the Hoover Institution, Stanford
+                        University</item>
+                    <item>Prof. Stephen Zamora, University of Houston Law Center</item>
+                    <item>Senior Deputy Assistant Secretary of State for Public Affairs V. Kim
+                        Hoggard</item>
+                    <item>Deputy Assistant Secretary of State for Legislative Affairs Richard
+                        Mueller</item>
+                    <item>Deputy Assistant Secretary of State for Public Affairs George
+                        Kennedy</item>
+                    <item>The Historian of the Department, William Z. Slany</item>
+                </list>
+                <p rend="underline">Also Present:</p>
+                <list>
+                    <item>John P. Glennon, Office of the Historian</item>
+                    <item>Elaine McDevitt, Office of the Historian</item>
+                </list>
+                <p>Ms. Hoggard began by expressing her pleasure at being able to discuss with the
+                    four members of the Advisory Committee on Historical Diplomatic Documentation
+                    the Department’s ongoing efforts to assure the comprehensiveness, accuracy, and
+                    overall credibility of the <hi rend="italic">Foreign Relations</hi> series. The
+                    Department takes very seriously the recent expressions of concern about the
+                    completeness and usefulness of some recent volumes. These are also issues of
+                    concern to the Department and the Bureau of Public Affairs. The Department and
+                    its historians have themselves been wrestling with these issues for some years
+                    and have been searching for solutions. Ms. Hoggard assured the four members of
+                    the Advisory committee of her confidence in the professionalism of the Historian
+                    and his staff and their commitment to the publication project. the Department’s
+                    continued need for the recommendations of the Committee in the series.</p>
+                <p>Ms. Hoggard summarized the process being followed by the Department for
+                    modernizing and perfecting procedures for the preparation, declassification,
+                    verification, and publication of the <hi rend="italic">Foreign Relations</hi>
+                    volumes. The process involves discussion among all the Department officials and
+                    divisions who share the responsibility for the preparation and publication of
+                    the volumes. These internal discussions were deliberate and sometimes more
+                    time-consuming than the Bureau of Public Affairs would wish. Under Secretary for
+                    Management Ivan Selin was taking a very strong personal role in giving overall
+                    guidance to the process. The Department was centering its internal deliberations
+                    on the basis of a plan developed by the Historian. Once this plan was fully
+                    agreed upon within the Department, it would be fully coordinated with other
+                    agencies in the foreign affairs community.</p>
+                <p>The Historian offered a short outline of the four major elements of the plan for
+                    the modernized <hi rend="italic">Foreign Relations</hi> series that the
+                    Department now had under review. First and foremost was the urgent need for
+                    Department historians to expand their documentary research to the records of the
+                    other principal foreign affairs agencies of government. The agencies would be
+                    expected to cooperate with the Department historians by providing access to the
+                    historical records. In the case of intelligence agencies such cooperation might
+                    consist of agency historians collecting documents for publication in the <hi
+                        rend="italic">Foreign Relations</hi> series.</p>
+                <p>The second aspect of the plan was the refinement of the declassification
+                    procedures to provide a greater lean toward disclosure of complete historical
+                    context. The key to such forward leaning declassification was the development of
+                    an appeals procedure that involved policymakers at whatever leadership level was
+                    necessary. These officials would apply a balancing test to difficult
+                    declassification cases and reach final declassification decisions that assured
+                    the most accurate and comprehensive historical record consistent with current
+                    American policies and negotiations.</p>
+                <p>The third part of the plan under study in the Department, and already partly
+                    implemented, was the development of features in published volumes that would
+                    maximize the readers’ understanding of research methodologies used in preparing
+                    volumes, explain the relationship between what was published and what was
+                    available in the historical archives, and indicate as precisely as possible what
+                    subjects or particular information could not be included in a published
+                    volume.</p>
+                <p>Finally, the plan calls for expanded activity by the Advisory Committee in
+                    assessing the scholarship and completeness of the published record and making
+                    recommendations to the Department regarding the volumes. Access to the
+                    classified documentation withheld from volumes was essential for the Committee
+                    to make fully informed recommendations. It was also necessary for the committee
+                    to expand its advice and insight into the planning of the volumes so that the
+                    research efforts of Department historians in the archives of the various
+                    agencies can be better focused.</p>
+                <p>Prof. Perkins initiated a brief discussion of the use of disclaimers in <hi
+                        rend="italic">Foreign Relations</hi> volumes in those instances when the
+                    declassification procedure resulted in the withholding of documentation integral
+                    to a coherent and comprehensive record. Perkins himself feared that use of
+                    disclaimers might encourage a more inflexible declassification process. He posed
+                    several examples of sensitive topics for which it would be difficult to write a
+                    disclaimer on which historians and declassifiers could agree. Ms. Hoggard
+                    indicated that the prefaces to the most recently published volumes showed the
+                    Department’s intention to try to explain to readers as much as possible about
+                    materials not included or withheld because of declassification decisions.</p>
+                <p>Ms. Hoggard was glad of the opportunity to consult with the four Advisory
+                    Committee members, and eager to convene a formal meeting of the full Committee
+                    soon. She proposed that the next meeting be moved up from the original November
+                    date to sometime in October. There was agreement that an earlier meeting would
+                    be extremely useful. The Historian would arrange a date. There would not be
+                    sufficient time to provide the Committee members with Top Secret security
+                    clearances by the October meeting. The Committee might meet again in early
+                    spring of 1991 when the members’ clearances were completed, and begin the
+                    process of seeing the complete record of denied documents of <hi rend="italic"
+                        >Foreign Relations</hi> volumes.</p>
+                <p>The Committee members present for the consultation requested information about
+                    forthcoming meetings. They wished to know whether the proposed October meeting
+                    would include at least a continuation of the oral briefings regarding the impact
+                    of the declassification process upon particular <hi rend="italic">Foreign
+                        Relations</hi> volumes. Ms. Hoggard indicated that the PA Bureau would try
+                    to arrange such oral briefings for the next Committee meeting. She indicated
+                    further that the Department had no wish to become involved in an overhaul of the
+                    government’s entire declassification process. The Department’s immediate goals
+                    were to improve the quality of the series, and to ensure that the Advisory
+                    Committee was able, on the basis of access to withheld classified documents, to
+                    verify the volumes or make recommendations regarding their editing and
+                    publication.</p>
+                <p>There was discussion about Top Secret security clearances. These clearances
+                    involved certain responsibilities, and Committee members would have to decide
+                    whether they wished to assume such responsibilities and potential constraints.
+                    Those Committee members present requested information about the impact upon them
+                    and their scholarly research and writing of Top Secret security clearances. The
+                    Department will look into the issue and provide the Committee members with such
+                    information.</p>
+                <p>Deputy Assistant Secretary Mueller provided an overview of the status of
+                    legislation regarding the <hi rend="italic">Foreign Relations</hi> series
+                    pending in the Congress. Such legislation had been included in S.2749 which was a
+                    bill to provide supplemental authorization of appropriations for FY 1991 for the
+                    Department of State and the USIA. The bill was approved by the Senate Foreign
+                    Relations Committee without any discussion of the sections regarding the <hi
+                        rend="italic">Foreign Relations</hi> series. There appeared to be little
+                    likelihood that the legislation would be acted upon by the time of the
+                    Congressional summer recess in early August.</p>
+                <p>The Department of state and other foreign affairs agencies have closely studied
+                    the proposed legislation and found it seriously flawed. The Bureau of Public
+                    Affairs understands that the legislation was well intended and had a worthy
+                    goal--to strengthen the <hi rend="italic">Foreign Relations</hi> series. The PA
+                    Bureau feels that the goal could be better met by the Executive branch’s
+                    adopting a plan for the <hi rend="italic">Foreign Relations</hi> series of the
+                    sort being considered now within the Department, and subsequently to be
+                    coordinated with other agencies.</p>
+                <p>Deputy Assistant Secretary Mueller and Dr. Slany explained some of principal
+                    concerns with the legislation. The section of the proposed legislation creating
+                    an Historical Advisory Committee is particularly flawed. It would require that
+                    the chairman of a new Historical Advisory Committee be appointed by the
+                    President and receive the consent of the Senate. Some members of the Advisory
+                    Committee found this provision particularly objectionable. The new Committee
+                    would not be a committee advising the Department and its historians on the
+                    scholarship of the series but would instead become an operational body of the
+                    government meeting frequently and for extended periods of time in order to
+                    review and evaluate declassification decisions of the Department and other
+                    agencies. The proposed legislation also fails to provide for the position of
+                    Executive Secretary. Regulations assign the position of Executive Secretary of
+                    the current Advisory Committee to the Historian who is particularly able to
+                    connect the needs and experiences of the Department historians with the
+                    recommendations and assistance of the Advisory Committee.</p>
+                <p>Above all, the proposed legislation would establish standards of withholding that
+                    were totally in conflict with the existing structure of laws, regulations, and
+                    directives on classification, declassification, and access and use of special
+                    types of security information. Several agencies have already begun their own
+                    efforts to modify the draft legislation. Steps are also under way to remedy a
+                    clause in the legislation that would require agencies to make available to the
+                    Department, at considerable cost to themselves, vast numbers of copies of
+                    documents for use in preparing the historical record.</p>
+                <p>Anne Van Camp shared with others at the meeting information about the continuing
+                    efforts within Congressional committees to revise and further develop the
+                    language of the proposed <hi rend="italic">Foreign Relations</hi> legislation.
+                    Some of the revisions under consideration, such as the explicit designation of
+                    particular major professional societies to offer nominees to the new Committee,
+                    might be improvements over the existing language. The scope and nature of the
+                    responsibility of the proposed Advisory Committee to review all withheld
+                    historical documents appeared to be totally unworkable.</p>
+                <p>The PA Bureau regarded its draft plan for a modernized <hi rend="italic">Foreign
+                        Relations</hi> series as far preferable to any Congressional legislation. Of
+                    the current proposed legislation, the provisions regarding a new and different
+                    Advisory Committee were far more unworkable than the more general provisions
+                    establishing the publication of the <hi rend="italic">Foreign Relations</hi>
+                    series as a statutory responsibility of the Department and the Executive
+                    branch.</p>
+                <p>There was some discussion by the Advisory Committee members present as to how
+                    they might make known their own views regarding the proposed legislation. Ms.
+                    Hoggard urged against any collective Advisory Committee action on legislation at
+                    this time, observing that individual Committee members like any other citizen
+                    must decide for themselves. She did request that the Committee members wait
+                    until the Department had prepared and sent to the Congress, a letter setting
+                    forth in some detail, the Department and Executive branch position and policy on
+                    the question of reforming the preparation of the <hi rend="italic">Foreign
+                        Relations</hi> series, and on the particular legislation pending in
+                    Congress. Advisory Committee members might agree or disagree with aspects of
+                    Department policy, but it ought to be more clearly understood before strong
+                    judgments were made about the pending legislation.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

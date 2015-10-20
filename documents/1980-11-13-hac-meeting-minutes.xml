@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Minutes of Historical Advisory Committee Meeting, November
+                    1980</title>
+                <title type="short">HAC Meeting Minutes, 1980</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2013-12-09">December 9, 2013</date>
+                <date type="created" when="1980-11-13">November 13, 1980</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1980-11-13-hac-meeting-minutes.pdf">PDF</ref>, 1.2 MB, 25pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 4, 1981—Minutes, Report.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 9, <ref
+                    target="../chapter-9#fn62">Footnote 62</ref></p>
+            <div type="document">
+                <head>Minutes of the 1980 Meeting of the Advisory Committee on
+                    Historical Diplomatic Documentation</head>
+                <dateline>November 13-14, 1980</dateline>
+                <p rend="underline">American Historical Association</p>
+                <list>
+                    <item>Dr. Gary R. Hess, Professor of History, Bowling Green State
+                        University</item>
+                    <item>Dr. Arnold H. Taylor, Professor of History, Howard University</item>
+                    <item>Dr. Betty Miller Unterberger, Professor of History, Texas A &amp; M
+                        University</item>
+                </list>
+                <p rend="underline">American Political Science Association</p>
+                <list>
+                    <item>Dr. Alexander L. George, Professor of Political Science, Stanford
+                        University</item>
+                    <item>Dr. Enid Curtis Bok Schoettle, The Ford Foundation</item>
+                </list>
+                <p rend="underline">American Society of International Law</p>
+                <list>
+                    <item>Dr. Seymour J. Rubin, Executive Vice President and Executive Director, The
+                        American Society of International Law</item>
+                </list>
+                <p rend="underline">Other Persons Present</p>
+                <p>The Bureau of Public Affairs:</p>
+                <list>
+                    <item>William J. Dyess, Assistant Secretary of State for Public Affairs</item>
+                    <item>Francis T. McNamara, Deputy Assistant Secretary of State for Public
+                        Affairs</item>
+                    <item>Frank Gomez, Deputy Assistant Secretary of State for Public Affairs</item>
+                    <item>Leon Ramey, Director, Executive Office</item>
+                </list>
+                <p>The Office of the Historian:</p>
+                <list>
+                    <item>David F. Trask, The Historian (Executive Secretary of the Advisory
+                        Committee)</item>
+                    <item>William Z. Slany, Deputy Historian and General Editor</item>
+                    <item>Arthur Kogan</item>
+                    <item>John P. Glennon</item>
+                    <item>Charles S. Sampson</item>
+                    <item>Paul Claussen</item>
+                    <item>Neal H. Petersen</item>
+                    <item>N. Stephen Kane</item>
+                    <item>Ronald D. Landa</item>
+                    <item>David W. Mabon</item>
+                    <item>Nina Noring</item>
+                    <item>William Sanford</item>
+                    <item>Louis J. Smith</item>
+                    <item>David M. Baehler</item>
+                    <item>Madeline Chi</item>
+                    <item>Evan Duncan</item>
+                    <item>Evans Gerakas</item>
+                    <item>Kay Herring</item>
+                    <item>Edward C. Keefer</item>
+                    <item>Robert J. McMahon</item>
+                    <item>James E. Miller</item>
+                    <item>Nina Neve</item>
+                    <item>David Patterson</item>
+                    <item>Delia Pitts</item>
+                    <item>Carl N. Raether</item>
+                    <item>Harriet Schwar</item>
+                    <item>Sherrill B. Wells</item>
+                </list>
+                <p>Classification/Declassification Center:</p>
+                <list>
+                    <item>Clayton McManaway, Deputy Assistant Secretary of State</item>
+                    <item>Laurence Pickering, Director, Office of Systematic Review</item>
+                </list>
+                <p>Foreign Affairs and Information and Management Center:</p>
+                <list>
+                    <item>William Price, Director</item>
+                    <item>Paul M. Washington, Chief, Publishing Services Division</item>
+                    <item>John Ellsworth, Chief, General Editing Branch</item>
+                    <item>Rita Baker, Deputy Chief, Foreign Relations Editing Section</item>
+                </list>
+                <p>The National Archives and Records Service:</p>
+                <list>
+                    <item>Milton O. Gustafson, Chief Diplomatic Branch</item>
+                </list>
+                <p>Department of State press re1ease No. 277, October 6,·1980, provided for open and
+                    closed portions of the meeting. The following persons from the general public
+                    attended the open portion of the meeting: Professor Wayne S. Cole, University of
+                    Maryland, Professor George O. Kent, University of Maryland.</p>
+                <p>[<hi rend="italic">Omitted here is a list of abbreviations.</hi>]</p>
+                <p rend="center"><hi rend="underline">First Session (November 13, 1980; 1-4
+                        p.m.)<lb/>Room 1207, Department of State<lb/>Opening the Meeting</hi></p>
+                <p>The Executive Secretary, <hi rend="underline">David F. Trask</hi>, called the
+                    meeting to order at 1 p.m. on November 13. He Introduced <hi rend="underline"
+                        >William J. Dyess, Assistant Secretary of State for Public Affairs</hi>, who
+                    extended his greetings to the Advisory Committee. <hi rend="underline">Mr.
+                        Dyess</hi> emphasized how much the Department valued the historical
+                    documentary record. He welcomed the Committee's advice and comments for
+                    improving the <hi rend="italic">Foreign Relations</hi> series. He viewed the <hi
+                        rend="italic">Foreign Relations</hi> series as a vital nonpartisan task in
+                    understanding foreign policy successes and mistakes of the past and favored the
+                    opening up of records as rapidly as possible. Assistant Secretary Dyess also
+                    noted the “security constraints” under which the Department of State operated in
+                    releasing documents. He looked forward to talking to the Committee again the
+                    next day.</p>
+                <p><hi rend="underline">Mr. Trask</hi> then introduced <hi rend="underline">Francis
+                        T. McNamara</hi>, Deputy Assistant Secretary of State for Public Affairs,
+                    who had 'special responsibility for the Office of the Historian. He also
+                    introduced the new members of the Advisory Committee, <hi rend="underline">Enid
+                        Curtis Bok Schoettle</hi> and <hi rend="underline">Gary R. Hess</hi>. He
+                    then briefly mentioned the agenda they would follow during the afternoon.</p>
+                <p rend="center"><hi rend="underline">Status of the Foreign Relations series</hi></p>
+                <p><hi rend="underline">Mr. Slany</hi> summarized a written report he had prepared
+                    on the status of the <hi rend="italic">Foreign Relations</hi> series (attachment
+                    A). He recalled the prediction last November that seven to ten volumes would be
+                    published in the coming year. He regretted that only one volume was released in
+                    the interim--1951, vol. I (March 1980)--while the other six to nine volumes plus
+                    11 others for the 1951-1954 period had been delayed pending re-review by the
+                    Department's Classification/Declassification Center (CDC). He was optimistic,
+                    however, that others would be published during the coming year, depending on the
+                    speed of declassification, technical editing, and printing. Nine <hi
+                        rend="italic">Foreign Relations</hi> volumes have been designated as
+                   “fast-track” volumes, and he briefly summarized the status of each of these
+                    volumes, all of which were, he hoped, likely be printed during 1981.</p>
+                <p>The budget did not appear to be a factor in the delay of publication. If six or
+                    more volumes were, in fact, released next year, the budget might be a problem,
+                    but he trusted that the Department would find the financial resources in such a
+                    case.</p>
+                <p><hi rend="underline">Mr. Slany</hi> also indicated that all but one of the 12
+                    volumes for 1955-1957 triennium had been completed in manuscript. The remaining
+                    volume would be completed before the end of 1980. The 1955-1957 triennium would
+                    comprise more than 28,000 printed pages as compared to the more than 33,000
+                    pages expected for the 16 volumes of the 1952-1954 triennium. Some 28,000
+                    printed pages are planned for the 16 projected volumes of the 1958-1960
+                    triennium, although the total may be larger when the work is completed. Current
+                    planning calls for completion of most of the manuscripts for the 1958-1960
+                    triennium by the end of 1981. While work was being completed on the 1958-1960
+                    triennium during the latter part of 1981 work would begin on compiling the
+                    projected 16 volumes of the 1961-1963 triennium. <hi rend="underline">Mr.
+                        Slany</hi> circulated to the Committee three charts (copies attached)
+                    indicating the status of the 1950-1954 volumes, the 1955-1957 triennium, and the
+                    1958-1960 triennium.</p>
+                <p><hi rend="underline">Mr. Slany</hi> also discussed the Office's search for
+                    modern, efficient ways to produce <hi rend="italic">Foreign Relations</hi>
+                    volumes. The conversion by the Government Printing Office from linotype to
+                    computerized printing required the introduction of word processing and
+                    nine-track magnetic tapes. He outlined five ways to convert manuscript copy into
+                    the final printed product: (1) word processing in the Office of the Historian
+                    and transfer of finished tapes to GPO for printing or contract printing; (2)
+                    word processing in some central Department of State facility and transfer of
+                    finished tapes to GPO for printing or contract printing; (3) word processing by
+                    commercial firms and transfer of finished tapes to GPO for printing; (4) word
+                    processing by GPO or by a GPO sub-contractor and completion of printing by GPO
+                    or a contract printer; (5) word processing and printing done in whole or part by
+                    one or a combination of outside private contracting firms. All these options
+                    have been explored in the past few months, feasibility studies have been
+                    undertaken, and the options will undergo continued study in the future. Up to
+                    five volumes for the 1955-1957 period will be done on the word processing system
+                    in PA/HO. Other volumes for this period will be done in commercial firms, and
+                    still others in GPO. The Office hopes to get comparisons on costs from these
+                    various methods. Feasibility studies for microform supplements have been
+                    delayed. Small-scale tests may be tried for 1955-1957 but large-scale
+                    supplements will not appear until the 1961-1963 triennium.</p>
+                <p>On personnel matters, <hi rend="underline">Mr. Slany</hi> noted the small
+                    turnover of staff and that the Office was at relatively full strength. The
+                    Office currently had two vacancies among the professional staff of 28, and the
+                    support staff totaled eight. There were also two part-time professional
+                    vacancies, one of which had been filled for a brief time, but there has not been
+                    success in filling these particular positions.</p>
+                <p><hi rend="underline">Prof. George</hi> inquired about the status of 1958-1960
+                    volumes. If the bulk of the compilations were to be finished in 1981, when would
+                    these documents be declassified? <hi rend="underline">Mr. Trask</hi> emphasized
+                    that the Office intended to submit documents for declassification now, or as
+                    soon as possible, rather than wait for the printing galley proofs. The problem
+                    in the past had been the declassification of documents late in the compiling and
+                    editing process. The new system called for the declassification process to begin
+                    earlier.</p>
+                <p><hi rend="underline">Prof. George</hi> inquired about the completion date for the
+                    1961-1963 triennium. <hi rend="underline">Mr. Slany</hi> replied that the
+                    current tentative target date for completion was the end of 1982. He expected
+                    some of the 1961-1963 compilations to be begun next year.</p>
+                <p><hi rend="underline">Prof. Unterberger</hi> asked whether the nine “fast-track”
+                    volumes scheduled for publication have been re-reviewed. <hi rend="underline"
+                        >Mr. Pickering</hi> (A/CDC) explained that the re-review will be completed
+                    in November 1980. This project does not take into account the appeal to higher
+                    authorities of negative declassification decisions. <hi rend="underline">Prof.
+                        Unterberger</hi> assumed that most volumes would be appealed, and she
+                    wondered how long the appeal process would require. <hi rend="underline">Mr.
+                        Pickering</hi> speculated a month might be required, but the process might
+                    stretch out further. <hi rend="underline">Prof. Unterberger</hi> felt this was
+                    too optimistic. She wondered how the process could be accelerated. <hi
+                        rend="underline">Mr. Slany</hi> suggested that the experience PA/HO has had
+                    in the handling of <hi rend="italic">Foreign Relations</hi>, 1952-1954, Vol.
+                    XVI, The Geneva Conference, indicated that at least seven months was required
+                    between the end of the declassification process and publication of a volume. The
+                    expected date for the publication of 1952-1954, Vol. XVI is March 1981. If the
+                    A/CDC re-review and subsequent appeals for the nine “fast-track” volumes were
+                    completed in the next few months, then all of them could conceivably be printed
+                    by the end of 1981.</p>
+                <p><hi rend="underline">Prof. George</hi> wanted more definite information on the
+                    budget for printing FRUS volumes in 1981. <hi rend="underline">Mr. Slany</hi>
+                    explained that the printing of seven volumes in one year would require
+                    $700-800,000. The current Office budget provided for about one-half that amount
+                    for printing. The Office was reasonably certain, however, that it could persuade
+                    the Department to make a special case and provide the additional funds if they
+                    were actually needed. <hi rend="underline">Mr. George</hi> inquired about the
+                    basis for this optimism. <hi rend="underline">Mr. Trask</hi> asked that further
+                    comment be deferred until the report of those responsible for the PA Bureau
+                    budget later in the afternoon.</p>
+                <p><hi rend="underline">Prof. Hess</hi> asked how HO determined the number of pages
+                    for each triennium. <hi rend="underline">Mr. Slany</hi> responded that the page
+                    totals for 1955-1957 triennium were originally planned to be smaller than in
+                    previous years. The compilations and volumes were, however, expanded to accord
+                    with the importance of the subjects documented. Substance, not budget, is the
+                    criterion in determining page totals for the 1955-1957 triennium and later
+                    series. In response to another question, <hi rend="underline">Mr. Slany</hi>
+                    reiterated that the page totals for the 1961- 1963 triennium would be in the
+                    same range as the 1955-1957 period. Would there be a special volume on the Near
+                    East for the 1952-1954 period, <hi rend="underline">Prof. Hess</hi> asked. Mr.
+                    Slany said no final decision had been made on Iran. Original plans called for
+                    the volumes to be published as compiled. <hi rend="underline">Mr. Trask</hi>
+                    added that microform supplements were the solution; they were a way to make much
+                    more documentation available to scholars.</p>
+                <p rend="center"><hi rend="underline">Managerial Planning and the Problem of Central Services</hi></p>
+                <p><hi rend="underline">Mr. Trask</hi> then commented on the activities of the
+                    Office of the Historian in the planning area. He stressed the changes that had
+                    been and were taking place. One was the preparation of manuscript for
+                    publication; the remarkable change has been the conversion from linotype to cold
+                    type. Systems analysis was involved in modernizing and making operations more
+                    efficient. He also described various reforms in HO. The first was the
+                    reorganization of the Office. This involved reorganizing the staff, reducing the
+                    number of supervisors to five, and according priority to the preparation of <hi
+                        rend="italic">Foreign Relations</hi> over other tasks. Also involved was the
+                    triennialization of <hi rend="italic">Foreign Relations</hi> which allowed for
+                    economies of presentation, and expanded annotation. The introduction of word
+                    processing and other equipment had also permitted the speeding up of production
+                    and the reduction of costs, but would not be effective until production of the
+                    1955-1957 triennium. A problem was that the number of people cleared to handle
+                    classified materials under the old linotype operation at GPO is not very great.
+                        <hi rend="underline">Mr. Trask</hi> also pointed to HO's leadership in the
+                    Department's efforts to declassify documents on a systematic, efficient basis,
+                    which led to the creation of the CDC and its centralized review of classified
+                    documents within the Department.</p>
+                <p>The results, <hi rend="underline">Mr. Trask</hi> said, were notable in terms of
+                    productivity. The Office would be close to the 21-year line in compilation by
+                    the end of 1981, and 20-year line by 1983. He believed HO was coming along
+                    fairly well in this regard. He could not make the same claims for publication of
+                        <hi rend="italic">Foreign Relations</hi> volumes. He did not believe that
+                    the nine “fast-track” volumes would all be published by the end of 1981. He
+                    hoped this adequately answered <hi rend="underline">Prof. Unterberger's</hi>
+                    earlier question on this point.</p>
+                <p><hi rend="underline">Mr. Trask</hi> then identified the principal problem
+                    currently confronting the Office -- the delivery of Department of State's
+                    central services. The internal planning and realignment of PA/HO activities was
+                    well advanced. Now there would have to be much improved integration of PA/HO and
+                    central services. He pointed to the use of systems methodologies that would be
+                    required for improved relationship between PA/HO and central services. These
+                    services were centralized in the Department in the 1950s and 1960s to obtain
+                    economies of scale. HO was not the only office making demands on central
+                    services. The problem was not unique to HO but was widespread in the Department
+                    and the government. The Executive Office in the Bureau of Public Affairs was
+                    designed to help the offices in PA to obtain the needed central services. He
+                    compared this Office to the country desk officer who to serves the needs and
+                    interests of his Chief of Mission abroad.</p>
+                <p><hi rend="underline">Mr. Trask</hi> itemized the central services upon which HO
+                    depends: (1) Budget. Publishing costs are increasing at a greater rate than the
+                    HO budget. To overcome this the Office was increasing productivity. The
+                    introduction of modern cold-type production systems would also improve
+                    productivity. The Office did not know exactly how much it would cost to publish
+                    upcoming volumes because the Department had been unable to obtain unit cost
+                    estimates from GPO.</p>
+                <p>(2) Personnel. The Office has had problems with personnel in the past, but was
+                    now near full complement. There were some systemic problems: (a) HO could not
+                    recruit or hire until a vacancy actually occurred, and security clearances
+                    resulted in delays; (b) Support staff requirements could not be met through
+                    current Civil Service system definitions because HO's equipment required more
+                    modern word-processing and office skills. The Executive Office of PA has done a
+                    good job for HO on personnel.</p>
+                <p>(3) Technical Editing. The technical editors had been removed from HO years ago.
+                    The Office found it difficult to integrate its work with that of the technical
+                    editors. One solution was to improve communication; another was to reintegrate
+                    the technical editors into HO. The Office was working on this problem.</p>
+                <p>(4) Printing. HO believed it did not have optimal relations with GPO, especially
+                    in light of the revolution in printing from linotype composition to computerized
+                    phototypesetting. HO was now exploring how to improve its relationship with GPO.
+                    The other option is to find other printers and HO was exploring this through
+                    feasibility studies.</p>
+                <p>(5) The centralized Records Management System of the Department. HO was dependent
+                    on the Foreign Affairs Information and Management Center (FAIM), as were all
+                    other areas of the Department. The biggest problem was copying. A new system was
+                    needed to avoid the delays HO was experiencing.</p>
+                <p>(6) Declassification. The Department had moved to a system of centralized
+                    declassification which was the long-range solution to the delay problem.</p>
+                <p>(7) Miscellaneous centralized services: (a) space was inadequate for HO's needs,
+                    but the Bureau of Public Affairs was committed to the allocation of adequate
+                    space to the Office. (b) Contracting services were used to gain the services of
+                    historians in 1978-1979, and HO was now contracting for feasibility studies of
+                    word processing. (c) Housekeeping is a problem; the Office for example, had
+                    great difficulty getting a plug installed for its new Xerox machine and having a
+                    new air conditioning system installed to support the word-processing system. (d)
+                    HO had to acquire expensive new equipment, but it had for the moment
+                    considerable problems in getting processing machinery. <hi rend="underline">Mr.
+                        Trask</hi> said that every link of the central services chain had to work or
+                    HO would not be able to publish the <hi rend="italic">Foreign Relations</hi>
+                    series. He noted that he was not attempting to make excuses in discussing the
+                    problems related to central services, and added that HO would not be satisfied
+                    until it reached the 20-year line.</p>
+                <p><hi rend="underline">Prof. George</hi> observed that there must be great
+                    competition among Offices for the central services of the Department, and he
+                    asked what kind of system of priorities of access had been worked out within the
+                    Bureau of Public Affairs. <hi rend="underline">Mr. Trask</hi> replied that HO
+                    had first priority in some cases, second in others, but that PA was not the
+                    problem. Those in charge of central services establish priorities among
+                    competing elements of the Department and HO had to wait in line. The problem was
+                    not resources but how those resources were fitted together. <hi rend="underline"
+                        >Mr. Trask</hi> stated that he believed that current staff levels and
+                    funding levels were adequate to do the job, and added that he was not going to
+                    complain about the budget until HO had achieved optimal efficiency and
+                    productivity.</p>
+                <p rend="center"><hi rend="underline">The Foreign Relations Budget</hi></p>
+                <p>After a break of 15 minutes, the committee heard a report from <hi
+                        rend="underline">Deputy Assistant Secretary Gomez</hi> on the PA budget. <hi
+                        rend="underline">Leon Ramey, Director of the PA Executive Office</hi> also
+                    participated in the discussion. <hi rend="underline">Mr. Gomez</hi> echoed <hi
+                        rend="underline">Mr. Trask</hi> in stating that the problems HO faced in
+                    producing the <hi rend="italic">Foreign Relations</hi> series could be met, in
+                    good part, by the efficient use of existing resources, rather than by an
+                    increase in the PA/HO budget. Productivity gains, in his view, were dependent
+                    upon technological advances in word processing and printing processes. <hi
+                        rend="underline">Mr. Gomez</hi> noted that he was prepared to weigh in, in
+                    conjunction with <hi rend="underline">Mr. Ramey</hi>, to help tackle problems
+                    relating to the provision of necessary central services. With regard to the
+                    coming fiscal year, <hi rend="underline">Mr. Gomez</hi> stated that cost
+                    accounting projections were difficult to make without more precise knowledge
+                    about such factors as volumes to be produced, inflation, or conversion to a less
+                    expensive word processing system. In response to a question from <hi
+                        rend="underline">Prof. George</hi>, <hi rend="underline">Mr. Gomez</hi>
+                    indicated that he had received preliminary assurances that the necessary
+                    additional funding would be made available to print any volumes cleared for
+                    publication during the current fiscal year.</p>
+                <p rend="center"><hi rend="underline">The New Classification/Declassification Center</hi></p>
+                <p>At this point, <hi rend="underline">Mr. Trask</hi> introduced <hi
+                        rend="underline">Deputy Assistant Secretary Clayton McManaway</hi>, head of
+                    the Department's Classification/Declassification Center, who discussed the new
+                    centralized system of declassification in the Department, and its implications
+                    for the Office of the Historian and the <hi rend="italic">Foreign Relations</hi>
+                    series. <hi rend="underline">Mr. McManaway</hi> explained CDC's operating
+                    mandate, which included responding to Freedom of Information Act and mandatory
+                    review requests, systematic declassification of older documents, and the
+                    preparation of guidelines for the use of the National Archives (NARS). He
+                    explained that the decision to re-review the 1951-1954 <hi rend="italic">Foreign
+                        Relations</hi> volumes was a result of CDC's conclusion that some of the
+                    desks had done a poor job on initial review and the passage of time has seen a
+                   “re-sensitization” of documents. Also there had been an assessment of the impact
+                    of special events, especially Iran. <hi rend="underline">Mr. McManaway</hi>
+                    noted that he had “very reluctantly” recommended the re-review of the
+                    pre-1955-1957 volumes. He added that in spite of the heavy commitment of
+                    resources to re-review, CDC had continued work on the 1955-57 volumes,
+                    completing three of six. He stressed his desire to work closely with NARS in the
+                    preparation of guidelines for the 1950-1954 records. <hi rend="underline">Mr.
+                        McManaway</hi> felt that with its new experience CDC could accelerate the
+                    declassification process for <hi rend="italic">Foreign Relations</hi> volumes in
+                    the future.</p>
+                <p><hi rend="underline">Prof. Unterberger</hi> asked how many of the 19 volumes CDC
+                    re-reviewed had gone completely through the appeals process; <hi
+                        rend="underline">Mr. McManaway</hi> responded that one volume had. <hi
+                        rend="underline">Prof. Unterberger</hi> asked what percentage of the volume
+                    had been restored in the appeals process; <hi rend="underline">Mr.
+                        McManaway</hi> responded that the original decision was upheld. In the
+                    re-review, he stated, CDC had in a few cases actually released more material
+                    than had the original reviewers. <hi rend="underline">Prof. Taylor</hi> asked if
+                    the declassification guidelines were open to the public. <hi rend="underline"
+                        >Mr. McManaway</hi> replied that the general guidelines were unclassified.
+                    Detailed country-speciflc guidelines would obviously remain classified. He felt
+                    the problem areas were foreign government information, intelligence sources and
+                    methods, and military plans.</p>
+                <p><hi rend="underline">Prof. George</hi> asked about the size of the CDC staff. <hi
+                        rend="underline">Mr. McManaway</hi> replied he had about 115 retired Foreign
+                    Service Officers working part time. These officers had been nominated by the
+                    bureaus. <hi rend="underline">Prof. George</hi> asked how many historians were
+                    on the CDC staff. <hi rend="underline">Mr. McManaway</hi> replied that some of
+                    the retired FSOs had degrees in history. <hi rend="underline">Prof. George</hi>
+                    expressed his concern that exclusive reliance on FSOs with Cold War backgrounds
+                    and lack of historical training would result in their withholding too much
+                    documentation. These reviewers might not be good judges of what was sensitive
+                    and might not be aware of what had reached the public domain. <hi
+                        rend="underline">Mr. McManaway</hi> stated that the CDC depended on HO to
+                    supply for the background information for declassifiers. He did not believe that
+                    the Cold War had scarred the FSOs.</p>
+                <p><hi rend="underline">Prof. Hess</hi> turned the discussion to a consideration of
+                    foreign government information and its impact on the clearance process. <hi
+                        rend="underline">Mr. McManaway</hi> explained the difference between foreign
+                    originated documents and sensitive foreign government information in US
+                    documents . He noted that CDC reviews this foreign government information on a
+                    case-by-case basis. CDC feels the need for more consultation on these matters
+                    with foreign governments.</p>
+                <p rend="center"><hi rend="underline">Problems of Records Management and Transfer</hi></p>
+                <p><hi rend="underline">Mr. Trask</hi> next introduced <hi rend="underline">William
+                        Price, Director of the Foreign Affairs Information Management Center</hi>
+                    (FAIM). <hi rend="underline">Mr. Price</hi> discussed the automated
+                    recordkeeping system in the Department and the services that FAIM provided for
+                    HO. At the conclusion of <hi rend="underline">Mr. Price's</hi> presentation, <hi
+                        rend="underline">Prof. Unterberger</hi> asked if declassification guidelines
+                    for 1950-1954 block of documents were completed. <hi rend="underline">Mr.
+                        Pickering</hi> indicated that they should be ready by the spring of 1981.
+                    Negotiations concerning the guidelines were going on now with NARS. He was not
+                    sure when the documents would go to NARS. <hi rend="underline">Mr.
+                        Gustafson</hi> noted that NARS was not yet satisfied with the guidelines,
+                    especially those dealing with foreign government information. He added that NARS
+                    wanted a greater degree of cooperation from CDC--especially the making available
+                    of a CDC representative at NARS for assistance in reviewing the documentation.
+                    The afternoon session on November 13 concluded with a discussion of <hi
+                        rend="underline">Mr. Price's</hi> briefing.</p>
+                <p rend="center">Morning Session<lb/>(November 14, 1980, 8:30 a.m.-12:30 p.m.)</p>
+                <p rend="center"><hi rend="underline">Election of Chairperson</hi></p>
+                <p><hi rend="underline">Mr. Trask</hi> opened the morning session on November 14 by
+                    announcing that it was a closed session at which HO would present its views on
+                    the declassification situation. At this point <hi rend="underline">Prof.
+                        George</hi> nominated <hi rend="underline">Prof. Unterberger</hi> as
+                    chairperson of the Committee for this year and she was elected by
+                    acclamation.</p>
+                <p rend="center"><hi rend="underline">The Joint U.S.-U.S.S.R. Documentary Project</hi></p>
+                <p><hi rend="underline">Mr. Trask</hi> introduced the recently-published volume <hi
+                        rend="italic">The United States and Russia: The Beginnings of Relations,
+                        1765-1815</hi>, noting that it was a major contribution to the study of
+                    Russian-American relations. <hi rend="underline">Mr. Slany</hi> pointed out to
+                    the Committee that the joint U.S.-U.S.S.R. project was not without its
+                    detractors and that a degree of controversy could be expected in the months
+                    come. The publication had been released without publicity in mid-August and no
+                    reviews have yet appeared. The Committee examined the volume.</p>
+                <p rend="center"><hi rend="underline">The 1979 Committee Minutes and Report</hi></p>
+                <p><hi rend="underline">Prof. Unterberger</hi> then noted that the Committee had not
+                    received copies of the minutes of last year's meeting. <hi rend="underline">Mr.
+                        Trask</hi> responded that he was not sure of the cause of problem but
+                    promised to make copies available. He noted that <hi rend="underline">Mr.
+                        McManaway</hi> had wanted to be present for this session. <hi
+                        rend="underline">Mr. Trask</hi> felt such attendance might be inappropriate
+                    but left to the Committee the decision on whether to talk to him later if it so
+                    desired. <hi rend="underline">Prof. Unterberger</hi> noted that the Secretary of
+                    State had failed to reply to last year's letter from the committee. <hi
+                        rend="underline">Mr. Trask</hi> and <hi rend="underline">Mr. Slany</hi>
+                    agreed that this was probably due to turmoil during the last year in the higher
+                    echelons of the department.</p>
+                <p rend="center"><hi rend="underline">The Declassification Problem</hi></p>
+                <p><hi rend="underline">Mr. Trask</hi> announced that the only agenda item for the
+                    day was a consideration of the declassification problems growing out of the
+                    re-review experience. He began by stating that there was no reason to believe
+                    that CDC would not maintain a reasonable schedule. He was convinced that the
+                    system would be more efficient in getting a decision on declassification. The
+                    question at issue, however, related to the kind of decisions HO would get from
+                    the system. Some 20 volumes had so far gone through the process within the State
+                    Department. To illustrate the problems growing out of the re-review experience,
+                        <hi rend="underline">Mr. Trask</hi> distributed a collection of materials to
+                    the Committee.</p>
+                <p><hi rend="underline">Mr. Trask</hi> began a review of this documentation by
+                    calling attention to a November 20, 1978 memorandum by Under Secretary of State
+                    for Administration Ben Read establishing the new declassification program. He
+                    then introduced a draft memorandum of May 2, 1980 from Hooding Carter (former
+                    Assistant Secretary of State for Public Affairs) to Mr. Read. This memorandum,
+                    which was never sent, detailed HO's criticisms of CDC. <hi rend="underline">Mr.
+                        Trask</hi> continued with a September 1980 memorandum by Arthur Kogan
+                    tracing the background of the 20-year line publication target. He then
+                    introduced another proposed memorandum to Read (May 2, 1980) outlining arguments
+                    against consultation with foreign governments about the release of information
+                    in U.S. documents. <hi rend="underline">Mr. Slany</hi> noted that other U.S.
+                    officials, such as Allen Thompson of the National Archives, were actively
+                    negotiating with the British on this matter. <hi rend="underline">Prof.
+                        Unterberger</hi> asked if this was the first time the problem of foreign
+                    government clearance of U.S. documents had arisen. <hi rend="underline">Mr.
+                        Trask</hi> replied that this was not the case and added that policy had
+                    always been to maintain the sovereignty of U.S. documents. <hi rend="underline"
+                        >Mr. Slany</hi> noted that the issue had arisen many times in the past.
+                    During the Eisenhower Administration efforts were made to clear memoranda of
+                    conversations abroad. <hi rend="underline">Mr. Kogan</hi> noted that the
+                    definition of “foreign government information” in Executive Order 12065 was
+                    quite ambiguous. This could result in a good deal of U.S. documentation being
+                    withdrawn from declassification review at 20 years and being put back for review
+                    at 30 years. <hi rend="underline">Prof. Unterberger</hi> asked if governments
+                    other than those of the Commonwealth had been consulted on the question of
+                    foreign government information in U.S. documents. <hi rend="underline">Mr.
+                        Trask</hi> replied that they had not yet been but noted that a precedent was
+                    being set. <hi rend="underline">Mr. Rubin</hi> asked if the sensitivity of these
+                    documents was the only issue at stake. <hi rend="underline">Mr. Trask</hi>
+                    replied that so far that was the case but other issues could arise.</p>
+                <p><hi rend="underline">Mr. Trask</hi> then introduced a CDC memorandum of March 19,
+                    1980 to then-Deputy Assistant Secretary of State William D. Blair, Jr., setting
+                    forth CDC's decision on the need to re-review the 1951-54 FRUS volumes. He noted
+                    that Mr. Blair was in the process of retiring from the Department at the time.
+                    He then introduced a memorandum of a discussion among Messrs. Trask, Blair and
+                    McManaway that took place on March 27 just before Mr. Blair's departure. <hi
+                        rend="underline">Mr. Trask</hi> had pressed HO's objections to re-review in
+                    this discussion. Since that meeting HO has continued to object that re-review is
+                    costly and time-consuming and that it should not have been undertaken unless the
+                    prior review was incompetent. HO does not feel that the incompetence of the
+                    prior review has been established. CDC claims the prior Bureau review was
+                    incompetent and that certain documents had reacquired sensitivity in the years
+                    since the review.</p>
+                <p><hi rend="underline">Prof. George</hi> observed that the negative precedents
+                    established by the CDC during the re-review of 1950-1954 volumes negated the
+                    possible advantage of early submission of documents for declassification. In
+                    effect it was possible for the CDC to undertake a further re-review of all <hi
+                        rend="italic">Foreign Relations</hi> compilations and volumes even after the
+                    completion of the present re-review. The Historical Office could be forced into
+                    a position of double jeopardy. <hi rend="underline">Prof. George</hi>
+                    reluctantly came to the conclusion that there would never be a final decision on
+                    declassification until the time of publication. Therefore, the early review by
+                    the CDC was not really a help to the series.</p>
+                <p><hi rend="underline">Prof. Unterberger</hi> inquired if any FRUS volumes had been
+                    withdrawn after publication because of the CDC re-review. <hi rend="underline"
+                        >Mr. Trask</hi> reported that none had been withdrawn but some volumes were
+                    already bound, nearly bound, or in advanced page-proof status when the re-review
+                    occurred.</p>
+                <p><hi rend="underline">Mr. Trask</hi> explained that in his view it was a great
+                    mistake to attribute declassification problems to the new centralized system.
+                    The current security-conscious climate in the Department and the rest of the
+                    government would lead to similar declassification results under any system. And
+                    it was an equally serious error to view the earlier decentralized
+                    declassification system as some sort of golden age for FRUS. The previous system
+                    had been ineffective and corrupt. Once the CDC system completed its “shake-down”
+                    it would be a vast improvement over the old system.</p>
+                <p><hi rend="underline">Mr. Slany</hi> sought to contrast the decentralized system
+                    of the past with the current centralized declassification procedures. He pointed
+                    out that FRUS clearances were the result of <hi rend="underline">ad hoc</hi>
+                    arrangements made between HO and Bureau officials. When these Bureau officials
+                    were sympathetic to the series, the clearance of FRUS volumes was usually
+                    successful. The arrangements were behind the scenes and the result of quiet
+                    negotiation. With the CDC all declassification was placed “up front” for all to
+                    see. The experts in CDC were able to standardize declassification
+                    practices--often at the lowest common denominator of release. HO's flexibility
+                    had been seriously reduced.</p>
+                <p><hi rend="underline">Prof. George</hi> expressed the feeling that the intrusion
+                    of a new declassification institution created a “layering” of the Department
+                    bureaucracy which was bound to work against the FRUS series. <hi
+                        rend="underline">Dr. Rubin</hi> said that on the basis of his 40 years of
+                    experience with classification and declassification it seemed to him that the
+                    old process, however disorderly, had merit because it succeeded in getting
+                    documents declassified. He felt that CDC probably did not view openness as its
+                    highest priority. <hi rend="underline">Mr. Trask</hi> stated that HO's opinion
+                    is that the new system needs to be given a fair test. It had inevitable start-up
+                    problems. Furthermore, the original system had not been implemented. <hi
+                        rend="underline">Mr. Baehler</hi> added that, based on returns so far, it
+                    was not true that HO was able to declassify more under the old system. He felt
+                    that HO was not necessarily doing any worse under the new system. It was too
+                    early to give an accurate or complete assessment. <hi rend="underline">Prof.
+                        Unterberger</hi> questioned this assessment and asked for amplification. <hi
+                        rend="underline">Mr. Trask</hi> said that the re-review was working both
+                    ways: to release some documents that had formerly been withheld while
+                    withdrawing others. The real issue was what was being released, not how much.
+                    Was CDC applying sound criteria for declassification? Thus far the system that
+                    has emerged is not the one the Department ordered. <hi rend="underline">Mr.
+                        Slany</hi> observed that it was inevitable that the new CDC review will
+                    delete more documents and information than the original Bureau review. The CDC
+                    re-review was based on the premise that documents previously clearable had
+                    become resensitized. The CDC review was aimed at finding these additional
+                    documents and information. <hi rend="underline">Prof. George</hi> noted that he
+                    admired the vigor and detail with which <hi rend="underline">Mr. Trask</hi> and
+                    his staff had argued HO's case in the memoranda he had read. But he failed to
+                    understand the basis for optimism in the future. He felt that despite HO's
+                    efforts the people higher up in the Department had not been convinced of the
+                    necessity to redesign the system. <hi rend="underline">Mr. Trask</hi> reiterated
+                    that the new system deserved a fair test. That, he felt, was the only way to
+                    find out if the system would work. In addition, in terms of expedience, it was
+                    unlikely that the new system would be dismantled. <hi rend="underline">Prof.
+                        George</hi> felt that once the system became institutionalized it might
+                    never be dismantled. He added that, in his opinion, the new system would lead to
+                    much more conservative decisions.</p>
+                <p><hi rend="underline">Dr. Schoettle</hi> asked if the Office could describe for
+                    the committee what documents had been lost to the CDC review. <hi
+                        rend="underline">Mr. Baehler</hi> responded that HO did not know yet what
+                    had been lost because the appeal process was not yet complete. <hi
+                        rend="underline">Mr. Glennon</hi> noted that HO had lost up to 10 percent of
+                    the documents in the volumes produced by his division. <hi rend="underline">Mr.
+                        Baehler</hi> said that the first returns were tentative results. Those
+                    results looked much worse than results under the old system. They were designed
+                    to elicit a response from HO. He reiterated his view that the returns were
+                    mixed. <hi rend="underline">Mr. Glennon</hi> said that he did not share <hi
+                        rend="underline">Mr. Baehler's</hi> and <hi rend="underline">Mr.
+                        Trask's</hi> optimism in this regard. <hi rend="underline">Mr. Baehler</hi>
+                    noted that he was not optimistic, but felt that the old system was no better.
+                        <hi rend="underline">Mr. Trask</hi> supported Baehler's assessment; he was
+                    not optimistic about the new system, but would not be more optimistic about the
+                    old system. He was strongly opposed to the decisions being made now. It seemed
+                    to him imperative to concentrate on revision of the new system. <hi
+                        rend="underline">Prof. Taylor</hi> asked why the new centralized system was
+                    not working. <hi rend="underline">Mr. Trask</hi> said that the Oversight
+                    Committee and other arrangements had not yet worked out and until they did he
+                    could not say the system was unworkable. The resignations of Secretary Vance and
+                    Assistant Secretary Hodding Carter left PA and HO without leadership during
+                    (these) bureaucratic fights this spring and summer. The onset of the election
+                    campaign and the general preoccupation in the Department with Iran had also
+                    contributed to HO's difficulties. The result has been that there has been very
+                    little bureaucratic follow-through on these issues.</p>
+                <p rend="center"><hi rend="underline">Comments By the Division Chiefs</hi></p>
+                <p><hi rend="underline">Dr. Schoettle</hi> asked the division chiefs to comment on
+                    how bad the deletions made by the CDC were.</p>
+                <p rend="center"><hi rend="underline">Status of Re-Review of General and European Volumes</hi></p>
+                <p><hi rend="underline">Mr. Sampson</hi> reviewed the status of the <hi
+                        rend="italic">Foreign Relations</hi> volumes under the General and European
+                    Division. Eight volumes of the period 1950-1954 remained to be cleared for
+                    publication. Volume IV for 1950 was bound and ready for release, but it had been
+                    held up by the CDC. Volume III for 1951, Western Europe and Germany, had been
+                    completely in page proofs when it was caught by re-review. In that process, some
+                    22 items were deleted, appealed, and removed from the page proofs, but material
+                    from documents declassified by the Joint Chiefs of Staff and from memoir
+                    literature had filled the gaps caused by the deletions without loss of quality.
+                    A similar situation in the case of 1952-1954, Volume V, Western Europe. A
+                    formal decision had yet to be received from CDC, but even if all material CDC
+                    had identified informally was deleted, HO would use declassified JCS material to
+                    fill the gaps. <hi rend="underline">Mr. Sampson</hi> emphasized that the loss
+                    was in time and money, not in quality.</p>
+                <p>The remaining five volumes fell into two categories. In the first category were
+                    1952-1954, Volume II, National Security Policy, and 1952-1954, Volume VII,
+                    Germany. Here the deletions were relatively light, although heavier than in the
+                    original review. He anticipated that discussions with CDC and the infusion of
+                    JCS and other declassified material would result in no loss of quality. The
+                    remaining three volumes were 1951, Volume IV, and 1952-1954, Volumes VI and
+                    VIII. The first two dealt with Western Europe and the third dealt with Eastern
+                    Europe. In the case of all three volumes the deletions were heavy, amounting in
+                    the extreme case to 30 percent of the material. While returns on the latter two
+                    volumes had only recently arrived and a careful examination had not yet taken
+                    place, it was clear that little declassified material could reasonably be found
+                    to compensate for such deletions. The compilation on France, Italy, and
+                    Yugoslavia were badly “cut” both in quantity and quality. <hi rend="underline"
+                        >Mr. Sampson</hi> concluded that the general picture with respect to the
+                    CDC's re-review of these eight volumes was mixed.</p>
+                <p rend="center"><hi rend="underline">Status of Re-Review of Western Hemisphere, African, and Middle
+                    Eastern Volumes</hi></p>
+                <p><hi rend="underline">Mr. Claussen</hi>, speaking for the Western Hemisphere,
+                    African, and Middle Eastern Division, stated that a greater quantity of
+                    significant material intended for publication in <hi rend="underline">Foreign
+                        Relations</hi> had been declassified under the old system prior to the
+                    establishment of the CDC, even though that system may been uneven and dependent
+                    on <hi rend="underline">ad hoc</hi> arrangements. He noted that six volumes for
+                    which his Division was responsible were being re-reviewed by the CDC. In only
+                    one case, that of 1952-1954, Volume IV, American Republics, did the re-review
+                    represent an improvement over the initial review. This was the result of a
+                    country desk's reconsideration of a particular group of related documents, but
+                    under the old system HO would in any case have appealed the original decision to
+                    the desk.</p>
+                <p>In the case of other volumes, a higher rate of deletion was evident under the new
+                    centralized system. Volume I for 1952-1954, for example, dealing with general
+                    economic and political matters, had originally been cleared for publication by
+                    desks and Bureaus of the Department with only five small excisions. After the
+                    re-review, CDC requested that portions of 18 documents be excised and that a
+                    19th document be deleted in full. Another example was Volume IX for 1952-1954,
+                    covering the Near and Middle East, originally cleared for publication by the
+                    appropriate geographic bureau with five excisions. Preliminary returns from the
+                    CDC re-review called for the deletion of all or parts of 220 documents.</p>
+                <p><hi rend="underline">Mr. Claussen</hi> mentioned several general characteristics
+                    of the CDC declassification review process that he had observed: One was a
+                    tendency by CDC to formalize its grounds for denying declassification of
+                    material in any one area and extend them as precedents to all other areas. At
+                    the same time, there was some inconsistency between and within volumes in what
+                    various CDC reviewers chose to declassify what they chose to withhold. Under the
+                    old system, HO spoke and negotiated directly with other geographic and
+                    functional components of the Department. The results were sometimes successful,
+                    sometimes unsuccessful, but least HO had the advantage of dealing directly with
+                    the interested parties. Under the new centralized system, HO had to rely on CDC
+                    as an intermediary to convey the views of the desks to HO and in turn to convey
+                    HO's counter-arguments fully, accurately, and persuasively.</p>
+                <p>Another aspect of the new system was its greatly-expanded concern with foreign
+                    government information, including such information in documents of U.S. origin.
+                    In such cases CDC had a tendency to delete entire documents rather than to
+                    remove only the portions that actually contained sensitive foreign government
+                    information. In making excisions in documents, CDC frequently deleted more words
+                    or sentences than was actually necessary to protect sensitive information. The
+                    work of some CDC reviewers indicated that they had been insufficiently briefed
+                    on the nature and scope of the <hi rend="italic">Foreign Relations</hi> series,
+                    or on the applicable government regulations concerning it. CDC reviewers were
+                    often unaware of precedents in the public domain that might facilitate
+                    declassification. Despite informal suggestions by HO historians that CDC
+                    reviewers acquaint themselves with the precedents that appear in
+                    previously-published <hi rend="italic">Foreign Relations</hi> volumes, memoirs
+                    and historical literature, and documents previously declassified, CDC continues
+                    to rely on HO to discover relevant precedents for declassification. In oral and
+                    written exchanges, CDC has usually placed on HO the burden of proving that
+                    information was non-sensitive. CDC had not in certain cases been forthcoming in
+                    explaining, in accordance with Executive Order 12065, specifically where the
+                    sensitivities lie in material it proposes for deletion.</p>
+                <p rend="center"><hi rend="underline">Evaluating the CDC Review</hi></p>
+                <p><hi rend="underline">Mr. Rubin</hi> asked who the CDC reviewers were who had
+                    reviewed this <hi rend="italic">Foreign Relations</hi> material. <hi
+                        rend="underline">Mr. Claussen</hi> said that the CDC employed about 115
+                    retired Foreign Service Officers on a part-time basis. <hi rend="underline">Mr.
+                        Rubin</hi> said that a friend who was now working for the CDC had been an
+                    excellent Foreign Service Officer, but was not the sort of person he would want
+                    to see reviewing documents for their sensitivity. He recalled an anecdote in
+                    connection with the publication of the Egypt-Israel peace treaty by the American
+                    Association of International Law. There were protests against this publication,
+                    even though the treaty and exchanges were in the public domain.</p>
+                <p><hi rend="underline">Mr. Trask</hi> compared the old and new declassification
+                    review systems in the Department. Before the establishment of the central
+                    system, reviewing was frequently done by junior desk officers; now it was done
+                    by Senior Foreign Service Officers. He cited the factor of time required in the
+                    review process and expressed the belief that time would be saved under the new
+                    system. If time were not saved, the CDC system would be a failure.</p>
+                <p><hi rend="underline">Prof. George</hi> said that he was not persuaded by this
+                    analysis. The new system deprived HO of direct access to desk officers. New
+                    middle men, who were not sympathetic to declassification, had interceded. <hi
+                        rend="underline">Mr. Trask</hi> replied that if the CDC were staffed as
+                    originally proposed, the new system would work. He said that if there had been
+                    better coordination and consultation between the parties at the outset, the
+                    present problems would have been avoided. It was difficult to compare the review
+                    process of 1976 with that of 1980. The context was different and a 20-year line
+                    was now the objective, but he perceived no dramatic difference in volume and
+                    quantity of deletions.</p>
+                <p><hi rend="underline">Mr. Claussen</hi> raised a further point concerning the new
+                    system. As the system was originally planned, CDC was to review as a “sample” a
+                    collection of documents prepared by HO containing approximately 10 times the
+                    number of documents in the compilations themselves. But CDC had in fact been
+                    reviewing only the <hi rend="italic">Foreign Relations</hi> manuscript, and had
+                    not had time to review the large quantity of backup material HO had
+                    submitted.</p>
+                <p rend="center"><hi rend="underline">Status of the Re-Review of the Asian Division's Volumes</hi></p>
+                <p><hi rend="underline">Mr. Glennon</hi> prefaced his remarks on the particular
+                    effects of re-review on the Asian volumes for 1951-1954 by saying that he
+                    believed that no method of systematic review could possibly succeed because, in
+                    his experience, systematic review was anything but systematic. On the contrary,
+                    it was arbitrary, capricious, and highly subjective. As an illustration of this
+                    point, <hi rend="underline">Mr. Glennon</hi> related his experience with the
+                    recent re-review of one country compilation in a 1952-1954 Volume. In this
+                    instance the CDC re-review list of denied documents and the previous bureau list
+                    of denied documents stemming from the first review contained only three common
+                    items out of a total of several dozen. <hi rend="underline">Mr. Glennon</hi>
+                    felt that the only reasonable approach to bulk declassification was to allow the
+                    passage of time to be the sole determinant of declassification, so that files
+                    would be opened and volumes published at an agreed period after
+                    currency--possibly 30 years--without exception.</p>
+                <p><hi rend="underline">Mr. Trask</hi> concluded that HO must recognize sensitivity
+                    and not select documents that have no chance of surviving the clearance process.
+                    HO had to change the practice of its compilers and do some initial screening for
+                    sensitivity in the future. This was not a welcome thought for the historians in
+                    the Office, and <hi rend="underline">Mr. Trask</hi> noted that he was
+                    uncomfortable with the idea too. But HO had to avoid the accusation of being
+                    unconcerned with security.</p>
+                <p>The Committee took a short break at this point.</p>
+                <p rend="center"><hi rend="underline">More on Declassification</hi></p>
+                <p><hi rend="underline">Mr. Trask</hi> resumed after the break with a consideration
+                    of a memorandum of a conversation of April 4, 1980 regarding the re-review of
+                    all volumes for the 1950-1954 period. HO resisted re-review because of the delay
+                    and expense involved. Moreover no convincing rationale for the reconsideration
+                    had been adduced. The re-review was confirmed in a series of memoranda between
+                    EUR and PA during the week of April 11 to April 18, 1980. These memoranda
+                    formalized and legitimized the re-review decision-making process. On April 15
+                        <hi rend="underline">Mr. Trask</hi> spelled out in a memorandum the details
+                    of HO's plan to resist re-review. It was never fully implemented because Carter
+                    soon left the Department. Among the papers outlining the story of re-review was
+                    a letter from CIA requesting the opportunity to re-examine all unpublished
+                    volumes. HO has resisted this request for re-review.</p>
+                <p>A series of documents followed, indicating how the question was pursued through
+                    the normal channels, which meant in effect pursuing the re-review issue to the
+                    Oversight Committee headed by Ben Read, Under Secretary of State for Management.
+                    The concluding portion of this series of documents dealt with various HO
+                    arguments, steps taken, and those HO felt should be taken, at the highest levels
+                    of the Department. <hi rend="underline">Mr. Trask</hi> worked on the premise
+                    that HO would get a better and fairer hearing at higher Department levels. He
+                    continues to feel that has proven to be the correct presumption. <hi
+                        rend="underline">Mr. Trask</hi> informed the Advisory Committee on June 11
+                    that the decision had been made at the June 5 meeting to continue the re-review
+                    but that appeals were allowable. These appeals would be made through
+                    established, substantive-oriented channels to the Under Secretary of State for
+                    Political Affairs. At the meeting of June 5 it was also decided that a rationale
+                    for re-review would be prepared, but such a rationale has yet to be
+                    perfected.</p>
+                <p>In view of the affirmation of the principle of re-review, <hi rend="underline"
+                        >Mr. Trask</hi> initiated the second phase of the Office's resistance to the
+                    process. He filed a dissent channel protest. This is a Department administrative
+                    procedure to bring extraordinary problems to the attention of the Secretary of
+                    State. <hi rend="underline">Mr. Trask</hi>'s dissent challenged the presumption
+                    that an adequate case had been made for the necessity of re-review, and noted
+                    the cost and delay involved. HO's object in filing the protest, <hi
+                        rend="underline">Mr. Trask</hi> noted, was not to oppose the new
+                    declassification system but to get it to work as intended. <hi rend="underline"
+                        >Mr. Trask</hi> believed considerable progress has been made in this
+                    respect. The result was a memorandum of October 14, 1980, that re-affirmed
+                    re-review, emphasized the “balancing test” in conducting declassification review
+                    and noted the necessity to make use of the Oversight Committee.</p>
+                <p>Meanwhile, HO continued to file appeals of specific denials in accordance with
+                    the decisions of June 5. One such appeal that for 1951, Vol. III (European
+                    Security and the German Question) had already gone through this process. The
+                    views of HO and CDC were presented at a meeting with Under Secretary Newsom. <hi
+                        rend="underline">Mr. Trask</hi> felt the result was what might be termed a
+                   “split decision.” HO won some arguments and lost others. A series of rulings
+                    were given by this “judge.” <hi rend="underline">Mr. Trask</hi> felt that this
+                    meeting represented considerable gains, especially in assuring that “due
+                    process” would be followed.</p>
+                <p><hi rend="underline">Prof. Taylor</hi> asked whether the Advisory Committee
+                    members could keep any of the documents presented. <hi rend="underline">Mr.
+                        Trask</hi> said that they would not be allowed to. He confirmed to <hi
+                        rend="underline">Prof. Unterberger</hi>, however, that they could look at
+                    the documents later that afternoon during their private meeting. He also said
+                    they could keep the memorandum on his meeting with representatives of the
+                    Organization of American Historians on October 17, 1980.</p>
+                <p><hi rend="underline">Mr. Trask</hi> said that the appeals had been narrowed to
+                    those involving fundamental principles of great importance. He would continue to
+                    appeal and use this appeals channel as necessary. He hoped the use of this
+                    channel would become less necessary as orderly processes are implemented.</p>
+                <p><hi rend="underline">Prof. Unterberger</hi> asked what the standard was for the
+                    release of a volume after the re-review and appeals process. <hi
+                        rend="underline">Mr. Trask</hi> replied that if it was determined that other
+                    materials could be used as substitutes for the deleted documents, the volume
+                    would be published. Exceptions would be made in the case of those deleted
+                    portions deemed critical, such as documents in the 1949 China volume. HO would
+                    go ahead with publication wherever possible because it was already so far behind
+                    schedule. <hi rend="underline">Mr. Trask</hi> assured the committee, however,
+                    that HO would not publish a volume that had been seriously distorted by
+                    deletions.</p>
+                <p><hi rend="underline">Prof. Hess</hi> asked whether the assumption was that the
+                    appeals process would open up the documentary record. <hi rend="underline">Mr.
+                        Trask</hi> replied that there were problems on both sides of the fence. PA
+                    should take security considerations more seriously, and other Department
+                    officials should take openness more seriously. The dissent channel was for
+                    extraordinary cases and could not be used too often.</p>
+                <p><hi rend="underline">Mr. Baehler</hi> pointed out the importance of the
+                   “balancing test” called for in Executive Order 12065. The assumption was that
+                    older documents were easier to release but not all Department officials are
+                    aware of this distinction.</p>
+                <p><hi rend="underline">Prof. Hess</hi> observed that the burden seemed to be
+                    shifting to HO to “prove” that documents should be declassified. <hi
+                        rend="underline">Mr. Trask</hi> said that the question was whether to fight
+                    wherever we could fight or do nothing and allow FRUS to go down the drain. ' He
+                    of course had chosen the former course. <hi rend="underline">Mr. Slany</hi>
+                    pointed out that the amount of staff time involved in the re-review, including
+                    appeals to the Under Secretary for Political Affairs, confirmed that the burden
+                    of proof was now on HO.</p>
+                <p><hi rend="underline">Mr. Trask</hi> reiterated that use of the dissent channel
+                    was an extreme measure. HO would vigorously pursue the options open in the
+                    appeals process and in reference to the Oversight Committee. He cited an S/P
+                    memorandum, especially the last paragraph, as a rebuff to CDC. This type of
+                    response illustrated the purpose of HO's strategy. He was not aware of any other
+                    channel open to HO. He hoped sound Department policy on declassification would
+                    emerge from this experience.</p>
+                <p rend="center"><hi rend="underline">Self-Denial or Self-Censorship in Compiling</hi></p>
+                <p><hi rend="underline">Prof. Taylor</hi> said that he was disturbed by an earlier
+                    statement by <hi rend="underline">Mr. Trask</hi> that he wanted the HO staff to
+                    be more careful not to submit very sensitive material for declassification. <hi
+                        rend="underline">Dr. Schoettle</hi> said it was her understanding that HO
+                    was specifically charged with submitting sensitive material. <hi
+                        rend="underline">Mr. Trask</hi> responded that a determination of
+                    sensitivity in the clearance process was a very subjective matter. He added that
+                    an inclination on the part of the professional staff to print documentation
+                    relating to matters such as covert operations presented clearance problems. He
+                    believed that good common sense needed to be exercised by the historians in the
+                    office.</p>
+                <p><hi rend="underline">Prof. George</hi> said that he was disturbed by what <hi
+                        rend="underline">Mr. Trask</hi> had said here and on an earlier occasion to
+                    the effect that his staff should anticipate negative decisions higher up and
+                    reduce the number of controversial items sent forth. On what basis had <hi
+                        rend="underline">Mr. Trask</hi> claimed the staff was inattentive? <hi
+                        rend="underline">Mr. Trask</hi> agreed with <hi rend="underline">Prof.
+                        George</hi> but said that HO historians were employees of the U.S.
+                    Government and should be aware of the Executive Order guidelines. If the staff
+                    wanted to print an obviously sensitive document, he would question whether the
+                    substance of the document justified printing it.</p>
+                <p><hi rend="underline">Prof. George</hi> commented that it was important not to
+                    allow HO staff to be pushed into a conservative posture, by making preliminary
+                    judgments, and <hi rend="underline">Mr. Trask</hi> agreed. <hi rend="underline"
+                        >Prof. George</hi> said that this was especially important because the
+                    committee had heard testimony that any two groups of reviewers could come up
+                    with entirely different deletions in the same body of material.</p>
+                <p><hi rend="underline">Mr. Slany</hi> remarked that it may be urgent for HO to
+                    collect all sensitive materials so that Department officials can identify them.
+                    This would be a service to them. HO was uniquely capable of presenting the
+                    complete and comprehensive record; the CDC was not able to do this by
+                    itself.</p>
+                <p><hi rend="underline">Mr. Trask</hi> said he wanted HO only to recognize early on
+                    when a given document was sensitive. He was not favoring censorship but good
+                    judgment in recognizing when to stop arguing. <hi rend="underline">Mr.
+                        Slany</hi> said HO should rely on presenting a full documentary record. <hi
+                        rend="underline">Prof. Unterberger</hi> said HO should always present
+                    everything, maintaining the integrity of the record. <hi rend="underline">Dr.
+                        Rubin</hi> said he did not know what the most sensitive documents were, and
+                    that judgment was obviously involved, but that prejudice in the direction of
+                    openness should be the guiding principle.</p>
+                <p rend="center"><hi rend="underline">Staffing the CDC</hi></p>
+                <p><hi rend="underline">Prof. Taylor</hi> asked whether any effort had been made to
+                    include professional historians in staffing the CDC. <hi rend="underline">Mr.
+                        Trask</hi> responded that there were no funds for such historians but only
+                    for retired FSOs. The decision was made on that basis. He wanted to bring this
+                    issue to the Oversight Committee. The Inspector General would take a look at
+                    this in two or three years. He wanted such an inspection to take place and was
+                    recommending this to the PA Bureau. We could not expect much action in the
+                    policy area until after the transition to the new administration. <hi
+                        rend="underline">Dr. Rubin</hi> commented that the Assistant Secretary for
+                    Public Affairs might, on the other hand, say “Why not?” He might believe he had
+                    nothing to lose in promoting reforms before he was removed by the new
+                    administration.</p>
+                <p rend="center"><hi rend="underline">The Problem of Editorial Notes for Deleted Documents</hi></p>
+                <p><hi rend="underline">Mr. Slany</hi> said there was one more issue. HO must
+                    develop new editorial procedures to deal with identifying the complete
+                    documentary record. The question at issue was how to deal with those documents,
+                    or parts of documents, that were not declassified. CDC and some Bureaus were
+                    opposed to any editorial indication of substance or agency involved in the
+                    deletion.</p>
+                <p><hi rend="underline">Mr. Trask</hi> observed that the <hi rend="italic">Foreign
+                        Relations</hi> series was becoming more and more a guide to the documentary
+                    record, but some of this was being questioned within the government. <hi
+                        rend="underline">Mr. Trask</hi> believed that the editorial content of the
+                        <hi rend="italic">Foreign Relations</hi> volumes was the responsibility of
+                    the Assistant Secretary for Public Affairs, and HO would look to him alone for
+                    instruction on this matter.</p>
+                <p><hi rend="underline">Prof. George</hi> asked whether HO or CDC had the final
+                    judgment on editorial handling of deletions. Was there a clear understanding?
+                        <hi rend="underline">Mr. Trask</hi> said this still remained an unresolved
+                    issue. For example, if a Dutch document denied by the Dutch government but
+                    summarized in an editorial note was later denied by the CDC, HO would have to
+                    accept. the CDC judgment as correct. But HO still determined editorial policy.
+                    There were problems in defending autonomy in editorial judgment. Some deletions
+                    in editorial notes had been accepted, others would be contested. Both wanted to
+                    be able to explain ellipses and documentary material denied clearances. <hi
+                        rend="underline">Mr. Slany</hi> mentioned that in the case of NSC documents,
+                    notes had been inserted in earlier <hi rend="italic">Foreign Relations</hi>
+                    volumes that the materials were not printed at NSC request. <hi rend="underline"
+                        >Mr. Claussen</hi> noted that introductions to the volumes can in the future
+                    point to this issue.</p>
+                <p rend="center"><hi rend="underline">The Disposition of Office “Lot” Files</hi></p>
+                <p><hi rend="underline">Prof. Taylor</hi> asked about “lot” files. <hi
+                        rend="underline">Mr. Trask</hi> said these files were important, especially
+                    for understanding the decision-making process. <hi rend="underline">Prof.
+                        Taylor</hi> asked whether these lot files were being preserved. <hi
+                        rend="underline">Mr. Baehler</hi> said he could not say whether all were
+                    being preserved, but none were being destroyed in contradiction to the Federal
+                    Records Act. Files could be destroyed if they duplicated other records. <hi
+                        rend="underline">Mr. Slany</hi> added that the National Archives was the
+                    ultimate decision-making agency. If NARS rejected files as duplicating other
+                    records, it would send them back to the Department, which might then destroy
+                    them. <hi rend="underline">Mr. Trask</hi> said this was a difficult battle. The
+                    solution, <hi rend="underline">Mr. Price</hi> said, is the digital system,
+                    whereby the Department would have in effect only one file. HO would do
+                    everything possible, <hi rend="underline">Mr. Trask</hi> contended, to preserve
+                    the lot files.</p>
+                <p>The meeting recessed at 12:30 p.m. to reconvene in Mr. Trask's office after
+                    lunch.</p>
+                <p rend="center">Afternoon Session<lb/>(November 14, 1980; 2:45-3:30 p.m.)</p>
+                <p rend="center"><hi rend="underline">The Status of Research and Reference Projects</hi></p>
+                <p>The meeting reconvened in <hi rend="underline">Mr. Trask's</hi> office at 2:45
+                    p.m. <hi rend="underline">Mr. Petersen</hi> reported on the research and
+                    reference functions of the Office. He said that HO did research in response to
+                    Department requests. These studies could be from one page to several volumes in
+                    length and involve administrative histories, crisis management studies,
+                    compiling or updating of reference works (<hi rend="italic">United States Chiefs
+                        of Mission</hi>, for example). These studies served as an institutional
+                    memory for the Department. They helped to identify and preserve relevant files
+                    and also were useful in preparing <hi rend="italic">Foreign Relations</hi>
+                    volumes. <hi rend="underline">Mr. Petersen</hi> said that he was now the only HO
+                    historian doing in-house research on a full-time basis. HO had some discretion
+                    in refusing requests; for example, it could say that it did not have enough
+                    resources to do a study. For larger projects the Office formed task forces. <hi
+                        rend="underline">Mr. Petersen</hi> circulated to the Advisory Committee a
+                    list of larger projects completed during the past five years and gave highlights
+                    of the past year. He mentioned, for example, 10 large studies concerning
+                    legislative constraints in the conduct of foreign relations; a compilation
+                    involving narratives, public statements, and chronologies on Iran, 1941-1979; a
+                    list of public statements and narrative studies on Cuba; Madeleine Chi's study
+                    on U.S. relations with Sri Lanka for the ambassador-designate; and a study on
+                    the evolution of the position of the national security adviser from
+                    1947-1980.</p>
+                <p><hi rend="underline">Mr. Slany</hi> recalled that during the past winter HO had
+                    been asked to prepare in 24 hours for possible use for White House studies on
+                    the 1956 Soviet intervention into Hungary and the 1968 Soviet intervention into
+                    Czechoslovakia. <hi rend="underline">Mr. Sampson</hi> had gathered together the
+                    requested materials. One of the items was a long, detailed study, prepared
+                    several years earlier, on the Czechoslovak case. President Carter and National
+                    Security Adviser Brzezinski both publically acknowledged the significance of the
+                    HO report in assessing the decisions to be taken in connection with the Soviet
+                    invasion of Afghanistan. The President privately commended the Office on its
+                    work.</p>
+                <p><hi rend="underline">Mr. Claussen</hi> pointed out that the entire office had
+                    been involved in the Iran project, and that HO was commended for its
+                    objectivity.</p>
+                <p><hi rend="underline">Mr. Trask</hi> commented that policy-oriented research
+                    increasingly involved the Third World, since less was known about it.</p>
+                <p><hi rend="underline">Prof. George</hi> asked how much HO time was devoted to this
+                    type of research. <hi rend="underline">Mr. Trask</hi> said it was hard to judge
+                    but he was very interested in this aspect of office work. It involved the
+                    question of how to do research that is policy-relevant. HO was still
+                    experimenting with various modes. At present he wanted to catch up with
+                    compilation of the <hi rend="italic">Foreign Relations</hi> series after which
+                    more time could be diverted to policy-related research. His goal is expend about
+                    10 percent of HO resources, which was less than that devoted by HO in the
+                    past.</p>
+                <p><hi rend="underline">Dr. Schoettle</hi> said she was excited about this aspect of
+                    HO work, and wondered why an ERDA study on India had to be written by a
+                    professor on the outside. <hi rend="underline">Mr. Trask</hi> said that HO was
+                    interested in interagency research but felt that the other agencies were not. He
+                    felt HO had to forge links with other agencies to transcend fiefdoms. The
+                    indications were that HO research had been more helpful to the Department in the
+                    past year but the overall productivity of Office had also increased. <hi
+                        rend="italic">Foreign Relations</hi> production remained on schedule. He
+                    also noted that word processing equipment in-house has been a great help in
+                    producing and revising these research papers.</p>
+                <p><hi rend="underline">Prof. Taylor</hi> and <hi rend="underline">Prof.
+                        Unterberger</hi> asked whether these research papers went into a Department
+                    file or the central files. <hi rend="underline">Mr. Trask</hi> said that there
+                    were HO lot files, and some papers would be in the central files.</p>
+                <p><hi rend="underline">Mr. Petersen</hi> reported that HO had written 30 papers for
+                    the Policy Planning Staff which highlighted public statements on issues. These
+                    were unclassified studies. <hi rend="underline">Mr. Trask</hi> speculated on the
+                    purposes of these studies. He did not know what finally happened to them.</p>
+                <p><hi rend="underline">Mr. Slany</hi> remarked that HO research papers did not have
+                    full standing, as they were not cleared in the Department by other concerned
+                    Bureaus. One on Cuba, however, was reviewed, cleared, and sent to the White
+                    House. <hi rend="underline">Mr. Trask</hi> remarked that HO might not want these
+                    papers cleared because the result might be compromising to the integrity and
+                    objectivity of the studies.</p>
+                <p>The meeting concluded at 3:50 p.m.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

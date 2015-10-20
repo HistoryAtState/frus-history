@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Minutes of Historical Advisory Committee Meeting, November
+                    1962</title>
+                <title type="short">HAC Meeting Minutes, 1962</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-02-10">February 10, 2014</date>
+                <date type="created" when="1962-11-02">November 2-3, 1962</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1962-11-02-hac-meeting-minutes.pdf">PDF</ref>, 1.3 MB, 15pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 2, 1962—Minutes. Limited Official
+                Use.</hi></p>
+            <div type="document">
+                <head>Minutes of the 1962 Meeting of the Advisory Committee on <hi rend="italic"
+                        >Foreign Relations of the United States</hi></head>
+                <dateline>November 2-3, 1962</dateline>
+                <p>The morning session on Friday, November 2, began at approximately 9:15 a.m.</p>
+                <p>Present:</p>
+                <list>
+                    <item>The Advisory Committee:<list>
+                            <item>Clarence A. Berdahl</item>
+                            <item>Leland M. Goodrich</item>
+                            <item>Fred H. Harrington</item>
+                            <item>Richard W. Leopold</item>
+                            <item>Dexter Perkins</item>
+                            <item>Philip W. Thayer</item>
+                        </list></item>
+                    <item>Officers of the Historical Office:<list>
+                            <item>William M. Franklin</item>
+                            <item>E. R. Perkins</item>
+                            <item>Richardson Dougall</item>
+                            <item>E. Taylor Parks</item>
+                            <item>S. Everett Gleason</item>
+                        </list></item>
+                    <item>The <hi rend="italic">Foreign Relations</hi> staff:<list>
+                            <item>Newton O. Sappington</item>
+                            <item>Rogers P. Churchill</item>
+                            <item>Fredrick Aandahl</item>
+                            <item>John G. Reid</item>
+                            <item>Almon R. Wright</item>
+                            <item>Ralph R. Goodwin</item>
+                            <item>Herbert A. Fine</item>
+                            <item>Velma H. Cassidy</item>
+                            <item>William Slany</item>
+                            <item>John P. Glennon</item>
+                            <item>George Kent</item>
+                        </list></item>
+                    <item>G. Bernard Noble, former Director of the Historical Office</item>
+                </list>
+                <p>AGENDA ITEM 1: Opening remarks:</p>
+                <p>Mr. Franklin welcomed the Committee with appropriate opening remarks.</p>
+                <p>AGENDA ITEM 2: Report on status of the series:</p>
+                <p>Mr. E. R. Perkins stated that <hi rend="italic">Foreign Relations</hi> had not
+                    made rapid progress in 1962. An American Republics volumes for 1941 was still
+                    beset by clearance difficulties. In one instance, we had even retrogressed, for
+                    despite FE commitment on the release of 1944 China, voices of protest from
+                    Taipei and second thoughts in FE had again resulted in shelving the series. Mr.
+                    Perkins expressed great optimism on our forthcoming publication program. He
+                    predicted that five volumes would be published during the remainder of the
+                    fiscal year (American Republics, 1941, vol. VII, and 1942, vol. VI; General,
+                    1943, vol. I; and Near East, 1942, vol. IV, and 1943, vol. IV) and that one
+                    additional volume (American Republics, 1941, vol. VI) would possibly be
+                    published. The compilations for 1944 soon be in galleys, opening the way to
+                    undertake clearance activities. Manuscript for two volumes of 1945 was being
+                    readied for transfer to PB.</p>
+                <p>Mr. Franklin noted that two or three conference volumes would be in galleys by
+                    the end of the fiscal year--one or possibly two volumes on the Washington and
+                    Casablanca conferences (depending on the amount of material) and one on the
+                    Quebec conferences.</p>
+                <p>AGENDA ITEM 3: Report on clearance problems:</p>
+                <p>Mr. Sappington discussed the clearance problems facing the American Republics
+                    area for 1941, the most protracted clearance problem (over 18 months) faced by
+                        <hi rend="italic">Foreign Relations</hi> today. ARA, a year ago, had raised
+                    the issue of clearing memoranda of conversation with foreign Governments but had
+                    recently withdrawn from this position after opposition by HO. The chief obstacle
+                    remaining was the dilatoriness of ARA in clearing the proclaimed list of
+                    compilation (1941, vol. VI). Mr. Sappington was puzzled at the ARA position
+                    inasmuch as only broad policies and principles were documented and the names of
+                    individuals and companies were not cited. Mr. Thayer, who, as a State Department
+                    officer, had been closely connected with the administration of proclaimed list
+                    activities during the war, gave his opinion that ARA objections were
+                    unwarranted.</p>
+                <p>Mr. Franklin then discussed clearance problems of the China series. He outlined
+                    three possibilities regarding publication of the series--rapid release of the
+                    entire series in the relatively near future, which Secretary Rusk opposed
+                    because of the political implications; release of the volumes at the same time
+                    as the regular annual volumes, which Mr. Franklin regarded as a waste of the
+                    vast efforts put into their preparation; and a compromise arrangement of getting
+                    out one year’s compilation each year, permitting release of the volumes from
+                    1944 to 1949 in six years. The Committee agreed to support the last
+                    alternative.</p>
+                <p>Mr. Sappington discussed a further clearance problem with disturbing
+                    implication--the failure of the Portuguese Government to take positive action on
+                    three representations over a period of two years for permission to print. We
+                    inquired whether we might publish certain Portuguese documents without the
+                    consent of the Portuguese Government under these circumstances. Mr. Franklin
+                    noted that in connection with the Cairo-Tehran volume, the Turkish Government
+                    had not responded to clearance requests and that relevant documents had been
+                    published, finally, after NEA approval. No reaction had been heard from the
+                    Turkish Government. He also noted that one foreign government official had
+                    indicated to American authorities that it might be better for the Department to
+                    publish documents originating with foreign governments without asking
+                    permission. Mr. Churchill observed that we had notified the Ethiopian Government
+                    in 1960, after non-receipt of replies to clearance queries, that the Department
+                    would print certain Ethiopian documents unless the Ethiopian Government replied
+                    within a given time and that we had printed them when nothing was heard from
+                    that Government. Mr. Franklin expressed his view that there should be no time
+                    limit of foreign clearance but that we reserved the right to publish if there
+                    was no substantive reply.</p>
+                <p>Mr. Berdahl raised the question as to whether there should be a three-month time
+                    limit on Department clearance. It was the sense of the Committee that this would
+                    be most desirable. Mr. Franklin agreed with the concept but was willing to
+                    accept up to a six-month limit as a fallback position. It was noted that several
+                    years ago Deputy Under Secretary Robert D. Murphy had called for a month’s
+                    deadline but this had not been enforced.</p>
+                <p>Messrs. Goodrich and Leopold cited the President’s letter of September 6, 1961,
+                    as an aid in stimulating more rapid clearance. During the discussion which
+                    ensued, Mr. Franklin pointed out that the letter had not received the personal
+                    approval of the Secretary. It was the sense of the Committee that the matter not
+                    be raised with the Secretary when the Committee had lunch with him the following
+                    day.</p>
+                <p>AGENDA ITEM 4: Report on review of volumes for 1945:</p>
+                <p>Mr. E. R. Perkins noted that the end of compilation was in sight, with Eastern
+                    Europe and Germany as the chief area farthest from completion. He stated that
+                    pressures from above to reduce the number of annual volumes for 1945 to eight
+                    had forced the staff to reevaluate compilations already bearing his approval,
+                    with a view to cutting down or eliminating them. The Committee queried whether
+                    it might profitably give its judgments on cutting down or eliminating
+                    compilations along the lines of the 1946 priorities program. Mr. E. R. Perkins
+                    gave his opinion that there would be insufficient time for this to be done
+                    profitably.</p>
+                <p>In response to a question from Mr. Goodrich regarding the type of materials to be
+                    used in the UNCIO compilation, Mr. E. R. Perkins stated that <hi rend="italic"
+                        >Foreign Relations</hi> would not duplicate materials included in the
+                    published record of the conference.</p>
+                <p>There was a lengthy discussion of budgetary matters, centering particularly on
+                    the problem of scheduling publication of the <hi rend="italic">Foreign
+                        Relations</hi> volumes. Mr. Noble gave an interesting budgetary history of
+                        <hi rend="italic">Foreign Relations</hi>, dating from the early 1950’s. Mr.
+                    Franklin cautioned against raising directly budgetary problems with the
+                    Secretary the next day, since if the Secretary went along with the <hi
+                        rend="italic">Foreign Relations</hi> program, the budget official of the
+                    Department would also go along. Mr. Harrington asserted that since the budgetary
+                    stringency was in the Department, the budget problem should be discussed with
+                    the Secretary.</p>
+                <p>As a corollary, discussion ensued as the usefulness of the <hi rend="italic"
+                        >Foreign Relations</hi> program. Mr. Dexter Perkins noted that in speaking
+                    to the Secretary, the Committee must show concretely the utility of the program
+                    to the scholarly world.</p>
+                <p>Mr. Harrington commented concerning the Department cutback of the number of 1945
+                    volumes and suggested the possibility that the Department might decide to reduce
+                    the series possibly to five volumes in the future. He stressed that such
+                    administrative determinations might become a menace to the continuation of <hi
+                        rend="italic">Foreign Relations</hi> as a useful series. He urged the
+                    Committee to press for ten volumes as a reasonable figure and get the backing of
+                    the scholarly community for this effort.</p>
+                <p>In connection with the personnel situation, Mr. Franklin stated that HO had
+                    requested three additional <hi rend="italic">Foreign Relations</hi> positions
+                    and two Historical Studies positions but that these had been “washed out” in P.
+                    Mr. Goodrich asked why HO was placed organizationally in P. Mr. Franklin replied
+                    that for practical and other reasons, HO was more advantageously situated in P
+                    than elsewhere in the Department and that publication problems had been
+                    sympathetically treated by the Assistant Secretary for Public Affairs.</p>
+                <p>AGENDA ITEM 5: Report on planning of volumes for 1946:</p>
+                <p>Mr. Harrington commented that the concept of priorities was being introduced for
+                    the first time for 1946 and commended this as an excellent approach. Mr. Dexter
+                    Perkins and Mr. Leopold concurred.</p>
+                <p>Mr. Gleason discussed the background and principles under which planning for 1946
+                    had been accomplished by him, with the special assistance of Mr. Goodwin and the
+                    general assistance of Mr. E. R. Perkins and the <hi rend="italic">Foreign
+                        Relations</hi> staff. He had reviewed a large number of the completed 1945
+                    compilations, making estimates of the sort of material that might safely be cut
+                    or eliminated. He had studied the Advisory Committee Minutes and Reports for
+                    1961 and Mr. Berdahl’s report in the same year, and had had conferences with
+                    each staff member. The staff had prepared for him listings of possible
+                    compilations for 1946 and he had established a system of priorities for them.
+                    Finally, he had had a further series of conferences with the staff regarding the
+                    system of priorities and the organization of the material, so that the paper
+                    finally turned out for the use of the Committee was in considerable measure a
+                    consensus of the staff.</p>
+                <p>Mr. Franklin emphasized that a question of the philosophy of history was involved
+                    in planning of this sort. Should priorities be based on the importance attached
+                    to issues by the Department at the time they were happening, or should
+                    priorities of importance be based on the hindsight given to us by the passage of
+                    time? He concluded that we would use primarily the latter approach but not be
+                    oblivious to the former. Thus, for example, greater priority would be given to
+                    the question of access to Berlin than to the question of Safehaven--although the
+                    latter would not be ignored.</p>
+                <p>After the point was raised by Mr. Goodrich, Mr. Franklin agreed that in the paper
+                    on <hi rend="italic">Foreign Relations</hi> planning for 1946, the bracketed
+                    note approach was reserved for subjects of third-priority interest. He stressed,
+                    however, that bracketed notes might well be used also for subjects of higher
+                    priority and to condense pertinent sections of major compilations and that brief
+                    documentary treatment might even be given to third-priority subjects. Mr.
+                    Berdahl noted that subjects that might be of special interest to international
+                    lawyers had been relegated to third-priority status.</p>
+                <p>Mr. E. R. Perkins stated that he and Mr. Gleason agreed to treat the Council of
+                    Foreign Ministers meetings in 1945 and 1946 as distinct compilations rather than
+                    to divide the various subjects discussed among the compilers of bilateral
+                    subjects. On the other hand, problems discussed at the United Nations but whose
+                    chief locus was elsewhere (e.g., the Iranian question) would be treated as part
+                    of bilateral compilations.</p>
+                <p>Another general decision on planning was that larger numbers of related subjects
+                    would be grouped into a single compilation than heretofore, e.g., Mr. Reid’s
+                    major compilation on Japan for 1946. This will result in fewer stories and fewer
+                    documents overall.</p>
+                <p>Mr. Slany suggested that some type of narrative device might be introduced in
+                    order to cope with the ever-increasing volume of documentation in <hi
+                        rend="italic">Foreign Relations</hi>. One possibility would be for each
+                    compilation of documents to be preceded by a brief narrative chronology of
+                    documents relevant to the compilation, including those not printed. He observed
+                    that the voluminous documentation of the essentially parallel development of
+                    policy towards the various eastern European countries raised the question of
+                    giving consideration to some sort of narrative treatment as a means of curbing
+                    the size of future compilations for the area. Mr. Franklin stated that if the
+                    administrative restriction on the number of volumes continued,<hi rend="italic"
+                        >Foreign Relations</hi> might feel constrained to use this approach.</p>
+                <p>Mr. Leopold asked how the subject of the formulation of Department policy would
+                    be handled in the 1946 compilations. Mr. Harrington suggested that policy
+                    planning should be documented, even though such planning did not eventuate in
+                    policy. Mr. E. R. Perkins expressed strong opposition to this viewpoint. Mr.
+                    Noble expressed concern over the ability of <hi rend="italic">Foreign
+                        Relations</hi> to do justice to policy planning in the future because the
+                    Policy Planning Staff and other parts of the Department had expressed strong
+                    opposition to the inclusion of briefing papers in <hi rend="italic">Foreign
+                        Relations</hi>. The point was also made that access to NSC papers might
+                    prove difficult.</p>
+                <p>Mr. Harrington expressed the view that the speed of publication was of great
+                    importance to the historical profession and learned societies. He tied the
+                    problem to that of access to the records of the Department by private
+                    researchers, hoping that access to more current material would be afforded if
+                    publication slowed down. Mr. Franklin stated that his policy was to try to get
+                    the period of access moved along as each year of <hi rend="italic">Foreign
+                        Relations</hi> was published and that there was a vital correlation between
+                    speed of publication and the liberalization of access rather than the reverse.
+                    Mr. Parks explained how the procedures on access worked.</p>
+                <p>Mr. Franklin asserted that <hi rend="italic">Foreign Relations</hi> for 1946
+                    would be compiled in the field of first-priority subjects until stock could be
+                    taken of space and time requirements; if these were favorable, second and
+                    possibly third-priority subjects would then be considered.</p>
+                <p>There was further discussion of the “philosophy of history” as it applied to the
+                    problems of <hi rend="italic">Foreign Relations</hi>. Mr. E. R. Perkins raised
+                    the question as to how to treat such ad hoc problems as economic warfare,
+                    removing the Nazis from Latin America, the proclaimed list, etc., if hindsight
+                    on the continuing importance of subjects should be the governing consideration.
+                    Mr. Goodrich noted that the problem would also present itself in reverse
+                    fashion. As a case in point, he queried whether we would feel constrained to
+                    examine every nook and cranny for documentation on the antecedents of Cuban
+                    Communism in 1946 since the questions of Communism in Cuba is a major problem
+                    today. He felt that Cuba in 1946 should have the pace warranted by its
+                    importance as that time rather than its importance today. Mr. Harrington
+                    disagreed.</p>
+                <p>Mr. Leopold commented favorably that HO carried out all requests made by the
+                    Committee in 1961 except for the question as to whether the annual approach
+                    should be abandoned. Mr. Franklin said that it seemed desirable to retain this
+                    approach for various reasons, particularly because it gave a chronological
+                    “push” for the regular clearance for each year’s volumes.</p>
+                <p rend="center">AFTERNOON SESSION</p>
+                <p>Assistant Secretary Manning greeted the Advisory Committee at 2:15 p.m. and
+                    discussed the problems of <hi rend="italic">Foreign Relations</hi>. He stressed
+                    the sense of history he himself felt and the admiration and envy he felt for the
+                    profession of historian. He stated that as journalist and newspaper editor he
+                    had noted that the written word was more effective when compressed and concluded
+                    that 10 volumes of <hi rend="italic">Foreign Relations</hi> were a reasonable
+                    number in view of budgetary stringency.</p>
+                <p>Mr. Harrington extended the appreciation of the Committee for the sympathetic
+                    attitude of Mr. Manning toward the <hi rend="italic">Foreign Relations</hi>
+                    program and then outlined to the four basic problems facing the Historical
+                    Office in the compilation and publication of the <hi rend="italic">Foreign
+                        Relations</hi> series, problems which the Committee expected to raise with
+                    the Secretary of State at luncheon the following day.</p>
+                <p>1. Quantity of publication: Mr. Harrington emphasized the importance the
+                    scholarly world attached to the continued full presentation of <hi rend="italic"
+                        >Foreign Relations</hi>. He noted that without a rein on <hi rend="italic"
+                        >Foreign Relations</hi>, as many as 20 volumes a year might be compiled in
+                    the postwar period. He agreed with Mr. manning;s observations on the
+                    effectiveness of compression in enhancing our product and realized as well that
+                    budgetary considerations precluded a publication program of such extent. The
+                    Committee had agreed, therefore, to the compression of <hi rend="italic">Foreign
+                        Relations</hi> to a maximum of 10 volumes annually. He expressed the
+                    Committee’s concern that should budgetary considerations be uppermost in the
+                    minds of those who administered the Department, there might be an administrative
+                    decision to cut the maximum number of volumes to a point that would impair the
+                    usefulness of the series. Assurances might be sought that this would not be
+                    allowed to happen.</p>
+                <p>2. Personnel question: Mr. Harrington noted that in previous years the Congress
+                    had been the stumbling block to adequate funds for the <hi rend="italic">Foreign
+                        Relations</hi> program. He expressed the concern of the Committee that now
+                    it was the Department that was reluctant to allocate adequate funds to maintain
+                    the operation. Not only was the <hi rend="italic">Foreign Relations</hi> staff
+                    not increasing in line with its wider responsibilities but was actually
+                    shrinking. He expressed the Committee’s concern that young men were not being
+                    recruited to assume future leadership of the program and that staff salaries
+                    were insufficient to attract outstanding personnel to Government service in view
+                    of the competition of higher salaries on college faculties.</p>
+                <p>3. Publication gap: Mr. Harrington recalled that the increasing time-lag between
+                    events covered and the publication of the documentation of these events was an
+                    important issue in the minds of the Committee members. He noted the pride of
+                    American scholars that the United States was far ahead of the rest of the world
+                    in the publication of its diplomatic papers, and he stressed the advantage that
+                    this afforded to the American scholarly community to able to write on a
+                    scientific basis concerning international affairs of recent times. He expressed
+                    concern, now that the United States was the paramount world power with all the
+                    attendant political, financial and other obligations, that <hi rend="italic"
+                        >Foreign Relations</hi> might fall farther behind currency because of the
+                    sensitivity of the material and budgetary considerations.</p>
+                <p>4. Clearance: Mr Harrington expressed the Committee’s concern over the clearance
+                    problem but did not go into detail in this matter.</p>
+                <p>In reply, Mr. Manning stated there had been a tendency in the Department and in
+                    Congress to downgrade the importance of all Departmental activities not in the
+                    main stream of policy and that this was a problem not only for <hi rend="italic"
+                        >Foreign Relations</hi> and the Historical Office but for the entire Bureau
+                    of Public Affairs in connection with budgetary and other problems. But the
+                    release of all types of information to the American people was of tremendous
+                    importance. He felt that the attitude in the Department that P functions were
+                    peripheral was breaking down and as P’s position was strengthened, the position
+                    of HO would improve as well.</p>
+                <p>Mr. Manning was especially pleased that Mr. Harrington had raised the question of
+                    the recruitment of young people, which he also considered important. As regards
+                    clearance, Mr. manning counseled that this operation was one that must be
+                    diligently and tirelessly pursued and that such persistent tactics would win in
+                    the end. As regards the time-lag, Mr. Manning felt that the Secretary was not
+                    greatly disturbed about the twenty-year lag and would probably not favor a
+                    decrease in the lag.</p>
+                <p>Mr. Dougall drew attention to the fact that several times in recent years the
+                    Historical Office had lost promising talent because it had been unable to
+                    guarantee that, by the time security clearances were completed, the job slot
+                    would not have been abolished. Mr. manning thought that the situation in this
+                    regard would be more encouraging in the future.</p>
+                <p>Mr. Perkins stressed the deleterious effect on morale of the staff caused by the
+                    slowness of clearance and publishing procedures and the failure of the
+                    Department to effectuate President Kennedy’s September 1961 letter.</p>
+                <p>The Committee then went into executive session.</p>
+                <p rend="center"><hi rend="underline">Saturday Morning, November 3, 1962, 9:00
+                        a.m.</hi></p>
+                <p>Present:</p>
+                <list>
+                    <item>The Advisory Committee:<list>
+                            <item>Dexter Perkins (Chairman)</item>
+                            <item>Clarence A. Berdahl</item>
+                            <item>Leland M. Goodrich</item>
+                            <item>Fred H. Harrington</item>
+                            <item>Richard W. Leopold</item>
+                            <item>Philip W. Thayer</item>
+                            <item>Robert R. Wilson</item>
+                        </list></item>
+                    <item>The Historical Office:<list>
+                            <item>William M. Franklin</item>
+                            <item>G. M. R. Dougall</item>
+                            <item>E. R. Perkins</item>
+                            <item>S. Everett Gleason</item>
+                            <item>Rogers P. Churchill</item>
+                            <item>Fredrick Aandahl</item>
+                        </list></item>
+                </list>
+                <p>Mr. Dexter Perkins opened the meeting by asking what points the Committee should
+                    take up at luncheon with Secretary of State Rusk, particularly since Mr. Rusk
+                    was understood not to favor bringing the <hi rend="italic">Foreign
+                        Relations</hi> volumes any closer to currency than at present.</p>
+                <p>Mr. Franklin said that during yesterday’s discussions he came to feel that one
+                    fact dominated our present predicament, namely, the lack of any agreed
+                    publication schedule. Such a schedule, approved by the Department as a matter of
+                    standing policy, would serve as a target for the Historical office and the
+                    Division of Publications and would afford leverage in dealing with budget
+                    officers and in getting clearance for our galleys. We would have a regular
+                    established position with the normal presumption that the Department would
+                    provide the personnel and funds to carry out our assigned tasks according to a
+                    predetermined program, one not subject to slowdowns whenever the budget got
+                    tight. Without a definite schedule we have no strong defense against periodic
+                    cuts, and our experience has been that we rarely could regain lost ground. With
+                    a fixed timetable we could go to the administrators and budget people and point
+                    to the measurable needs and actual deadlines. Also, a regular schedule would
+                    protect us in the future from special series, which have caused us so many
+                    problems in recent years.</p>
+                <p>Mr. Churchill commented that getting a 20-year commitment would not of itself
+                    solve our problems of staff and clearances, but there was general agreement that
+                    such a commitment would make our budget presentation much more effective, for we
+                    should not then be regarded as an operation that could be slowed down whenever
+                    funds were short. We particularly must have some momentum in order to attract
+                    new recruits of the caliber we seek.</p>
+                <p>Members of the Committee discussed what the proper interval should be: 20, 25, or
+                    30 year, for example, or even the 15 years mentioned in President Kennedy’s
+                    letter of September 1961. It was hard to be dogmatic on this, since it was a
+                    matter of balancing needs of national security and national enlightenment, both
+                    of which are important. Mr. Harrington pointed out that if the Committee
+                    recommended 20 years, this in itself represented a great concession on the part
+                    of the scholarly world, and one which should be recognized by the Department of
+                    State, which had invited the Committee’s views on this matter. The learned
+                    societies were trying to be reasonable, and they hoped that the Department
+                    appreciated this. There was a major public interest in the question, one going
+                    beyond the immediate convenience of the Department, which must recognize its
+                    obligations in the matter. Mr. Ralph Perkins, pointing to the advantages of
+                    early publication both for the usefulness of the series and for the morale of
+                    the staff, expressed the view that more use should be made of President
+                    Kennedy’s letter of September 1961, and there was considerable discussion as to
+                    how this could best be done. Mr. Goodrich thought it was particularly important
+                    to arouse Secretary Rusk’s interest, both as a scholar and a practitioner in
+                    diplomacy and international relations, in the solid merits and practical utility
+                    of the series and to persuade him to lay it down as his own policy that the
+                    series should be afforded the priorities and resources it needed to maintain the
+                    very fine tradition it has long enjoyed but which is now endangered. Without the
+                    full weight of the Secretary’s authority behind the series, it could hardly be
+                    expected to fulfill its historic function in a way acceptable to the scholarly
+                    world, as represented by this Committee.</p>
+                <p>Mr. Leopold agreed that <hi rend="italic">Foreign Relations</hi> was a customary
+                    and traditional activity of the Department of State, of great value to the
+                    scholarly world, and Mr. Gleason added that it was valuable not only to the
+                    professors but also to their students, to whom the benefits were directly
+                    communicated. Mr. Harrington commented that most Americans did not know enough
+                    about these things and that it was up to <hi rend="italic">Foreign
+                        Relations</hi> to supply much of the basic information. Mr. Goodrich and Mr.
+                    Wilson said that these volumes were the logical place to begin research on most
+                    questions of U.S. foreign policy and that it was important to give them proper
+                    backing. Mr. Ralph Perkins noted that in the early years the volumes came out
+                    soon after the events; he felt that the longer interval detracted from the
+                    usefulness. Morale had never been higher than during the editing of the China
+                    volumes, which were expected to appear promptly. Mr. Leopold agreed that a sense
+                    of timeliness and urgency made a great difference, but he thought that in
+                    addition to the delays another drawback was that there were too many volumes now
+                    per year for convenient use by desk officers and foreign service officers. One
+                    of the merits of the tighter selection would be to make the volumes more useful
+                    through elimination of much marginal material.</p>
+                <p>Summing up this phase of the discussion, the Chairman said that the Committee
+                    should take up with Secretary Rusk the question of setting a definite interval
+                    between events and publication, and that it should explore the possibility of
+                    getting the Secretary’s agreement in principle to have the Department provide
+                    the resources needed to do the job properly and steadily. The Committee need not
+                    necessarily press for any particular interval, such as 20 years, but they ought
+                    to try to get the principle accepted.</p>
+                <p>Mr. Ralph Perkins then raised the question mentioned in the previous day’s
+                    meeting as to how much attention should be given to technical subjects, such as
+                    suppression of opium traffic, whaling conventions, and the like. Mr. Leopold
+                    said that the Committee had considered this matter in its closed meeting
+                    yesterday and that there had been some sentiment for holding this material down
+                    to a reasonable limit. Mr. Goodrich added that the Committee did not wish to go
+                    into particulars, for these were matters of judgment on the part of the editors,
+                    and it was not asking for automatic exclusion of certain topics that sounded
+                    unpromising on the face of it, but they did hope that excessive detail could be
+                    avoided. Bracketed notes and similar editorial devices should be used freely
+                    when there were good standard sources to cite to, and the editors should show
+                    some “restraint” on minor matters. As had been said the previous day,
+                    compression actually improved many stories. While the Committee had ideas on the
+                    relative importance of various matters, it was really up to the editors to
+                    decide what to cut. The priorities system used for 1946 seemed to offer a very
+                    good solution, and Mr. Berdahl asked if it could be applied to 1945. Mr.
+                    Churchill gave an illustration that this was already being done; when the
+                    editors found that a particular Soviet story was rated as second priority in
+                    1946, they had gone back to shorten the related story for 1945. Mr. Berdahl
+                    thought that this sort of review should be very helpful.</p>
+                <p>Mr. Ralph Perkins then brought up the question, which went back in part to last
+                    year’s discussions, about consolidating certain subjects which apply to many
+                    countries. He asked if scholars were interested more in countries or in topics?
+                    Should we stress coffee or Brazil? Mr. Goodrich thought there was a growing
+                    emphasis on the multilateral at the expense of the bilateral but that the
+                    Committee could not be very helpful on this point. Mr. Harrington felt that the
+                    plan reflected the growing trend toward interdisciplinary scholarship, but he
+                    noted that some scholars were still interested in countries as such.</p>
+                <p>Mr. Franklin then noted that our discussions in preparing the plan for 1946 had
+                    brought to light an interesting contrast, between the approach of stressing
+                    “foreign relations” and that of stressing “foreign policy”. Both were desirable
+                    but under pressure of space the former might have to be where the cutting would
+                    be done. Mr. Ralph Perkins pointed out that foreign policy is not made in a
+                    vacuum but develops in particular cases, and that the series customarily has
+                    shown the factual situations which have led to the policy decisions. Under the
+                    pressure to compress our documentation we naturally have to give priority to
+                    papers which describe the fully-formulated policy, but we try to give enough of
+                    the story to explain the actual circumstances giving rise to a particular
+                    policy. Mr. Gleason agreed that the facts are interesting and important, and
+                    only questioned how many we can include and still stay within the bounds imposed
+                    on us. There was some discussion of the documents on the Eastern European
+                    countries in 1945 as a knotty editorial question: When policy is roughly the
+                    same but conditions vary from country to country, how to allocate space? It was
+                    agreed that this was a challenge to the editors, and the Advisory Committee did
+                    not think they could be helpful in detail on questions of this sort. Mr.
+                    Harrington said there was no real controversy here, for the 1946 plan solved the
+                    problem by assigning priorities which took all factors into account. The plan
+                    had given a new and much-needed dimension to <hi rend="italic">Foreign
+                        Relations</hi>. Mr. Goodrich added that it was impossible to please everyone
+                    in this regard. The main thing was to make decisions on the basis of our best
+                    judgment, and the Committee would support us.</p>
+                <p>After a short break, the Committee went into a closed session.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

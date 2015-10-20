@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">What Do Those Asterisks Mean?</title>
+                <title type="short">What Do Those Asterisks Mean?</title>
+                <author>Aaron W. Marrs</author>
+                <sponsor>Office of the Historian, U.S. Department of State</sponsor>
+            </titleStmt>
+            <publicationStmt>
+                <date when="2011-09-13">September 13, 2011</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>In my <ref target="http://history.state.gov/historicaldocuments/frus-history/research/the-first-volume">previous blog post</ref>, I discussed how historians start their research
+                    with a question about the past. In this post, I’ll talk about another question
+                    that we in the Office of the Historian have had about <ref target="http://history.state.gov/historicaldocuments/frus1861">the first <hi rend="italic">FRUS</hi> volume</ref> published in 1861: what material
+                    was left out?</p>
+                <p>Answering this question seems difficult at first. We know very little about the
+                    clerks who compiled the first <hi rend="italic">FRUS</hi> volume. The Department
+                    was much smaller in the nineteenth century than it is today, with <ref target="http://history.state.gov/about/faq/department-personnel">only 42
+                        domestic employees in 1860</ref>. Therefore, it is difficult to imagine that
+                    a project of this magnitude would have gone unnoticed by Secretary of State
+                    <ref target="/departmenthistory/people/seward-william-henry">William
+                    Seward</ref>. Nevertheless, we have no direct evidence of Seward’s involvement
+                    in the publication of the volume, nor do we know the standards by which
+                    materials were selected for inclusion.</p>
+                <p>This is unfortunate, because some of the documents published in the first volume
+                    have excisions; a row of asterisks was printed where material was cut out. This
+                    presents historians with a double challenge: not only do we not know what
+                    material was excised, but we also don’t know why the editors of the first volume
+                    chose to exclude the information.</p>
+                <p>But historians don’t give up easily! As it happens, there is another way to
+                    investigate this particular question. The <ref target="http://www.archives.gov/">National Archives</ref> holds some of the original documents published in
+                    the first volume. In this blog post, I’ll focus on correspondence between
+                    Washington and U.S. diplomats in London. When U.S. Minister to Great Britain
+                        <ref target="/departmenthistory/people/adams-charles-francis">Charles
+                        Francis Adams</ref> prepared <ref target="http://blogs.archives.gov/TextMessage/2011/03/11/foreign-service-friday/">a despatch</ref> to send back to Washington, the text was also copied into
+                    a book kept at the legation’s office. Those books now sit at the National
+                    Archives as part of Record Group 84. Office of the Historian staff member
+                    Forrest Barnum has compared the full text of despatches in RG 84 to the copies
+                    printed in the first volume, and discovered some interesting things. By looking
+                    at the material not included in the volume, we can make inferences about the
+                    methodologies used by the clerks at the time.</p>
+                <figure rend="smallfloatinline">
+                    <graphic url="lord-john-russell.jpg"/>
+                    <head>Lord John Russell, British Secretary of State for Foreign Affairs during
+                        the Civil War</head>
+                </figure>
+                <p>What we have discovered is that the excisions ranged widely in terms of how they
+                    altered the meaning of the original despatch (if at all). Some of the material
+                    cut out was of little consequence. For example, information about consular
+                    appointments was deleted from the printed volume, which probably has little
+                    impact on the utility of the volume to a modern scholar. But in other cases, the
+                    information left out of the printed version changes the meaning or tone of the
+                    original. On September 28, 1861, Adams sent a despatch to Washington recounting
+                    his conversation with British Secretary of State for Foreign Affairs Lord John
+                    Russell at Abergeldie Castle in Scotland. The editors of the volume decided to
+                    print the portion of Adams’s message where he registered a complaint about the
+                    reception of an “insurgent privateer” by “authorities at Trinidad” (at the time
+                    ruled by the British), but the vast majority of the despatch was left out.
+                    Excised material included details about Adams’s trip to Scotland, (he carped
+                    that “the invitation was very much as if you were to ask [British Minister to
+                    the United States] Lord Lyons to come and see you and talk of business at Auburn
+                    instead of Washington, with the exception that the expense of traveling here is
+                    about six times greater than in America”), the fact that the journey afforded
+                    him “abundant opportunity for full and free conversation” with Lord Russell, a
+                    lengthy discussion of European interest in Mexico, and British complaints about
+                    “seizure and imprisonment” of British subjects. Adams concluded the despatch by
+                    noting that “during the whole of my stay at Abergeldie Castle I thought I
+                    perceived the symptoms of a more friendly and cordial feeling than had ever been
+                    manifested to me before,” which “fully compensated me for the length and fatigue
+                    of the journey.” In this case, the details of Adams’s protest about the
+                    treatment of Confederate ships were deemed more important (or less sensitive)
+                    than his views of how he was treated by the British by the 1861 <hi rend="italic">FRUS</hi> compiler(s).</p>
+                <figure>
+                    <graphic url="abergeldie-castle.jpg"/>
+                    <head>Abergeldie Castle, Scotland, site of a September 1861 meeting between Lord
+                        Russell and Charles Francis Adams</head>
+                </figure>
+                <p>One excision was even starker in terms of its potential impact had it been
+                    disclosed in 1861. On August 16, Adams wrote that the effect of Union defeat at
+                    Bull Run on July 21 was damaging because of the “ridicule it exposes the country
+                    to” rather than because of the “positive loss” stemming from the battle itself.
+                    This portion of Adams’s message was omitted from the published volume. Adams
+                    noted that the “military spirit of Europe does not reconcile itself to such
+                    scenes as have been distinctly painted by the European correspondence of the
+                    London Times, and the American press, as well as caricatured in Punch.” Reports
+                    in the European press of Federal defeat were clearly not helping the Union
+                    cause. In the published portion of the despatch, Adams noted his instructions to
+                    speak to Lord Russell about the blockade of Confederate shipping. In the excised
+                    portion, Adams admitted that were he to take a “strong tone” in the midst of the
+                    atmosphere of ridicule spawned by Bull Run, he would “scarcely likely do more
+                    than to provide a smile” on the faces of his interlocutors. Rather, Adams wrote,
+                    he should “await an hour doubtless not far distant when the people of the United
+                    States will have redeemed their reputation for judgment and skill and courage”
+                    and have proven that they can survive war “without the guidance or control of
+                    the military or civil officers of the slaveholding States.” Washington’s demand
+                    for a conference and its topic stayed in the volume; the embarrassing reasons
+                    for Adams’s delay were kept out.</p>
+                <p>There are at least three lessons to learn from these excisions. First, some of
+                    the excisions were clearly innocuous, so the presence of excisions does not
+                    necessarily indicate a grand design to withhold information from the U.S.
+                    public. Congress was hardly concerned with the names and arrival dates of
+                    consular officials when it requested information about the country’s foreign
+                    relations from the Lincoln administration. These excisions should not trouble
+                    us.</p>
+                <p>A second conclusion is that some of the excised information <hi rend="italic">was</hi> quite significant. Adams communicated that the United States was
+                    embarrassed abroad by the defeat at Bull Run; printing this information in the
+                    volume clearly would imperil morale at home. Therefore, we can see why the
+                    Lincoln administration might have excluded that portion of Adams’s report when
+                    it passed the rest of the document to Congress. It is clear that modern
+                    researchers can’t learn everything that they might like simply by reading the
+                    printed volume; historians have to look at the full text of the originals as
+                    well.</p>
+                <p>Yet there is also a third conclusion: even if the printed volume has excisions,
+                    this does not mean that it is worthless. Rather, the volume tells us what the
+                    Lincoln administration wanted the public to know about foreign relations during
+                    the Civil War. The volume served a public relations purpose to inform Americans
+                    that the government was energetically combating Confederate efforts to gain
+                    foreign recognition. This meant obscuring some unpleasant truths (such as the
+                    British reaction to Bull Run). But nevertheless, understanding the material that
+                    was left out of the volume can help us learn more about the intent of those who
+                    put the volume together.</p>
+                <p>I hope this post has demonstrated some of the ways in which historians can work
+                    to fill apparent gaps in the historical record and make inferences about the
+                    past in the absence of direct evidence. We don’t know if the first <hi rend="italic">FRUS</hi> compilers made excisions from documents on the basis
+                    of formal instructions or their own judgments. We can’t state conclusively why
+                    specific material was excised from the 1861 volume. Instead, we have to make
+                    intelligent inferences after examining surviving primary sources.</p>
+                <p>One of the themes explored in researching the history of <hi rend="italic">FRUS</hi> is the evolution of how the series was produced over time.
+                    Informing the public about what type of material has been excised and why
+                    represents a clear shift in policy from the nineteenth century to today. We have
+                    gone from a series of asterisks to a formal, explicit, rigorous standard which
+                    governs today’s <hi rend="italic">FRUS</hi> volumes. The rules for excisions are
+                    encoded in 22 U.S.C. 4351(b): “The editing of records for preparation of the
+                    FRUS series shall be guided by the principles of historical objectivity and
+                    accuracy. Records shall not be altered and deletions shall not be made without
+                    indicating in the published text that a deletion has been made. The published
+                    record shall omit no facts which were of major importance in reaching a
+                    decision, and nothing shall be omitted for the purpose of concealing a defect of
+                    policy.” When material cannot be included in a <hi rend="italic">FRUS</hi>
+                    volume published today, the amount of material excluded is always clearly shown
+                    in the text. As a result, today’s <hi rend="italic">FRUS</hi> volumes embody a
+                    great deal more accountability than their earliest ancestors.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

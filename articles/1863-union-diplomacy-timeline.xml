@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Interactive Timeline on Gettysburg and Vicksburg in 1863
+                    Union Diplomacy</title>
+                <title type="short">Interactive Timeline on Gettysburg and Vicksburg</title>
+                <author>Joshua Botts</author>
+                <sponsor>Office of the Historian, U.S. Department of State</sponsor>
+            </titleStmt>
+            <publicationStmt>
+                <date when="2013-07-04">July 3, 2013</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="JDB" role="editor">
+                        <persName>Joshua Botts</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#JDB" when="2013-06-18">Drafted text.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>A dynamic timeline constructed from the events described in <ref
+                target="/historicaldocuments/frus-history/research/brilliant-and-important-victories">“Brilliant and
+                    Important Victories”: Gettysburg and Vicksburg in 1863 Union Diplomacy</ref>. </p>
+            <iframe xmlns="http://www.w3.org/1999/xhtml"
+                src="http://embed.verite.co/timeline/?source=0AoNLNdpw86LPdG1fMnVKQmJacWRFTy1VSDE1SERQM1E&amp;font=Bevan-PotanoSans&amp;maptype=toner&amp;lang=en&amp;height=650"
+                width="100%" height="650" frameborder="1"/>
+        </body>
+    </text>
+</TEI>

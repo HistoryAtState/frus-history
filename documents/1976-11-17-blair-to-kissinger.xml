@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Action Memorandum From William Blair Through Lawrence
+                    Eagleburger to Henry Kissinger, November 1976</title>
+                <title type="short">Blair to Kissinger, 1976</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2013-12-16">December 16, 2013</date>
+                <date type="created" when="1976-11-17">November 17, 1976</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1976-11-17-blair-to-kissinger.pdf">PDF</ref>, 168 KB, 10pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: National Archives and Records Administration, Record Group
+                    59, Entry UD-08D-4: Bureau of Public Affairs, Assistant Secretary and Deputy
+                    Assistant Secretary Subject Files, 1975-1981 (82 D 297), Box 8, Public Affairs:
+                    Historian’s Office 1977. Drafted by David Trask, November 16, 1976. Cleared by
+                    Samuel Goldberg (H). An unknown hand added “12/8 Per Secto 32013 (?) Secretary
+                    signed memo - to be dispatched on Sec’s return.” The attached memoranda are
+                    neither initialed nor signed. See National Archives and Records Administration,
+                    Record Group 59, Central Foreign Policy File, D760452-1128 and
+                    P760188-2320.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 8, <ref
+                    target="../chapter-8#fn91">Footnote 91</ref></p>
+            <div type="document" xml:id="blair-to-kissinger">
+                <head>Action Memorandum From William Blair (Acting Assistant Secretary of State for
+                    Public Affairs) Through Lawrence Eagleburger (Deputy Under Secretary of State
+                    for Management) to Henry Kissinger (Secretary of State)</head>
+                <dateline>November 17, 1976</dateline>
+                <p rend="center"><hi rend="underline">The Future of the Foreign Relations
+                        Series</hi></p>
+                <p rend="underline">Summary</p>
+                <p>The <hi rend="italic">Foreign Relations</hi> series, a major asset in our
+                    openness program, faces serious problems of coverage and declassification,
+                    particularly with regard to important papers of other agencies. These problems
+                    also affect the schedule, and there is much pressure to speed up publication. We
+                    need your decision on policy. Should the series continue about as at present, or
+                    should we take steps to strengthen it? These would include asking President Ford
+                    to issue instructions (similar to those of Presidents Kennedy and Nixon) calling
+                    on State and other agencies to improve the documentary coverage and accelerate
+                    declassification and publication. A memorandum to the President is attached for
+                    your decision.</p>
+                <p rend="underline">Discussion</p>
+                <p>The Congress and the public are demanding ever more insistently that the Federal
+                    Executive provide detailed and expeditious information about its activities. In
+                    this context the Department’s <hi rend="italic">Foreign Relations of the United
+                        States</hi> series assumes special significance, as the most venerable and
+                    comprehensive effort of the government to provide an objective record of its
+                    performance.</p>
+                <p>At this juncture the future of the <hi rend="italic">Foreign Relations</hi>
+                    series appears uncertain, because of two interrelated problems. One persistent
+                    concern is that the series has fallen well behind the prescribed twenty-year
+                    line. The delay now reaches to twenty-seven years, and further slippage seems in
+                    prospect.</p>
+                <p>This nagging problem, however serious, is less worrisome than the prospect that
+                    the series may become less and less able to fulfill its prime mission--full and
+                    fair representation of the foreign-policy process as it has affected the
+                    important issues. Difficulties in this respect arise because many agencies
+                    besides the Department of State now contribute importantly to foreign policy and
+                    diplomacy. To compile an accurate record today, scholars from the Office of the
+                    Historian must examine not only State Department records, but also those of the
+                    Departments of Defense and Treasury among others, the Central Intelligence
+                    Agency, the Energy Research and Development Agency, and above all the National
+                    Security Council.</p>
+                <p>In addition, Department historians must be able to facilitate declassification of
+                    the other-agency documents selected for publication, so that the <hi
+                        rend="italic">Foreign Relations</hi> series can issue according to a
+                    dependable and reasonably expeditious schedule. Unfortunately, it cannot be said
+                    that the existing arrangements for access and clearance ensure fully
+                    comprehensive coverage.</p>
+                <p>If it proves impossible to maintain sufficiently comprehensive coverage and
+                    reasonably expeditious issue, then the quality and utility of the <hi
+                        rend="italic">Foreign Relations</hi> series are bound to decline. Criticism
+                    from the domestic foreign affairs community will increase. The hands of those in
+                    the Congress and elsewhere who advocate unworkable standards of disclosure will
+                    be strengthened (we expect a substantial effort to be made in the next Congress
+                    to redefine the classification system by legislation, in part to require much
+                    earlier and fuller release of documentation on foreign policy and defense). To
+                    avoid serious difficulties of this kind and to strengthen public confidence in
+                    our management of official information, the Executive agencies clearly must make
+                    every effort to ensure the highest possible standards of disclosure consistent
+                    with the real requirements of national security.</p>
+                <p>Given the comprehensive nature of the <hi rend="italic">Foreign Relations</hi>
+                    series, encompassing materials from a broad range of agencies, it is arguable
+                    that responsibility for conduct of this program might be exercised by the
+                    National Security Council. Practical as well as theoretical consideration,
+                    however, weigh heavily against any such rearrangement. The bulk of the work
+                    remains in and with the State Department; the National Security Council Staff is
+                    not now equipped to assume this charge, or designed to conduct operations
+                    generally. Location of the function in the Department of State has stood the
+                    test of a century’s experience and continues to produce a result reflecting
+                    credit on the Executive as a whole.</p>
+                <p>In these circumstances, the need appears to be to support the Historian’s Office
+                    in responding to current condition and in assuring the continuing integrity of
+                    the series. In broad terms, there appear to be two policy options:</p>
+                <p>The first would be to continue as at present, accepting the consequences of
+                    mounting deficiencies in coverage and increasing delays in publication. This
+                    however would tend to contradict the Department’s posture of openness and impede
+                    efforts to improve its credibility with Congress and public. Nevertheless, these
+                    political costs might prove endurable in the short run and perhaps for some time
+                    to come.</p>
+                <p>A conceivable variant on this option might be to achieve acceleration by reducing
+                    coverage, perhaps to the extent of documenting only the role of the Department
+                    itself; but, because this course would force exclusion of patently indispensable
+                    information, the net effect would be to destroy the usefulness of the volumes.
+                    For this reason we not consider this variant as an acceptable alternative.</p>
+                <p>The second realistic option would be to strengthen the series. This would mean
+                    improving its substantive coverage of other-agency documentation and
+                    accelerating its publication schedule--i.e., beginning to reduce the time lag
+                    back toward the 20-year goal. This would require clarification of the series’
+                    mission, by or in the name of the President, to ensure full cooperation of other
+                    agencies. For full implementation, some additional manpower and printing funds
+                    would also have to be found, for faster review and publication of more, and more
+                    diversified, foreign policy materials, though a start could be made with present
+                    resources.</p>
+                <p>We believe that gains from this second option would far outweigh the essentially
+                    modest additional costs associated with it. (We are not requesting resources
+                    now, and if you decide in principle that we should move in the direction
+                    recommended, we would expect to seek them through the normal budgetary
+                    channels.)</p>
+                <p><hi rend="underline">Recommendation:</hi> That you sign the attached memorandum
+                    to the President to request an instruction to the foreign affairs agencies
+                    concerning comprehensive policy content and accelerated publication of the <hi
+                        rend="italic">Foreign Relations</hi> series.</p>
+            </div>
+            <div type="document" xml:id="kissinger-to-ford">
+                <head>Attached Draft Memorandum from Henry Kissinger to President Gerald Ford</head>
+                <dateline>December 7, 1976</dateline>
+                <p>Subject: Publication of the <hi rend="italic">Foreign Relations</hi> Series</p>
+                <p>The American people have a deep and abiding interest in the development of their
+                    foreign policy, and our government has an unmatched record of accomplishment in
+                    providing the basic information they must have in order to make wise decisions.
+                    In this process a most effective instrumentality has been the series of
+                    documentary volumes, <hi rend="italic">Foreign Relations of the United
+                        States</hi>. For 115 years this distinguished collection has given a fair
+                    and balanced publication of our principal diplomatic, economic, and military
+                    papers. The 260 volumes covering the years from Lincoln to Truman include
+                    documents from many departments and agencies. Widely respected for candor and
+                    dependability, the <hi rend="italic">Foreign Relations</hi> series contributes
+                    both to the credibility of the United States abroad and to public respect at
+                    home for the integrity of the foreign policy record.</p>
+                <p>However, the series today is in need of assistance if it is to maintain its
+                    performance in the face of changing conditions. In the postwar period, numerous
+                    agencies in addition to the Office of the President and the Department of State
+                    increasingly have contributed to the formulation and conduct of foreign policy;
+                    and the record of these contributions requires review for selection,
+                    declassification, and orderly publication in the series, in accordance with the
+                    same high standards of scholarship and prompt disclosure that have been applied
+                    to the records of the traditional foreign policy sources. To ensure that this is
+                    done, I recommend that you approve and sign the two attached memoranda directing
+                    the responsible officials to take certain measures to strengthen <hi
+                        rend="italic">Foreign Relations</hi> and expedite the process of
+                    declassification and publication.</p>
+            </div>
+            <div type="document" xml:id="president-to-state">
+                <head>Draft Memorandum From President Ford to the Secretary of State</head>
+                <p>The official documentary series entitled <hi rend="italic">Foreign Relations of
+                        the United States</hi> was first published in 1861 as part of President
+                    Lincoln’s annual message to the Congress. The series, which now includes some
+                    260 volumes, has long provided the American people an indispensable perspective
+                    on the nation’s history. The charge of Foreign Relations is to provide a
+                    comprehensive review of U.S. foreign policy and diplomacy. In recent years the
+                    volumes in the series have included considerable documentation from the records
+                    of many agencies and departments besides the Department of State, reflecting the
+                    expansion of governmental engagement in the foreign-policy process.</p>
+                <p>President Kennedy in 1961 and President Nixon in 1972 indicated that the
+                    lengthening interval between events and their description in <hi rend="italic"
+                        >Foreign Relations</hi> should be shortened, without impairing the
+                    quality of the volumes, in order to meet the public need for timely information
+                    about how our foreign policy was made. I share the considerations that actuated
+                    my predecessors. Therefore, while recognizing the difficulties involved, I ask
+                    that you develop means of ensuring fully comprehensive coverage of American
+                    diplomacy and of accelerating production of the <hi rend="italic">Foreign
+                        Relations</hi> series. Our goal should be to publish the volumes about
+                    twenty years after the events they record.</p>
+                <p>In order to achieve these goals in the most expeditious and effective manner, I
+                    am today instructing the Secretary of Defense, the Director of Central
+                    Intelligence, the Administrator of General Services, and the Assistant to the
+                    President for National Security Affairs to cooperate fully with you in supplying
+                    and declassifying appropriate documents to the maximum extent consistent with
+                    the requirements of national security.</p>
+                <p>Gerald R. Ford</p>
+            </div>
+            <div type="document" xml:id="ford-to-agencies">
+                <head>Draft Memorandum From President Ford to the Secretary of Defense, the Director
+                    of Central Intelligence, the Administrator of General Services, and the
+                    Assistant to the President for National Security Affairs</head>
+                <p>Subject: Improvement and Acceleration of the <hi rend="italic">Foreign
+                        Relations</hi> Series</p>
+                <p>The documentary series entitled <hi rend="italic">Foreign Relations of the United
+                        States</hi>, published by the Department of State, is the means by which the
+                    Presidents of the United States since Abraham Lincoln have provided a frank and
+                    comprehensive record of the nation’s foreign policy and diplomacy for use of the
+                    American people. To ensure the most authoritative coverage possible, it is
+                    necessary for the compilers of <hi rend="italic">Foreign Relations</hi> to
+                    examine relevant records of the large number of departments and agencies which
+                    contribute to the foreign-policy process.</p>
+                <p>I have today instructed the Secretary of State to develop a program designed to
+                    ensure full coverage of our foreign relations and to reduce the gap between
+                    events and publication of the record to twenty years. The Department of State
+                    will continue to seek the assistance of appropriate agencies and departments in
+                    collecting and declassifying documents deemed appropriate for publication in <hi
+                        rend="italic">Foreign Relations</hi>.</p>
+                <p>I ask each of you to cooperate fully with the Secretary of State, to the maximum
+                    extent consistent with the requirements of national security, in facilitating
+                    thorough examination and expeditious declassification of the relevant parts of
+                    the historical record in your keeping.</p>
+                <p>Gerald R. Ford</p>
+            </div>
+        </body>
+    </text>
+</TEI>

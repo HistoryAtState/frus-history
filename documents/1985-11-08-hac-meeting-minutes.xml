@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Minutes of Historical Advisory Committee Meeting, November
+                    1985</title>
+                <title type="short">HAC Meeting Minutes, 1985</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-03-10">March 10, 2014</date>
+                <date type="created" when="1985-11-08">November 8, 1985</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1985-11-08-hac-meeting-minutes.pdf">PDF</ref>, 382 KB, 21pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 4, Minutes 1985.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 9, <ref
+                    target="../chapter-9#fn102">Footnotes 102</ref> and <ref
+                    target="../chapter-9#fn117">117</ref></p>
+            <div type="document">
+                <head>Minutes of the 1985 Meeting of the Advisory Committee on Historical Diplomatic
+                    Documentation</head>
+                <dateline>November 8, 1985</dateline>
+                <p rend="underline">American Historical Association</p>
+                <list>
+                    <item>Dr. Robert Dallek, Department of History, University of California, Los
+                        Angeles, California 90024</item>
+                    <item>Dr. Carol S. Gruber, Department of History, William Paterson College,
+                        Wayne, New Jersey 07470</item>
+                    <item>Dr. Warren F. Kuehl (Chair), Department of History, University of Akron,
+                        Akron, Ohio 44325</item>
+                </list>
+                <p rend="underline">American Political Science Association</p>
+                <list>
+                    <item>Dr. Ole R. Holsti, Department of Political Science, Duke University,
+                        Durham, North Carolina 27706</item>
+                    <item>Dr. Deborah W. Larson, Department of Political Science, Columbia
+                        University, 420 West 118th Street, New York, New York 10027</item>
+                </list>
+                <p rend="underline">American Society of International Law</p>
+                <list>
+                    <item>Dr. John Lawrence Hargrove, Executive Vice President and Executive
+                        Director, The American Society of International Law, 2223 Massachusetts
+                        Avenue, N.W., Washington, D.C., 20008</item>
+                </list>
+                <p rend="underline">Organization of American Historians</p>
+                <list>
+                    <item>Dr. Bradford Perkins, Department of History, University of Michigan, Ann
+                        Arbor, Michigan 48109</item>
+                </list>
+                <p rend="underline">Other Persons Present:</p>
+                <p>Bureau of Public Affairs (PA):</p>
+                <list>
+                    <item>Bernard Kalb, Assistant Secretary and Spokesman</item>
+                    <item>George B. High, Senior Deputy Assistant Secretary</item>
+                </list>
+                <p>The Office of the Historian (PA/HO):</p>
+                <list>                    
+                    <item>William Z. Slany, The Historian</item>
+                    <item>Neal H. Petersen, Deputy Historian</item>
+                    <item>John P. Glennon, Foreign Relations Division Chief</item>
+                    <item>Paul Claussen, Policy Studies Division Chief</item>
+                    <item>David S. Patterson, Operations Staff Chief</item>
+                    <item>Carol A. Becker, Information Staff Chief and Assistant to the
+                        Historian</item>
+                    <item>David H. Herschler, Assistant to the Historian for Records Policy</item>
+                    <item>David M. Baehler</item>
+                    <item>Suzanne E. Coffman</item>
+                    <item>Karen Collias</item>
+                    <item>William Deary</item>
+                    <item>Evan Duncan</item>
+                    <item>Evans Gerakas</item>
+                    <item>Nancy Golden</item>
+                    <item>Kay Herring</item>
+                    <item>Nina D. Howland</item>
+                    <item>Edward C. Keefer</item>
+                    <item>Ronald D. Landa</item>
+                    <item>David W. Mabon</item>
+                    <item>James E. Miller</item>
+                    <item>Nina J. Noring</item>
+                    <item>David S. Painter</item>
+                    <item>Charles S. Sampson</item>
+                    <item>William F. Sanford</item>
+                    <item>Harriet D. Schwar</item>
+                    <item>Louis J. Smith</item>
+                    <item>Sherrill B. Wells</item>
+                </list>
+                <p>Center for Classification/Declassification (A/CDC):</p>
+                <list>
+                    <item>Ambassador John R. Burke, Deputy Assistant Secretary of State for
+                        Classification/Declassification</item>
+                    <item>Dwight Ambach, Director, Office of Systematic Review</item>
+                </list>
+                <p>Foreign Affairs Information Management Center (A/FAIM):</p>
+                <list>
+                    <item>Paul Washington, Chief, Publishing Services Division</item>
+                    <item>George Mattis, Assistant to Mr. Washington</item>
+                    <item>Rita Baker, Documentary Editing Section Chief</item>
+                    <item>Vicki Futscher, Documentary Editing Section</item>
+                </list>
+                <p>Others:</p>
+                <list>
+                    <item>Milton O. Gustafson, Chief, Diplomatic Branch, National Archives and
+                        Records Administration (NARA)</item>
+                    <item>Edwin A. Thompson, Project Director, Records Declassification Division,
+                        NARA</item>
+                    <item>_____ Hopper, Scholarly Resources, Inc.</item>
+                </list>
+                <p>[<hi rend="italic">Omitted here is a list of abbreviations.</hi>]</p>
+                <p rend="center"><hi rend="italic">Morning Session</hi></p>
+                <p>Prof. Kuehl convened the meeting at 9:08 a.m. and welcomed Prof. Dallek and Prof.
+                    Perkins as new members of the committee. Prof. Kuehl commented that Prof.
+                    Perkins’ presence was especially noteworthy since his father Dexter Perkins had
+                    served on the original advisory committee.</p>
+                <p>Prof. Holsti moved the reelection of Prof. Kuehl as committee chairman. Prof.
+                    Gruber seconded the motion and Prof. Kuehl was reelected unanimously.</p>
+                <p>Mr. Slany introduced the others present and explained the use of PA/HO staff as
+                    note-takers, adding that under the present system of note-taking, the minutes
+                    would be less detailed than during the 1960’s, when a Court Reporter was
+                    employed.</p>
+                <p>Prof. Kuehl introduced Mr. High while awaiting Mr. Kalb’s arrival. After a
+                    moment’s delay, Mr. Kalb entered and apologized for his late arrival, remarking
+                    that in this respect he was somewhat like the <hi rend="italic">Foreign
+                        Relations</hi> series. He extended a cordial welcome to the committee on
+                    behalf of the bureau. He remarked that his battle to move the bureaucracy to
+                    clear daily press guidances made him sympathize with the effort to clear 25 to
+                    28 year old documents. He noted that as a journalist he had found the series
+                    useful, and he congratulated the committee on its efforts to accelerate the
+                    clearance process. He stated that he looked forward to his afternoon meeting
+                    with the committee, and then excused himself from the proceedings.</p>
+                <p>Mr. High stated that he was new to his job, and that he was present as an
+                    observer, to learn. He noted that he had been in the management field for
+                    several years and had rarely come upon more difficult and yet fascinating
+                    managerial problems than those posed by the <hi rend="italic">Foreign
+                        Relations</hi> series. While he was discouraged that the harder we worked at
+                    the problem, the further behind we seem to get, he was satisfied that the
+                    program was being well-managed. He welcomed the advice of the committee.
+                    Although the problem was serious, he was encouraged by the positive response of
+                    the Secretary to the work of the historians, and he hoped for increased support
+                    from the bureau and the “seventh floor.”</p>
+                <p rend="underline">Report of the Historian</p>
+                <p>Mr. Slany said that his comments would supplement rather than duplicate the
+                    status report contained in the committee’s briefing package. He invited
+                    self-introduction of the PA/HO staff and others present. He referred to the
+                    staff study, which called for the acceleration of the <hi rend="italic">Foreign
+                        Relations</hi> series to a 30-year line within five to six years. The staff
+                    study is being used by PA/HO as a guide in the management of resources and in
+                    setting deadlines. One result was the chart in the briefing package showing
+                    workflow plans and deadlines in the publishing of <hi rend="italic">Foreign
+                        Relations</hi> volumes.</p>
+                <p>He stated that the presidential directive had gone to the White House, and he was
+                    confident that it would be signed, perhaps today. He remarked that the
+                    presidential directive probably will be the most important thing that has
+                    happened to the <hi rend="italic">Foreign Relations</hi> series in ten years. It
+                    will produce a more effective clearance process; it will enable the Department
+                    to take the lead in publishing the foreign affairs record; and it will provide
+                    PA/HO with improved procedures and the leverage to ensure that the process moved
+                    forward. He added that Mr. High planned--as an early follow-up to issuance of
+                    the presidential directive--to convene a meeting of high-level State, DOD, CIA,
+                    NSC, and other agency officials to develop steps to achieve a 30-year line.</p>
+                <p rend="underline">CIA Documents</p>
+                <p>Prof. Kuehl commented that the inclusion of CIA documents in the series was
+                    encouraging. Mr. Slany said that the Central Intelligence Agency had made an
+                    arrangement with the Senate that exempted CIA operational records from
+                    declassification in return for which the Agency had agreed to declassify older
+                    non-operational records of historical interest. It had enlarged its historical
+                    staff enabling it to accelerate declassification of records and accession by
+                    NARA. PA/HO can gain enhanced access to Agency records in exchange for
+                    publishing some of the more important records in supplemental volumes to the
+                    series. He stressed that the supplementary volumes would not be allowed to delay
+                    publication of the series, but the important documents should be published in
+                    the supplements.</p>
+                <p>Mr. Petersen said that two supplementary volumes, currently being blocked out,
+                    would cover intelligence organizational development from 1945 to 1950, the
+                    establishment of intelligence within the NSC system, and intelligence estimates
+                    of the Soviet Union from 1945 to 1954. The precise terms of reference of both
+                    intelligence volumes have to be negotiated with the CIA before PA/HO actually
+                    undertakes the projects. Mr. Slany added that these supplements would provide an
+                    opportunity to deal with important intelligence records that could not be
+                    published in the earlier <hi rend="italic">Foreign Relations</hi> volumes.</p>
+                <p rend="underline">Microform Supplements</p>
+                <p>Mr. Slany observed that printed supplements were only one limited line of
+                    development. He then elaborated on proposed microform supplements to the <hi
+                        rend="italic">Foreign Relations</hi> series, to include: the NSC meetings
+                    from 1947 to 1954, meetings with heads of state of the Soviet Union and other
+                    major powers, the internal publication <hi rend="italic">Current Economic
+                        Developments</hi>, top secret daily summaries, the Secretary’s memoranda of
+                    conversations, and memoranda of conversations of the Secretary with the
+                    President for the late 1940s and early 1950s. Mr. Slany reiterated that the
+                    proposed supplements were intended to enhance, and would not delay, the printed
+                        <hi rend="italic">Foreign Relations</hi> series. Since it is beyond the
+                    Historical Office’s ability to include all important documents in printed
+                    volumes, the microform supplements would truly help. He added that the
+                    publication schedule for <hi rend="italic">Foreign Relations</hi> calls for
+                    50-60 print volumes, covering the period through 1960, to be published between
+                    now and 1990, which in itself seems impossible. The level of documentation in
+                    print volumes has been greatly scaled down from that of the volumes covering the
+                    early 1950’s.</p>
+                <p>Prof. Kuehl stated that the committee had not taken an official position
+                    regarding the microfiche supplements. SHAFR has been skeptical. He urged that
+                    the committee discuss the matter.</p>
+                <p>Mr. Glennon explained that the first of the microfiche supplements, targeted for
+                    publication in 1986 with the related print volumes on China (1955-57, II and
+                    III), contained a verbatim record of the Wang-Johnson talks. The print volumes
+                    would contain only summaries of the talks. The microfiche supplement would
+                    contain 30 fiche, or 3000 pages.</p>
+                <p>Prof. Perkins observed that there was outside concern that the supplements would
+                    delay publication of the print volumes and that there may not be adequate
+                    resources to compile the next three-year series. Mr. Slany stated that full-time
+                    compiling for the 1960’s would begin around 1987. Most of the current compiling
+                    was for the Vietnam volumes and to a lesser extent the 1958-60 series. The
+                    supplements should not require an extensive compilation effort, if the process
+                    can be perfected. We need to explore the methods for publishing bodies of
+                    records on microfiche. It may be necessary in FY 88 to buttress resources for
+                    compilation, but such a request would be neither necessary nor advisable at
+                    present.</p>
+                <p>Prof. Larson found annotation useful that indicated who saw daily summaries and
+                    the Secretary’s staff committee minutes, and she asked whether this annotation
+                    would be left out of microform supplements. She also expressed concern that some
+                    important documents would be omitted from the printed volumes if published in
+                    the microfiche supplements.</p>
+                <p>Prof. Dallek wanted to be assured that access to declassified or newly discovered
+                    material not published in the early volumes would not be delayed because they
+                    were to be published on microfiche by the Department of State. Mr. Slany stated
+                    that publication of the microfiche would in no way keep the documents out of the
+                    public domain.</p>
+                <p>Prof. Dallek asked if an index of open materials could be published in
+                    cooperation with the Society for Historians of American Foreign Relations. Mr.
+                    Thompson stated that the National Archives prepares a quarterly report on the
+                    opening of records, including declassified records. This report is sent to 200
+                    journals for widespread dissemination.</p>
+                <p>Mr. Slany said that the Office had decided that it would be most useful for the
+                    microform publications to be packaged and shelved in libraries with the print
+                    volumes. Ms. Becker showed a mock-up of a microfiche container made by GPO that
+                    resembled, and could be shelved with, the print volumes. Inside the container
+                    would be a vinyl folder, containing the fiche on one side and a printed guide on
+                    the other. She related that she had seen in person what had happened at the
+                    Library of Congress to the first PA/HO microfiche publication, <hi rend="italic"
+                        >American Foreign Policy: Current Documents, 1981, Supplement</hi>--the
+                    fiche were stored in a drawer while the paper guide to the fiche was stored next
+                    to the print volume on the shelf--in other words, the wrong two parts were
+                    together. The new packaging, which has been approved in theory by GPO and by the
+                    Depository Library Council, is now in the final design stages.</p>
+                <p rend="underline">Relation of Microform Publication to NARA</p>
+                <p>In response to Prof. Larson’s previous concern, Mr. Sampson asserted that
+                    multi-subject memoranda likely will not be omitted from the printed <hi
+                        rend="italic">Foreign Relations</hi> volumes, if they are important. Where
+                    document extracts appear in the print volume and the full texts appear as a
+                    unique block in the microfiche publication, there will be a footnote in the
+                    print volume, if possible. As to the daily summaries, he stated that an
+                    annotated set likely will appear in the microfiche publications.</p>
+                <p>Prof. Larson inquired if the paper copy would be available at the National
+                    Archives. Mr. Gustafson responded that it is National Archives policy not to
+                    make available to researchers the paper original if a document has been
+                    microfilmed, although there are a few exceptions to this rule. He emphasized
+                    that National Archives microfilm publications duplicate exactly the paper
+                    original. Prof. Larson stated that often several copies of a document existed,
+                    some containing historically important marginal writing. Mr. Gustafson agreed,
+                    emphasizing the importance of selecting the proper copy of a document to be
+                    filmed or, for that matter, transferred to the National Archives. Prof. Larson
+                    suggested that criteria be developed for the selection and filming of records on
+                    microfiche.</p>
+                <p>Mr. Gustafson questioned the publication of documents in <hi rend="italic"
+                        >Foreign Relations</hi> microfiche supplements that to a substantial extent
+                    may have been filmed by the National Archives, or are planned to be filmed by
+                    NARA when they have been declassified. Mr. Slany stated that PA/HO is trying to
+                    avoid duplicating the microfilm publications of the National Archives. The
+                    purpose of the Historical Office microfiche publications is to make available
+                    some documents that cannot be transferred to the National Archives at an early
+                    date, and to provide the full texts of important documents that have been
+                    published in part in print. Mr. Gustafson acknowledged that these were useful
+                    objectives, and agreed that the PA/HO microfiche program might speed the
+                    declassification of documents. He added later that he thought the program should
+                    be pursued because of the new packaging plan for the fiche, and because the
+                    GPO’s readiness to distribute copies to depository libraries would allow the
+                    Department program to go beyond what the National Archives was able to do with
+                    its microform publications.</p>
+                <p rend="underline">Guidelines for Microfiche Decisions</p>
+                <p>Prof. Kuehl inquired if the Historical Office used a systematic list of
+                    guidelines to determine what to publish in microform. Mr. Slany stated that this
+                    had been discussed in committee meetings within the office. Mr. Glennon
+                    mentioned that there were internal office memoranda concerning this matter. He
+                    added that the 1965 Vietnam volume would include a microfiche supplement in
+                    order to keep the print volume to 1000-1200 pages. The volume would
+                    cross-reference documents published in the microfiche with a brief summary in
+                    the print volume. Prof. Kuehl said that perhaps the term “supplement” had been
+                    applied too loosely; it sounded like not all the Historical Office microfiche
+                    publications would be true supplements. Mr. Slany responded that the term would
+                    be applied across the board to ensure that the microfiche publications were
+                    linked to and shelved with the printed <hi rend="italic">Foreign Relations</hi>
+                    volumes in libraries. Prof. Kuehl asked for assurance to the scholarly community
+                    regarding the nature of the microfiche supplements. Can the Department provide a
+                    statement and work with the National Archives? Mr. Slany responded that he would
+                    give the committee a document detailing the microfiche program, and coordinate
+                    the microfiche publications with the National Archives.</p>
+                <p>In response to Prof. Perkins’ expression of surprise at the size of the compiled
+                    volumes, Mr. Slany explained that in the late 1970’s a Senate Foreign Relations
+                    Committee report on a Department of State authorization bill had contained
+                    language admonishing the Department to consult with the Senate and House
+                    Committees before specific page cuts were made in the size of the <hi
+                        rend="italic">Foreign Relations</hi> series. Mr. Glennon remarked that
+                    although there are many volumes in the offing, the problems thus far have not
+                    been in the compiling, but in the declassification and publication processes.
+                    Mr. Slany asserted that what is needed is support and understanding from the
+                    committee for the necessity to provide at least part of the <hi rend="italic"
+                        >Foreign Relations</hi> series to the public in a form other than paper. Mr.
+                    Gustafson suggested that future status reports on the series should indicate the
+                    average number of pages per printed volume for the time period, and that the
+                    microfiche supplements should contain true supplemental material and not replace
+                    the printed volumes. This should alleviate concerns from the scholarly
+                    community.</p>
+                <p rend="underline">Paper Guides to Microfiche Publications</p>
+                <p>Prof. Kuehl inquired about the cost of the printed guide to the microfiche
+                    supplement to <hi rend="italic">Current Documents</hi>. Mr. Patterson stated
+                    that the guide was produced on the WANG equipment in-house, and sent out for
+                    preparation of camera-ready copy and printing. The cost of the guide was part of
+                    the total cost of the microfiche package, and thus was difficult to determine.
+                    Prof. Kuehl asked how distribution of this printed guide-type of publication,
+                    which he considered to be valuable even without the accompanying fiche, can be
+                    extended, perhaps even to the entire SHAFR membership. Mr. Slany asserted that
+                    if it is a small size guide, it can easily be disseminated to large numbers of
+                    scholars. Mr. Mabon remarked that the guide to the 1955-1957 China supplement
+                    will be similar to the printed guide to the <hi rend="italic">Current
+                        Documents</hi> supplement.</p>
+                <p rend="underline">Reviews of Microfiche Publications</p>
+                <p>In regard to the China microfiche supplement, Prof. Kuehl suggested that someone
+                    should review the publication in the SHAFR <hi rend="italic">Newsletter</hi> to
+                    publicize it more widely. As the first non-print supplement to the <hi
+                        rend="italic">Foreign Relations</hi> series, it is imperative that the
+                    publication be reviewed by the scholarly community. Mr. Slany thought this was
+                    an excellent idea. It would provide feedback for the next committee meeting.
+                    Prof. Kuehl stated that the reviewer should be a respected scholar and asked the
+                    committee for nominees. There was no immediate response from the committee, but
+                    Prof. Kuehl indicated that the reviewer should be someone well versed in
+                    Sino-American relations.</p>
+                <p>Prof. Kuehl asked the committee to note items in the status report regarding
+                    declassification issues that would be discussed in the afternoon session. Prof.
+                    Dallek remarked that at some point Prof. Larson’s letter should come before the
+                    committee. Prof. Kuehl indicated that it would come up during the afternoon
+                    session.</p>
+                <p>Prof. Larson complimented the Historical Office on the 1952-1954 <hi
+                        rend="italic">Foreign Relations</hi> volume on national security. She
+                    asserted that the volume may change the historical impression of Eisenhower. She
+                    thought the volumes were thorough and not much was omitted. Prof. Larson then
+                    inquired about the distribution of <hi rend="italic">Foreign Relations</hi>
+                    volumes to the overseas posts. Mr. Slany responded that Mr. Paul Washington of
+                    the Department’s Publication Services Division could discuss that later in the
+                    meeting.</p>
+                <p rend="underline">The Presidential Directive</p>
+                <p>Prof. Gruber inquired what clear guidelines or mechanisms for action would derive
+                    from the presidential directive. Mr. Slany stated that the mechanism will allow
+                    for the Secretary of State to convene meetings of other agency officials to
+                    discuss the Historical Office access to documents, and ask agencies to give
+                    priority to the Historical Office requests for records. The directive should
+                    give the Department authority to coordinate the declassification process, and
+                    this would allow for an integrated, rather than an <hi rend="underline">ad
+                        hoc</hi>, approach to declassification and access to other agency
+                    records.</p>
+                <p>Prof. Gruber inquired whether these interagency meetings would discuss
+                    substantive criteria for declassification as well as procedural questions. Mr.
+                    Thompson responded that he thought, with luck, both could be discussed, but Mr.
+                    Ambach thought the meetings would deal mainly with procedural questions.</p>
+                <p>Mr. Slany asserted that the resolution of substantive declassification questions
+                    would have to be done on a case-by-case basis. There was no sense of purpose
+                    held in common among the agencies, and it was difficult for the Department to
+                    convince other agencies of the importance of this work. He thought that the
+                    meetings would help create a common purpose and may lead to a greater sense of
+                    urgency on the part of other agencies. He added that procedures can be improved
+                    through these meetings.</p>
+                <p>Prof. Perkins inquired whether the NSC had any structure to deal with the
+                    historical perspective. Mr. Slany responded that they have a sense of history,
+                    but declassifying our volumes is a low priority. Ms. Coffman, who has been
+                    assigned to the NSC from the Historical Office on detail, remarked that Bromley
+                    Smith, a former Executive Secretary of the NSC, has been commissioned by the NSC
+                    to write a history of it. She asserted that Brenda Reger’s staff of four was
+                    diligent about keeping up with what had been compiled, what needs to be
+                    reviewed, and what has been released. The NSC staff maintains internal checks to
+                    ensure it is not denying access to documents that have been released. The staff
+                    also sends copies of released documents to the presidential libraries.</p>
+                <p>Prof. Larson asserted that the problem of lack of agency cooperation is
+                    demonstrated in the chart provided in the briefing package. She inquired whether
+                    this remained a problem and, if so, whether the problem was more stringent
+                    declassification criteria in other agencies or lack of resources. She was
+                    concerned about the continuing delays. Mr. Slany asserted that agencies
+                    sometimes are not aware of the importance of getting clearances, and this will
+                    be remedied in the presidential directive. He indicated that this could be
+                    discussed further in the afternoon session.</p>
+                <p>Prof. Larson inquired what indication there was that the presidential directive
+                    would be effective. Mr. Mabon stated that if the directive were followed up
+                    properly there would be an across-the-board impact. Prof. Gruber commented that
+                    the directive would serve mainly as a procedural tool, and Mr. Slany concurred.
+                    Prof. Larson stated that the general perception in the presidential libraries
+                    was that President Reagan was not eager to release information. She could not
+                    see how the directive would have a beneficial impact if the president’s attitude
+                    was well known.</p>
+                <p>Mr. Ambach responded to the question of resources by stating that this was a
+                    considerable problem. He asserted that in his opinion the principal anticipated
+                    benefit of the presidential directive would be to focus on the resource
+                    problem.</p>
+                <p>Prof. Perkins inquired whether future status charts could indicate the dates when
+                    clearance action was requested from agencies. Prof. Dallek agreed that this
+                    would be useful. The chart could then be sent to agencies, and would clearly
+                    indicate which agencies are holding up the process.</p>
+                <p>The committee took a brief recess at 10:40 a.m.</p>
+                <p rend="underline">Special Volumes and Policy Research</p>
+                <p>Chairman Kuehl reconvened the meeting at 11:05 a.m. and asked what criteria the
+                    Office used in engaging in “special publications”, as described on page 7 of the
+                    Status Report. Specifically, he questioned the appropriateness of <hi
+                        rend="italic">Documents on Germany</hi>--were there not more recent topics
+                    more worthy of the Historical Office’s resources? Mr. Slany assured Prof. Kuehl
+                    that the resources used to produce <hi rend="italic">Documents on Germany</hi>
+                    came from outside the <hi rend="italic">Foreign Relations</hi> staff and did not
+                    subtract from <hi rend="italic">Foreign Relations</hi> production. Such special
+                    publications quite often were prepared in response to policy-makers needs and
+                    were done for public affairs reasons.</p>
+                <p>Prof. Gruber asked whether the agenda for policy research was set outside the
+                    office. Mr. Claussen responded that the Historical Office worked with the rest
+                    of the bureaucracy, and the policy research agenda was a compromise. We did not
+                    do everything we were asked to do, nor did we self-generate all research. Mr.
+                    Claussen added that <hi rend="italic">Documents on Germany</hi> was fully funded
+                    outside the Office. It was a useful guide requested by an interagency committee
+                    on the 40th anniversary of the end of World War II. The committee thought that
+                    the previous publication on Germany needed updating and reprinting. Mr. Claussen
+                    noted that research studies were often generated along similar lines.</p>
+                <p>Prof. Holsti asked if policy research diverted resources from production of <hi
+                        rend="italic">Foreign Relations</hi>. Mr. Slany pointed out that the
+                    Historical Office assigned policy research to units in the office which were not
+                    involved in producing <hi rend="italic">Foreign Relations</hi>. He added that it
+                    was important bureaucratically for the office to have contacts with the rest of
+                    the Department of State beyond nagging them to release 30-year old
+                    documents.</p>
+                <p>Prof. Gruber asked how many policy research projects were classified. When Mr.
+                    Slany responded that most of them were classified, she asked did they not then
+                    add to the amount of classified material which eventually had to be reviewed for
+                    release? Mr. Claussen stated that policy studies were usually classified by
+                    derivation (based on the classification of the sources used in preparing the
+                    study). Indeed, he believed that they expedited declassification because the
+                    studies were easier to declassify than the raw documents themselves. Mr. Slany
+                    added that policy studies captured and saved documentation which might otherwise
+                    be lost. Prof. Holsti asked whether the Historical Office deliberately initiated
+                    research in some areas in order to capture the present for future historians, to
+                    which Mr. Slany answered yes.</p>
+                <p rend="underline">Marketing and Distribution of <hi rend="italic">Foreign
+                        Relations</hi> Volumes</p>
+                <p>Paul Washington presented a report on his efforts in the past year to convince
+                    GPO that <hi rend="italic">Foreign Relations</hi> is a unique series and has to
+                    have special attention. In effect, GPO has been asked to allow longer press runs
+                    for the series, to increase the shelf life of the sales copies, and to keep the
+                    sales price down. He believes he has been half successful in his efforts.</p>
+                <p>In addition, Mr. Washington outlined the steps which GPO and his office are
+                    taking to improve sales promotion. The Department of State press release on the
+                    publication of a volume is now turned into a one-page ad for journals and used
+                    in radio advertisements. Special promotional flyers mailed out by GPO in other
+                    book orders are now prepared for new volumes; each of these flyers contains an
+                    order form with a “tracer number” on it that can be tracked to measure its sales
+                    effectiveness. Forty-nine new orders can be traced to this new promotional
+                    activity. In response to Prof. Larson’s query, Mr. Washington explained that
+                    copies of <hi rend="italic">Foreign Relations</hi> volumes are indeed sent to
+                    U.S. posts abroad, but said that he did not know exactly how volumes are plugged
+                    into the USIA distribution system.</p>
+                <p>Prof. Holsti asked if the emphasis on GPO doing a better job meant that the
+                    search for a private publisher of <hi rend="italic">Foreign Relations</hi>--a
+                    topic of much discussion at last year’s advisory committee--had been abandoned?
+                    Mr. Washington responded that although GPO is under new direction and can
+                    probably now do a better job than in the past, the Department is still pursuing
+                    a “direct deal” contract with a private publisher.</p>
+                <p>Prof. Perkins asked about the size of the print run at GPO, and Prof. Gruber
+                    asked what percent of the print run goes to libraries. Mr. Washington responded
+                    that approximately 2000-2500 copies are printed, one thousand of which are
+                    distributed to the depository libraries, 350 are bought back by the Department,
+                    and about 825 are eventually sold (the sales figure is a 10% increase over the
+                    last 10-15 years.) The decision of how many copies to print rests with GPO.</p>
+                <p>Prof. Larson remarked that the “best seller” volumes for 1952-1954--National
+                    Security, Korea, and Indochina--were quickly sold out, and she thought there
+                    should be some way to produce a second run of them. Mr. Washington replied that
+                    GPO based its print runs on average sales of the volumes in the past and had no
+                    way to determine what would be a big seller. Some volumes never come close to
+                    selling out. He confirmed, however, that the Department of State would press GPO
+                    to rerun out-of-print volumes for which there is continuing interest, and to
+                    make more of an effort to base print runs on subject content rather than on
+                    previous overall series sales statistics.</p>
+                <p>Prof. Perkins asked how many volumes were bought by individuals and how many by
+                    institutions. Mr. Washington did not have the hard figures, but he guessed it
+                    ran about 60% to institutions (not counting the depository libraries which get
+                    the volumes free) and the rest to individuals.</p>
+                <p>Prof. Holsti asked who gets the money for volumes sold. Mr. Washington responded
+                    that the money goes to Treasury and then back to GPO to reduce their production
+                    costs. Mr. Slany added that the Department must convince GPO that if they
+                    publicize the <hi rend="italic">Foreign Relations</hi> volumes more, they will
+                    sell more, and they will make more money.</p>
+                <p>Prof. Gruber asked how the market for the volumes can be expanded. Mr. Slany
+                    answered that it is difficult to publicize the volumes because they come out so
+                    sporadically. Mr. Washington agreed that this is precisely the problem he faces.
+                    He cannot predict and plan for a certain number of volumes to be produced each
+                    year. Mr. Slany pointed out the sad fact that by the time scholarly journals get
+                    around to reviewing a <hi rend="italic">Foreign Relations</hi> volume, they are
+                    often out of print. He added that some journals do not review them at all. Prof.
+                    Larson asked whether it would be possible to put advertisements in academic
+                    journals, for example, in <hi rend="italic">World Politics</hi>. Mr. Washington
+                    replied that the Department’s Office of the Legal Adviser has frowned on use of
+                    government funds for advertising.</p>
+                <p>Mr. Gustafson noted that, as explained in a Department handout giving sources for
+                    both print and microform editions of out-of-print <hi rend="italic">Foreign
+                        Relations</hi> volumes, <hi rend="italic">Foreign Relations</hi> is
+                    published as a House document and then microfiched by CIS for sales purposes. He
+                    asked when this started. Ms. Becker explained that the series has been a House
+                    document for a long time, but that only recently has CIS been filming and
+                    offering the volumes as part of its microfiche sales program.</p>
+                <p>In response to a question from Mr. Hargrove, Mr. Washington described the
+                    depository library system. Mr. Slany added that a major research university,
+                    even if it was a depository library, usually bought additional copies of <hi
+                        rend="italic">Foreign Relations</hi> volumes.</p>
+                <p>Prof. Kuehl summed up the discussion of marketing and distribution of <hi
+                        rend="italic">Foreign Relations</hi> by stating that the day’s report gave
+                    him encouragement. Last year’s advisory committee report had recommended an
+                    improved effort in this area and it seemed to have been followed.</p>
+                <p rend="underline">Records Management Issues</p>
+                <p>Mr. Slany then suggested that the committee turn its attention to the Historical
+                    Office’s response to last year’s report. The Office has tried harder to be
+                    involved in Department of State records maintenance, even though that function
+                    is the responsibility of another bureau. As a reflection of his concern, the
+                    Office has now hired a records historian, David Herschler. Slany stated that
+                    Department records were being lost, not intentionally, but because of the vast
+                    volume of records being created. It is the Historical Office’s mission to remind
+                    the Department of State to keep and maintain its historically valuable papers.
+                    He stated again that this was one of the important side effects of the Office’s
+                    policy studies program.</p>
+                <p>Prof. Perkins asked if the Department of State had any policy about logging or
+                    summarizing telephone calls. Mr. High answered that while officers were
+                    encouraged to write memoranda of important calls, time constraints often
+                    prevented it from being done.</p>
+                <p>Prof. Larson returned to her fear, expressed earlier in the meeting, that the
+                    Department of State was losing valuable annotation contained on multiple copies
+                    of documents. Mr. Claussen assured her that Secretary Shultz’s staff is very
+                    conscientious about indicating what he sees. Nina Noring added that each
+                    administration has different record-keeping practices. Mr. Washington, who had
+                    helped to set up the SADI system on the Seventh Floor, reported that SADI only
+                    tracked correspondence, action memos, and special summaries, not who saw what.
+                    William Deary stated that documents that he had worked with had control numbers
+                    on them indicating which official they went to. He stated that it would be
+                    impossible to save all annotated copies of documents. Milton Gustafson added
+                    that it was a problem of technology. Once copying machines became widely used in
+                    government, there was no way any longer to account for all copies. The Archives
+                    tries to accession only one copy, and that copy may not be the one with the most
+                    historically significant annotation.</p>
+                <p>Prof. Kuehl asked what the Advisory Committee could do to help save electronic
+                    records beyond its previous recommendations that they must be identified as
+                    important records, saved, and eventually made available to the public? Prof.
+                    Perkins noted that the Advisory Committee had little experience with this issue,
+                    and that the Historical Office had better expertise. He hoped it would use that
+                    knowledge to assure better records management and preservation. Mr. Slany
+                    admitted that the Historical Office had to shoulder its share of the
+                    responsibility. It had been remiss in the past, but it was doing a better job
+                    now by becoming more involved.</p>
+                <p>The meeting adjourned for lunch at 11:57 a.m.</p>
+                <p rend="center"><hi rend="underline">Working Luncheon</hi></p>
+                <p>The Committee held a working lunch in the Department which was also attended by
+                    Mr. High, Mr. Slany, Mr. Petersen, Mr. Glennon, and Mrs. Becker. The major topic
+                    of discussion was the organization and functions of an editorial board as well
+                    as the use of academic consultants for the <hi rend="italic">Foreign
+                        Relations</hi> series. The discussion elicited the expression of a wide
+                    variety of views on the feasibility of such a proposal, first suggested at last
+                    year’s meeting and outlined in some detail in a draft paper prepared for the
+                    Committee by Mr. Slany.</p>
+                <p>A number of options for the use of an editorial board and consultants were
+                    explored. Mr. Slany underscored the necessity for working more closely with
+                    academic experts and enlisting the support of the scholarly community for
+                    difficult editorial decisions concerning the series. These ranged from
+                    organization of material and selection of topics to the inclusion of particular
+                    documents. Mr. Slany reminded the Committee that it had given less attention to
+                    the substantive contents of volumes in recent years as it became more concerned
+                    with general publication policies for the series. Avenues discussed by the
+                    Committee included: appointment of a board by the Advisory Committee; the
+                    Committee constituting a board from its own membership; and the Committee itself
+                    assuming the duties of an editorial board. It was the sense of the Committee
+                    that it should exercise direction over whatever new unit was established. Mr.
+                    High reminded the Committee and the Historical Office about the budgetary
+                    constraints that existed on new activity.</p>
+                <p>During the course of the discussion, the concept of a senior private historian
+                    playing a role in the <hi rend="italic">Foreign Relations</hi> clearance process
+                    was mentioned. This suggestion reemerged at the Committee’s afternoon
+                    session.</p>
+                <p rend="center"><hi rend="underline">Afternoon Session</hi></p>
+                <p rend="center">(Closed to the Public)</p>
+                <p rend="underline">Declassification Questions</p>
+                <p>Prof. Kuehl called the session to order at 2:15 p.m. Ambassador Burke joined the
+                    committee at the conference table. Prof. Kuehl led off with a series of
+                    questions:</p>
+                <list rend="bulleted">
+                    <item>why has the series slipped to 34 years behind currency in the recent
+                        publication of 1951, Volume IV?</item>
+                    <item>can the committee do anything to help with the implementation of the
+                        presidential directive?</item>
+                    <item>how can a 30 year line be established if much of the documentation at the
+                        Johnson Library has not been processed yet, and if the Nixon Library has not
+                        yet been established because of the court case?</item>
+                </list>
+                <p>Prof. Larson asked another set of questions:</p>
+                <list rend="bulleted">
+                    <item>is it true that the Executive Order of 1982 allows already declassified
+                        material to be reclassified?</item>
+                    <item>is the delay in NSC clearance of the 1952-54 volume on Germany and Austria
+                        the result of NSC “censorship”?</item>
+                    <item>why has there been no the Historical Office-CDC agreement on the 1952-54
+                        volume on the Soviet Union and Eastern Europe?</item>
+                </list>
+                <p>Prof. Gruber asked:</p>
+                <list rend="bulleted">
+                    <item>what are the categories of classification?</item>
+                    <item>are there written guidelines that the CDC reviewers follow for <hi
+                            rend="italic">Foreign Relations</hi> declassification?</item>
+                </list>
+                <p>Ambassador Burke responded by giving a brief history of the various executive
+                    orders dealing with declassification since the first one under Truman, and then
+                    gave a general description of how the CDC operates in clearing <hi rend="italic"
+                        >Foreign Relations</hi> volumes under the current Executive Order. He said
+                    that there are only three levels of classification: Top Secret, Secret, and
+                    Confidential. He pointed out that declassification often involved other agencies
+                    such as the Department of Defense. If a document was purely of State Department
+                    origin, declassification could be decided by CDC without referral to another
+                    agency. After looking at the document, however, the CDC reviewer might decide to
+                    consult the desk or office from which the document originated.</p>
+                <p>Prof. Perkins commented that this sounded as if each case was decided on an <hi
+                        rend="underline">ad hoc</hi> basis and asked again if there were any
+                    guidelines for declassification.</p>
+                <p>Ambassador Burke replied that there were informal guidelines but not necessarily
+                    written ones to cover every case. He pointed out that CDC reviewers are experts
+                    in their individual areas and that CDC depends upon their judgment.</p>
+                <p>Prof. Holsti asked whether the recent executive orders on declassification
+                    differed significantly. Ambassador Burke said that there were not any
+                    significant differences. Some criteria for classification have been added
+                    through the years, but the thrust has not changed dramatically. Reclassification
+                    was done only if the material in question was recoverable, i.e. if it had not
+                    already been copied and distributed. He agreed that the recent executive order
+                    was more stringent than its predecessors in this regard, but he pointed out that
+                    it had been drafted not by the White House but by the Information Security
+                    Oversight Office (ISOO). It reflected the experience of many officials from
+                    different agencies.</p>
+                <p>Mr. Thompson said he could recall only three or four attempts to reclassify
+                    documents, and only one case where it was accomplished. He said that processing
+                    was going on in all the Presidential libraries. The Nixon material was a special
+                    case, because access was not yet regularized. He felt, however, that the Nixon
+                    material would be available in time for the Historical Office to compile volumes
+                    and adhere to the 30-year line.</p>
+                <p>Mr. Glennon said that the Historical Office was examining ways to speed up the
+                    processing of Vietnam material at the Johnson Library, which now was processed
+                    only through 1965. In the meantime, we were considering the possibility of
+                    gathering Vietnam documentation from other sources and saving the Johnson
+                    Library research for last.</p>
+                <p>In response to a question from Prof. Kuehl, the Ambassador said he did not
+                    anticipate any major declassification problems with the Vietnam volumes, given
+                    the quantity of documentation that has already been declassified.</p>
+                <p>Mr. Ambach pointed out that the absence of agreement between declassifiers and
+                    historians did not mean that matters were necessarily at an impasse. In some
+                    cases, the two offices were in the process of working out an agreement. Prof.
+                    Perkins commented that 16 volumes in this category, however, was a very large
+                    number.</p>
+                <p>Prof. Larson asked whether the delay in releasing the 1952-54 Germany volume was
+                    due to the sensitivity of U.S. relations with West Germany. Mr. Ambach answered
+                    that this was a tough volume to clear and noted that there was a conflict
+                    between the Department’s desire to publish and the NSC concern about still
+                    sensitive issues. He added that clearance also required resources.</p>
+                <p>Prof. Dallek asked what the Advisory Committee could do that would be
+                    constructive to help get the <hi rend="italic">Foreign Relations</hi> volumes
+                    out and maybe even reach the 30-year line. Prof. Gruber asked specifically
+                    whether a committee recommendation that more resources be added to the CDC or
+                    NSC would be helpful. The Ambassador said that in surveying the status report,
+                    it seemed that only 3 volumes fell beyond the 30-year line. All the rest were in
+                    the 1955-57 triennium. Most of the delays in this group were due to the GPO.</p>
+                <p>Prof. Larson asked whether the Department felt it had to wait 30 years before a
+                    volume could be published. Ambassador Burke answered that 30 years was a goal
+                    and he was reasonably hopeful it could be attained. He mentioned in particular
+                    the problems posed for clearance by long-lived foreign officials who were active
+                    in the 1950’s and are still active.</p>
+                <p>Prof. Perkins asked whether the CDC could clear the 27 volumes for the 1955-1957
+                    triennium in a two-year period of time so as to reach the 30-year line. The
+                    Ambassador replied that it was feasible, and that Under Secretary of State
+                    Spiers was committed to supporting the <hi rend="italic">Foreign Relations</hi>
+                    series with resources. In reply to Prof. Gruber’s question, he said that a
+                    recommendation by the committee for more resources for the CDC would be
+                    helpful.</p>
+                <p>In further response to Prof. Perkins’ question, Mr. Ambach said that clearance
+                    time for a volume averaged six months in CDC, but the time to clear with other
+                    agencies varied considerably from volume to volume. Ambassador Burke expressed
+                    his belief that the new presidential directive would encourage other agencies to
+                    respond more quickly.</p>
+                <p>Prof. Gruber asked whether the new presidential directive would encourage the NSC
+                    to clear more material for <hi rend="italic">Foreign Relations</hi>. Ambassador
+                    Burke answered that on a close call, it might make a difference with the NSC,
+                    but in general it was unlikely to have much effect with that agency.</p>
+                <p>Prof. Kuehl asked what Secretary Shultz meant by the word “disclosure” in his
+                    reply to last year’s committee report? He used the word in referring to the
+                    process whereby documents are released to the public after thirty years.
+                    Ambassador Burke answered that the word referred to the transfer of records to
+                    the Archives where they become fully accessible. Mr. Slany said that the word
+                    “disclosure” appears in the new presidential directive as well, and means that
+                    its purpose not only is to facilitate publication of the partial record in the
+                        <hi rend="italic">Foreign Relations</hi> series but also to provide access
+                    to the full record at NARA.</p>
+                <p rend="underline">Scholarly Community Involvement with Declassification
+                    Process</p>
+                <p>Prof. Dallek suggested there might be a way for the scholarly community to figure
+                    in the declassification process on particularly important disagreements between
+                    the Historical Office and the declassification staff. In reply to the
+                    Ambassador’s comment that his official position wouldn’t let him recommend
+                    circumventing the system, Dallek said that he was not advocating a lobbying
+                    effort. He proposed that a scholar with an excellent reputation be cleared to
+                    become part of the process. Although this would not resolve all the problems, it
+                    would open up the process more and might reduce some of the suspicion that
+                    exists in the scholarly community.</p>
+                <p>Prof. Larson said that many people felt that the declassification decisions were
+                    made arbitrarily, especially in the apparent absence of written criteria. At the
+                    Eisenhower Library, she frequently saw withdrawal slips and was told by library
+                    staff that these were Churchill-Eisenhower communications that were routinely
+                    removed because of the provisions of the executive order. She asked whether it
+                    was true that anything written by a foreign leader automatically retained its
+                    classification. Entire folders at the Eisenhower Library were pink-sheeted. She
+                    specifically mentioned the Churchill-Eisenhower correspondence on trade
+                    issues.</p>
+                <p>Ambassador Burke said that her general impression was not valid. Many
+                    communications from foreign leaders, including Churchill, had been declassified.
+                    At David Painter’s suggestion, Burke briefly defined “foreign government
+                    information” for declassification purposes. He said that, as distinct from
+                    “foreign government documents” which are those documents authored by foreign
+                    governments, “foreign government information” is information contained in U.S.
+                    documents that was obtained from foreign governments. Permission is requested
+                    from friendly governments before publishing foreign government documents or
+                    foreign government information of a sensitive nature. Foreign government
+                    information is not withheld or cleared simply because it is foreign.</p>
+                <p>Ambassador Burke asked Prof. Dallek whether the procedure he had suggested might
+                    not lead to the outside scholar being coopted. Nevertheless, Ambassador Burke
+                    said he would be willing to try it if the right person could be found--someone
+                    who was willing to devote the time needed to review the documents. In response
+                    to Prof. Gruber’s question as to how he envisioned the process working,
+                    Ambassador Burke said that one possibility was for the outside scholar to be
+                    given a position in the Historical Office or Classification/Declassification
+                    Center. A key question would be how this person was to be recruited.</p>
+                <p>Prof. Dallek remarked that the selection should probably be handled by the
+                    organizations represented on the committee. It would have to be a person in whom
+                    the academic community had the highest confidence.</p>
+                <p>Prof. Kuehl suggested that a retired distinguished historian, like Richard
+                    Leopold, would be ideal.</p>
+                <p>Mr. Hargrove questioned whether the participation of an outside scholar in the
+                    process would be that helpful. He asked whether there was not something
+                    structurally deficient about the declassification system. How much of the
+                    backlog in publishing <hi rend="italic">Foreign Relations</hi> volumes was due
+                    to a lack of means for resolving disputes, and how much was due to other
+                    factors? He said that the committee needed more information about how the
+                    process worked.</p>
+                <p>Ambassador Burke stated that they had to be practical concerning the operation of
+                    the government and inter-agency disputes. He noted that there are fiefdoms
+                    within the government and that, if an agency felt strongly about a particular
+                    document, it could stop it from being released. He pointed out that there was no
+                    oversight agency with the power to monitor the declassification process except
+                    the NSC and the President. He said that they could use more resources. He
+                    suggested that a representative of the historical profession would function best
+                    in an ombudsman capacity. He or she could not become involved in each individual
+                    dispute. Ambassador Burke noted again that he was in favor of the Presidential
+                    Directive because it would reinforce the primacy of publication of <hi
+                        rend="italic">Foreign Relations</hi> and would help with other agencies in
+                    declassification disputes.</p>
+                <p>Prof. Perkins asked whether Ambassador Burke himself had the power to arbitrate a
+                    simple case, such as a dispute between the historians and the declassification
+                    reviewers. Ambassador Burke responded that in almost all cases the decision of
+                    the bureau would be final. Prof. Perkins emphasized whether he had the <hi
+                        rend="underline">power</hi> to act in such cases. Ambassador Burke replied
+                    that he did, but that this was not a common occurrence.</p>
+                <p>Mr. Hargrove asked whether declassification disputes were ever taken to the NSC
+                    for resolution. Mr. Slany replied that the NSC only wanted to see documents upon
+                    which agreement had been reached by all other agencies.</p>
+                <p>Mr. Hargrove asked whether a review group at a sub-cabinet level could not be
+                    created. Prof. Dallek said this idea was consistent with his suggestion about an
+                    ombudsman, and that it would be more practical to start with an individual. At
+                    some later point a group might be created.</p>
+                <p>Mr. Slany commented that the Historical Office had not pushed some disputes to an
+                    early resolution in the hope that delay might ultimately help clearance. He
+                    noted that an early enforced decision might be negative and/or leave no
+                    possibility for appeal. He pointed to the danger of a conflict resolution
+                    procedure that worked well but resulted in many documents being left out. It
+                    would be possible to have <hi rend="italic">Foreign Relations</hi> volumes
+                    published in 20 years but without much in them. He stated that the atmosphere
+                    concerning disclosure of information had changed in the last ten years and that
+                    a new Executive Order might prove even more restrictive. He commented that those
+                    who wanted to protect information from disclosure could do it more effectively
+                    than ever. This was why the Historical Office viewed with skepticism involvement
+                    in the hasty resolution of declassification disputes. Slany noted that the
+                    Historical Office was working more cooperatively with CDC than ever before and
+                    was finding more ways within the system to resolve disputes.</p>
+                <p rend="underline">How the Declassification Review Process Works</p>
+                <p>Ambassador Burke stated that in the end it has to be the Department’s action
+                    officers who retain ultimate decision. They are the ones who are aware of
+                    whether a delicate negotiation is in progress that would be jeopardized by the
+                    publication of the material in question.</p>
+                <p>Mr. Hargrove said there was a built-in bias in the system favoring continued
+                    classification. An action officer’s career might be damaged by disclosure, but
+                    never by recommending continued classification. The risks to a person’s career
+                    would be reduced by having a higher organ of resolution. Ambassador Burke said
+                    decisions were made not only to protect careers. There were real issues at
+                    stake, particularly current negotiations. Prof. Perkins said it was obviously a
+                    question of degree. Some disclosures would only cause a ripple of trouble, not
+                    an explosion. He agreed with Mr. Hargrove that the desk officer was not the most
+                    dispassionate person.</p>
+                <p>Ambassador Burke pointed out that the declassification reviewer often has
+                    considerable influence on the desk officer. The reviewer is often someone who
+                    had first-hand experience with the material in question and who has the broader
+                    historical perspective that the desk officer lacks.</p>
+                <p>Prof. Kuehl said that the Advisory Committee did not know enough about the
+                    clearance process. He could not understand how the Presidential Directive would
+                    accelerate the process. How would the Presidential Directive help in the dispute
+                    over specific issues concerning the 1952-1954 volumes? Ambassador Burke stated
+                    that it would speed up the process. It would give the Department the power to go
+                    to other agencies and use the Presidential Directive to say this should be
+                    released.</p>
+                <p>Prof. Kuehl asked Ambassador Burke whether he could prepare a paper describing
+                    the functions of the Classification/Declassification Center and whether this
+                    paper could be given to the scholarly community. Ambassador Burke asked that the
+                    Committee, outside the terms of its formal report, tell him what sort of paper
+                    it would like.</p>
+                <p>Prof. Perkins asked what priority clearing <hi rend="italic">Foreign
+                        Relations</hi> volumes had for a desk officer. Ambassador Burke responded
+                    that it used to be very low but noted that now the declassification reviewers
+                    approach desk officers directly as needed. He also commented that, if the
+                    documents in question happened to be related to a declassifier’s experience in
+                    the Foreign Service, the officer was generally more eager to clear them.</p>
+                <p>Prof. Perkins expressed the feeling that the retired Foreign Service Officers
+                    serving as declassifiers were most likely concerned with protecting U.S.
+                    policy-makers. Ambassador Burke said it was just the opposite. The reviewers
+                    feel that generally the documents reveal a good record and are anxious to get it
+                    out. There has been no case where a bad policy had been covered up. Prof.
+                    Perkins said he was happy to receive these assurances, but he wanted only to
+                    mention that this view did persist in the academic community. The Ambassador
+                    said he was aware of this, and that he had heard similar sentiments voiced.</p>
+                <p>Prof. Perkins asked what was the main concern at CDC. Was it sensitivity--the
+                    impact of the release of historical records on policies today? Ambassador Burke
+                    agreed that this was the principal consideration.</p>
+                <p rend="underline">New DOS-NARA Agreement</p>
+                <p>Ambassador Burke stated that last week Under Secretary Spiers had concluded a new
+                    agreement with the National Archives to help support declassification of State
+                    Department records for the 1955-1959 period. This renews the previous subsidy,
+                    which had been for the 1950-1954 record block. Mr. Thompson said that for this
+                    block, NARA will pay a larger percentage than it had for the 1950-1954 block. He
+                    said that NARA’s review of the 1955-1959 block will begin in March 1986 and will
+                    be completed in four years.</p>
+                <p rend="underline">Committee’s Private Meeting</p>
+                <p>Prof. Kuehl adjourned the meeting at 3:55 p.m. The committee met privately to
+                    prepare its report.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

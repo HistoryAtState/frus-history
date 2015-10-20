@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Memorandum of Conversation Among HO and CIA Officials,
+                    September 1979</title>
+                <title type="short">HO-CIA Meeting, 1979</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-01-22">January 22, 2014</date>
+                <date type="created" when="1979-08-15">September 25, 1979</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1979-09-25-ho-meeting-with-cia.pdf">PDF</ref>, 350 KB, 11pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: National Archives and Records Administration, Record Group
+                    59, Entry UD-08D-4: Bureau of Public Affairs, Assistant Secretary and Deputy
+                    Assistant Secretary Subject Files, 1975-1981 (82 D 297), Box 6, The Historian’s
+                    Office 1979. An unknown hand, but presumably Deputy Assistant Secretary of State
+                    for Public Affairs William Blair, underlined passages in the text. For these
+                    annotations, refer to the scanned copy of this document.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 9, <ref
+                    target="../chapter-9#fn14">Footnote 14</ref></p>
+            <div type="document">
+                <head>Memorandum of Conversation Among HO and CIA Officials</head>
+                <dateline>September 25, 1979</dateline>
+                <p>On September 25, 1979, representatives of the Office of the Historian (PA/HO) met
+                    with representatives of the Central Intelligence Agency's declassification
+                    operation at the latter's offices [<hi rend="italic">text not
+                    declassified.</hi>] The primary purpose of the meeting was to discuss CIA
+                    objections to the publication in the <hi rend="italic">Foreign Relations</hi>
+                    series of certain documents dealing with Asian matters in v. XII, 1952-54. The
+                    meeting lasted from 2:00 P.M. to approximately 3:40. Present from PA/HO were
+                    John Glennon, Dave Mabon, Dave Baehler, and Ron Landa. The following were
+                    present from CIA:</p>
+                <list>
+                    <item>[<hi rend="italic">Name not declassified</hi>] Information Review Officer
+                        in the Directorate for Operations (DDO)</item>
+                    <item>Gale W. Allen, Chief, Classification Review Division (CRD), Information
+                        Systems Staff, Directorate for Administration</item>
+                    <item>[<hi rend="italic">Name not declassified</hi>] Chief, Branch for
+                        Directorate of Operations, (CRD)</item>
+                    <item>[<hi rend="italic">Name not declassified</hi>] Chief, Branch for
+                        Directorate of Administration, CRD</item>
+                    <item>[<hi rend="italic">Name not declassified</hi>] Latin American Branch,
+                        CRD</item>
+                    <item>[<hi rend="italic">Name not declassified</hi>] Southeast Asia Branch,
+                        CRD</item>
+                </list>
+                <p>Allen delayed the beginning of the meeting until [<hi rend="italic">name not
+                        declassified</hi>] arrived. When [<hi rend="italic">name not
+                        declassified</hi>] entered, he took the place at the head of the table, with
+                    Allen sitting to his right.</p>
+                <p>Allen then opened the meeting by explaining that CRD's philosophy diverged from
+                    the one set forth in the letter John Glennon sent to him concerning volume XII,
+                    dated August 29, 1979. Regarding the documents in dispute, he said CIA had begun
+                    with a conservative approach, but would retreat whenever possible. The important
+                    thing was to strike the proper balance between HO's and CIA's interests. In that
+                    regard, he asked [<hi rend="italic">name not declassified</hi>] to explain what
+                    CIA meant by “official disclosure,” which was the criterion by which FR material
+                    was reviewed for declassification.</p>
+                <p>In his remarks, [<hi rend="italic">name not declassified</hi>] revealed a theme
+                    which he consistently returned to in the course of the meeting: Legal exigencies
+                    imposed by the CIA's statutory authority severely limited the kinds of
+                    revelations that could be made in the <hi rend="italic">FR</hi> series. He cited
+                    Section 6 of the 1949 CIA Act, which imposed on him the necessity to protect
+                    sources and methods. If he violated this act, he said, he would be liable in
+                    court. In this regard, he was guided by the term “authorized executive
+                    disclosure.” If the CIA had not released information officially, and even if
+                    another agency had released the information, then CIA was bound by the 1949 act
+                    not to allow its publication in the <hi rend="italic">Foreign Relations</hi>
+                    series. If [<hi rend="italic">name not declassified</hi>] did permit its
+                    publication, he would be liable in court.</p>
+                <p>Continuing, [<hi rend="italic">name not declassified</hi>] said that the memoirs
+                    of former CIA officials mentioned in Glennon's letter did not constitute
+                    “authorized executive disclosure” in the CIA's view. The memoirs were merely the
+                    reminiscences of private individuals who, because of a secrecy contract signed
+                    as a condition of employment, had to submit their manuscript to CIA for
+                    clearance before publication. The disclosure was theirs, not the CIA's.
+                    “Authorized executive disclosure” was the explicit release of information by the
+                    CIA itself. FOI cases, mandatory review under E.O. 12065, approved public
+                    statements by CIA representatives, in their official capacities, on intelligence
+                    sources and methods were examples. Evidence of prior “authorized executive
+                    disclosure” on a certain matter would justify the printing of relevant
+                    documentation in the <hi rend="italic">Foreign Relations</hi> series.
+                    Publication of memoirs by retired CIA or other government officials does not.
+                    Since CIA is not aware of all the “authorized executive disclosures” that have
+                    taken place, they do appreciate having this kind of disclosure brought to their
+                    attention.</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] stated that CIA also has the
+                    residual legal right to protect intelligence sources and methods relating to the
+                    work of the Office of Strategic Services (OSS) in World War II. Because of the
+                    abundance of documentation and memoirs on OSS activities, CIA has developed the
+                    “reasonable man” approach to OSS material. This means that information can be
+                    divulged when it becomes clear to “reasonable man” that so much information on a
+                    given subject was already generally known that “disclosure” was not in fact
+                    taking place by CIA release of material.</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] went on to say that, as a result
+                    of the disclosures about the OSS era, CIA was now concentrating on protecting
+                    sources and methods for the period after the CIA was formed. He also said that
+                    the CIA was using the “reasonable man” approach even on the later material. In
+                    the course of the ensuing discussion, he reiterated repeatedly the term
+                    “reasonable man” approach in describing CIA's declassification efforts.</p>
+                <p>Mabon asked whether Colby's memoirs constituted “authorized executive disclosure”
+                    since he himself had been DCI. [<hi rend="italic">Name not declassified</hi>]
+                    replied that only statements by a “sitting” DCI fell into this category.</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] explained that insistence on
+                    “authorized executive disclosure” was necessitated by the “Ellsberg syndrome,”
+                    the feeling that some people had that they could steal classified documents and
+                    claim First Amendment protection to have them published.</p>
+                <p>Glennon said he understood the meaning of authorized executive disclosure as
+                    described by [<hi rend="italic">name not declassified</hi>] but he thought it
+                    was largely legalistic hair-splitting. He state that “officiality” is attached
+                    to Cline's, Lansdale's, and Colby's memoirs because of their former positions
+                    and because they expressly indicate the books have been cleared with C.I.A. The
+                    general view is that these memoirs constitute “official disclosure.” The same is
+                    true with memoirs of Secretaries of State and of Ambassadors, like Allison in
+                    Japan.</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] replied, sticking to the legal
+                    basis of his argument, that the CIA's position is that, with the President
+                    excepted, “their disclosure is not our disclosure.”</p>
+                <p>Mabon said that such a position makes the <hi rend="italic">Foreign
+                        Relations</hi> series less comprehensive and authoritative than these other
+                    publications.</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] agreed, but said it was not
+                    possible in a number of sensitive areas officially to reveal information.</p>
+                <p>Glennon pointed out that some things were so well-known they were not sensitive.
+                    PA/HO was concerned with broad policy, not with the nuts and bolts of
+                    operations, the documents in dispute reflected this concern with policy.</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] said that upon reconsideration CIA
+                    was prepared to withdraw certain objections. For example, it no longer objected
+                    to the identification of Allen Dulles or Frank Wisner, but it did object to
+                    identifying Lansdale. Their guiding principle was to protect CIA participation
+                    in certain activities. At this point, [<hi rend="italic">name not
+                        declassified</hi>] interpretation of the CIA charter seemed to go beyond a
+                    strict adherence to the “sources and methods” language in the 1949 act to
+                    include “locations and activities” of the CIA. He stated that, under the
+                    charter, any document that confirms the CIA's presence in another country is not
+                    legally subject to release by the CIA regardless of what other agencies or
+                    individuals do with it.</p>
+                <p>Allen supported [<hi rend="italic">name not declassified</hi>] by saying that any
+                    information that connotes CIA presence or operations in a foreign country cannot
+                    be revealed. He cited the 1949 CIA act as prohibiting disclosure of the location
+                    of CIA activities. Any reference to “CIA cables from country X,” or “information
+                    received from the CIA representative in country X” would have to be deleted.</p>
+                <p>Glennon raised the issue of the appearance of “CAS” in the <hi rend="italic"
+                        >FR</hi> series. He pointed out that the 1948 volume on Latin America
+                    included CAS (controlled American source) in the list of abbreviations. If CIA
+                    objected, however, to continued use of CAS, PA/HO was prepared to delete it and
+                    bracket in “a source” or something similar. Glennon asked what the basis was for
+                    CIA's objection to the use of “covert.”</p>
+                <p>Allen replied there was no objection to “covert” <hi rend="italic">per se</hi>
+                    but only to where it connoted CIA activities in a specific country.</p>
+                <p>Landa said that C.I.A. activities and its presence in some countries, [<hi
+                        rend="italic">text not declassified</hi>] were much more widely known than
+                    many OSS operations from World War II. He asked why the “reasonable man”
+                    approach could not be applied in these cases as well.</p>
+                <p>[<hi rend="italic">Paragraph not declassified.</hi>]</p>
+                <p>Reverting to the use of “CAS,” [<hi rend="italic">name not declassified</hi>]
+                    pointed out that many individuals had incorrectly used “CAS” to refer to CIA
+                    headquarters, and this error occasionally showed up in the documents. Moreover,
+                    he recalled that the 1948 Latin America volume had not tied CAS to the CIA, but
+                    had merely identified it as “Controlled American source.” Hence, this was not a
+                    real disclosure. Besides, CIA was not bound to accept as precedent improper
+                    disclosures made by other agencies. He cited the recent release, apparently
+                    inadvertent, by the Department of State of the current acronym for CIA station
+                    to Philip Agee, whom he labeled a defector to the Russians and the Cubans.</p>
+                <p>Landa stated that CIA prohibitions on even revealing its presence in a given
+                    country made it impossible in many cases for the <hi rend="italic">Foreign
+                        Relations</hi> series accurately and fairly to describe American policy.</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] said there had been one exception
+                    to this rule. That involved Indochina during the period 1963-1975 with respect
+                    to Americans missing-in-action. For legal reasons, it was necessary to
+                    acknowledge which agency had obtained information on their whereabouts. He said
+                    that this single exception opened the floodgates to requests for thousands of
+                    documents and placed a great burden on C.I.A.</p>
+                <p>Baehler asked how the “reasonable man” approach related to litigation.</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] said it was a fuzzy area, because
+                    one reasonable man's judgment often differs from another.</p>
+                <p>Glennon remarked that it seemed that the <hi rend="italic">Foreign Relations</hi>
+                    series documentation was being reviewed according to guidelines stricter than
+                    those used in FOI cases and in clearing for publication memoirs of former CIA
+                    officials. He wondered whether this was true, and whether it might be due to the
+                    fact that PA/HO has no clout, that it cannot bring suit against the agency as a
+                    private individual can.</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] said that in the past, the <hi
+                        rend="italic">Foreign Relations</hi> series was given a low priority because
+                    there was no statutory provision and no machinery in CIA for reviewing it. He
+                    said the CRD had recently assigned it number one priority.</p>
+                <p>Glennon speculated on the possibility that it might be better to have CIA clear
+                        <hi rend="italic">Foreign Relations</hi> in the same way it does the
+                    memoirs, i.e., with a “cold stare” that did not constitute “authorized executive
+                    disclosure”</p>
+                <p>Allen said that the burden of work and an inability by CRD and PA/HO to reach
+                    agreement might make this course desirable, but he shuddered at the thought of
+                    the kind of information that would thereby be revealed and the negative impact
+                    it would have on our foreign relations.</p>
+                <p>Landa pointed out that in any event desk officers in the Department of State, as
+                    well as agencies besides CIA, have to clear the documentation and the concerns
+                    are often similar to the C.I.A.'s.</p>
+                <p>Allen proposed that attention be focused on the 13 documents in dispute and on a
+                    CRD paper commenting further on those documents. [<hi rend="italic">Text not
+                        declassified.</hi>] A document-by-document discussion ensued, with Allen and
+                        [<hi rend="italic">name not declassified</hi>] doing most of the talking for
+                    CRD and Glennon and Mabon for PA/HO. During the discussion, [<hi rend="italic"
+                        >name not declassified</hi>] said that in the pre-l959 period it was
+                    difficult to locate CIA cable traffic, since the microfilm of serial files of
+                    incoming and outgoing cables prior to that year had been destroyed. It was
+                    impossible to provide, for example, all traffic from a given post for a certain
+                    period. Specific telegrams, with some difficulty, might be found in a project
+                    folder if one knew beforehand the subject of the telegram.</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] said they had serious objections
+                    to the document that specified [<hi rend="italic">text not declassified</hi>.]
+                    He asked whether these objections were shared by other clearing officials in the
+                    government.</p>
+                <p>Glennon replied that the same kinds of objections were encountered throughout the
+                    clearance process and indicated that the Department had problems with those [<hi
+                        rend="italic">text not declassified</hi>] documents.</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] said the crucial test was the
+                    immediate impact of disclosure.</p>
+                <p>Allen provided the example of a 1951 document he had recently seen about the
+                    contingency [<hi rend="italic">text not declassified</hi>.] He said that this
+                    document would be dynamite if it were released today.</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] said that many documents easily
+                    lend themselves to distortion by journalists and disreputable people.</p>
+                <p>Baehler said the advantage of the <hi rend="italic">Foreign Relations</hi> series
+                    was that it placed documentation in its proper context and discouraged
+                    sensationalism and distortion. He said that for the FR series to remain silent
+                    on certain issues that are already public knowledge will seriously damage its
+                    credibility.</p>
+                <p>Glennon quoted a retired historian in PA/HO who had once described the compiling
+                    of the FR series as “transferring documents from one obscure place to another.”
+                    Mabon emphasized that the FR volumes appeared very quietly.</p>
+                <p>Landa said that release of information may cause momentary embarrassment to some
+                    people, but we were not aware of any “identifiable damage to national security”
+                    caused by the publication of the FR series.</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] said it was better not to run the
+                    risk. Once the damage was done, it would be too late.</p>
+                <p>Allen said that in cases of information provided by foreign governments, the
+                    presumption under the new executive order was that release would be
+                    damaging.</p>
+                <p>Discussion resumed on the specific documents. Mabon said that deletion of names
+                    from texts as proposed by CIA would distort meaning. [<hi rend="italic">Name not
+                        declassified</hi>] replied that PA/HO would be allowed latitude in
+                    bracketing in substitute words for deleted names to preserve accuracy. He said
+                    they were not asking to “prostitute” the series.</p>
+                <p>[<hi rend="italic">Paragraph not declassified.</hi>]</p>
+                <p>Regarding this documentation, [<hi rend="italic">name not declassified</hi>] said
+                    it would be easier if PA/HO selected only the final approved paper, and not
+                    previous drafts as well. Including drafts makes unnecessary work for the
+                    reviewers.</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] said the ground rule as
+                    established by his superior, the Deputy Director for Operations, was that
+                    reference to CIA participation in a broad program was permissible, but the
+                    specifics of the program were not. [<hi rend="italic">text not
+                    declassified</hi>]</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] replied that such references were
+                    too specific and inadmissable. References to CIA involvement in American efforts
+                    to combat Communism worldwide would be all right.</p>
+                <p>Allen demurred. He said he had seen a number of such documents on Italy and
+                    France and, in his view, such general references fell within the Deputy
+                    Director's guidelines for material that can be released. In short, Allen stated
+                    and [<hi rend="italic">name not declassified</hi>] seemed to agree that general
+                    CIA activities in specific countries were subject to revelation, but that
+                    specific CIA activities in specific countries were not. The final impression was
+                    that this was a grey area, that the “reasonable man” approach would prevail
+                    here, and that each instance would be decided on an ad hoc basis.</p>
+                <p>Glennon made clear that discussion of these documents did not represent PA/HO's
+                    acceptance of CRD's position. In fact, he stated there was still a long way to
+                    go to reach agreement. He inquired what steps would be followed if agreement
+                    were not reached.</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] answered that there was still some
+                    flexibility in CRD's position and that they were willing to continue discussion
+                    on these documents. If, after further discussion, agreement cannot be reached,
+                    CRD could transmit PA/HO's views to the Deputy Director for Operations for his
+                    final review. A decision by him which was still unacceptable to PA/HO could be
+                    appealed to the ISOO (Information Security Oversight Office).</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] concluded by saying the CRD
+                    objections on the [<hi rend="italic">text not declassified</hi>] compilation
+                    left the reader with an “honest” picture, that the U.S. was intensely interested
+                    in the elections and was in close touch with [<hi rend="italic">text not
+                        declassified</hi>] on the matter. Mabon demurred, noting that this is
+                    nothing new and that documents do exist that would reveal new information if CIA
+                    would let HO publish them.</p>
+                <p>As an aside, Allen raised an objection regarding another kind of document, one in
+                    which an ambassador offered a scathing indictment of a [<hi rend="italic">text
+                        not declassified</hi>.] The issue was not the scathing nature of criticism,
+                    but he wondered why that document was selected, why it was singled out for
+                    special treatment. He thought the U.S. government should not display its
+                    internal disagreements in public. But the primary objection he had to the
+                    document was that it revealed the CIA's presence in that country.</p>
+                <p>Mabon responded by saying that this document was not singled out for special
+                    treatment and that PA/HO does not select documents on the basis of their
+                    revelation of inter-agency bickering on minor issues. But where important
+                    differences on policy matters existed, PA/HO feels an obligation to provide
+                    documentation.</p>
+                <p>Glennon said that the documents on [<hi rend="italic">text not declassified</hi>]
+                    in 1952 supplemented similar documents already in print in FR, 1951, VI.</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] said there was perhaps some more
+                    flexibility in CIA's position on the question of CIA presence in a country than
+                    they had so far suggested. Where the presence was not identifiable in a given
+                    edifice, [<hi rend="italic">text not declassified</hi>] they might find
+                    references to the CIA acceptable.</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] asked whether it was not possible
+                    to substitute for certain troublesome documents less sensitive sources that
+                    conveyed essentially the same information.</p>
+                <p>Glennon answered that this could be done in some cases from other documents, from
+                    memoirs or autobiographies, from documents released under FOI - but it was not
+                    always possible.</p>
+                <p>Landa asked [<hi rend="italic">name not declassified</hi>] if he could give any
+                    specific examples where CIA presence in a country might be acknowledged so long
+                    as it did not place the CIA in a particular “edifice.”</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] said that the Dominican Republic
+                    in 1965 was one such case, because there was such a massive U.S. presence that
+                    it could reasonably be assumed the CIA was providing information back to
+                    Washington.</p>
+                <p>Allen said that warlike conditions, like [<hi rend="italic">text not
+                        declassified</hi>] the Vietnam War, justify the CIA presence and therefore
+                    make it easier to admit that presence.</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] said that problems arose where the
+                    opposition was less definable. The overriding concern was not to allow enemies
+                    of the United States to unravel intelligence operations. But CIA was also
+                    concerned about the embarrassment which disclosure of certain information might
+                    cause some governments. [<hi rend="italic">Text not declassified</hi>.]</p>
+                <p>Glennon thanked the CIA representatives for their courtesy and for expressing
+                    their views so frankly, but he emphasized that PA/HO differed sharply from those
+                    views and that it seemed that we faced a long road before agreement might be
+                    reached.</p>
+                <p>Allen said that they were ready to discuss their position on SE Asian materials
+                    at HO's convenience. They would then proceed to the Latin American and European
+                    compilations, in that order.</p>
+                <p>In retrospect, it appears that during the meeting [<hi rend="italic">name not
+                        declassified</hi>] effectively cut the ground from under us on the issue of
+                    whether the FR series is a legitimate vehicle for <hi rend="underline"
+                        >initial</hi> executive disclosure for CIA materials by issuing his
+                    hard-line opening statement identifying the single criterion for
+                    declassification of FR documents as <hi rend="underline">prior</hi> executive
+                    disclosure (as CIA defines it). In other words, we were precluded during the
+                    session from discussing the question of using the <hi rend="italic">Foreign
+                        Relations</hi> series as one of several forms of CIA executive disclosure of
+                    new material on previously undisclosed subjects. Glennon alluded to the issue by
+                    asking that FR material be treated as fairly as mandatory review material,
+                    another form of executive disclosure which does not require prior official
+                    acknowledgement of CIA involvement in order for release of documents to take
+                    place. The CIA participants assiduously avoided discussing this apparent
+                    contradiction in the treatment of the “executive disclosure” question.</p>
+                <p>We were therefore confined to arguing on the relatively narrow grounds that
+                    material already publicly but unofficially released was proper subject matter
+                    for treatment in FR. We never addressed the larger issue of how to get the CIA
+                    to recognize that the FR series should be a prime vehicle for the initial
+                    disclosure of some of its secrets, just as is the release of documents under
+                    FOI. And the reason we never addressed the question is that [<hi rend="italic"
+                        >name not declassified</hi>] argued from the outset that the CIA charter
+                    legally prevented him from making such decisions, although he did intimate that
+                    decisions of this sort can come from the director of CIA, as in fact they have
+                    in the case of the CIA presence in Vietnam in the 60s and 70s and as they do
+                    repeatedly in FOI releases. The implication is that he -- [<hi rend="italic"
+                        >name not declassified</hi>] -- is bound legally by the charter but that his
+                    superiors -- or at least the DCI -- are authorized by the charter to make
+                    exceptions on an <hi rend="italic">ad hoc</hi> basis. Whether it can be done <hi
+                        rend="underline">only</hi> on an ad hoc basis is an open question, but it
+                    seems fair to ask whether HO and the State Department might consider approaching
+                    the DCI for an across-the-board decision on material destined to be published in
+                    FR, subject, of course, to the legal restrictions on revealing sources and
+                    methods. [<hi rend="italic">Name not declassified</hi>] never explicitly
+                    recommended that we do so, but the implication was left from some of the other
+                    things he said that this was an option we might pursue, however distasteful it
+                    might be to the CIA. Some of those other things he said included the reference
+                    to the fact that the DCI had already opened by executive disclosure knowledge of
+                    the CIA presence in Vietnam in the 60s and 70s (albeit only for legal reasons
+                    relating to MIAs); that in fact the CIA did want to take a “reasonable man”
+                    approach to declassifying material that was no longer sensitive; and by his
+                    admission that there was a wide grey area where reasonable people can disagree
+                    on what is still sensitive and what is not. If he had seen the rule about prior
+                    authorized executive disclosure, which he enunciated at the very first, as
+                    absolutely fixed, there is no reason why he should have mentioned any of these
+                    things, which were in some cases entirely unsolicited.</p>
+                <p>A second impression left by [<hi rend="italic">name not declassified</hi>] was
+                    that the CIA was not about to venture into the area of judging the effect on
+                    U.S. foreign relations of the release of a document and to use that judgment as
+                    a criterion in reviewing a document. Allen and [<hi rend="italic">name not
+                        declassified</hi>] wondered what the effect of the release of certain kinds
+                    of information might be on our foreign relations, but [<hi rend="italic">name
+                        not declassified</hi>] stuck strictly to the legal authority argument,
+                    basing his position on the CIA charter.</p>
+                <p>A third impression, related to the second, was that the CIA's interpretation of
+                    its charter, which calls for protection of sources and methods, had been to
+                    broaden it to include the concealment of locations and activities of the CIA. It
+                    seemed that the legal argument used by [<hi rend="italic">name not
+                        declassified</hi>] was being stretched to the breaking point in this
+                    instance. The withholding of certain information about location and activities
+                    may be argued on foreign relations grounds -- which is the State Department's
+                    and not the CIA's bailiwick -- but probably not on legal grounds.</p>
+                <p>The final impression was that [<hi rend="italic">name not declassified</hi>] was
+                    very much in charge and that he in turn had gotten his marching orders from the
+                    Deputy Director for Operations.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

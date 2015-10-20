@@ -1,0 +1,1248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Minutes of Historical Advisory Committee Meeting, November
+                    1961</title>
+                <title type="short">HAC Meeting Minutes, 1961</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-02-10">February 10, 2014</date>
+                <date type="created" when="1961-11-03">November 3-4, 1961</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1961-11-03-hac-meeting-minutes.pdf">PDF</ref>, 1.7 MB, 38pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 1, 1961—Report. Limited Official Use. Minutes
+                    taken by Herbert A. Fine, George H. Dengler, John P. Glennon, and William
+                    Slany.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 8, <ref
+                    target="../chapter-8#fn29">Footnote 29</ref></p>
+            <div type="document">
+                <head>Minutes of the 1961 Meeting of the Advisory Committee on <hi rend="italic"
+                        >Foreign Relations of the United States</hi></head>
+                <dateline>November 3-4, 1961</dateline>
+                <p>The morning session on Friday, November 3, began at approximately 9:15 a.m.</p>
+                <p>Present:</p>
+                <list>
+                    <item>The Advisory Committee:<list>
+                            <item>Clarence A. Berdahl</item>
+                            <item>Leland M. Goodrich</item>
+                            <item>Fred H. Harrington</item>
+                            <item>Richard W. Leopold</item>
+                            <item>Philip W. Thayer</item>
+                            <item>Robert R. Wilson</item>
+                        </list>
+                    </item>
+                    <item>The Assistant Secretary of State for Public Affairs, Roger Tubby</item>
+                    <item>Officers of the Historical Office:<list>
+                            <item>G. Bernard Noble</item>
+                            <item>William M. Franklin</item>
+                            <item>E. R. Perkins</item>
+                            <item>G. M. R. Dougall</item>
+                            <item>E. Taylor Parks</item>
+                        </list></item>
+                    <item>The <hi rend="italic">Foreign Relations</hi> staff:<list>
+                            <item>G. A. Nuermberger</item>
+                            <item>Newton O. Sappington</item>
+                            <item>Rogers P. Churchill</item>
+                            <item>John G. Reid</item>
+                            <item>Almon R. Wright</item>
+                            <item>Ralph R. Goodwin</item>
+                            <item>Herbert A. Fine</item>
+                            <item>Velma H. Cassidy</item>
+                            <item>David H. Stauffer</item>
+                            <item>William Slany</item>
+                            <item>John P. Glennon</item>
+                            <item>George H. Dengler</item>
+                        </list></item>
+                </list>
+                <p>AGENDA ITEM 1: Opening remarks:</p>
+                <p>Mr. Noble called the meeting to order and introduced Mr. Tubby who welcomed the
+                    Committee members and expressed his appreciation of their assistance in
+                    connection with the problems of publishing <hi rend="italic">Foreign
+                        Relations</hi>. He then gave a brief talk on the general world situation and
+                    commented on the usefulness of historical research in providing material for a
+                    better public understanding of the problems of democracy and of the challenges
+                    it has successfully overcome in the past. Mr. Tubby then departed.</p>
+                <p>AGENDA ITEM 2: Election of Chairman:</p>
+                <p>Mr. Noble first took up the question of the designation of a Chairman of the
+                    Committee, since Dexter Perkins, who has been Chairman since the Committee was
+                    formed, was in India at this time. At Mr. Berdahl’s suggestion, the matter was
+                    deferred until after lunch.</p>
+                <p>Mr. Noble explained that because of Departmental budgetary problems, the
+                    Historical Office had been unable to obtain a reporter to prepare a transcript
+                    of the Committee’s sessions and was utilizing the services of four members of
+                    the <hi rend="italic">Foreign Relations</hi> staff to prepare summary
+                    minutes.</p>
+                <p>AGENDA ITEM 3: Report on developments of year:</p>
+                <p>Mr. Noble at this point undertook a review of developments during the past year
+                    in connection with the recommendations made by the Committee in its 1960
+                    report:</p>
+                <p>1. PERSONNEL PROBLEM: The Committee’s recommendations on increasing the size of
+                    the staff were not realized and indeed one position had been lost because of the
+                    budgetary stringency. There is no expectation that the staff will be increased
+                    this year or next, entailing a further falling behind currency if <hi
+                        rend="italic">Foreign Relations</hi> continues to operate under present
+                    standards.</p>
+                <p>2. GREATER SELECTIVITY: It was noted that the Committee report advocated greater
+                    selectivity in the number of papers printed and in the subjects covered. This is
+                    a problem of major significance and one not easy to solve because of the
+                    difficulty of devising a formula to guide us in determining which papers may be
+                    properly excluded and which subjects need not be treated. Cases involving
+                    individual claims, visas and other matters of private concern do not normally
+                    raise serious questions of policy: but where subjects do impinge on policy
+                    matters, agreement on areas of exclusion will be difficult.</p>
+                <p>3. SUMMARIES: The Committee’s report recommended the saving of space through the
+                    use of editorial summaries for less significant material. This device is already
+                    in use to a limited extent, not only to save space but also to make unnecessary
+                    the printing of sensitive documents. Examples where this device has been
+                    resorted to will be set before the Committee during the reading period this
+                    afternoon. There will be increasing use of this technique but documents will
+                    continue to be the basic contents of the volumes.</p>
+                <p>4. RELEASE OF THE CHINA VOLUMES AND 1941, VOL. V: The Committee report for 1960
+                    went on record as favoring release of the 1943 China volume and the 1941 volume
+                    and preparing the remaining China volumes for release. Our efforts have not been
+                    successful for reasons of high Department policy.</p>
+                <p>5. TABLE OF ORGANIZATION OF THE DEPARTMENT: The Committee report recommended that
+                    a table of organization of the Department be placed in the first volume of each
+                    annual series. This is a problem we have not gotten around to -- for one reason,
+                    that no first volume for a particular year has been released since the Committee
+                    made its report. However, there are difficulties surrounding the printing and
+                    use of such a table and it might be preferable to use instead a list of the
+                    highest officers of the Department, perhaps somewhat along the line of <hi
+                        rend="italic">Principal Officers of the Department of State, 1933-1961</hi>,
+                    prepared by the Historical Office in September 1961. Copies of this study were
+                    distributed to the Committee members.</p>
+                <p>6. INCLUSION MORE FREQUENTLY OF MAPS AND ILLUSTRATIONS: The Committee report
+                    suggested more general use of maps and illustrations. The staff is giving close
+                    attention to this recommendation and will use such materials where timely and
+                    available. This is another good idea which will add somewhat to the time and
+                    difficulty of editing the volumes.</p>
+                <p>7. EXECUTIVE ORDER: One of the most important recommendations, if not the most
+                    important, made by the Committee last year was that an Executive Order be issued
+                    giving the Secretary of State final authority for the inclusion of documents in
+                        <hi rend="italic">Foreign Relations</hi>, including documents originating in
+                    other Departments. As an alternative, the Committee recommended a statement by
+                    the President on the importance of the <hi rend="italic">Foreign Relations</hi>
+                    series and requiring the cooperation of other departments.</p>
+                <p>The Historical Office tried to carry out the request for an Executive Order but
+                    abandoned this approach because of strenuous objection from the Defense
+                    Department. The alternative approach of a Presidential letter was acceptable to
+                    Defense, and, as a result of the cooperation of Arthur M. Schlesinger, Jr.,
+                    Special Assistant to President Kennedy, a Presidential letter of September 6,
+                    1961 was sent to interested agencies, and was released on the following day.
+                    Copies of this letter were distributed to the Committee; a copy is appended to
+                    these Minutes as Annex 1.</p>
+                <p>Special attention was focused on paragraph 3 and the last paragraph of the letter
+                    which dealt with the responsibilities of the Department of State in preparation
+                    of the <hi rend="italic">Foreign Relations</hi> series, the requirement of
+                    active collaboration by other departments in the clearance of papers, and the
+                    necessity of a clear and precise case in order to withhold from publication
+                    documents fifteen or more years old.</p>
+                <p>Mr. Noble stated that the replies to the letter by the various departments
+                    concerned were forthcoming rapidly and were cooperative in tone. Thus far there
+                    has not been much opportunity to test the effectiveness of the President’s
+                    letter but we think it will be a useful tool when needed, in connection with
+                    clearance problems with other agencies and even within the Department of
+                    State.</p>
+                <p>Mr. Noble pointed out that the President’s letter had had one embarrassing
+                    consequence in connection with its last sentence, which had been specifically
+                    inserted by the President. The Moss Committee had interpreted the “fifteen year”
+                    reference in this sentence to mean that the Department should open to the public
+                    all records more than fifteen years old. Mr. Noble stated that the intent of the
+                    last sentence was to speed the issuance of <hi rend="italic">Foreign
+                        Relations</hi>, not to make accessible to the public documents in the
+                    “closed” period. In the ensuing discussion, it was brought out that the records
+                    of the Department of State were fully open to the public through 1929.</p>
+                <p>8. ACCOMPLISHMENTS DURING THE YEAR: Our accomplishments during the year have not
+                    been outstanding if measured in terms of the number of volumes published. These
+                    comprised two regular volumes - 1940, vol. V, and 1942, vol. III - and three
+                    conference volumes - one on Cairo and Tehran and two on Potsdam. Many other
+                    volumes advanced toward publication. Mr. Noble emphasized that the time had come
+                    when it was impossible to compile one year’s output of diplomatic papers in one
+                    year.</p>
+                <p>The year 1961 was notable as a year of stocktaking and reorientation. In
+                    connection with the Committee’s suggestion that special attention be given to
+                    the period 1945 to 1950, the members of the staff worked most diligently on
+                    preparing papers to help peer into the problems presented by the post-l945
+                    period and their memoranda had been forwarded to the Committee members for their
+                    review. Mr. Noble expressed the hope that these papers and the oral
+                    presentations to follow would give a fair picture of our situation and of the
+                    problems that lie ahead, and would provide the basis for profitable discussion
+                    during the meeting.</p>
+                <p>Mr. Noble also expressed gratification over Mr. Berdahl’s visit to the Department
+                    as Consultant this past summer and hoped that his report would provoke lively
+                    discussion at the meeting.</p>
+                <p>9. ANTICIPATED PUBLICATION PROGRAM DURING THE FISCAL YEAR 1962: It is anticipated
+                    that four volumes will be released by June 30, 1962: 1941, vols. VI and VII
+                    (American Republics volumes), and 1942, vol. II (Europe) and vol. V (American
+                    Republics).</p>
+                <p>AGENDA ITEM 4: Comments on publication during the Year:</p>
+                <p>Mr. Noble pointed out that he had not insisted that the Committee make a critical
+                    review of any of the five volumes released and asked their opinion as to whether
+                    this would not be a useful practice. Mr. Harrington said he felt that critical
+                    analyses were not the most effective part of the Committee’s work and that the
+                    Committee should concentrate on policy matters rather than detail. He cited the
+                    recommendation by the Committee which led to the President’s letter as the sort
+                    of thing the Committee should concentrate its efforts on. Mr. Noble agreed that
+                    great credit for the President’s letter goes to the Committee.</p>
+                <p>Mr. Leopold gave special commendation to the special conference volumes and Mr.
+                    Thayer echoed his sentiments. Mr. Noble said these volumes had been favorably
+                    commented on by various people, but that no reviews had yet appeared. Mr.
+                    Franklin commented on reviews of the Yalta volume, pointing out that “Yalta” had
+                    acquired the status of a dirty word and that reviewers had used the volume
+                    primarily as an instrument to denounce President Roosevelt’s foreign policies.
+                    The volume itself had been taken for granted by the reviewers, as though the
+                    compilers had a big batch of documents in a drawer and had merely sent them to
+                    the Government Printing Office for printing. Little or no comment was made by
+                    them on the techniques used and innovations made. Mr. Leopold observed that a
+                    review of the type sought by Mr. Franklin would take a minimum of 5,000 words
+                    and that was impossible in the scholarly journals. Mr. Harrington dissented and
+                    said that a good review could be done in 800 words. Mr. Wilson added that
+                    reviewers should get a better focus on the contents of the volumes.</p>
+                <p>AGENDA ITEM 5: Mr. Berdahl’s Report:</p>
+                <p>Mr. Harrington called Mr. Berdahl’s report an excellent one, pithy and pointed.
+                    Mr. Berdahl pointed out that when he began his assignment as Consultant, it was
+                    his idea that he would be helpful primarily to the staff. After he had finished
+                    his labors, he felt his report was of greater assistance to the Committee than
+                    to the staff. The problems, he said, were so vast and complex that enlightenment
+                    was mostly personal.</p>
+                <p>Mr. Noble referred to the top of page 6 of Mr. Berdahl’s report where it was
+                    pointed out that increased selectivity was not a time-saving device since the
+                    documentation had to be examined in any case. Mr. Noble expressed his general
+                    concurrence with this idea but pointed out his thought that compilation time
+                    would be saved if entire stories were dropped.</p>
+                <p>Mr. Noble also stressed paragraph numbered 8 on the same page which emphasized
+                    the need of a comprehensive and accurate compilation even at the expense of
+                    increasing the time lag. He thought the Committee should consider the problems
+                    of a comprehensive coverage and of the time lag. Would the Committee help to get
+                    more staff so that one year’s compilation could be done in one year and the time
+                    lag kept at 20 years? Mr. Harrington emphasized the necessity of compiling a
+                    comprehensive record and stressed that the question of the time lag was of
+                    serious concern as well. He recognized, however, that the stress on
+                    comprehensiveness militated against the goal of a fifteen year lag, but insisted
+                    that the time lag should not be permitted to exceed twenty years.</p>
+                <p>Mr. Berdahl noted that the last Committee report may have overemphasized the
+                    question of selectivity. He was satisfied from his discussions with the staff
+                    and his own examination that the staff was already practicing selectivity and he
+                    felt that comprehensiveness should not be sacrificed on the altar of
+                    selectivity.</p>
+                <p>Mr. Goodrich noted that if we think in terms of comprehensiveness and
+                    completeness for the post-war years, we must also think in terms of doubling,
+                    tripling, or quadrupling the staff and facing an increase in the number of
+                    volumes covering one year from seven at the present to 21 to 30. He raised the
+                    question of possibly changing our charter to prevent such developments. Mr.
+                    Berdahl agreed that a drastic change in the charter was an alternative. Mr.
+                    Noble stated there was a need for 6 or 7 additional members on the staff to
+                    prevent the time lag from increasing.</p>
+                <p>AGENDA ITEM 6: Reports on 1946-1950 perspective:</p>
+                <p>Mr. Noble stated that one member of the staff from each area would give an oral
+                    summary report in connection with the memoranda on the 1946-50 period previously
+                    sent to the Committee members.</p>
+                <p><hi rend="underline">Mr. Nuermberger, General Branch</hi>: Mr. Nuermberger gave
+                    the first report. He indicated there were seven volumes in prospect covering
+                    multilateral material for 1945, including two for Potsdam and one for Yalta
+                    already published and probably two on the San Francisco Conference and two on
+                    other general subjects. He gave Mrs. Cassidy special praise for her work on the
+                    San Francisco Conference. He pointed out that multilateral diplomacy
+                    complemented bilateral diplomacy and that the General Branch would call on other
+                    staff members for help where country problems were referred to the United
+                    Nations.</p>
+                <p>Mr. Nuermberger divided the work of the General Branch into three phases, the
+                    non-organizational subjects, the international conferences and the United
+                    Nations. He pointed out that United Nations publications, by covering certain
+                    aspects of a problem, would allow <hi rend="italic">Foreign Relations</hi> to
+                    give more in the way of background material leading up to United Nations
+                    discussions. He emphasized that the existence of the United Nations called for
+                    new approaches in the United States diplomacy which would have to be treated
+                    with ingenuity by <hi rend="italic">Foreign Relations</hi>.</p>
+                <p>Mr. Goodrich inquired how country subjects would be organized. Would Korea, for
+                    instance, be treated as a single unit or would it be split up into a Far East
+                    compilation and a General compilation? Mr. Nuermberger said Korea might be put
+                    into the Far East compilation as a regional subject and be compiled by the Far
+                    East area rather than the General Branch.</p>
+                <p>Mr. Goodrich raised the point made by Mr. Goodwin, in his memorandum concerning
+                    the desirability of compiling for periods of longer than a calendar year at a
+                    time. Mr. Nuermberger agreed that this approach might be studied.</p>
+                <p>Mr. Wilson inquired about the scope of the San Francisco volumes. Mr. Nuermberger
+                    stated it might be a good idea to include Dumbarton Oaks material with the San
+                    Francisco material so as to keep the whole story in one place. Mrs. Cassidy
+                    subsequently said it was hoped to cover also the Preparatory Commission meetings
+                    at London later in 1945. Mr. Goodrich observed that no documents had yet been
+                    released on Dumbarton Oaks. Mr. Nuermberger agreed and then posed one of the
+                    major problems faced by the General Branch in compiling international conference
+                    stories: the choice of using either conference minutes or daily reports. It was
+                    decided, he said, to use the summary reports because of their relative brevity
+                    and because they served as the basis for policy action by the Department.</p>
+                <p>Mr. Nuermberger also noted the possibility that the United Nations might decide
+                    to publish the San Francisco Conference minutes. Mr. Goodrich wondered whether
+                    the San Francisco Conference compilation would rely on UNCIO records to cover
+                    Committee meetings. Mr. Nuermberger indicated we would confine ourselves to
+                    things not in print, e.g., meetings of the American Delegation.</p>
+                <p>Mr. Goodrich answered in the negative Mr. Wilson’s question as to whether any
+                    other governments had published their records of the San Francisco Conference.
+                    Mr. Leopold suggested the feasibility of issuing the San Francisco volumes as
+                    separate entities like the Yalta and Potsdam volumes and Mr. Goodrich thought
+                    this a good idea. Mr. Nuermberger said the two volumes would probably be
+                    released in this fashion.</p>
+                <p>In reply to Mr. Wilson, Mr. Nuermberger stated that memoir material was being
+                    used in footnotes to obviate the need for printing certain documents. He
+                    stressed that we were not interested in compiling a record of the San Francisco
+                    Conference but were trying to document the role of the United States at the
+                    Conference. Mr. Goodrich agreed this was the proper approach.</p>
+                <p>Mr. Goodrich pointed out that the multilateral aspects of our diplomatic
+                    relations after 1945 raised a question of the present organization of our
+                    volumes along basically bilateral lines. Messrs. Noble and Wilson observed that
+                    bilateralism was not dead. Mr. Goodrich agreed but said it was much less
+                    prevalent than before World War II.</p>
+                <p>Mrs. Cassidy brought up the matter of office files. She said that indexed
+                    material in the Central Files in connection with United Nations matters was
+                    skimpy on non-political matters and that the volume of Bureau of International
+                    Organization files on these matters was three to four times the volume of
+                    records in the Central Files. Mr. Fine confirmed Mrs. Cassidy’s observations on
+                    the inadequacy of the Central files as they related to the Iranian question
+                    before the United Nations in 1946.</p>
+                <p>The meeting adjourned at about l0:30 a.m. for a short intermission.</p>
+                <p><hi rend="underline">Mr. Reid, Far East Area</hi>: Mr. Reid said that the main
+                    problems in the Far East area were those of space, scope and jurisdiction. He
+                    raised questions as to how deeply we should go into unindexed files in the State
+                    Department and into papers of other agencies such as the Truman Library or the
+                    Defense Department; how much background material should be used to clarify
+                    American foreign relations and policy; and whether the story of Korea should be
+                    assembled in one place or shared, for example, with the General Branch in
+                    connection with United Nations aspects.</p>
+                <p>Mr. Reid said that practical experience has shown us how to tackle these problems
+                    in the case of China during the 1940’s and that a few comments on the China
+                    series might be helpful.</p>
+                <p>Mr. Reid first gave some details on the problems encountered in the China
+                    project. He explained that the immense amount of material in State Department
+                    indexed and unindexed files is perhaps the greatest problem confronting a
+                    compiler in the 1946-1950 period. Out of 120,000 documents for 1946-1949, only
+                    8,600 were used in the China volumes.</p>
+                <p>Mr. Reid turned to the problem of scope. He stated that virtually any subject in
+                    China, foreign or domestic, turned into an arena for struggle between the
+                    Communists and free world. Therefore, coverage of internal matters in China was
+                    a necessary part of documenting American relations with China during the years
+                    immediately prior to the Communist conquest.</p>
+                <p>Mr. Reid stated that the post-war years also introduced problems of jurisdiction.
+                    A question arose as to whether subjects involving China at CFM meetings or at
+                    the United Nations should be covered in the China volumes. It had been decided
+                    to use a certain amount of such material. Should China’s interest in matters
+                    beyond its own borders be covered? It had been decided that bracketed notes
+                    should cover this interest. Then there was the question of how much background
+                    documentation to use on a variety of topics of American interest for 1947-1948.
+                    Other complex questions were the recognition of Red China, military and economic
+                    aid to free China (Formosa) and trade with Red China.</p>
+                <p>Some general conclusions based on the experience gained during the China
+                    compilations were given by Mr. Reid as follows:</p>
+                <p>(1) A fairly complete record is desirable, based on indexed files and as much
+                    additional material as is practicable. Efforts should be made to trim, summarize
+                    or otherwise abbreviate without sacrificing essential matters in order to save
+                    space.</p>
+                <p>(2) Sufficient background reporting is advisable for the sake of making clear the
+                    formation of policy or the lack of it.</p>
+                <p>(3) Where clarity is at stake, papers which otherwise might be used in some other
+                    part of <hi rend="italic">Foreign Relations</hi> should be included in a country
+                    or area section with appropriate cross references or bracketed notes.</p>
+                <p>(4) Where obvious gaps occur in State Department documentation, a search should
+                    be made elsewhere for missing papers.</p>
+                <p>(5) Consultation with other compilers or with reviewers is recommended if
+                    uncertainty arises.</p>
+                <p>Mr. Harrington complimented Mr. Reid on his presentation and observed that the
+                    report presented a powerful argument for presenting <hi rend="italic">Foreign
+                        Relations</hi> in large numbers of volumes. Mr. Perkins drew the Committee’s
+                    attention to Mr. Reid’s written report which included a statistical breakdown of
+                    papers examined and used in the China volumes. He also pointed out that although
+                    the China volumes were numerous and the amount of printed documentation great,
+                    only a small fraction of the papers actually available had been used.</p>
+                <p>Mr. Goodrich stated that the China volumes could not offer a model for the annual
+                        <hi rend="italic">Foreign Relations</hi> volumes. He suggested that Korea
+                    was in the same category as China with regard to treatment of internal affairs.
+                    Just as in the case of China, responsible officers in Korea reported in great
+                    detail on the internal affairs of Korea and Communist penetration and
+                    subversion. He pointed out that political policy on Korea could not be
+                    understood without a comprehension of military policy and military attitudes and
+                    that access to the high-level policy decisions of the military establishment
+                    would be indispensable to an understanding and presentation of the United States
+                    relations with Korea. Mr. Reid replied that we did have available State-War-Navy
+                    Coordinating Committee (SWNCC) documents and that SWNCC coordinated policy and
+                    issued directives to General MacArthur. Mr. Wilson asked whether, in view of the
+                    reluctance of the military to release or clear important military papers for
+                    publication, it would be possible for compilers to read Pentagon materials for
+                    background information without publishing them? Mr. Noble replied that Mr. Reid
+                    had indicated that much of this material appeared in Departmental files in the
+                    form of SWNCC documents, and, therefore, it would not always be necessary to
+                    investigate Pentagon files. Mr. Fine observed that he had been granted
+                    permission to examine the Korean telegram log in the Pentagon and secured half a
+                    dozen cables which usefully described the internal situation in Korea in 1945.
+                    He noted that the Editor decided on their exclusion from <hi rend="italic"
+                        >Foreign Relations</hi>.</p>
+                <p>Mr. Perkins emphasized that the China volumes were not different in principle
+                    from other <hi rend="italic">Foreign Relations</hi> volumes. Special reports and
+                    materials were used to show balance, not because a special project was involved.
+                    Internal affairs influenced our policy and it was important to document them.
+                    Certain types of documents of a lower-level origin, normally not included in <hi
+                        rend="italic">Foreign Relations</hi>, were included in the China volumes
+                    because of the notoriety that had been attached to their authors. For example,
+                    the reports of John Paton Davies and John Stewart Service had already been made
+                    known in part to the public, and <hi rend="italic">Foreign Relations</hi> was
+                    compelled to print them in order to avoid accusations that the record had been
+                    tampered with. Mr. Leopold wondered if such detailed documentation on internal
+                    affairs as is presented in the China series could possibly be included in
+                    regular volumes on Greece and Yugoslavia, for example. Mr. Perkins replied that
+                    our policy was influenced by internal conditions in those countries and that it
+                    would be necessary to go into internal affairs in order to understand our
+                    policy. Mr. Harrington observed that it would be admirable to have thirty
+                    volumes annually to include such documentation but thought it more desirable to
+                    aim at a tightly drawn fifteen volumes.</p>
+                <p><hi rend="underline">Mr. Goodwin, Near and Middle East</hi>: Mr. Goodwin began
+                    his discussion of this area by defining what areas he would have in mind when he
+                    used the term Near and Middle East. Before 1939 popular American interest and
+                    the policy officers of the State Department showed little political concern over
+                    this area; yet two countries of the area - Greece and Turkey - became focal
+                    points of world attention in 1947 with the promulgation of the Truman Doctrine.
+                    Mr. Goodwin said that organizational matters presented the main problem of the
+                    area. The Greek - Turkish aid program raised the question as to the adequacy of
+                    the country approach of <hi rend="italic">Foreign Relations</hi> because the
+                    program could best be understood as a unit. This unit might include the Iranian
+                    aid program as well since all three aid programs reflected American reaction to
+                    Soviet pressure southward.</p>
+                <p>Mr. Goodwin cited another aspect of this organizational problem. He stated that
+                    the area was one of vital geographic concern to the Soviet Union and this raised
+                    the question as to whether the Greek-Turkish-Iranian aid compilation should be
+                    taken from the Middle East and done as part of a series on the “Cold War”. He
+                    said that the first case to come before the Security Council, in 1946, was that
+                    of Iran.</p>
+                <p>This introduced the question of the United Nations, another facet of the
+                    organizational problem. In 1946, issues involving Greece and the Levant States
+                    as well as Iran, and in 1947, Egypt and Palestine went to the United Nations.
+                    The questions arose as to whether stories on these issues should be compiled
+                    under the United Nations and what branch should handle them.</p>
+                <p>Mr. Goodwin then passed to a discussion of problems that will be raised by the
+                    Palestine compilation. The principal problem will be one of space because of the
+                    great masses of material available.</p>
+                <p>He stated parenthetically that this was not the problem it might have been with
+                    respect to the Greek-Turkish aid program, just under discussion, because 25
+                    cabinets of material relating to that subject had been destroyed by the Records
+                    Management Division. This raised an interesting question about the words
+                    “substantially complete” in our Charter.</p>
+                <p>Mr. Goodrich asked about the nature of the Department’s screening procedures and
+                    whether the Historical Office had any authority over them. Mr. Noble stated that
+                    the Historical Office was to be consulted on these matters and presumably its
+                    advice taken. Mr. Slany observed that a program had been worked out between the
+                    Historical Office and responsible officers concerned with records management for
+                    setting up guide lines to help regulate and control the screening of lot files.
+                    Mr. Stauffer made the observation that Records Management was adhering to this
+                    program so as to guarantee preservation of important types of items desired by
+                    the Historical Office. Screening lists were regularly circulated in the
+                    Historical Office and advice solicited regarding specific lots that had become
+                    eligible for screening.</p>
+                <p>Returning to the discussion of Palestine, Mr. Goodwin remarked that there have
+                    been numerous committees and commissions set up to deal with this country, and
+                    that from February 1947, Palestine became essentially a United Nations concern,
+                    raising a formidable problem of organization as well as space. He estimated that
+                    there would be one complete volume for Palestine in 1947 and probably one in
+                    1948.</p>
+                <p>He cited the Palestine files of Mr. Dean Rusk and his staff - amounting to
+                    approximately 10,000 documents - which were collected during the years 1947-1949
+                    when Mr. Rusk was Director and then Assistant Secretary for United Nations
+                    Affairs. These files contain many papers which are of the highest historical
+                    interest, yet, under possible future limitations as to space, documents in this
+                    collection may not be printed.</p>
+                <p>With this glimpse of the “Cold War” (Greek-Turkish-Iranian aid program) and
+                    Palestine aspects of the Middle East compilation for 1946-50, Mr. Goodwin
+                    wondered what space would be available for conventional stories. He said that
+                    air communications and telecommunications problems became important to the
+                    United States in this strategic area. Also to be done were compilations on oil,
+                    commercial treaties and the establishment of diplomatic relations with new
+                    states - Israel, India, Pakistan, Ceylon, and Burma.</p>
+                <p>Mr. Goodwin cited prospective compilations relating to India as raising the
+                    question as to how far we should go in covering the internal affairs of a given
+                    country which in time have an important bearing on United States foreign policy.
+                    India may be considered a leading if not the leading neutralist country. Should
+                    we cover in <hi rend="italic">Foreign Relations</hi> the genesis and development
+                    of Indian neutralism which in 1961 has become such an important problem of
+                    United States foreign policy? Is this a situation comparable to our coverage in
+                    the volumes of the 1930’s of the rise of Nazism in Germany, a compilation on
+                    German internal affairs which was included because of the ultimate and
+                    overwhelming impact of Nazi Germany on American foreign policy?</p>
+                <p>He next related United States involvement in internal affairs in Greece, Iran and
+                    Saudi Arabia and asked how deeply we should go into these matters? He stated
+                    that American Embassies developed delicate political relations with these
+                    Governments, and came to occupy a position in Athens, Tehran and Jidda somewhat
+                    akin to that held by British Embassies in the same capitals in the 1919-1939
+                    period.</p>
+                <p>Mr. Noble asked Mr. Goodwin to suggest the degrees of coverage which might be
+                    proposed in dealing with such a matter. Mr. Goodwin stated that because of the
+                    sensitivity of the matter it was a question primarily as to the degree of
+                    willingness to print documents revealing these political relationships.</p>
+                <p>Mr. Franklin asked Mr. Goodwin whether he felt that the 25 cabinets of
+                    Greek-Turkish aid material would have been closely investigated had they not
+                    been destroyed, and Mr. Goodwin replied in the affirmative. Mr. Franklin stated
+                    that this answer substantiated his own feeling that the lot files were extremely
+                    important. Mr. Reid, in response to a question, pointed out that the lot files
+                    had been used extensively in the China project, which was in fact the occasion
+                    when lot files were first used on a large scale in the compilation of <hi
+                        rend="italic">Foreign Relations</hi>. He cited the use of the Marshall
+                    Mission files as a case in point. Mr. Perkins agreed that lot files should be
+                    looked into and Mr. Franklin and Mr. Dougall agreed they should be examined
+                    closely.</p>
+                <p>Mr. Goodwin concluded his remarks by pointing out that questions as to
+                    organization, space and scope which would arise in respect to the Middle East
+                    compilation, 1946-1950, sprang directly from the political and military
+                    involvement of the United States in an area where before World War II its
+                    interests had been almost wholly philanthropic and commercial.</p>
+                <p><hi rend="underline">Mr. Churchill, the Soviet Union and Eastern Europe</hi>: Mr.
+                    Churchill observed that much of the compilation for the Soviet Union and Eastern
+                    Europe would involve several nations at conferences, foreign ministers meetings,
+                    and the United Nations and this raised the question whether the General, Eastern
+                    or Western Branches would undertake the work. He said that joint projects might
+                    be the desirable way to handle the problem. The next question was where material
+                    involving the Soviet Union should be placed - in general collections, under the
+                    Soviet Union, or perhaps under other countries.</p>
+                <p>Mr. Churchill said that the differences between the United States and the Soviet
+                    Union intensified as the years passed. Some of these differences were reflected
+                    in conferences and were of a general nature; some might more appropriately be
+                    placed under Eastern Europe. There was a real need for collaboration among the
+                    staff. Mr. Churchill cited as an example the Soviet demands on Turkey in 1945
+                    involving the Straits and Turkish territory. In this case, after consultation,
+                    it was decided to place the compilation under Turkey. However, the 1948 Belgrade
+                    Conference on questions regarding the Danube was of a more general nature, and
+                    obviously could not be located under Yugoslavia just because the sessions of 8
+                    riverain states and the interested great powers were held there.</p>
+                <p>Mr. Churchill posed the question of how the growing antagonism between the United
+                    States and Soviet Union should best be revealed in <hi rend="italic">Foreign
+                        Relations</hi>. Since a scattered location of compilations would lessen the
+                    impact, yet might be necessary, he suggested that perhaps a listing of pertinent
+                    compilations to be found elsewhere might be placed at the beginning of the
+                    section on the Soviet Union, so that the full extent of this growing antagonism
+                    could be better realized.</p>
+                <p>Mr. Churchill turned to the difficulties presented by the 1947 Peace Treaties.
+                    Italy was under the jurisdiction of the Western Branch; Bulgaria, Hungary,
+                    Rumania and Finland under that of the Eastern Branch. The draft treaties were
+                    made at the Council of Foreign Ministers and the Peace Conference of Paris,
+                    meetings which would normally be handled by the General Branch. This raised the
+                    question of their placement in <hi rend="italic">Foreign Relations</hi>. If they
+                    were placed under the countries concerned there would be much duplication. If
+                    they were placed together under one title, should they be placed in a separate
+                    titled volume, or spread out over the years concerned - 1945, 1946, 1947?</p>
+                <p>Mr. Churchill said the question arose as to the importance of these treaties and
+                    what attention they deserved. Also, he asked what should be done about the
+                    treaty with Finland? Should we show the position and degree of United States
+                    participation?</p>
+                <p>He said that consideration must be given to the ways in which the scope of the
+                    material covered may be limited. Partial accomplishment would result from the
+                    reduction of the number of documents used. There was also the possibility of
+                    eliminating certain subjects, such as getting Soviet spouses of American
+                    citizens out of the Soviet Union (a subject which reflects Soviet attitudes with
+                    respect to human affairs) and religious matters in the Soviet Union (freedom of
+                    worship, the church as a handmaiden of the state, and the agreement for an
+                    American priest in Moscow), matters in which we have previously taken an
+                    interest in <hi rend="italic">Foreign Relations</hi>. Other questions were those
+                    of the protection of American citizens detained by Soviet authorities, espionage
+                    cases, and cultural relations and agreements. United States interest in
+                    religious matters and the detention by Soviet authorities of American citizens,
+                    were also related to the agreements signed at the time of the recognition of the
+                    Soviet Union on November 16, 1933.</p>
+                <p>Mr. Goodrich asked whether any consideration had been given to the question of
+                    presenting the peace treaties in a special volume or two. Mr. Churchill replied
+                    that no decision had been reached and expressed his personal opinion that these
+                    treaties were not as important as those of 1919 and should be given far lesser
+                    coverage. Mr. Perkins summarized the work done on the Paris Peace negotiations
+                    of 1919 and stated that another ten volumes could have been compiled. He
+                    expressed his regrets that the peace conference volumes had been so little used
+                    and that this area of research had been so woefully neglected.</p>
+                <p>At this point, Mr. Noble raised the question of naming a Chairman in the absence
+                    of Dexter Perkins. He also indicated that the Committee members who had been
+                    designated for one year terms - Messrs. Leopold and Wilson - had been given new
+                    three year terms.</p>
+                <p>The Advisory Committee went into executive session at 12:20 p.m.</p>
+                <p>When the meeting convened after the luncheon recess, Mr. Noble announced that Mr.
+                    Goodrich had been chosen Chairman of the Committee for 1961-62. Mr. Goodrich
+                    said that the meeting would proceed from the point reached before
+                    intermission.</p>
+                <p><hi rend="underline">Mr. Slany, Eastern Europe</hi>: Mr. Slany said that he
+                    wanted to stress at the outset the feeling of optimism and hopefulness which the
+                        <hi rend="italic">Foreign Relations</hi> staff felt. He said that the
+                    compilers were in a key position to gather and publish material to which very
+                    few people even had access. This meant, therefore, that the compilers of <hi
+                        rend="italic">Foreign Relations</hi> could provide a comprehensive record of
+                    United States diplomacy in a way which no outside group could do. Mr. Slany
+                    believed that subjects covered might be limited so as to keep within a
+                    reasonable number of volumes but there should be no artificially imposed
+                    criteria on types of usable material and subject matter which might make it
+                    necessary to cut so close to the bone that our compilations would suffer. We
+                    must be flexible in our approach, he said, and there can be no dogmatic answers
+                    as to what types of material and documents we should utilize.</p>
+                <p>Mr. Goodrich asked for questions on the remarks of Mr. Slany and Mr. Churchill.
+                    Mr. Harrington asked Mr. Slany whether perhaps 3 or 4 volumes might suffice for
+                    Eastern Europe? Mr. Slany replied that we must approach this question in an
+                    open-minded fashion and make a decision each year on the basis of the character
+                    of the foreign policy issues and the amount and importance of the material on
+                    hand.</p>
+                <p>Mr. Goodrich inquired whether we would wish to limit the number of volumes for a
+                    given year. Mr. Franklin stated that we must set such limits. We were already in
+                    a position of compiling more than 20 volumes annually for the post-1945 years.
+                    At some point, the situation would become ridiculous and we could not expect
+                    Congress to go along with us indefinitely. In addition there was the problem of
+                    financing the PB staff. Mr. Perkins noted that we had not tried to conform to a
+                    set number of volumes in the past. We had tightened our practices, including
+                    greater use of editorial notes to summarize documents and citations to published
+                    sources, which had enabled us, thus far, to keep to a figure of seven volumes a
+                    year. Mr. Noble said that he hoped the Committee would deal with this
+                    problem.</p>
+                <p>Mr. Goodrich then asked Mr. Churchill, with reference to the latter’s remarks,
+                    whether he proposed to deal with the “Cold War” as a subject to be treated in
+                        <hi rend="italic">Foreign Relations</hi>. Mr. Churchill said that he did not
+                    want to cover the “Cold War” as such but to express his concern that the various
+                    aspects of the subject would be scattered in many places over several volumes.
+                    He added that the problem might be handled by good cross referencing and
+                    indexing techniques.</p>
+                <p>Mr. Goodrich then brought up Mr. Churchill’s reference to certain categories of
+                    stories which might be eliminated from <hi rend="italic">Foreign Relations</hi>.
+                    Mr. Churchill said that he would like to have the Committee’s advice on this.
+                    How did it feel about cutting out certain subjects such as spouses and
+                    espionage, which he had outlined in his talk. Mr. Wilson remarked that
+                    international lawyers desired coverage of such subjects and cases which arose,
+                    for instance, as an outgrowth of the Roosevelt-Litvinov Agreements of 1933. Mr.
+                    Thayer affirmed this view and stated that though small people were concerned,
+                    large issues were sometimes involved. Mr. Churchill agreed. Mr. Thayer and Mr.
+                    Wilson both urged that documentation dealing with international law not be cut
+                    out of the volumes.</p>
+                <p>Mr. Wilson and Mr. Thayer agreed with Mr. Churchill’s views that relatively few
+                    of the more significant cases for each of these subjects should be covered, as
+                    was already the case for prior years, in order to illustrate the policy position
+                    of the United States and that, through the use of footnotes, the possible number
+                    of such cases in the year might be indicated.</p>
+                <p>Mr. Goodrich then brought up the question of the 1947 peace treaties and how they
+                    should be handled. Mr. Wilson suggested the possibility of special volumes on
+                    the treaties. Mr. Churchill stated that it was his feeling that the treaties
+                    should get fair coverage in <hi rend="italic">Foreign Relations</hi> but far
+                    less than the 13 volumes in the 1919 peace treaties series because of their
+                    lesser importance. Mr. Leopold questioned the desirability of spreading coverage
+                    of the treaties over the three years from 1945-47 and Mr. Churchill replied that
+                    he did not feel it was a good idea to spread the material over so great a span
+                    in annual volumes.</p>
+                <p>Mr. Leopold referred to the Disarmament Conferences of the 1930’s whose coverage
+                    was spread out over appropriate annual volumes. Mr. Goodrich said that he would
+                    like to see separate volumes for the peace treaties.</p>
+                <p>Mr. Berdahl observed that the real point being raised was whether the volumes
+                    should continue to be annual or become much more topical in form. Mr. Leopold
+                    supported this point and suggested that the annual volume approach might be
+                    outmoded. Mr. Churchill said that it might be possible to use both methods,
+                    i.e., part annual and part by subject, by including the 1945 material under the
+                    foreign ministers meetings at London and Moscow, and by treating as a separate
+                    subject the negotiation of the treaties in 1946, perhaps also by here including
+                    their signature at the Paris session on February 10, 1947.</p>
+                <p>Mr. Nuermberger brought up the question of the peace treaty discussions at the
+                    first session of the Council of Foreign Ministers (London, September 1945), an
+                    organization established by the Conference of Berlin. The first session became
+                    bogged down on procedural matters and scarcely dealt with the peace treaty
+                    matter. To break the impasse and get the Council back on the main track, a
+                    meeting was held in December 1945 at Moscow. There, many subjects were discussed
+                    and major compromises achieved so that the April 1946 session of the CFM at
+                    Paris was able to get down to the business of the peace treaties. Regardless of
+                    how the 1946 meetings will be handled in <hi rend="italic">Foreign
+                        Relations</hi> certainly the 1945 conferences should be handled as separate
+                    units.</p>
+                <p>Mr. Leopold wondered whether this overlap of conference and subject was similar
+                    to that faced by the compilers of the Yalta and Potsdam volumes who ran into
+                    subject matter normally handled in the annual compilations. Mr. Goodrich
+                    observed that the peace treaties might have to be treated topically on the same
+                    basis as had been proposed for the Palestine question.</p>
+                <p>Mr. Franklin said that there were three major methods of compi1ing: (a) by
+                    country; (b) by type of document, e.g., keeping all CFM documentation together;
+                    (c) by subject. These methods sometimes cut across each other. Should CFM
+                    sessions be treated as single stories or should the various subjects be split
+                    up? He said that we would not want to fracture CFM Conferences for these
+                    conferences were more important than the various problems discussed there.</p>
+                <p>Mr. Perkins said that in a sense we must wait until we really get into these
+                    subjects before deciding but he noted a basic difference between the Cairo,
+                    Tehran, Yalta and Potsdam conferences and the CFM meetings. There was tremendous
+                    public interest in the wartime conferences and little interest in the postwar
+                    conferences as such. He was therefore willing to fracture treatment of the CFM
+                    meetings in order to keep the subjects together.</p>
+                <p>Mr. Goodrich sympathized with Mr. Perkins’ view since the CFM conferences were a
+                    continuation of regular diplomacy. Mr. Churchill said it might be best to leave
+                    the Foreign Ministers’ sessions intact for 1945 and keep the peace treaties
+                    separate in 1946. Mr. Franklin said that he agreed with Mr. Perkins’ remarks but
+                    still felt it would be more efficient to approach these meetings as whole units.
+                    Mr. Perkins said that treating the conferences as whole units often led to
+                    including too much unimportant material. Mr. Goodrich expressed some sympathy
+                    with this point of view. Mr. Franklin said he would be horrified at omitting any
+                    of the substantive exchanges at the CFM.</p>
+                <p><hi rend="underline">Mr. Stauffer, American Republics</hi>: Mr. Stauffer outlined
+                    three unique features for the period 1946-1950 in regard to this area: (1)
+                    Geographic isolation will continue to minimize the problem of overlapping
+                    research by compilers in other areas of <hi rend="italic">Foreign Relations</hi>
+                    and, at the same time, reduce the pressure on the General Branch by allowing the
+                    treatment of large international conferences within the scope of the Latin
+                    American volumes; (2) The scope of compilation has remained fairly constant
+                    during the past four years and is not likely to mushroom in the coming five-year
+                    period; (3) A relatively large number of small bilateral stories will remain the
+                    norm due largely to the fact that United States economic assistance increased
+                    from 1946 to 1950, and in the weak, unstable, highly nationalistic American
+                    Republics, an economic matter will be found often to involve explosive political
+                    repercussions.</p>
+                <p>Mr. Leopold asked if the clearance problem would persist, and Mr. Stauffer said
+                    he thought it would, though he hoped that the President’s letter would be used
+                    to good advantage with the desk officers. Mr. Perkins stated emphatically that
+                    the attention given the American Republics should not be minimized in <hi
+                        rend="italic">Foreign Relations</hi>. In reference to Mr. Stauffer’s comment
+                    on the growing nationalistic spirit and sensitivity in that area, Mr. Perkins
+                    added that it was now becoming difficult, in some cases, to get clearance on
+                    passages which portrayed a Latin American as being what might be regarded by
+                    people of his own country as too friendly to the United States.</p>
+                <p><hi rend="underline">Mr. Glennon, British Commonwealth and Africa</hi>: Mr.
+                    Glennon stated that, since he had no problems which had not already been
+                    discussed, he would defer to Mr. Sappington. Mr. Noble and Mr. Goodrich agreed
+                    to this.</p>
+                <p><hi rend="underline">Mr. Sappington, Western Europe</hi>: Mr. Sappington stated
+                    that 1945 compilations in this area had begun more than three years ago and
+                    there were approximately 20 to 25 stories on Germany yet to be done. He
+                    speculated that because of the heavier volume of documents and their greater
+                    complexity, compilations for 1946 under existing standards and staffing patterns
+                    would probably take well over three years. This would mean a falling behind of
+                    at least two years for every year of compilation, and projecting these figures
+                    over a period of ten years of compilations, <hi rend="italic">Foreign
+                        Relations</hi> would fall some 25 years farther behind.</p>
+                <p>Mr. Sappington then brought out an additional cause for alarm. He estimated that
+                    there might be 18 volumes of <hi rend="italic">Foreign Relations</hi> for 1945
+                    and this would be increased to about 20 volumes for the following year under
+                    existing standards. He estimated printing costs of 20 volumes at about $250,000,
+                        <hi rend="italic">Foreign Relations</hi> staff salaries at $330,000,
+                    technical editing salaries at $100,000 and files help at $25,000 or a grand
+                    total in excess of $700,000. He asked whether this was not too high a cost for
+                    our program and cited the possibility of a reaction in the Department or the
+                    Congress. He marshalled further arguments against a 20 volume compilation in
+                    more than three years as follows: Every increase in the time lag would reduce
+                    interest in the volumes resulting in fewer people using or buying them; a 20
+                    volume set would crowd library shelves and cause many libraries not to keep <hi
+                        rend="italic">Foreign Relations</hi> on their shelves; every increase in
+                    time lag might cause pressure for special projects; and the more vital documents
+                    would tend to get lost in a maze of the lesser important ones.</p>
+                <p>Mr. Sappington summarized the alternatives facing the series: (1) Shall we, by
+                    adhering to present standards of compilation, accept the fact that we will
+                    continue to fall behind at least two years for each year covered? (2) Shall we
+                    radically change our scope so that we shall not exceed a 20 year gap and keep
+                    the number of volumes at a moderate level? or (3) Shall we acquire a staff of
+                    such size that we shall not exceed a 20 year gap and at the same time produce a
+                    large number of volumes?</p>
+                <p>Mr. Sappington gave various alternatives for cutting the scope of <hi
+                        rend="italic">Foreign Relations</hi>, the most drastic of which would entail
+                    limiting compilation to the use of the indexed files of the Department and files
+                    in Presidential Libraries, with no recourse to post files, office lots and the
+                    files of other agencies, and treat only the most important diplomatic matters,
+                    eliminating background stories and documents.</p>
+                <p>During his discussion, Mr. Sappington also touched on problems affecting Germany.
+                    How should the role of the military in the occupation be treated? Should we
+                    supplement our material with military files? How extensively should we cover the
+                    Soviet, British and French zones of occupation? He noted also that the
+                    Department had published many collections on Germany which raised the question
+                    of citation versus repetition.</p>
+                <p>Mr. Harrington queried whether the four volumes in prospect for Western Europe
+                    for 1945 might be reduced to one volume and still be a product useful to
+                    historians? Mr. Sappington answered in the affirmative.</p>
+                <p>At this point, Mr. Noble and Mr. Goodrich indicated their desire to adjourn the
+                    meeting so that the Committee might hold a private session. Mr. Harrington
+                    stated that he and the other members of the Committee appreciated the memoranda
+                    of the staff members and their oral statements and expressed his thought that
+                    the discussions had been fruitful and enlightening. The meeting then
+                    adjourned.</p>
+                <p>Following the closed session of the Committee made necessary by the imminent
+                    departure of Mr. Harrington, Mr. Goodrich reconvened the open session at 4:15
+                    p.m. in the presence of the ranking officers of the Historical Office and
+                    members of the <hi rend="italic">Foreign Relations</hi> staff.</p>
+                <p>The Committee was apprised of the fact that Under Secretary of State Bowles would
+                    shortly meet the Committee members. Mr. Goodrich took the opportunity to outline
+                    some of the tentative thinking of the Committee members regarding the problems
+                    of the <hi rend="italic">Foreign Relations</hi> series. Mr. Goodrich thought it
+                    was generally agreed among them that it might be necessary to suggest some limit
+                    on the number of annual volumes in the series. For the sake of eliciting the
+                    reactions of the members of the <hi rend="italic">Foreign Relations</hi> staff,
+                    he suggested a possible Committee recommendation that the number of annual
+                    volumes be limited to nine or ten and that only the most important policy
+                    documents be included. <hi rend="italic">Foreign Relations</hi> would eschew the
+                    “story” concept and concentrate on the basic documents and it would be left to
+                    scholars to compile the complete “story” of United States foreign policy. Mr.
+                    Goodrich asked the <hi rend="italic">Foreign Relations</hi> staff what further
+                    guidance would be needed from the Committee if it made such a
+                    recommendation?</p>
+                <p>Mr. Perkins initiated the response by the <hi rend="italic">Foreign
+                        Relations</hi> staff by agreeing that some sort of limitation would in fact
+                    have to be made, but he insisted that it was still necessary to know exactly
+                    what materials had to be covered, what could be omitted, and what should be the
+                    scope of the series. Mr. Goodrich averred that it was not possible for the
+                    Committee to list what materials and topics should be eliminated -- this was a
+                    matter of individual judgment. He returned again to the issue of whether a
+                    compilation of documents had to be a story as such.</p>
+                <p>Before the discussion developed any further, Under Secretary of State Bowles,
+                    escorted by Mr. Noble, arrived to take part in the meeting. At the invitation of
+                    Mr. Noble, Mr. Goodrich introduced the members of the Committee to the Under
+                    Secretary. Mr. Harrington (who had delayed his departure in order to be in
+                    attendance for this portion of the meeting) briefly summarized for the Under
+                    Secretary the problems presently confronting the <hi rend="italic">Foreign
+                        Relations</hi> staff and the efforts of the Advisory Committee to be of aid
+                    in resolving some of these problems. Mr. Harrington emphasized particularly the
+                    enormous increase in the quantity of documentation and the tremendous problem
+                    facing the small <hi rend="italic">Foreign Relations</hi> staff in dealing with
+                    it.</p>
+                <p>The Under Secretary ruefully commented upon the difficulty of obtaining even
+                    small amounts of money for vitally important State Department functions, at a
+                    time when vast sums were being expended by other branches of the government. He
+                    pointed to the vast funds available to Department of Defense public information
+                    programs and expressed the fear that large and extensive public information
+                    facilities available to the military colored the news regarding United States
+                    government operations and policies. His experience in India as Ambassador had
+                    revealed to him the predominantly “military” image which the United States
+                    projected abroad. In concluding his remarks, the Under Secretary stressed the
+                    importance which he attached to the role of communication with the public,
+                    observing wryly that he was a friend of <hi rend="italic">Foreign Relations</hi>
+                    “for whatever good that will do”.</p>
+                <p>Following the Under Secretary’s departure, discussion resumed regarding the
+                    Advisory Committee’s possible recommendation of a fixed number of <hi
+                        rend="italic">Foreign Relations</hi> volumes including only the basic
+                    documents and eliminating the “story” form. Mr. Leopold expressed his
+                    understanding that the Committee was not intending to recommend exclusion of
+                    preliminary papers, but he confirmed the Committee’s feeling that some dec1sion
+                    would have to be made to bring about a limitation in the number of volumes. Mr.
+                    Goodrich, seconded by Mr. Thayer, expressed the conviction that the device of
+                    the “story” was not essential to <hi rend="italic">Foreign Relations</hi>. While
+                    it would be desirable to include certain background papers in order to give
+                    meaning to vital decisions and policies, it was not necessary to tell a
+                    story.</p>
+                <p>Mr. Leopold agreed with Mr. Noble’s observation that increased selectivity would
+                    not mean any saving in compilation time, but emphasized that it would cut down
+                    the number of volumes. Mr. Noble responded that the only way to reduce time
+                    spent in compiling <hi rend="italic">Foreign Relations</hi> was to eliminate
+                    consideration of certain subjects. Mr. Leopold’s rejoinder was an assurance to
+                    Mr. Noble that the Advisory Committee would fight for an increased <hi
+                        rend="italic">Foreign Relations</hi> staff but that something would have to
+                    give way if the series were not to continue to fall further behind.</p>
+                <p>Chairman Goodrich asserted that this was a problem of organization that must be
+                    resolved. It was along this line that he asked how far it would be possible to
+                    go in presenting conferences as separate compilations. He referred to the
+                    enormous list of conferences from 1946 to 1950 which had been included in the
+                    report of the General Branch. It seemed to him that those conferences which were
+                    held for the purpose of setting up international organizations could be
+                    separated from other conferences which were less important. Mr. Nuermberger
+                    assured the Committee that the list of conferences had been prepared only to
+                    indicate the growth of international conference diplomacy; <hi rend="italic"
+                        >Foreign Relations</hi> had no intention to document all or even most of
+                    them.</p>
+                <p>It was in connection with conference diplomacy that Mr. Wilson asked whether <hi
+                        rend="italic">Foreign Relations</hi> intended to document - with minutes and
+                    other conference records - the International Civil Aviation Conference of 1944.
+                    Mr. Nuermberger affirmed that such documentation had already been compiled and
+                    underlined that certain British-American relationships of paramount importance
+                    had arisen in the course of the conference and had been thoroughly
+                    documented.</p>
+                <p>As this particular phase of the discussions drew to a close, Mr. Noble asked the
+                    Committee whether it wished to consider the matter of eliminating altogether
+                    documentation on certain countries -- for the sake of reducing the quantity of
+                    the published record.</p>
+                <p><hi rend="underline">Mr. Perkins, speaking on the entire Foreign Relations
+                        series</hi>: Mr. Perkins gave expression to his strong feeling that the main
+                    issues facing <hi rend="italic">Foreign Relations</hi> were the falling behind
+                    currency of the series and the scope of coverage of compilations. He took
+                    exception to the view that the coverage of <hi rend="italic">Foreign
+                        Relations</hi> would be made more complete if a few additional years were
+                    allowed to go by. His greatest fear was that the series was becoming
+                    increasingly less useful for historians and others as it fell farther and
+                    farther behind the times. His view was that authors needed the actual record of
+                    events in their work, and if they didn’t have the record, they would turn to
+                    other, less accurate sources for their writing.</p>
+                <p>Mr. Perkins admitted that some limitations would have to be imposed regarding the
+                    amount published. His personal preference was to confine <hi rend="italic"
+                        >Foreign Relations</hi> to the publication of Department of State records on
+                    matters within the responsibility of the Department of State. He did not
+                    anticipate that other government agencies, such as the Defense Department, would
+                    turn over their records to the <hi rend="italic">Foreign Relations</hi> staff to
+                    do the same sort of research job as was done on State Department records. Mr.
+                    Perkins did not dissemble, however, the fear that any principle of exclusion
+                    more extensive than that now presently followed would result in an increase of
+                    criticisms regarding this or that missing document.</p>
+                <p>In connection with the National Security Council, Mr. Perkins suggested that <hi
+                        rend="italic">Foreign Relations</hi> would have to confine itself to matters
+                    on which the NSC made recommendations; background and preparatory materials
+                    could not be used. However, he did not anticipate that the use of NSC documents
+                    would present a serious problem because these papers were in the possession of
+                    the State Department and other agencies wouldn’t have to be asked for them.</p>
+                <p>In concluding his remarks, Mr. Perkins stressed that beginning with 1946, it
+                    would be necessary to be more selective, and <hi rend="italic">Foreign
+                        Relations</hi> would have to state frankly that the story would not be
+                    complete. The key State Department papers would be included together with such
+                    supplementary documents as showed Presidential involvement. But he warned that
+                        <hi rend="italic">Foreign Relations</hi> could not cover the record to such
+                    an extent that scholars would not need to have recourse to the files.</p>
+                <p>The meeting then adjourned at 5:18 p.m.</p>
+                <p>Session of the Fifth Annual Meeting of the Advisory Committee on <hi
+                        rend="italic">Foreign Relations of the United States</hi>, Saturday,
+                    November 4, 1961</p>
+                <p>From 9 to 10 a.m., the members of the Committee read various papers provided by
+                    Mr. Noble to give them information on clearance and other problems.</p>
+                <p>At 10 a.m., the Committee resumed its regular sessions.</p>
+                <p>Present:</p>
+                <list>
+                    <item>The Advisory Committee:<list>
+                            <item>Chairman Goodrich</item>
+                            <item>Mr. Berdahl</item>
+                            <item>Mr. Leopold</item>
+                            <item>Mr. Thayer</item>
+                            <item>Mr. Wilson</item>
+                        </list>
+                    </item>
+                    <item>Arthur Schlesinger, Jr., Special Assistant to President Kennedy</item>
+                    <item>Officers of the Historical Office:<list>
+                            <item>Mr. Noble</item>
+                            <item>Mr. Franklin</item>
+                            <item>Mr. Perkins</item>
+                            <item>Mr. Dougall</item>
+                        </list></item>
+                    <item>The <hi rend="italic">Foreign Relations</hi> staff:<list>
+                            <item>Mr. Nuermberger</item>
+                            <item>Mr. Sappington</item>
+                            <item>Mr. Churchill</item>
+                            <item>Mr. Reid</item>
+                            <item>Mr. Goodwin</item>
+                            <item>Mr. Fine</item>
+                            <item>Mr. Slany</item>
+                            <item>Mr. Dengler</item>
+                        </list></item>
+                    <item>Officers of the Bureau of Far Eastern Affairs:<list>
+                            <item>Avery F. Peterson, Deputy Assistant Secretary of State for Far
+                                Eastern Economic Affairs</item>
+                            <item>Joseph A Yager, Director of the Office of Chinese Affairs</item>
+                            <item>Daniel V. Anderson, Director of the Office of Southeast Asian
+                                Affairs</item>
+                        </list></item>
+                </list>
+                <p>Mr. Goodrich called on Messrs. Peterson, Yager and Anderson to set forth the
+                    position of FE on publication of 1941, vol. V, and the China series beginning
+                    with 1943.</p>
+                <p>Mr. Peterson expressed his regrets that Assistant Secretary of State McConaughy
+                    could not be present because he was conferring with General Taylor, just back
+                    from Viet Nam. He spoke first of the 1941 volume and explained that FE had
+                    previously considered it inadvisable to publish this volume because of the
+                    volume’s derogatory or unflattering references to Pibul Songgram and Prince Wan
+                    and because of its documentation of the territorial aspirations of Thailand in
+                    Indochina. He maintained that these reasons were still valid and that FE
+                    therefore opposed early publication. Of these, the question of the personalities
+                    involved was of far lesser moment. Pibul was out of Thai public life at the
+                    moment and Prince Wan, though Thai Deputy Prime Minister, was not a leader of
+                    highest prominence. However, the possibility remained that these persons might
+                    in the future attain positions of real power in Thailand and therefore the
+                    printing in an official US publication of derogatory information about them was
+                    inappropriate. However, the chief stumbling block to FE approval of early
+                    publication of the volume was its documentation of Thai territorial ambitions at
+                    a time when Thai-Cambodian and Thai-Viet Namese relations were extremely tense.
+                    He pointed out that the mercurial speeches of Prince Sihanouk on Thai border
+                    problems and the equally fiery retorts of General Sarit had inflamed passions in
+                    these areas. He quoted portions of the volume (pp. 47, 48, 219) as illustrations
+                    of the way the matter was documented in <hi rend="italic">Foreign Relations</hi>
+                    and concluded this was not a propitious time for the State Department to tell
+                    the world of Thai seizure of Indochinese territories.</p>
+                <p>Mr. Schlesinger asked if there would ever be a propitious time for publication
+                    and whether the FE ban was a permanent one. Again Mr. Peterson pointed out that
+                    inciting Prince Sihanouk would be harmful to our interests, but that perhaps in
+                    6 months or a year, the situation might be “damped down” to a point where
+                    publication might be considered possible. Mr. Anderson undertook to underscore
+                    these points, stressing the FE view that publication at this time might result
+                    in definite injury to the national interest.</p>
+                <p>Mr. Schlesinger indicated that he understood the problem but pointed out that
+                    relations between Thailand and Cambodia had worsened violently only recently,
+                    yet FE had taken a position against publication for several years. He inquired
+                    at what point would FE approve publication? Mr. Peterson suggested that the loss
+                    of Indochina might be such a point but then stated that publication might take
+                    place before any such eventuality. Mr. Anderson stated that there was no intent
+                    on the part of FE to prevent publication and that the question could be reopened
+                    when the present situation would be “damped down” somewhat.</p>
+                <p>Mr. Franklin inquired what public opinion but our own were we keeping from being
+                    enlightened. Certainly the volume contained nothing the Cambodians didn’t
+                    already know.</p>
+                <p>Mr. Schlesinger noted that authorities have expressed fears over the impact of
+                    historical publications but that nothing has taken place to justify such fears.
+                    Moreover, the previous veto by FE on publishing has been responsible for
+                    producing the present situation where the question of the timing of release has
+                    become so sensitive.</p>
+                <p>Mr. Perkins stated the world knew that Prince Wan went to Tokyo and signed a
+                    treaty providing for seizure of territories in Indochina. Why then did FE object
+                    to publication? Mr. Peterson conceded that the facts were known, but deemed
+                    harmful to United States national interests the very act of printing these facts
+                    at this time in a publication issued by the Department of State.</p>
+                <p>Mr. Goodrich pointed out that the situation in Southeast Asia one or two years
+                    ago was not so critical as it is today, yet FE objected then as it was doing
+                    today. Mr. Anderson said it was true that FE had in the past opposed publication
+                    because of derogatory remarks about Pibul and Prince Wan. He wished to state
+                    again that this consideration was no longer uppermost. Other considerations had
+                    arisen which required FE to adhere to its position against publication at the
+                    present time, namely that the national interest <hi rend="underline">now</hi>
+                    was involved, as evidenced by Mr. McConaughy’s talks with General Taylor.</p>
+                <p>Mr. Noble suggested that tipping in one or possibly two pages in order to permit
+                    deletion of the most glaring examples of statements regarding Thai territorial
+                    demands might be considered as a way out of the impasse. Mr. Peterson asserted
+                    that FE was not opposed to publication of official papers as such but that this
+                    was not a happy time to put the imprint of the United States Government on a
+                    publication that spelled out Thai territorial ambitions.</p>
+                <p>Mr. Schlesinger stated the FE case was not so strong on this matter because FE
+                    had been equally opposed to publication before this crisis. He also observed
+                    that no <hi rend="italic">Foreign Relations</hi> volumes at all might be
+                    published if the existence of crises in various parts of the world was the major
+                    criterion for release, and again asked when publication would be possible. Mr.
+                    Peterson’s reply was, that it might possibly be when Pibul and Wan have left the
+                    scene permanently. Mr. Schlesinger’s rejoinder was that we cannot ask the United
+                    States Government to withhold release of historical publications because of
+                    remarks made about personalities or we would have no publication program at all.
+                    He requested a statement of criteria as to when publication would be acceptable.
+                    The President, he said, had asked, in his letter of September 6, 1961, for a
+                    clear and precise statement from officials seeking to withhold from publication
+                    documents over 15 years old and would not tolerate a permanent veto. Mr.
+                    Peterson stated that we could not at any one time visualize all future
+                    contingencies which would have the effect of impeding publication.</p>
+                <p>Mr. Franklin observed that if EUR adhered to the same principles of withholding
+                    clearance from volumes which documented frontier claims and territorial
+                    appetites, then none of the European volumes could have been published.</p>
+                <p>At this point there was further discussion of the possibility of tipping in new
+                    pages. Mr. Peterson expressed his personal opinion that the matter might be
+                    resolved in this way but that Mr. McConaughy would have to pass on the matter.
+                    He cited pages 47 and 48 as good candidates for such treatment and perhaps
+                    others. Mr. Noble expressed some caution about tipping in more than two pages
+                    because of the prohibitive cost of such an operation where a book was already
+                    printed and bound.</p>
+                <p>Mr. Franklin expressed deep concern about this method of solving the problem. He
+                    pointed out that ten copies of the 1941 volume had been sold by the Government
+                    Printing Office (before the ban on the official release of the volume was made
+                    known) and asserted that the existence of two differing versions of the same
+                    volume in the hands of the public would raise against the Historical Office the
+                    most serious accusations of distorting and doctoring the historical record to
+                    serve political purposes. Mr. Schlesinger agreed this was an important point.
+                    Mr. Franklin suggested the situation might be ameliorated if a new title page
+                    would be tipped in showing the release year as 1961 rather than 1956, which at
+                    least would have the virtue of distinguishing between the two versions. In
+                    further discussion, the question was also raised as to whether the date of the
+                    preface would have to be altered.</p>
+                <p>Mr. Schlesinger conceded that FE representatives had every responsibility to
+                    consider all the possible consequences of releasing volumes which might be
+                    prejudicial to the best interests of the United States. He tended to accept FE’s
+                    protestations on withholding the 1941 volume from publication at the present
+                    time because of the recrudescence of the Thai-Cambodian border issue but saw the
+                    gravest danger in continual postponement of release.</p>
+                <p>Mr. Goodrich terminated discussion of the 1941 volume by noting the importance
+                    the Committee attached to releasing <hi rend="italic">Foreign Relations</hi>
+                    volumes in routine fashion when they were completed. He stressed how the history
+                    of the 1941 volume illustrated the difficulties of publishing a volume, when
+                    ready for release, in other than regular sequence, for it was only then that the
+                    question of timing of release became a matter of great import, inviting special
+                    scrutiny and becoming tied in with policy issues. Mr. Anderson then
+                    departed.</p>
+                <p>Mr. Goodrich then requested the FE spokesmen to present their views on the China
+                    series and to state specifically, if FE objected to publishing the series in the
+                    near future, what its views were on releasing these volumes individually at the
+                    same time as other annual volumes for a given year.</p>
+                <p>Mr. Peterson stated that the questions of Chinese representation in the UN and
+                    the Outer Mongolia problem there had presented the Department with much travail.
+                    It was the desire of FE that consideration of publication of the 1943 volume be
+                    withheld until the items on the agenda affecting China at the current session of
+                    the General Assembly were acted upon. Thereafter, during a convenient lull, the
+                    volume might be released.</p>
+                <p>Mr. Noble spoke of a recent discussion he had had with Mr. Parsons, Mr.
+                    McConaughy’s predecessor, at which time Mr. Parsons said he was more receptive
+                    to the release of the China volumes than of volume V for 1941.</p>
+                <p>Mr. Schlesinger commented on a four-page memorandum written in 1957 by the then
+                    Assistant Secretary of State for Far Eastern Affairs, Mr. Robertson, which
+                    quoted various passages in the 1943 volume. He stated his opinion that these
+                    quotations did not seem sensational.</p>
+                <p>Mr. Yager stated that Chiang Kai-shek, remembering the release of the China White
+                    Paper in 1949, was very suspicious of Democrats. Release of this volume with its
+                    critical observations would prove to him that his suspicions were correct and
+                    that current American promises of support were worthless. Mr. Schlesinger
+                    suggested that perhaps former Senator Knowland might be persuaded to write a
+                    foreword to the China series. Mr. Yager emphasized he was not pro-Chiang but the
+                    “old man” must be gotten along with. Publication of these volumes would make
+                    relations with him much more difficult.</p>
+                <p>Mr. Franklin interjected that the Cairo-Tehran volume contained very unflattering
+                    remarks on the “Gimo”, similar to those raised by FE in its analysis of the
+                    China volumes, yet no adverse repercussions followed publication. The Chinese
+                    Government had even contributed various memoranda for inclusion in the volume
+                    and seemed to understand the Department’s program of printing historical papers.
+                    It was therefore difficult to understand FE’s fears that the Chinese would take
+                    offense at the release of the China volumes. He queried why FE had cleared the
+                    Cairo-Tehran volume but refused to clear the China series although both
+                    contained similar material on the “Gimo”. There was no apparent reply to this
+                    query.</p>
+                <p>Mr. Perkins pointed out that the derogatory remarks in the China series were
+                    balanced by laudatory passages. Moreover, the derogatory statements were made by
+                    Davies, Service and Ludden, who were in the lower echelons of the Foreign
+                    Service, and Chiang was well aware of the views held by these individuals.
+                    Finally, it was to undo some of the damage caused by the publication of the
+                    White Paper that the China series was undertaken - under Republican
+                    auspices.</p>
+                <p>Mr. Peterson again suggested a delay of a few months until the General Assembly
+                    completed its deliberations on China, at which time, it was implied, FE might
+                    remove its bar to publication of the 1943 volume.</p>
+                <p>Mr. Yager undertook an analysis of the sensitivity of the various China series
+                    volumes as seen by FE. His opinion was that the 1944 volume was a shade less
+                    offensive than the 1943 volume and that it would be satisfactory to FE to treat
+                    the two volumes similarly for release purposes. Volume I for 1945 was the worst
+                    of the series in terms of derogatory remarks about Chiang Kai-shek and a great
+                    deal of care would have to be exercised before release would be feasible. Volume
+                    II for 1945 was much better and the 1946 volumes I and II were good for their
+                    political impact but might be harmful to certain Chinese on Formosa. As to the
+                    volumes from 1947 to 1949, he discerned no problems comparable to those in the
+                    first volume. of 1945. He reiterated the point that FE did not question the
+                    truth of the documents but was concerned about the fact of publication.</p>
+                <p>Mr. Leopold asked whether the Historical Office was in a position to bring out
+                    the China volumes in rapid succession if there were no clearance problem. Mr.
+                    Noble assured the Committee that they could be brought out relatively rapidly
+                    under such circumstances. Mr. Schlesinger emphasized that the Historical Office
+                    should be in a state of readiness to release the volumes when circumstances were
+                    favorable, for there was no certainty how long circumstances would so
+                    remain.</p>
+                <p>Mr. Perkins noted that the statements critical of the “Gimo” were concentrated in
+                    the earlier years of the series and that the volumes beginning with 1946 became
+                    increasingly critical of the Chinese Communists.</p>
+                <p>Mr. Schlesinger asked Mr. Yager for examples from the first volume for 1945 to
+                    illustrate the difficulties cited by Mr. Yager. The latter quoted part of a
+                    letter from Senator Mansfield to the President which contained caustic comments
+                    on the “Gimo” and read other quotations. He concluded that some of the worst
+                    material would have to be deleted.</p>
+                <p>Mr. Schlesinger dryly expressed his hope that historical documents would indeed
+                    have the impact on world affairs that FE imputed to them and underlined his
+                    conviction that the <hi rend="italic">Foreign Relations</hi> volumes would not
+                    have any real effect on the foreign policy of the United States or of any other
+                    power.</p>
+                <p>Mr. Franklin pointed out that the Romanus and Sunderland study entitled <hi
+                        rend="italic">Stilwell’s Command Problems</hi> published by the Office of
+                    Military History of the Department of the Army contained highly critical
+                    interpretive analysis on Chiang but produced few discernible ripples in China.
+                    Mr. Yager stated he had been at Taipei at the time of the release of the Army
+                    history and agreed there had been no reaction to the publication by the
+                    Chinese.</p>
+                <p>In concluding his presentation, Mr. Peterson stressed the point that he and Mr.
+                    Yager supported publication of the China series but considered it inexpedient at
+                    the present time. He expressed the hope that the Historical Office would be
+                    agreeable to a two to three month “hoist” on release of the 1943 volume until
+                    Chinese affairs were off the General Assembly agenda. To this, Mr. Noble
+                    assented.</p>
+                <p>The FE representatives assured the Committee that they were on the side of <hi
+                        rend="italic">Foreign Relations</hi> and departed.</p>
+                <p>Mr. Noble asked that the regular business session of the Committee continue.</p>
+                <p>Mr. Schlesinger spoke briefly of the President’s keen personal interest in seeing
+                    the historical record of the government published, as evidenced in his letter of
+                    September 6. The President, he said, had been delighted to write this letter and
+                    favored the widest possible disclosure of the historical record consistent with
+                    the national interest.</p>
+                <p>The Committee members applauded the action taken by the President and felt it
+                    would be of considerable help to <hi rend="italic">Foreign Relations</hi>.</p>
+                <p>Mr. Noble mentioned to Mr. Schlesinger that some confusion had arisen regarding
+                    the last sentence of the September 6 letter. The Moss Committee was apparently
+                    interpreting this sentence to mean that there should be general access to State
+                    Department records 15 or more years old. This was of course a serious confusion
+                    and the Historical Office was corresponding with the Congressman on this
+                    matter.</p>
+                <p>Mr. Schlesinger assured the Committee that the intent of the September 6 letter
+                    was to seek release of documents 15 or more years old for inclusion in the <hi
+                        rend="italic">Foreign Relations</hi> series, not to open the Department’s
+                    files to the public.</p>
+                <p>Mr. Noble reviewed for Mr. Schlesinger the high points of this meeting of the
+                    Committee, particularly the discussion of problems to be faced in the 1946-1950
+                    period and the efforts of the Committee to assist on these problems.</p>
+                <p>Mr. Noble informed the Committee that he had requested three members of the staff
+                    to review, for completeness of coverage and annotation, volumes compiled several
+                    years before. Mr. Goodwin reported first on the Near East volume for 1942 (vol.
+                    IV). He indicated he had spent one month in extensive reading in literature
+                    published since completion of the compilation more than ten years ago and one
+                    additional month on examining the galleys to spot obvious gaps or
+                    discrepancies.</p>
+                <p>In connection with the first phase of his review, Mr. Goodwin found that no major
+                    subjects had been omitted. However, he was recommending revisions in connection
+                    with the development of United States political policy in the summer of 1942
+                    under the impact of British military losses to General Rommel in North Africa.
+                    As a result, three new documents have been added, a new and more meaningful
+                    title prepared and the whole approach tightened to bring the development of
+                    United States policy into sharper focus through appropriate cross references to
+                    pertinent documentation in other Near East stories.</p>
+                <p>As far as the galleys were concerned, Mr. Goodwin noted some 200 possible changes
+                    in the nature of cross references, explanatory notes, references to memoirs and
+                    other works published since the original compilation, and the like.
+                    Consideration of such changes was desirable because of shifts in emphasis in the
+                    method of annotating since the original compilation and the appearance of new
+                    printed material.</p>
+                <p>Mr. Perkins questioned whether the investment of two months time had been
+                    sufficiently worth while.</p>
+                <p>Mr. Noble raised the question whether galleys should be returned to compilers for
+                    a fresh examination prior to publication but said that so far this had not been
+                    done because of the time factor. Mr. Perkins expressed his opposition to this
+                    procedure as too time consuming. He noted the Branch Chiefs were alert to
+                    necessary changes when they prepared galleys for clearance. He paid high tribute
+                    to the abilities of the technical editors in PB who called any errors to his
+                    attention.</p>
+                <p>Mr. Goodrich asked how many volumes were expected to be released this fiscal
+                    year. Mr. Noble and Mr. Nuermberger replied that the release of four volumes was
+                    anticipated - three American Republics volumes (1941, vols. VI and VII, 1942,
+                    vol. V) and one European volume (1942, vol. II).</p>
+                <p>Mr. Franklin, at Mr. Noble’s request, reported on the status of the conference
+                    volumes. He observed that volumes on the later conferences had been released and
+                    that the three Washington conferences, the Casablanca Conference and the two
+                    Quebec Conferences were yet to be done. He himself was working on the first
+                    Washington Conference and Mr. Slany on the Casablanca Conference. It was his
+                    expectation that the three Washington Conferences and the Casablanca Conference
+                    would be bound in one volume, leaving the two Quebec Conferences for the final
+                    volume in the series.</p>
+                <p>Mr. Goodrich raised the question as to how the <hi rend="italic">Foreign
+                        Relations</hi> compilations for 1945 would be organized and into how many
+                    volumes. Mr. Perkins furnished the Committee with lists of completed and
+                    probable stories for 1945 but asserted that the organization and number of
+                    volumes for 1945 could not yet be determined.</p>
+                <p>Mr. Goodrich informed Mr. Schlesinger of the tentative feeling of the Committee
+                    that <hi rend="italic">Foreign Relations</hi> be limited in the number of
+                    volumes, possibly by confining itself to key documents, eliminating the story
+                    approach, omitting certain background materials and making extensive use of
+                    editorial notes.</p>
+                <p>Mr. Franklin commented that since Mr. Schlesinger was present, it might be
+                    appropriate to mention the desperate manpower needs of the staff. He cited as an
+                    example that the person responsible for surveying the documentation on Germany
+                    and preparing a tentative list of subjects on Germany had resigned and it had
+                    not been possible to replace him.</p>
+                <p>Mr. Schlesinger inquired whether <hi rend="italic">Foreign Relations</hi> was in
+                    a position to hold its own. Mr. Noble stated that the staff would need to be
+                    augmented by at least a half dozen professionals merely to keep pace and that
+                    compilation would fall farther and farther behind unless the staff would be
+                    increased.</p>
+                <p>Mr. Noble requested Mr. Perkins to give his review of volume II for 1942. Mr.
+                    Perkins said the original compilation had already been revised in connection
+                    with the question of North Africa. In 1942, Robert Murphy, while a Foreign
+                    Service Officer, had been detailed to the military. During this detail, he was
+                    not under the instruction of the Department nor did he report to the Department.
+                    Mr. Murphy subsequently reviewed the galleys and noted that his reports for 1942
+                    had not been printed. As an outgrowth of his representations, a number of papers
+                    was added. During this past summer, volume II was placed in page proof. Mr.
+                    Perkins reported that during his review, he found that nothing of vital
+                    substance had been omitted. He stated that if he were able to compile the volume
+                    anew, he would include one paper from the Martinique post files and another
+                    dealing with United States use of air bases on French possessions in the
+                    Pacific. However, since the volume was in page proof, he had decided against
+                    adding them. Mr. Perkins also observed that he had altered some footnotes.</p>
+                <p>Mr. Sappington reported that his review of volume II for 1943 had not yet been
+                    completed. He stated that there were various post and lot files which were not
+                    available when the compilations were originally done and that these would still
+                    have to be examined.</p>
+                <p>At 11:35 a.m., Mr. Goodrich declared the open session ended and stated the
+                    Committee would go into closed session to consult on its recommendations.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

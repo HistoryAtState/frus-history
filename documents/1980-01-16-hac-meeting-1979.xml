@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Memorandum From David Trask to the Historical Advisory
+                    Committee, January 1980</title>
+                <title type="short">Trask to HAC, 1980</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-05-05">May 5, 2014</date>
+                <date type="created" when="1980-01-16">January 16, 1980</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1980-01-16-hac-meeting-1979.pdf">PDF</ref>, 134 KB, 4pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Department of State, Bureau of Public Affairs, Office of the
+                    Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 3, 1979-Report. A draft of the minutes of the
+                    1979 HAC meeting, with extensive corrections and annotations, is present in the
+                    1979-Minutes folder (in this box). No final version of these minutes has been
+                    found.</hi></p>
+            <div type="document">
+                <head>Memorandum From David F. Trask (Director of the Historian’s Office) to the Advisory Committee on
+                    Historical Diplomatic Documentation</head>
+                <dateline>January 16, 1980</dateline>
+                <p>Subject: Meeting of the Advisory Committee on Historical Diplomatic
+                    Documentation, November 8-9, 1979</p>
+                <p>The Executive Secretary, Dr. David F. Trask, called the meeting to order at 1:15
+                    p.m. on November 8. Sessions were held that afternoon and at 9:00 a.m. on
+                    November 9. Committee members present were:</p>
+                <list>
+                    <item>Dr. Alona E. Evans, Wellesley College</item>
+                    <item>Dr. Alexander L. George, Stanford University</item>
+                    <item>Dr. Norman A. Graebner, University of Virginia (2:15 p.m.)</item>
+                    <item>Dr. Harold K. Jacobson, University of Michigan</item>
+                    <item>Dr. Arnold H. Taylor, Howard University</item>
+                    <item>Dr. Betty M. Unterberger, Texas A&amp;M University</item>
+                    <item>Mr. John R. Stevenson, New York City (9:00 a.m., 9 November)</item>
+                </list>
+                <p>Drs. Trask, William Z. Slany, and Arthur G. Kogan represented HO, and Mr. William
+                    P. Blair, Jr., represented PA. Numerous staff members of HO attended the
+                    sessions. Certain members of the general public attended the Thursday session,
+                    but the Friday session was closed to the public.</p>
+                <p>There follow comments on the various subjects discussed during the first session
+                    (open) and the second session (closed).</p>
+                <p><hi rend="underline">FIRST SESSION</hi> (1:15-4:00 p.m.)</p>
+                <p>1. <hi rend="underline">Output of <hi rend="italic">FRUS</hi></hi>. It was
+                    announced that only two volumes had been published during the fiscal year. It is
+                    anticipated that at least four will appear during the next twelve months. The
+                    staff hopes that seven will be published, with ten the maximum number possible.
+                    The pace of publication depends principally on the outcome of efforts to
+                    complete declassification actions. Declassification was discussed in depth
+                    during the second session of the committee and is summarized below.</p>
+                <p>2. <hi rend="underline">Pagination for the triennium 1958-1960</hi>. It has been
+                    decided to prepare a triennial set of 16 volumes for 1958-1960 consisting of
+                    28,000 pages. This size compares favorably with the average pagination per
+                    triennium of volumes treating the period since the Second World War.</p>
+                <p>3. <hi rend="underline">Word processing</hi>. For some years HO has experimented
+                    with in-house word processing to prepare nine-track tapes capable of running
+                    printing machinery at the Government Printing Office. This enterprise has
+                    established the feasibility of in-house activity. The Office has recently
+                    installed a Xerox VT 3 text-editing system that clearly meets requirements. HO
+                    still has not gotten into full production because of personnel losses in its
+                    support staff. When these losses are replaced, the Office foresees no difficulty
+                    producing the necessary materials on time. In the meantime contracts are being
+                    let to test the feasibility of contracting word processing and typesetting to
+                    outside firms. Two areas of difficulty exist. Can the Department locate firms
+                    with personnel cleared at the necessary security level? Can outside firms reduce
+                    the cost to the level attained in-house?</p>
+                <p>4. <hi rend="underline">Microform supplements</hi>. Final feasibility tests are
+                    now being arranged with outside contractors. In response to inquiries from
+                    committee members it was stated that the work associated with preparation of
+                    such supplements would be minimal. Most of its work is already planned in
+                    connection with preparation of materials to be examined by the
+                    Classification/Declassification Center. Projected feasibility tests will map
+                    optimal procedures for relating microform to printed volumes. The cost would
+                    also be minimal, probably at the most rising to no more than one-tenth the cost
+                    of the printed edition.</p>
+                <p>5. <hi rend="underline">Classification/Declassification Center</hi> (CDC). The
+                    Department has now centralized the process of conducting mandatory review and
+                    systematic declassification review of its records. HO is cooperating to the
+                    fullest extent possible with the Center during its early development. HO’s
+                    ability to release published volumes will depend on the extent to which the CDC
+                    is able to maintain a schedule of work that should allow it to attain a
+                    twenty-year line in systematic declassification review by the middle of the new
+                    decade.</p>
+                <p>6. <hi rend="underline">Lot Files</hi>. HO made it clear that it sustains a
+                    lively continuing interest in insuring the retention of permanently valuable lot
+                    files, although the responsibility for the files lies with the Foreign Affairs
+                    Document and Record Center (FADRC).</p>
+                <p>7. <hi rend="underline">Russian project</hi>. The work of preparing the
+                    manuscript of the joint Soviet-American documentary collection treating the
+                    period 1765-1815 is now essentially complete. There remains the task of seeing
+                    the volume through the press, aiming at simultaneous publication of both the
+                    Russian and the English volumes during the summer of 1980.</p>
+                <p>8. <hi rend="underline">Reorganization</hi>. The Office of the Historian was
+                    recently reorganized in response to recommendations of the team of inspectors
+                    that looked at the Office of the Historian as part of a regular inspection of
+                    the Bureau of Public Affairs. This reorganization eliminated the Operations
+                    Staff, created a general editor for <hi rend="italic">FRUS</hi>, added a third
+                    geographic division, and centralized responsibility for declassification and
+                    research at the level of the office director. This reorganization should be
+                    helpful in improving the productivity of the Office.</p>
+                <p>9. <hi rend="underline">Acceleration of <hi rend="italic">FRUS</hi></hi>. The
+                    Office remains committed to attainment of a twenty-year line in publication. We
+                    hope to approach a twenty-year line in <hi rend="underline">compilation</hi> in
+                    the near future. The work of the Classification/Declassification Center is now
+                    scheduled to permit attainment of a twenty-year line in <hi rend="underline"
+                        >publication</hi> by the mid-1980s. If budgetary support is maintained at
+                    the same level and systematic declassification review kept on schedule, the
+                    program of acceleration can succeed. The series must now take into consideration
+                    a great deal of other-agency material, but delays caused by the complexities of
+                    the modern series can be counteracted by improved productivity in HO.</p>
+                <p>10. <hi rend="underline">Usership survey</hi>. To develop accurate information
+                    concerning the perceptions, interests, and desires of the <hi rend="italic"
+                        >FRUS</hi> readership, the Office is preparing a questionnaire intended as a
+                    survey instrument among users.</p>
+                <p><hi rend="underline">SECOND SESSION</hi> (9:00 a.m.-12:15 p.m.)</p>
+                <p>1. <hi rend="underline">Budget matters</hi>. It was explained that HO’s budget
+                    had remained generally constant in real dollars for some years and that planning
+                    was based on the assumption that resources would remain generally constant for
+                    the foreseeable future. Therefore, to improve the quantity and quality of output
+                    HO would have to emphasize productivity gains. In response to inquiries from
+                    members of the Committee, HO indicated that it had maintained a reasonable
+                    output. It planned to complete compilation of the triennial set for 1955-1957
+                    during the coming year (1980) and complete the set for 1958-1960 early in 1981.
+                    HO’s belief that it could achieve an average of about two years of work for each
+                    triennial set was based on the presumption that modernization of procedures
+                    would result in enhanced efficiency. One problem was whether the Department
+                    would maintain effective centralized services. HO is dependent on such services
+                    in many areas, notably contracting, records management, declassification,
+                    personnel, equipment procurement, and editing.</p>
+                <p>2. <hi rend="underline">Declassification</hi>. The Office must contend with two
+                    related problems. How could it obtain <hi rend="underline">expeditious</hi>
+                    responses to requests for declassification from the Department and from other
+                    agencies? How could it obtain <hi rend="underline">favorable</hi> responses?
+                    Members of HO explained the process to be followed in appealing negative
+                    decisions. In response to inquiries from members of the Committee, explanations
+                    were given concerning (a) appellate jurisdictions in the event of negative
+                    decisions; (b) guidelines for decisions concerning declassification; (c)
+                    unofficial disclosures as basis for official declassification; (d) expedients to
+                    be adopted in the event of unsuccessful denials, e .g., summaries and
+                    disclaimers; (e) possibility of preparing “sweeper” volumes to include material
+                    declassified after publication of the volume for which it was originally
+                    selected.</p>
+                <p>3. <hi rend="underline">Chairman for 1980</hi>. The Advisory Committee elected
+                    Dr. Graebner as its chairperson for the coming year.</p>
+                <p rend="underline">OTHER ACTIVITY</p>
+                <p>The Committee attended a luncheon in the Department of State for which Mrs. Lucy
+                    Wilson Benson, the Under Secretary for Security Assistance, Science and
+                    Technology, served as hostess.</p>
+                <p>The Committee met by itself during the afternoon of November 9 to discuss the
+                    contents of its annual report.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

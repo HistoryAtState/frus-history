@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Letter From John Glennon to Gale W. Allen, September
+                    1979</title>
+                <title type="short">Glennon to Allen, 1979</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-01-22">January 22, 2014</date>
+                <date type="created" when="1979-09-27">September 27, 1979</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1979-09-27-glennon-to-allen.pdf">PDF</ref>, 132 KB, 4pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: National Archives and Records Administration, Record Group
+                    59, Entry UD-WW-9: Bureau of Public Affairs, Office of the Historian, Arthur
+                    Kogan Files, 1945-1980 (83 D 230), Box 2, Declassification Denials &amp;
+                    Challenges. Confidential. Posted from a copy that bears Glennon’s initials in
+                    place of a signature. Drafted by Neal Petersen (PA/HO) on September 28 and
+                    cleared by David Mabon (PA/HO).</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 9, <ref
+                    target="../chapter-9#fn15">Footnote 15</ref></p>
+            <div type="document">
+                <head>Letter From John Glennon (Associate Historian for Asia, Africa, and the
+                    Pacific) to Gale W. Allen (Chief of the Classification Review Group at the
+                    Central Intelligence Agency)</head>
+                <dateline>September 27, 1979</dateline>
+                <p>Dear Mr. Allen:</p>
+                <p>I am writing in response to your letter of July 9, 1979, to Mr. Fredrick Aandahl
+                    concerning the review by the Central Intelligence Agency of documents of
+                    intelligence interest slated for publication in <hi rend="italic">Foreign
+                        Relations of the United States</hi>, 1952-1954, Volume XIII; “Indochina”. As
+                    a result of that review CIA recommended that deletions be made in seventeen
+                    documents and that two papers be removed entirely. Your letter of August 27 to
+                    Mr. Aandahl conveyed the request that a deletion be made in an additional
+                    document.</p>
+                <p>As indicated in the attached list this office concurs in some of the proposed
+                    deletions. However, we recommend that a number of items be reconsidered.</p>
+                <p>In general, our areas of disagreement are confined to a limited number of points;
+                    we feel that mere indication of the CIA presence in Indochina, sometimes
+                    connoted by the abbreviation CAS, should not be grounds for the deletion of a
+                    passage, since no question of the compromising of intelligence sources and
+                    methods is involved. Secondly, we are concerned by deletions related to CIA
+                    interest in the development of anti-Viet Minh guerrilla units. The passages
+                    proposed for elimination serve to indicate that the agency had <hi
+                        rend="underline">not</hi> been engaged significantly in such activities
+                    prior to the armistice, July 1954, due to French recalcitrance. This is an
+                    important point which should appear in the official historical record, and a
+                    point which is difficult to consider sensitive.</p>
+                <p>With regard to CIA activities in Indochina in the post-Geneva Conference period,
+                    actual or contemplated, nothing in the recommended excisions reveals information
+                    beyond that imparted in, Edward G. Lansdale, <hi rend="italic">In the Midst of
+                        Wars</hi> (New York: Harper &amp; Row, 1972); United States Department of
+                    Defense, <hi rend="italic">United States-Vietnam Relations, 1945-1967</hi>, 12
+                    vols. (Washington: Government Printing Office, 1971) (“The Pentagon Papers”);
+                    and <hi rend="italic">The New York Times</hi> version of the Pentagon Papers
+                    (New York: · Quadrangle Books, 1971) -- see for example excerpts from the
+                    Lansdale Team’s report, pp. 54-67.</p>
+                <p>Finally, our charter does not permit us to substitute our own language for that
+                    of the original document, as is proposed in several instances in your letter of
+                    July 9.</p>
+                <p>Here follows a list of comments on specific documents.</p>
+                <p>1. The galley citations listed below refer to documentation involving CIA
+                    recommendations for deletions in which the Office of the Historian is prepared
+                    to concur:</p>
+                <list>
+                    <item>217 JAN</item>
+                    <item>427 JAN</item>
+                    <item>419 BER</item>
+                    <item>175 NED</item>
+                    <item>126-127 CHI</item>
+                </list>
+                <p>2. The galley citations listed below refer to deletions which seem to be based
+                    exclusively on mere mention of CIA presence or the appearance of the letters
+                    “CAS”, and are therefore contested:</p>
+                <list>
+                    <item>149 JAN</item>
+                    <item>210-211 JAN</item>
+                    <item>216 JAN</item>
+                    <item>320 CHI</item>
+                    <item>392 CHI</item>
+                </list>
+                <p>[<hi rend="italic">Text not declassified.</hi>]</p>
+                <p>4. The statement of 458 JAN which, according to your letter of July 9, cannot be
+                    declassified, is a perceptive analysis by the unnamed senior CIA representative
+                        [<hi rend="italic">text not declassified.</hi>] It was circulated at the
+                    highest levels of government and deserves to be part of the official record. We
+                    are unable to see how intelligence sources and methods would be compromised by
+                    declassification of this document.</p>
+                <p>5. We urge reconsideration of the proposed deletion on 292 BER. Since the text as
+                    a whole makes it clear that the President approved in principle the operation
+                    under consideration, hypothetical participation by the CIA hardly seems
+                    sensitive. In any event, the principles of compilation of the <hi rend="italic"
+                        >Foreign Relations</hi> series preclude the possibility of substituting our
+                    own language for a portion of the original text, as suggested.</p>
+                <p>6. With regard to the deletion proposed on 300 BER, a portion of the same
+                    document, including the objectionable passage, was selected for publication in
+                    Volume XII. In your letter of April 13, 1979, CIA objected to the release of
+                    only the portion of the sentence beginning with the word “indeed,” whereas in
+                    this instance, the entire sentence is recommended for deletion. Regardless, the
+                    points raised in my letter of August 29 (in response to your letter of April
+                    13), continue to pertain. That CIA contemplated special operations in Indochina
+                    in the event of French defeat is public knowledge as a result of the publication
+                    of the <hi rend="italic">Pentagon Papers</hi>, the Lansdale memoirs, and
+                    numerous unofficial works.</p>
+                <p>7. The proposed deletions on 321 BER, 326 BER, 343 BER, 344 BER, 354 BER, and 355
+                    BER should also be reconsidered. The passages in question appear sensitive only
+                    in that they mention the well-known CIA presence in Indochina and confirm that
+                    the CIA had <hi rend="underline">not</hi> been involved in anti-Viet Minh
+                    guerrilla training prior to mid-1954.</p>
+                <p>8. The proposed deletion on 360 BER also deserves another look. No more than the
+                    mention of the CIA studying the possibility of developing more dynamic
+                    Vietnamese leadership seems to be involved. Again, the suggested modification of
+                    language in the original text is not feasible.</p>
+                <p>9. The memorandum of conversation on 62-63 CHI, a State Department document,
+                    illuminates an important foreign policy matter, the status of the Hanoi
+                    consulate after the armistice. We urge reconsideration.</p>
+                <p>10. The telegram on 441-444 CHI is printed in its entirety in the Defense
+                    Department version of the <hi rend="italic">Pentagon Papers</hi>, Book 10, pp.
+                    811-813. The passages recommended for deletion on 442 CHI are therefore already
+                    declassified.</p>
+                <p>11. In your letter of August 27, 1979, you recommend deletion of a passage on
+                    galley [<hi rend="italic">text not declassified</hi>] the area of planning for
+                    Guerrilla warfare. We urge reconsideration of this item on grounds delineated
+                    above.</p>
+                <p>Sincerely yours,<lb/>John Glennon</p>
+            </div>
+        </body>
+    </text>
+</TEI>

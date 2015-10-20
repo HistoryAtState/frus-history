@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Minutes of Historical Advisory Committee Meeting, November
+                    1984</title>
+                <title type="short">HAC Meeting Minutes, 1984</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-03-10">March 10, 2014</date>
+                <date type="created" when="1984-11-09">November 9, 1984</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1984-11-09-hac-meeting-minutes.pdf">PDF</ref>, 411 KB, 19pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 4, Report-1984-Minutes.
+                Confidential.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 9, <ref
+                    target="../chapter-9#fn113">Footnote 113</ref></p>
+            <div type="document">
+                <head>Minutes of the 1984 Meeting of the Advisory Committee on Historical Diplomatic
+                    Documentation</head>
+                <dateline>November 9, 1984</dateline>
+                <p rend="underline">American Historical Association</p>
+                <list>
+                    <item>Dr. John L. Gaddis, Department of History, Ohio University, Athens, Ohio
+                        45701</item>
+                    <item>Dr. Carol S. Gruber, Department of History, William Paterson College,
+                        Wayne, New Jersey 07470</item>
+                    <item>Dr. Warren F. Kuehl (Chairman), Department of History, University of
+                        Akron, Akron, Ohio 44325</item>
+                </list>
+                <p rend="underline">American Political Science Association</p>
+                <list>
+                    <item>Dr. Ole R. Holsti, Department of Political Science, Duke University,
+                        Durham, North Carolina 27706</item>
+                    <item>Dr. Deborah W. Larson, Department of Political Science, Columbia
+                        University, 420 West 118th Street, New York, New York 10027</item>
+                </list>
+                <p rend="underline">American Society of International Law</p>
+                <list>
+                    <item>Dr. John Lawrence Hargrove, Executive Vice President and Executive
+                        Director, The American Society of International Law, 2223 Massachusetts
+                        Avenue, N.W., Washington, D.C., 20008</item>
+                </list>
+                <p rend="underline">Other Persons Present:</p>
+                <p>Bureau of Public Affairs (PA):</p>
+                <list>
+                    <item>John T. McCarthy, Deputy Assistant Secretary</item>
+                </list>
+                <p>The Office of the Historian (PA/HO):</p>
+                <list>
+                    <item>William Z. Slany, The Historian</item>
+                    <item>Neal H. Petersen, Acting Deputy Historian</item>
+                    <item>John P. Glennon, Acting General Editor of <hi rend="italic">Foreign
+                            Relations of the United States</hi> (FRUS)</item>
+                    <item>M. Paul Claussen</item>
+                    <item>David W. Mabon</item>
+                    <item>Nina J. Noring</item>
+                    <item>David S. Patterson</item>
+                    <item>Charles S. Sampson</item>
+                    <item>Larry Adamczyk</item>
+                    <item>David M. Baehler</item>
+                    <item>Carol A. Becker</item>
+                    <item>Bret D. Bellamy</item>
+                    <item>Suzanne E. Coffman</item>
+
+                    <item>Evan M. Duncan</item>
+                    <item>Evans Gerakas</item>
+                    <item>Nancy L. Golden</item>
+                    <item>Stuart Kennedy</item>
+                    <item>Kay K. Herring</item>
+                    <item>Bettye C. Johnson</item>
+                    <item>Edward C. Keefer</item>
+                    <item>Ronald D. Landa</item>
+
+                    <item>James E. Miller</item>
+
+                    <item>David S. Painter</item>
+                    <item>Deborah Peabody</item>
+                    <item>William F. Sanford</item>
+                    <item>Harriet D. Schwar</item>
+                    <item>Vera Smith</item>
+                    <item>Sherrill B. Wells</item>
+                    <item>James White</item>
+                </list>
+                <p>Center for Classification/Declassification (A/CDC):</p>
+                <list>
+                    <item>Ambassador John R. Burke, Deputy Assistant Secretary of State for
+                        Classification/Declassification</item>
+                    <item>Henry Bardach, Director, Office of Systematic Review</item>
+                </list>
+                <p>Foreign Affairs Information Management Center (A/FAIM):</p>
+                <list>
+                    <item>Paul Washington, Chief, Publishing Services Division</item>
+                    <item>Vicki L. Ettleman, Documentary Editing Section</item>
+                    <item>Leo P. Masciana, Documentary Editing Section</item>
+                </list>
+                <p>Others:</p>
+                <list>
+                    <item>Milton O. Gustafson, Chief, Legislative and Diplomatic Branch, National
+                        Archives and Records Administration (NARA)</item>
+                    <item>Edwin A. Thompson, Project Director, Records Declassification Division,
+                        NARA</item>
+                    <item>Page Miller, American Historical Association</item>
+                    <item>Beverly Zweiben, Office of Human Rights Affairs, Bureau of International
+                        Organization Affairs</item>
+                    <item>Stanley Shaloff, Office of Analysis for Africa, Bureau of Intelligence and
+                        Research</item>
+                    <item>N. Stephen Kane, Office of Opinion Analysis and Plans[, Bureau of Public
+                        Affairs]</item>
+                </list>
+                <p>[<hi rend="italic">Omitted here is a list of abbreviations.</hi>]</p>
+                <p>Mr. Slany convened the meeting at 9:15 a.m. and introduced Deputy Assistant
+                    Secretary McCarthy, who welcomed the committee members on behalf of Assistant
+                    Secretary Hughes.</p>
+                <p>Mr. McCarthy stated that Mr. Hughes was very sorry he could not be present and
+                    outlined the busy schedule of the Department Spokesman. Noting that he had
+                    majored in history as an undergraduate, Mr. McCarthy expressed his own interest
+                    in the committee’s proceedings. He stated that a lot of progress has been made
+                    since last year in thinking through the process of producing the series and what
+                    can be done about the very legitimate problems and questions raised by the
+                    committee in last year’s report and over the past few years.</p>
+                <p rend="underline">Election of Chairman</p>
+                <p>Mr. Slany stated that the committee’s first order of business was usually to
+                    elect a chairman. Ms. Gruber commented that the committee’s usual practice of
+                    selecting a chairman who was serving his last year on the committee meant that
+                    the previous year’s chairman was never present to follow up on the previous
+                    year’s report. She noted that last year’s chairman Ernest May was no longer on
+                    the committee to follow up on the 1983 committee’s excellent report. She
+                    nominated Warren Kuehl, a new committee member. Mr. Gaddis and Mr. Holsti
+                    seconded the nomination, and Mr. Kuehl was elected by acclamation.</p>
+                <p>Mr. Kuehl invited Mr. Slany to present his report.</p>
+                <p rend="underline">Report of the Historian</p>
+                <p>Mr. Slany said that HO has been busy with the staff study and the report to
+                    Congress. One is an attempt to find solutions to problems laid out in the other.
+                        <hi rend="italic">Foreign Relations</hi> as it has evolved in the last 20
+                    years has probably gone as far as it can in its present structure and with its
+                    present objectives. We need to reconcile what we can do in HO with what the rest
+                    of the government can do. We have allowed the emergence of a publication which
+                    is not at all like what it once was. We have two objectives: publishing the most
+                    important documents and serving as a guide to unpublished diplomatic records.
+                        <hi rend="italic">Foreign Relations</hi> can’t publish all the documents
+                    anyone would like to have in writing diplomatic history. We shouldn’t be an
+                    obstacle to making the record available to the public. The body of documentation
+                    needs to be defined differently than it was by Secretary Kellogg in 1925.</p>
+                <p>He stated that we have several alternatives. We can serve as a guide to the
+                    records that are available, including those outside the DOS. We fulfill an
+                    important function in helping to identify significant records and ensuring their
+                    preservation so that they can be made available eventually, even if not
+                    immediately.</p>
+                <p>He called attention to a number of problems:</p>
+                <list>
+                    <item>The immense quantity of records from recent years. The amount of records
+                        on Vietnam alone is staggering. This necessitates setting priorities.</item>
+                    <item>The problem of foreign government information. The U.S. has to be
+                        sensitive to the concerns of other foreign governments. U.S. documents are
+                        riddled with information from foreign sources. If we attempt to make use of
+                        this information as if it came from American sources, we have a problem. We
+                        need to understand what the academic community thinks should be in the
+                        foreign policy record. We may need to be more self-denying. This issue has
+                        changed totally in recent years: in the past, we merely had to clear foreign
+                        government documents or texts of documents.</item>
+                    <item>The problem of other-agency documents. We don’t have full access to other
+                        agency documents. The Inter-agency Access Agreement doesn’t apply to all
+                        documents in which diplomatic historians have an interest.</item>
+                </list>
+                <p>He continued: We are in a quandary. We need the advice of the academic community
+                    as to whether we should continue publishing even if the record is not complete.
+                    We face this problem constantly. It hinges on other-agency records; the
+                    Department of State is becoming more efficient at dealing with declassification,
+                    but we don’t have control of other agencies. In the Department we have more or
+                    less solved the procedural problems of declassification. Scholars may have more
+                    access to records at the National Archives than in <hi rend="italic">Foreign
+                        Relations</hi>. We are faced with the problem of whether to publish the
+                    incomplete record. We wonder whether or not we have the support of scholars.</p>
+                <p>Mr. Gaddis commented that the committee could not deal with these almost “cosmic”
+                    questions in one annual session. He asked Mr. Slany to elaborate on his
+                    suggestion of bringing academic historians into a closer relationship with
+                    HO.</p>
+                <p>Mr. Slany stated that <hi rend="italic">Foreign Relations</hi> is the only
+                    government publication without outside editorial advice. He stated that we need
+                    to combine the staff’s expertise with the thinking of outside professionals. He
+                    suggested an editorial board which would discuss general questions of
+                    organization of the volumes with the staff and would also advise the staff on
+                    questions of whether or not to proceed with publication. We are more inclined to
+                    wait for something positive to happen than to make disagreeable decisions.
+                    Rumors of problem volumes get out and produce skewed discussion.</p>
+                <p>Mr. Gaddis asked Mr. Slany what he envisioned as to the frequency of the board’s
+                    meetings and the level of detail which it might address. Would the board meet
+                    2-3 times a year or would it be more active? Mr. Slany said he thought the board
+                    would meet several times a year and have additional access to materials.</p>
+                <p>Mr. Gaddis asked Mr. Slany what relationship he envisioned between the board and
+                    the Advisory Committee. Mr. Slany replied that HO would want the committee’s
+                    advice on the selection of the board.</p>
+                <p>Mr. Gaddis asked Mr. Slany what relationship he envisioned between the board and
+                    any prospective consultants. Mr. Slany replied that the consultants would advise
+                    HO during the compiling stage. The board would advise in the planning stage and
+                    in the post-compiling stage. For example, we are now planning volumes on the
+                    Kennedy years. An editorial board could advise us on this.</p>
+                <p>Mr. Kuehl stated that he could see the value of bringing in outside historians
+                    with experience in working in a particular time period in designing the volumes.
+                    He inquired about the selection process: to what extent does HO feel the
+                    academic community looking over its shoulder during this process? Mr. Slany
+                    replied that the involvement of the academic community would strengthen HO in
+                    dealing with other agencies and help us determine on which issues to fight.</p>
+                <p>Mr. Gaddis suggested that we might be proliferating advisory committees and
+                    suggested that restructuring the advisory committee with more frequent meetings
+                    might serve the same purposes. Mr. Slany referred the question of the
+                    feasibility of this to Mr. Petersen, who stated that there was no obstacle;
+                    several DOS advisory committees meet 2-3 times a year.</p>
+                <p>Mr. Gaddis raised the question of the committee’s structure. Mr. Slany stated
+                    that this was a matter for the committee to consider. Mr. Gaddis stated that he
+                    thought SHAFR should be represented. Mr. Slany noted that this was a timely
+                    suggestion, since it was time to renew the committee’s charter. Mr. Petersen
+                    said the charter provides that the committee shall meet annually in November but
+                    may meet more frequently. Mr. Slany raised the problem of funds. Mr. McCarthy
+                    suggested the possibility of enlarging the committee and establishing working
+                    groups. Ms. Gruber noted that this was a good time to consider the committee’s
+                    structure.</p>
+                <p>Mr. Slany turned to the publishing problem. He introduced Paul Washington of PS
+                    and noted that he had been helpful in the series’ transition from linotype to
+                    electronic printing. He stated that the GPO has caused more problems than it has
+                    solved. HO has raised the question of an exemption from GPO with the Joint
+                    Committee on Printing. A private publisher might be able to make the series more
+                    widely available and keep the volumes in print longer. The volumes are often in
+                    print for less time than it takes to prepare them. They are reference tools and
+                    should be available for a decade or so. The GPO is not attuned to a unique
+                    publication like <hi rend="italic">Foreign Relations</hi>. The committee might
+                    wish to consider how a university press might be more helpful. Mr. Washington
+                    stated that the Department plans to approach some university presses, but hasn’t
+                    done so yet.</p>
+                <p>Mr. Holsti wondered if the cost would be greater with a private publisher. Mr.
+                    Washington stated that a small subvention might be necessary. The Department
+                    would have to make certain that a university press did not raise the price of
+                    the volumes unduly. He referred to the special printing of volumes for Congress.
+                    He stated that the current upfront costs for printing and binding were
+                    $45,000-$75,000 per volume. The Department would hope to obtain 2500 volumes at
+                    no greater cost than this. He thought a university press could expand sales of
+                    the volumes. In order to do this, the price should be no higher than current
+                    prices and maybe a little lower. We would need to find a university press and go
+                    to the Joint Committee. He thought there would be no problem in getting a
+                    waiver.</p>
+                <p>Mr. Hargrove inquired whether the subvention would not be a matter for
+                    negotiation. Mr. Washington replied that in his experience no one did something
+                    for nothing. Mr. Slany noted that the Department would pay for the volumes sent
+                    to depository libraries.</p>
+                <p>Mr. Gaddis asked if there was any mechanism for ensuring that full sets of
+                    volumes go overseas. He had just visited a number of universities and libraries
+                    in China where only a few volumes were available. Mr. Slany replied that we had
+                    made a few volumes available on an ad hoc basis. Mr. Glennon stated that we had
+                    a distribution list of 115 and that approximately 24 of these went overseas. Mr.
+                    Gustafson of NARS noted that the AHA had asked for donations from members and
+                    that Fredrick Aandahl, a former Acting Director of HO, had donated his
+                    collection for China. Mrs. Becker noted that the LC has an exchange program.</p>
+                <p>Mr. Gaddis stated that the committee might make a recommendation on this and
+                    asked for suggestions on what could be done. Mrs. Becker stated that HO has a
+                    list of suggestions on how people can obtain earlier volumes or reprints which
+                    we send to anyone who inquires. Mr. Gaddis stated that he was interested in how
+                    the current volumes could be made more readily available.</p>
+                <p>Mr. Washington stated that we are interested in creating a larger market by
+                    advertising the volumes. He noted that direct overseas sales have been very low.
+                    For the first time, the Department is making an effort at marketing the
+                    volumes.</p>
+                <p>Mr. Gustafson suggested facetiously that one way to increase sales would be to
+                    include more controversial documents. He asked why the volumes go out of print
+                    so quickly. Mr. Washington stated that the problem was storage costs. GPO looks
+                    at the sales records and is reluctant to print more volumes. We can do so in
+                    some cases, such as the 1951 Korea volume, but only with difficulty. He noted
+                    that we have some volumes at the Department which are unavailable at GPO.</p>
+                <p>Mr. Gaddis asked if there could be a mechanism through which an individual could
+                    subscribe to the series. He asked facetiously if the Department had considered
+                    having a sale of the volumes it had on hand. Mr. Kuehl stated that a consortium
+                    of university presses might be willing to handle distribution of the
+                    volumes.</p>
+                <p>The committee adjourned for a short break.</p>
+                <p>Mr. Slany discussed further the size of <hi rend="italic">Foreign Relations</hi>
+                    volumes. He pointed out that the Senate Foreign Relations committee had
+                    previously enjoined the Office not to change the size of the volumes. Now, it
+                    was a major operation to continue to publish books the same size as those of the
+                    last few years. There were several difficulties with continuing in the same
+                    mode. First of all, money was a problem. The Office could ask the Department for
+                    publishing funds incrementally as the volumes came out, but it would be
+                    difficult to request the enormous outlay that would be necessary to bring the
+                    series to the thirty-year line. There was also the problem of the capability of
+                    the Presidential Libraries. HO research teams selecting large numbers of
+                    documents to be copied would occupy an archival staff for months, displacing the
+                    needs of private scholars. Even before making a Library trip, HO needed to go to
+                    other government agencies for permission to view and copy their documents. The
+                    total effort took much time, for which more resources were required.</p>
+                <p>Mr. Slany stated that he would ask advice from the projected new editorial board
+                    on how to be more selective in choosing documents for publication. He added that
+                    it was impossible for the volumes to meet everyone’s expectations. In response
+                    to Ms. Gruber’s question as to whether the editorial board could deal with the
+                    size issue, Mr. Slany stated that the editorial apparatus needed to be more
+                    defined. He added that a volume’s size depended largely on the significance of
+                    the events at issue. In some cases they could be treated with fewer documents
+                    and greater narrative summary. Other topics that were more intrinsically
+                    important needed greater documentary coverage. He reiterated that the Office
+                    needed clear direction from the Advisory Committee on this issue.</p>
+                <p>Mr. Gaddis asked how the <hi rend="italic">Foreign Relations</hi> volumes might
+                    alert the reader that the documentary record was not complete. He pointed out
+                    that the Archives system was to insert a pink slip to indicate that certain
+                    documents had not yet been declassified. Mr. Glennon replied that the volumes
+                    often could not specify which documents had been excluded because that
+                    information itself was classified.</p>
+                <p>Returning to the problem of volume size, Mr. Kuehl asked whether microfiche
+                    supplements could be used for large quantities of documents that could not be
+                    printed in a scaled-down series. Mr. Slany replied that the Office had made only
+                    limited headway on processing a microfiche supplement because of lack of
+                    technical skill. He also mentioned the concern of both the HO staff and the
+                    professional community that too great an emphasis on microfiche publication
+                    could lead to a diminution of the commitment to the printed series. He added
+                    that if the Advisory Committee and the academic profession wanted the staff to
+                    concentrate more efforts on microfiche, they needed to offer specific
+                    encouragement.</p>
+                <p>Ms. Larson asked whether HO had regular access to the documents of other
+                    government agencies. Mr. Slany replied that the Office had worked on this
+                    without too much progress. As time has passed, the terms of access have become
+                    more confined. Presently, HO access was not as great as it was five or ten years
+                    ago. He stated that the Department must convince agencies that the collection of
+                    documents for the <hi rend="italic">Foreign Relations</hi> series needs a
+                    special arrangement apart from private or FOI efforts. He suggested that the
+                    Advisory Committee might want to deal with this problem.</p>
+                <p>In response to Mr. Holsti’s question of what allies the Office could count on to
+                    gain greater access to the documents of other agencies, Mr. Slany stated that
+                    Alan Thompson of the Archives was a help to the Office. Mr. Thompson stated that
+                    he certainly wanted to think that he was an ally. He added that he hoped to be
+                    more personally active with other agencies in making their record available but
+                    was not certain how successful he would be. Mr. Gaddis interjected that the
+                    obvious answer to the issue of other agency access was the issuance of a new
+                    Presidential directive reinforcing the previous Nixon and Kennedy executive
+                    orders. He then inquired about the prospects of Secretary Shultz’ approval of
+                    the Staff Study. Mr. Slany responded that the study would be approved but
+                    expressed doubt that a new directive would contain the necessary sense of
+                    urgency to make a real difference. He added that if it simply urged other
+                    agencies to be more cooperative with the State Department, it would be hard to
+                    say whether it would have any beneficial effect. Mr. Kuehl stated that before
+                    the Advisory Committee made specific recommendations, it would have to determine
+                    whether a new Presidential order would help or hurt.</p>
+                <p>Ms. Gruber asked how much of staff time had been devoted to policy related
+                    research and whether the production of classified studies was greater than that
+                    of unclassified ones. Mr. Claussen replied that he had no up to date figures but
+                    estimated that staff participation varied from 30 to 75 · percent, sometimes 95
+                    percent in the case of a rush project. Mr. Slany stated that although some of
+                    the studies were unclassified, the Office might not necessarily have authority
+                    to release them. He pointed out by way of example that the Office-wide
+                    organizational history of the State Department had a very limited circulation.
+                    Mr. Claussen pointed out that policy related research often proved valuable for
+                    future <hi rend="italic">Foreign Relations</hi> compilations.</p>
+                <p>In connection with the issue of doing current work of utility to future <hi
+                        rend="italic">FRUS</hi> volumes, Mr. Slany indicated that he has
+                    contemplated proposing current computerized compilation of documents for use by
+                    the Secretary of State or leading policy makers. One advantage of instituting an
+                    ongoing, up-to-date collection program would be that the Office could secure
+                    important documents before they were lost or destroyed. To Mr. Gaddis’s question
+                    of whether such a program would take more staff time that the traditional method
+                    of collecting at the time of compilation, Mr. Slany replied that the Department
+                    hierarchy would have to acknowledge that such an effort would be useful and be
+                    prepared to supply the necessary resources. He stressed, however, that more than
+                    resources, the Office mainly required for the Secretary of State to be convinced
+                    that an HO collection effort would be a good thing. Mr. Kuehl agreed that the
+                    Office needed to keep up with the contemporary record and indicated that the
+                    Advisory Committee might recommend that it embark on such a collection effort.
+                    Mr. Slany responded that such a recommendation would be welcome. He added that
+                    the Department needed advice on how best to preserve the record and warned that
+                    the computerized post-1974 record was in far greater danger of being lost than
+                    the earlier paper files. He expressed hope that the Advisory Committee report
+                    would enable the Office to reach the people who made the key decisions involving
+                    record preservation.</p>
+                <p>In response to Mr. Kuehl’s question as to whether each agency had its own system
+                    of organizing its records on computers, Mr. Thompson said that common standards
+                    had not been worked out. He added that the Archives was vitally concerned about
+                    the problem. Mr. Slany stated that a committee of representatives from each
+                    agency was currently discussing the issue of organizing computerized records but
+                    could not agree on methods to get systems to relate to one another.</p>
+                <p>On a new topic Mr. Kuehl asked whether there had been any clarification on the
+                    issue of foreign originated information. Mr. Slany responded that the
+                    Classification/Declassification Center considered whether to allow the inclusion
+                    of such material on a case by case basis. He added that the Department of State
+                    took the view that a document’s sensitivity rather than its origin dictated
+                    whether it had to be withheld or not. He suggested that Mr. Kuehl question Mr.
+                    Burke on the issue during the closed session later in the day.</p>
+                <p rend="underline">Response by the Department to the Advisory Committee Report for
+                    1983.</p>
+                <p>Mr. Slany stated that the Office had completed its staff study, which was
+                    undertaken after the Secretary of State had read the Committee’s 1983 report and
+                    had indicated his willingness to entertain its recommendations. The staff study
+                    had been submitted to Secretary Shultz in October and had received his informal
+                    approval. Mr. Slany said that the central purpose of the study was to outline
+                    the measures needed to maintain a 30-year line. He pointed out that the National
+                    Archives was now releasing documents ahead of their publication in <hi
+                        rend="italic">Foreign Relations</hi> volumes whereas in the past the
+                    documents had appeared in the volumes before they were generally available to
+                    the public.</p>
+                <p>Mr. Gaddis asked whether there was any assurance that a 30-year line was indeed
+                    feasible. He noted Mr. Slany’s remarks about the need for greater selectivity
+                    and restraint in compiling the volumes in order to speed publication but
+                    wondered whether the Department was disposed to grant the Office additional
+                    resources to meet its goals. Mr. Slany replied that the Office needed to
+                    identify the resources required to meet its targets in the forthcoming budget.
+                    He added that there was no imminent problem of resources for HO because of the
+                    number of volumes still in the pipeline. In fact he had held back on further
+                    compiling pending decisions on the shape of future volumes. On the issue of
+                    whether, by endorsing the 30-year line, the Secretary of State would commit
+                    himself to adding the necessary resources, Mr. Slany stated that it was not
+                    clear what additional discussion on the issue would be necessary. He emphasized
+                    that the Office must be prudent and should not ask for more than it could
+                    efficiently use.</p>
+                <p>Ms. Gruber asked about the likelihood of future cooperation with the other
+                    government agencies. Mr. Slany stated that such cooperation was rational and in
+                    the interest of other agencies. He believed that they would prefer to have HO
+                    compile a record of value than to allow it to dribble out in bits and pieces.
+                    The key was to convince them that HO could produce it efficiently. Ms. Gruber
+                    then asked how disclosure would serve NSC’s interest. Mr. Slany responded that
+                    the NSC released information through the Freedom of Information Act. HO needed
+                    to persuade NSC officials that their FOI declassification effort would be
+                    facilitated by the regular publication of <hi rend="italic">Foreign
+                        Relations</hi> volumes.</p>
+                <p>Mr. Kuehl asked whether, in light of what had been said, the 30-year was a
+                    meaningful publication goal. Mr. Slany stressed that the immediate problem was
+                    to publish the backlog of volumes now in the pipeline. The longer range problem
+                    was that the other agencies would not have adequate resources to declassify
+                    documents as the volumes grew in size. He stated that if the backlog could not
+                    be eliminated, the prospect of a 40-year line was great, since the sense of
+                    urgency that other agencies might have to cooperate declassifying the volumes
+                    would diminish.</p>
+                <p>Mr. Kuehl asked whether the Office might consider publishing (he used figure of
+                    98%) readily clearable material now and then publishing the remaining documents
+                    on microfiche later when they became available. Mr. Slany replied that this
+                    raised the need to examine the volumes on a case by case basis. If the Office
+                    could decide that 35 out of 40 volumes could be published now with the
+                    understanding that other documents would be added later, that would speed the
+                    publishing process. However, other agency clearances might still be a
+                    bottleneck. Academicians’ views were also important and there might be
+                    suspicions in the historical profession that the Office had been remiss in not
+                    insisting strongly enough that certain documents be included in the volumes. Mr.
+                    Gaddis suggested that the Office publish supplementary volumes periodically
+                    containing previously withheld documents. Mr. Slany explained that the Office
+                    had planned to publish a volume on intelligence activities covering an extended
+                    period, so far without much success. He also noted that a variety of papers had
+                    come into the Office’s possession, some declassified, after the appropriate
+                    volume has already been released. He concluded that even after 30 years the
+                    possibility of producing a definitive record was remote. Mr. Gaddis expressed
+                    the belief that HO’s concern about the profession’s reaction to an incomplete
+                    volume could be alleviated if the omitted documents (2 percent) could be
+                    included later. Mr. Slany responded that HO historians generally feel that those
+                    documents were often the most important part of the volume and added that the
+                    staff naturally had a proprietary interest in publishing as complete a volume as
+                    possible.</p>
+                <p>Mr. Kuehl asked how the reader would know whether specific documents had been
+                    omitted from a volume because of clearance problems. Mr. Glennon replied that in
+                    the case of the 1952-1954 Guatemala compilation, HO indicated where the records
+                    could be found. However, it was impossible to tell the reader that we wanted to
+                    print certain specific documents but could not because declassification was
+                    refused. In the preface to the 1955-1957 volume on Vietnam, the Office had
+                    attempted to clarify the ellipses occurring in the text, explaining that
+                    material had been omitted for a variety of reasons including its failure to be
+                    declassified. He continued that the sticking point for the series was in its
+                    attempt to be comprehensive. Our inclusion of other agency documents in the
+                    volumes required their declassification before publication. NSC has proved to be
+                    the greatest bottleneck. He explained that of the 15 volumes on which CDC had
+                    completed its review, 6 had been reviewed by the Department of Defense and only
+                    2 by the NSC. Then after volumes are finally cleared by all interested agencies,
+                    they must wait another year or more for GPO to publish them. Mr. Gaddis inquired
+                    why omitted documents could not be identified to readers who at some later date
+                    could submit FOI requests. He noted that the pink slip in Archival collections
+                    provided this information to researchers, but that <hi rend="italic">FRUS</hi>
+                    did not do the same for its readers. Mr. Glennon responded that the Office was
+                    not always permitted to inform the reader of the documents which had not been
+                    cleared.</p>
+                <p>Ms. Larson pointed out the danger of relying on a supplementary volume to include
+                    withheld documents from previously published volumes. She expressed concern that
+                    general knowledge that such a volume would follow could possibly remove pressure
+                    from other agencies to clear material for the regular volumes. She believed that
+                    difficult clearance decisions would be routinely postponed until the preparation
+                    of the supplementary volume, reducing even further the value and
+                    comprehensiveness of the regular volumes. Mr. Kuehl pointed out that the if the
+                    uncleared documents could be identified in the regular volumes, then interested
+                    scholars could apply pressure for their eventual release. Mr. Holsti asked
+                    whether the 2 percent figure so far used to approximate the percentage of
+                    documents omitted from the average <hi rend="italic">Foreign Relations</hi>
+                    volume was a scientific estimate or just pulled out of the air. Mr. Glennon
+                    replied that the highest figure on an <hi rend="italic">FRUS</hi> manuscript was
+                    about 18 percent, levied on the prospective 1952-1954 volume on Eastern Europe.
+                    The Office was still withholding the volume in an attempt to reduce the number
+                    of deletions, but he confessed that it was a continuing dilemma to decide how
+                    long to struggle to include presently sensitive material. He added that the
+                    highest percentage of withheld material for any volume which HO has approved for
+                    publication was 10 percent, namely the China section of the 1951 volume on Korea
+                    and China. Mr. Slany added that HO compilers do not perform any screening
+                    function. In fact they would probably subvert CDC’s responsibility if they did,
+                    because unless CDC is aware of potentially sensitive material, it would not be
+                    able to write declassification guidelines for it.</p>
+                <p>Chairman Kuehl adjourned the meeting at noon, to reconvene in closed session at 2
+                    p.m., following the Committee’s luncheon with Ambassador Ronald I. Spiers, Under
+                    Secretary for Management.</p>
+                <p rend="center"><hi rend="italic">AFTERNOON SESSION (CLOSED TO THE PUBLIC)</hi></p>
+                <p rend="underline">Status of Declassification</p>
+                <p>Ambassador Burke stated that CDC has had good working relations with the
+                    Historical Office. Although differences have arisen over documents or individual
+                    volumes, controversies have been resolved amicably and he looked forward to
+                    continuing this relationship in the future.</p>
+                <p>Burke said that the situation in his Center has remained stable for the last two
+                    or three years. Systematic Review has declassified 56,000 pages this year which
+                    represents over 92% of the pages examined and is close to the percentage of
+                    release of the last few years. That figure does not involve FRUS, microfiche, or
+                    material from the Archives. The volume of material released has also remained
+                    approximately at the level of the last few years.</p>
+                <p>The one new development in FOIA has been the increase in the requests from the
+                    media. In 1982 such requests represented 8% of the total, whereas in 1983 they
+                    rose to 20% and in 1984 to 25%. The pattern has been that these requests come
+                    largely from a few people and that one journalist has currently over 300
+                    requests in the Department. The key problem for FOIA will be how to handle this
+                    increased number of requests and what priority, if any, to give them. He said
+                    that there have been recent legislative attempts to amend the FOIA but that none
+                    has yet passed. He stated that one new set of amendments to be introduced early
+                    in the year by Congressman English will establish a “fast track” for media and
+                    other professionals or organizations which have time sensitive needs. He argued
+                    that this amendment would present real problems and put strains on CDC’s
+                    resources and would be equally difficult for other Agencies. Ambassador Burke
+                    urged the Advisory Committee to follow the progress of these proposed amendments
+                    and perhaps testify before Congress urging the need to make the FOIA process
+                    equal and fair. He also stated that a bill passed in the last Congress had
+                    exempted CIA operational files from FOIA. While the Department had not played a
+                    role in the bill’s passage, Sam Gammon of the AHA, had lobbied against it. He
+                    said he hoped this legislation would not adversely affect HO’s ability to get
+                    access to CIA files.</p>
+                <p>Ambassador Burke stated that the last Congress had also passed legislation
+                    removing the National Archives from GSA control. The Department still cooperates
+                    with NARA and supplies 2/3 of the budgetary support for the team that is
+                    declassifying DOS documents.</p>
+                <p>Ambassador Burke wished to call the Committee’s attention to the problem of
+                    preserving future files. As we move into the high tech era, there is a need to
+                    focus on the problem of long term preservation of the permanent files of the
+                    Department. If the current trend continues, what exactly is it that we will turn
+                    over to the National Archives. Wang’s President, An Wang, with whom Ambassador
+                    Burke recently talked, had no answer to this problem. Wang’s floppy disks
+                    deteriorate in time and documents on them may become unreadable. Ambassador
+                    Burke noted that the Office of Technology Assessment is doing a staff study of
+                    records keeping in the government and they are meeting with other agencies, as
+                    they had with the Department to gather information on this problem. He fears
+                    that the report, which is due to come out late next summer, may only state that
+                    the problem exists without offering solutions. He stated that the Library of
+                    Congress is doing the best research so far on this problem and has been focusing
+                    on optical disks that can survive for 100 years and hold about 1 million
+                    documents. He wished to commend them for their work in this area.</p>
+                <p>Ambassador Burke also drew the Committee’s attention to the report of the
+                    Congressional Conference Committee which had worked on the bill granting
+                    autonomy to the National Archives. The report stressed that the Conferees were
+                    “sensitive to the preservation of documents produced by electrical impulse,”
+                    which had increased the agencies’ ability to produce documents, but impeded
+                    their ability to preserve and store these records. The report stated they wished
+                    to “insure the new technology preserves the documents.”</p>
+                <p>Mr. Holsti asked whether the proposed FOIA amendment proposed any other
+                    restrictions on FOIA inquiries. Ambassador Burke replied that the amendment
+                    draft he had seen did not. He said that the present FOIA allowed anyone in the
+                    world to request any information on any subject except CIA operational matters.
+                    Ms. Gruber asked if the amendment would jeopardize the academic community.
+                    Ambassador Burke replied that as the proposed amendment now reads, any
+                    journalist or representative of a journal or newspaper could request priority
+                    treatment. When Ms. Gruber asked about how resources would be allocated to
+                    handle the fast track, Ambassador Burke replied it would be up to CDC to
+                    establish procedures depending on the form of the amendment as passed. Some have
+                    suggested three tracks be established. When Mr. Kuehl asked if journalists were
+                    better lobbyists than scholars, Ambassador Burke replied that scholars should
+                    lobby to protect their interests. He added that a new development in the
+                    question of priorities was the problem of dealing with documents requested under
+                    discovery in cases such as the current lawsuit where a former Israeli Government
+                    official, Ariel Sharon, was suing <hi rend="italic">Time Magazine</hi>. In such
+                    cases documents must be produced under a deadline set by the judge.</p>
+                <p>Ms. Larson asked about the sensitivity of the documents contained in FRUS
+                    1952-1954 volume VII on Central Europe and when it would be released. Mr.
+                    Bardach said that this volume covered a period of the emerging normalization of
+                    relations between the U.S. and Germany and included important communications
+                    between the U.S. and the USSR as well as between the U.S. and Adenauer. It was
+                    also a time when the Four Power Austrian Treaty was being discussed. The NSC has
+                    had some reservations about releasing the volume because of the sensitivity of
+                    some of the documents contained therein. However, the Department believes that
+                    these concerns can be resolved, and that there is much interest in moving Volume
+                    VII along since, among other things, 1985 is the 40th anniversary of VE day, as
+                    well as the 30th anniversary of U.S. resumption of diplomatic relations with
+                    Germany. He said there would be great interest in the volume in Europe as well.
+                    When Ms. Larson asked if any additional material would be cut out, Mr. Bardach
+                    replied that he believed it might well be published as it was, since it had
+                    already been cleared by the Department of State and several documents contained
+                    in the volume had been cleared with the FRG.</p>
+                <p>Mr. Gaddis inquired concerning FRUS 1952-1954 volume X on Iran. Mr. Glennon said
+                    he is currently going through it. When Mr. Gaddis asked if it would go the way
+                    of the Guatemalan volume, Mr. Glennon replied one would find more in it than in
+                    the Guatemalan volume but not everything a historian would want. He is planning
+                    to draft a response to CDC and ask for reconsideration of some documents. The
+                    volume should be ready for the NSC in early 1985.</p>
+                <p>Mr. Gaddis asked what would be the role of the Editorial Board at this stage of
+                    the declassification process. Mr. Slany said we “crave some sort of judgment”
+                    and perhaps the Editorial Board could help us make the best possible decision
+                    at this juncture. He said the deletions in this volume were made largely because
+                    of information obtained from Great Britain.</p>
+                <p>Mr. Kuehl suggested that the Committee could make broad recommendations.
+                    Ambassador Burke replied that the Committee could make recommendations on
+                    changes in organization of the volumes and subjects treated. The CDC would like
+                    more resources devoted to the production of volumes and possibly outside
+                    publication of the volumes. He said we need to persuade the seventh floor of the
+                    importance of FRUS which he believes is the single most important government
+                    publication of its kind. When Mr. Kuehl asked if HO needed more resources,
+                    Ambassador Burke replied he was talking about the Systematic Review Staff of
+                    A/CDC which reviews the FRUS volumes as a primary responsibility, but which
+                    occasionally must be diverted to help with FOIA work.</p>
+                <p>Mr. Kuehl interjected that it seemed scholarly organizations should do more
+                    lobbying.</p>
+                <p>Mr. Gaddis asked if the staff study was signed and accepted, and if it resulted
+                    in a Presidential order, what could the Committee do to insure that follow-up
+                    occurred? Ambassador Burke replied that the statement should have teeth and be
+                    issued with some fanfare. It should be delivered to the agencies with an
+                    implementing directive in order to make maximum impact, since government studies
+                    usually have a half-life of a few years. When Mr. Kuehl asked what kind of teeth
+                    could they put in it, Ambassador Burke replied that the statement should be
+                    drafted along the lines of the Nixon directive -- a strong, clear statement from
+                    the President to the heads of all departments and agencies with an involvement
+                    in the topics covered in the FRUS series.</p>
+                <p>Mr. Gaddis asked what was the reason for optimism since the administration had a
+                    reputation for not favoring openness? Ambassador Burke said that, despite inside
+                    media comment to the contrary, the current administration had had no inhibiting
+                    effect on the Department’s declassification efforts under mandatory or
+                    systematic review and he cited the declassification and release of former
+                    Secretary Haig’s memoirs to support his statement. He said the new executive
+                    order also had not had an inhibiting effect. Mr. Slany stated that his feeling
+                    of optimism was related to the reception given the FRUS volumes by this
+                    Administration. He said the volumes have the qualities of being orderly and rich
+                    in information and, because they are historical, this way of releasing
+                    information may be more attractive to the White House than other ways.</p>
+                <p>Mr. Slany said there was a perception that there was a small group of people
+                    obstructing the publication of the volumes. This is not the case. Its just hard
+                    to bring all the declassification groups together since there is no umbrella
+                    organization covering all the other agencies. Ambassador Burke added that the
+                    problem of dealing with the other agencies is that none of them have an
+                    equivalent of CDC. If we could get a directive to underline the importance of
+                    the series, it might help.</p>
+                <p>Mr. Kuehl wondered how the Advisory Committee Reports were viewed by the other
+                    agencies. Burke replied that only one report -- the one that preceded his
+                    arrival at CDC -- was considered hostile. All the others had been viewed
+                    favorably and Ernest May’s report of last year had gotten a lot of attention on
+                    the seventh floor.</p>
+                <p rend="underline">Preparing the Vietnam Record</p>
+                <p>Mr. Gaddis asked about the merits of the two options HO was considering in their
+                    publication of the Vietnam volumes: publishing shorter volumes faster or larger
+                    volumes more slowly. Mr. Slany stated that HO was proceeding on the assumption
+                    that we should get the documents to the public as soon as possible, while debate
+                    was still going on in the scholarly community. First, if the HO contribution is
+                    delayed, its impact will be lessened. Second, CDC has offered us faster
+                    clearance now. Third, the capacity of the National Archives and Presidential
+                    Libraries to work with us would be short-circuited by too extensive coverage. We
+                    want to match their facilities available now with our plans. He said he could
+                    envisage an arrangement whereby we would be allowed to have access to certain
+                    additional portions of the Presidential Library holdings.</p>
+                <p>Mr. Kuehl asked if consultants could help with the Vietnam volumes. He said the
+                    Committee suffered from a lack of information. Mr. Slany said we needed
+                    consultants to advise us.</p>
+                <p>Mr. Gaddis said he wished to counter HO’s desire to publish shorter volumes
+                    faster by arguing first, that the users survey favored the delay and publication
+                    of more complete FRUS volumes; second, that Vietnam is neither an unknown or an
+                    undocumented issue; and third, that there is a question about how much new
+                    information HO volumes would add to the story. Mr. Glennon replied that the user
+                    survey statistics were 64% to 36%. He said there would be five volumes for the
+                    period 1955-1963. The real problem for the 1965 volumes is that the presidential
+                    libraries haven’t processed the documents as yet and the Nixon library does not
+                    yet exist. The problem of gaining access to presidential materials after 1965 is
+                    the same for all post-1965 volumes, including those on Vietnam.</p>
+                <p>Mr. Gaddis asked whether HO would publish supplements to accelerated volumes. Mr.
+                    Glennon replied we might use the model of the First World War supplement. He
+                    added that the 1961-1963 volumes on Vietnam are completed and in CDC.</p>
+                <p>Mr. Gaddis wished to know if the Vietnam volumes included material only on
+                    Vietnam or did they also include material on Laos and Cambodia. Mr. Glennon
+                    replied that the volumes included only materials on Vietnam because it was the
+                    only way to keep them a reasonable size and because of the question of
+                    clearance. Cambodia and Laos would pose problems in clearance whereas most of
+                    the Vietnam documents would not. There were differing views, however, and some
+                    people in CDC had urged the greater Southeast Asia approach. Cambodia and Laos
+                    would be in the regular FRUS volumes. When Mr. Holsti asked how much delay there
+                    would be if HO waited to include Laos and Cambodia, Mr. Glennon replied there
+                    would be a major delay. Mr. Slany said HO had its best and most experienced
+                    historians working on the Vietnam volumes. There were problems that would have
+                    to be met whichever approach was taken.</p>
+                <p>Mr. Kuehl asked if HO was locked into the print format. Could some supplemental
+                    documents be issued later as microfiche? Mr. Slany stated HO was not locked into
+                    any format, but the scale of the project, not how it was produced, was the
+                    factor since all documents had to be cleared by CDC which gave them special,
+                    accelerated treatment. HO’s goal was to try to get all documents into the public
+                    domain whether on microfiche or in printed FRUS volumes.</p>
+                <p rend="underline">Other Topics</p>
+                <p>Mr. Gaddis asked about plans for other special volumes. Mr. Slany said that EUR
+                    was not enthusiastic about the idea of special volumes on U.S. relations with
+                    the Soviet Union. Mr. Claussen said HO was trying to produce a series of
+                    unclassified documents on Central America. Mr. Slany said HO’s problem was to
+                    decide what we could and should do.</p>
+                <p>Ms. Gruber asked about the utility of the oral history program. Had the
+                    interviews complemented or contradicted the written records? Mr. Mabon replied
+                    that the interviews his group had conducted were of substantial value in a few
+                    instances but that memories varied greatly. He replied affirmatively when Ms.
+                    Gruber asked if they checked memories against the written record. In response to
+                    her query, Mr. Mabon replied that oral histories were cleared and handled the
+                    same way that other documents were. He hoped that CDC would declassify these
+                    interviews and make them available to the public. He added that in some
+                    instances the person may want confidentiality preserved for a number of
+                    years.</p>
+                <p>Mr. Kuehl asked Mr. Slany to comment on his optimistic statement in his report
+                    about the exchange fellowship program. Mr. Slany said the concept was widely
+                    supported in the Department and he hoped soon to be able to bring scholars into
+                    the Department soon as well as to expand the program eventually to send them
+                    overseas.</p>
+                <p rend="underline">Committee’s Private Meeting</p>
+                <p>The meeting was adjourned at 3:45 p.m. The Committee met privately to undertake
+                    the preparation of its report.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

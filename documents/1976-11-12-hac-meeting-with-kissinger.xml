@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Meeting Between Henry Kissinger and the HAC, November 1976</title>
+                <title type="short">HAC Meeting With Kissinger, 1976</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2013-12-24">December 24, 2013</date>
+                <date type="created" when="1976-11-12">November 12, 1976</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1976-11-12-hac-meeting-with-kissinger.pdf">PDF</ref>, 388 KB,
+                    23pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 3, 1976-Report. The Committee members
+                    identified by last name in the participant list were: Dr. Covey T. Oliver,
+                    Professor of International Law at the University of Pennsylvania; Dr. Bernard C.
+                    Cohen, Professor of Political Science at the University of Wisconsin; Dr. Robert
+                    A. Divine, Professor of History at the University of Texas; Dr. Lloyd C.
+                    Gardner, Professor of History at Rutgers University; Dr. Harold K. Jacobson,
+                    Professor of Political Science at the University of Michigan; and Judge Philip
+                    C. Jessup, retired from the International Court of Justice. Committee member Dr.
+                    Norman A. Graebner, Professor of History at the University of Virginia, was not
+                    present.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 8, <ref
+                    target="../chapter-8#fn92">Footnote 92</ref></p>
+            <div type="document">
+                <head>Meeting of Secretary Kissinger With Advisory Committee on <hi rend="italic"
+                        >Foreign Relations</hi></head>
+                <dateline>Secretary’s Conference Room, November 12, 1976</dateline>
+                <p rend="underline">In Attendance</p>
+                <list>
+                    <item>Secretary of State Kissinger</item>
+                    <item>Professor Oliver - Chairman</item>
+                    <item>Mr. Trask</item>
+                    <item>Professor Divine</item>
+                    <item>Mr. Aandahl</item>
+                    <item>Ambassador Jessup</item>
+                    <item>Ambassador Reinhardt</item>
+                    <item>Professor Cohen</item>
+                    <item>Professor Jacobson</item>
+                    <item>Professor Gardner</item>
+                </list>
+                <p>(The meeting was convened at 3:45 p.m.)</p>
+                <p>SECRETARY KISSINGER: Well, gentlemen, I first of all want to express my
+                    appreciation to you for coming down here and for participating in what I, as
+                    somebody who is extremely interested in history, strongly support- I don’t have
+                    the time to give day-to-day attention to the important problem on which our
+                    historians are working, but I’m extremely sympathetic to it; and this is a good
+                    opportunity to find out what your recommendations are and what you think we can
+                    do.</p>
+                <p>PROFESSOR OLIVER: Well, thank you very much. We shall do that.</p>
+                <p>If I may for just a moment, I am in the position of being the Transition Chairman
+                    -- since this is my last year of service on a Committee that, as you know,
+                    represents the interests of consumers of foreign affairs history in the United
+                    States. And, in the groups we represent as claimant groups, we have found in the
+                    four years that I have been here steady progress.</p>
+                <p>SECRETARY KISSINGER: You have?</p>
+                <p>PROFESSOR OLIVER: We have, indeed.</p>
+                <p>SECRETARY KISSINGER: I’m glad of that.</p>
+                <p>PROFESSOR OLIVER: Of course, we are very pleased that you, Mr. Secretary -- you
+                    and your associates in the Department -- have seen fit to accept our strong
+                    recommendation that David Trask become the Historian of the Department, and we
+                    have seen progressively over the years the steady improvement in the scientific
+                    process of aggregating and selecting the material that should go both into the
+                    research work of the Department in foreign affairs history and into the
+                    publication of a U.S. foreign relations series.</p>
+                <p>At the present stage, my impression -- though we as a Committee have not had time
+                    to caucus yet; we’ll do that later -- my impression is that this is a good year,
+                    indeed. We find the relationship between the Bureau and the Office to be
+                    excellent because we have--</p>
+                <p>SECRETARY KISSINGER: The Bureau being John?</p>
+                <p>PROFESSOR OLIVER: The Bureau being, of course, our good friend the Ambassador,
+                    and David and his associates in the Office.</p>
+                <p>SECRETARY KISSINGER: Don’t be associated with Reinhardt. He’s the biggest con
+                    artist in the building. I pity those poor Africans whom he gets to deal with on
+                    those occasional trips! (Laughter.)</p>
+                <p>PROFESSOR OLIVER: We do find, as I say in my report -- we came to that conclusion
+                    as we caucused. At the present time there are some production and engineering
+                    problems mainly, and they’re largely problems of funding and money -- of how to
+                    move the materials in that have been selected and Xeroxed into print. This
+                    involves many issues, including the problems of the Government Printing Office
+                    that perhaps haven’t come to your attention, but they do exist. The GPO is an
+                    overworked institution and it sets its own priorities, and the historical
+                    priorities are not of the highest.</p>
+                <p>That’s one set of priorities. It’s funding for production -- an engineering and
+                    production sort of job. There are a few scientific problems. Mainly there are
+                    problems, as we have seen them, of delays asked for clearance, of very key
+                    documents -- developments that should, if possible, go into the regularized
+                    compilations.</p>
+                <p>SECRETARY KISSINGER: Clearance from this building or clearance from other
+                    agencies?</p>
+                <p>AMBASSADOR REINHARDT: Both.</p>
+                <p>PROFESSOR OLIVER: Both.</p>
+                <p>AMBASSADOR REINHARDT: Mostly from other agencies though.</p>
+                <p>PROFESSOR OLIVER: They’re not many, but they happen to be salient.</p>
+                <p>SECRETARY KISSINGER: Of course, clearance from this building we ought to be able
+                    to expedite.</p>
+                <p>AMBASSADOR REINHARDT: On most occasions we have been able to.</p>
+                <p>SECRETARY KISSINGER: Who does the clearing here?</p>
+                <p>AMBASSADOR REINHARDT: The Bureau. Where the document originates is the prime
+                    mover.</p>
+                <p>PROFESSOR OLIVER: I think I’ve said enough in my very transitory role as
+                    Chairman. I would much prefer that my colleagues on the Committee express
+                    themselves to you in the brief time that I’m sure you can be with us. And I
+                    want, on behalf of all of us, to thank you for giving us this time.</p>
+                <p>SECRETARY KISSINGER: I’m delighted to do it. In fact, I expect to be a consumer.
+                    (Laughter.)</p>
+                <p>PROFESSOR COHEN: On the Committee? (Laughter.)</p>
+                <p>PROFESSOR OLIVER: Yes. We look forward to that. My fellow Texan, Professor
+                    Divine, has been serving in the Committee for some time. Perhaps he would like
+                    to say something.</p>
+                <p>PROFESSOR DIVINE: I would just like to point out on the clearance problems it’s
+                    not only the question of foreign relations but also the manuscript records. It
+                    has to be cleared through the Department before it goes to the National
+                    Archives. For many scholars it’s crucial -- not just to compile material for the
+                    volume. It depends on the actual clearance. The clearance holds up the whole
+                    scholarly process. Right now the scholars cannot get beyond 1949 in terms of
+                    scholarship records, which means even the Korean war.</p>
+                <p>SECRETARY KISSINGER: What is the difference between manuscript records and
+                    documents?</p>
+                <p>PROFESSOR DIVINE: Foreign Relations prints only a small percentage of the
+                    high-level, more sensitive records.</p>
+                <p>SECRETARY KISSINGER: Oh, I see, I see -- documents for Foreign Relations in
+                    addition.</p>
+                <p>PROFESSOR DIVINE: Once they’re cleared for, the lesser documents are
+                    automatically cleared as well; but everything proceeds on that basis --</p>
+                <p>SECRETARY KISSINGER: I see.</p>
+                <p>PROFESSOR DIVINE: -- and right now the compilations are only coming up to
+                    ’49.</p>
+                <p>SECRETARY KISSINGER: What I have trouble understanding -- and I should have asked
+                    my associates -- is how can any scholar work on the mass of material that is
+                    flowing through the Department? Leaving aside now whether it’s cleared or not,
+                    we get -- what? -- two-three thousand cables a day. Now, I have people sorting
+                    them out for me -- sometimes well, and sometimes to keep me from forming an
+                    opinion. (Laughter.)</p>
+                <p>PROFESSOR DIVINE: Well, my colleagues working on the 19th Century find the new
+                    documents are revealing, and those of us who work on the 20th Century find just
+                    exactly the opposite.</p>
+                <p>SECRETARY KISSINGER: Exactly. I worked on 19th Century. It wasn’t easy, but the
+                    fact was with communications, whether worse or poor, they had to give detailed
+                    instructions explaining their reasoning and they couldn’t give tactical
+                    instructions.</p>
+                <p>Today we don’t explain our reasoning. We tell the Ambassador: “When you go in,
+                    say the following.” If we have something that involves conceptualization, we’re
+                    more likely to send somebody out.</p>
+                <p>What happens to talking points, for example? Do they disappear?</p>
+                <p>AMBASSADOR REINHARDT: No, they don’t; but they haven’t come up by ’49, to any
+                    great extent --</p>
+                <p>MR. TRASK: Yes.</p>
+                <p>AMBASSADOR REINHARDT: --but they don’t disappear.</p>
+                <p>PROFESSOR COHEN: In the new record-keeping, are they in the records?</p>
+                <p>MR. TRASK: They’ll be in our computerized retrieval system, yes.</p>
+                <p>SECRETARY KISSINGER: You know, when Jack goes on a trip to Africa -- even those
+                    talking points aren’t all that helpful. They contain what you said. They don’t
+                    contain why we said it, what the reasoning is.</p>
+                <p>AMBASSADOR REINHARDT: No.</p>
+                <p>PROFESSOR COHEN: I’d like to raise two points; and I should repeat that since we
+                    have not caucused, these are personal; they are not Committee. And they both
+                    grow out of the acceptance of the documentary record. I’m sure earlier Dean
+                    Acheson pressed for the creation of a page with a footnote, and the documentary
+                    records of this are not very good and are not a basis for anchoring historical
+                    reconstruction.</p>
+                <p>SECRETARY KISSINGER: I don’t know. My fear is that they’re too good.</p>
+                <p>PROFESSOR COHEN: Too good. Well, I wonder if that isn’t a problem of your current
+                    need for fast decision as against the academic who’s got a lot of time to go
+                    through the record.</p>
+                <p>SECRETARY KISSINGER: No. Even if you had -- for me I have no problem. I get what
+                    I need to have. But then I know what I’m trying to do. so it’s not that there’s
+                    too much for the Secretary of State. There probably is also. But I’m putting
+                    myself in the position of a scholar who doesn’t know what one was trying to do.
+                    Therefore, he’ll want to work through the document.</p>
+                <p>PROFESSOR COHEN: Yes.</p>
+                <p>SECRETARY KISSINGER: What documents do we really consider relevant and which
+                    don’t we consider relevant? What is your criterion of relevancy? That’s the
+                    problem that’s going to exist on any negotiation. There are thousands.</p>
+                <p>PROFESSOR COHEN: But I would go further and say no matter what your criteria are,
+                    you probably would find that the documents aren’t sufficient -- I mean, you were
+                    saying yourself that certain things were not in the record. So what I had in
+                    mind was this -- two points: One is that since the Historical Office has been
+                    reorganized so that the foreign relations function and the other ordinary
+                    historical research functions of the Office are combined. We find ourselves in
+                    the odd position that the charter of this Committee is only concerned with the
+                    documentary -- the foreign relations function. And it seems to me that there
+                    would be some point in enlarging the charge of the Advisory Committee to include
+                    all the historical functions of the Historical Office and, in part, in order to
+                    get to this Committee.</p>
+                <p>SECRETARY KISSINGER: Well, I like that idea. Do we have a different group for the
+                    other one?</p>
+                <p>AMBASSADOR REINHARDT: No. It’s the same group of people. They have now been
+                    merged. They used to work separately.</p>
+                <p>SECRETARY KISSINGER: No, no -- but I mean in terms of the Advisory Group, do we
+                    have a different Advisory group?</p>
+                <p>AMBASSADOR REINHARDT: No. This is the only Advisory Group.</p>
+                <p>SECRETARY KISSINGER: Well, why don’t we expand their function?</p>
+                <p>AMBASSADOR REINHARDT: We can. Well, this suggestion was just coming up.</p>
+                <p>PROFESSOR COHEN: Yes. And it seems to me that it would then permit the Committee
+                    to go into all kinds of questions -- like what sources of data would be good for
+                    the record, apart from those that exist in the documents.</p>
+                <p>PROFESSOR OLIVER: The present limitation shouldn’t restrict us, but some of the
+                    expectant -- I won’t say “claimant” -- groups represented are more interested in
+                    foreign relations than in the wide-ranging historical research. For example,
+                    Judge Jessup and I represent the American Society of International Law and our
+                    focus is a fairly sharp one if it’s international relations, but the historians
+                    represented by the American Historical Association have a different view; and I
+                    think it’s very sound that we try to expand the charter of the Advisory
+                    Group.</p>
+                <p>AMBASSADOR JESSUP: But it seems to me, Mr. Secretary, that you have the
+                    inevitable problem in the clearance of documents. The officers who are in charge
+                    of a particular negotiation or a particular relation with a certain country in a
+                    given time, when asked to clear a document -- they have to see the difficulties.
+                    and if it comes to you, you are right apt to say, “Well, if you see this
+                    difficulty, I think we better hold it up. History will take care of itself in a
+                    few more years.”</p>
+                <p>So HO is bound to lose out on that kind of thing. Now, it always has, and I’m
+                    afraid it probably always will. Now, I hope when you cease to be Secretary that
+                    you might have a different idea about the declassification of documents than you
+                    might have had last week.</p>
+                <p>SECRETARY KISSINGER: Well, I don’t think that I was -- no; I was quite
+                    sympathetic to the declassification of documents, whenever decisions came to me.
+                    Is that fair -- is that correct or not?</p>
+                <p>MR. TRASK: I think that is right, Mr. Secretary.</p>
+                <p>SECRETARY KISSINGER: I think I was, but the normal tendency of a Secretary of
+                    State is to back up his Bureaus.</p>
+                <p>PROFESSOR OLIVER: Sure, sure.</p>
+                <p>SECRETARY KISSINGER: And the normal tendency of the Bureaus is to hold --</p>
+                <p>AMBASSADOR REINHARDT: To hold tight.</p>
+                <p>SECRETARY KISSINGER: -- to hold tight. And the normal function of the agencies is
+                    to avoid anything controversial, so the clearance is tough. (Laughter.)</p>
+                <p>PROFESSOR OLIVER: Might we without a caucus discuss how much time the Secretary
+                    has? As far as foreign relations is concerned, the target is official
+                    publication 20 years after the event. So for that you have until 1996, I
+                    believe, or so; don’t you think? (Laughter.) But, as to the research side, what
+                    would be a desirable minimum -- or maximum, rather?</p>
+                <p>PROFESSOR COHEN: Time?</p>
+                <p>PROFESSOR OLIVER: Classification period. How do you view as a research --</p>
+                <p>SECRETARY KISSINGER: Why should it be different?</p>
+                <p>PROFESSOR COHEN: Different from what?</p>
+                <p>PROFESSOR OLIVER: From 20 years. Well, 20 years is the old-type, preselected
+                    official range. People may want to delve earlier, I would suppose. I don’t
+                    know.</p>
+                <p>AMBASSADOR REINHARDT: They can’t unless the records have been declassified .</p>
+                <p>PROFESSOR OLIVER: I know, I know.</p>
+                <p>PROFESSOR COHEN: But he’s asking the question whether we should focus in on a
+                    different time frame.</p>
+                <p>PROFESSOR OLIVER: Now we’re talking in the context of explaining the claim of the
+                    Committee, so I thought it fair to raise this question.</p>
+                <p>PROFESSOR COHEN: I would say -- five years? (Laughter.)</p>
+                <p>AMBASSADOR JESSUP: It used to be ten, didn’t it, for a while?</p>
+                <p>PROFESSOR OLIVER: Yes.</p>
+                <p>SECRETARY KISSINGER: Ten -- before you could go into the records, really.</p>
+                <p>AMBASSADOR JESSUP: They tried to get foreign relations within ten years. That
+                    used to be.</p>
+                <p>PROFESSOR COHEN: When was that?</p>
+                <p>PROFESSOR DIVINE: When it originally began was the next year. It was published
+                    the next year in 1862-1863.</p>
+                <p>MR. TRASK: From the official correspondence, and it did not attempt really to
+                    describe the overall process of formation and execution, so that we are
+                    comparing oranges and pears; and I think we have to realize that the expanded
+                    scope of the series makes it much more difficult, as it raises problems that did
+                    not arise for our forebears, and we can’t talk about five years, but I think
+                    --</p>
+                <p>PROFESSOR COHEN: No; of course, not.</p>
+                <p>PROFESSOR GARDNER: Didn’t I understand this afternoon that the 1949 China volume
+                    was actually ready in 1952 or ’53?</p>
+                <p>PROFESSOR DIVINE: ’56.</p>
+                <p>PROFESSOR GARDNER: It was ready in ’56, and it was held up for 20 years almost on
+                    account of a few documents that people can’t get clearance on.</p>
+                <p>MR. AANDAHL: I think it was wider than that. It was held up by order of Secretary
+                    Dulles in 1957 because the first volumes that came out had a bad political
+                    effect. So the series as a whole were held up and Secretary Rusk later agreed
+                    that the others were to come out with the other volumes for the same year. It’s
+                    been held in galley proof for many years -- yes.</p>
+                <p>PROFESSOR OLIVER: Well, we come to a celebrated case, Mr. Secretary, that has
+                    been before our group for many years; and it does concern the foreign relations,
+                    actually, as has just been stated; and it involves some very interesting, and
+                    really quite revealing possibly, initiatives by Chou En-lai, as reported through
+                    --</p>
+                <p>SECRETARY KISSINGER: In what year?</p>
+                <p>PROFESSOR DIVINE: November ’49.</p>
+                <p>PROFESSOR OLIVER: ’49. And EA -- we may as well speak frankly here. EA has been
+                    reluctant up to now to give its clearance; and we’re not trying, you know, to
+                    bring you down on top of EA.</p>
+                <p>SECRETARY KISSINGER: Even the present EA.</p>
+                <p>PROFESSOR OLIVER: What?</p>
+                <p>SECRETARY KISSINGER: Even the present EA.</p>
+                <p>AMBASSADOR REINHARDT: Yes.</p>
+                <p>SECRETARY KISSINGER: Well, what’s their initiative?</p>
+                <p>AMBASSADOR REINHARDT: I told Joe Dyess that they wouldn’t even consider releasing
+                    this document. Now it has been reintroduced to EA and they still are unwilling
+                    to release it.</p>
+                <p>SECRETARY KISSINGER: On what grounds now?</p>
+                <p>AMBASSADOR REINHARDT: On grounds that things are not settled in China and that
+                    this could be --</p>
+                <p>SECRETARY KISSINGER: Well, what’s in that damn document? I’d be interested.
+                    (Laughter.)</p>
+                <p>MR. TRASK: There was a lot of factionalism, as you realize; and there was, in
+                    effect, a group that wanted to initiate relations with the United States in this
+                    mid-1949 period. Nothing came of this ultimately, but there was a feeling in EA
+                    that in some sense you might be pointing the finger -- you might be signing the
+                    death warrant of some people who were on the side of that initiative -- and so
+                    on. But they were of the feeling in some way this material might seriously
+                    compromise some people still living in China and might embarrass us
+                    politically.</p>
+                <p>PROFESSOR OLIVER: We mention it only as illustrative of the few problems of this
+                    sort that arise; and for my part, not to bring you down on top of your Bureau,
+                    as an old Assistant Secretary I wouldn’t want that to happen (laughter), but
+                    it’s just one of those situations.</p>
+                <p>SECRETARY KISSINGER: It’s a good thing. Ambassador Reinhardt would confirm that
+                    I’m going to be down on some Bureau for some reason. (Laughter.)</p>
+                <p>AMBASSADOR REINHARDT: We’ll turn to EA. (Laughter.)</p>
+                <p>SECRETARY KISSINGER: That’s my administrative principle -- never to let the
+                    Bureaus think that I’m not watching. (Laughter.)</p>
+                <p>AMBASSADOR REINHARDT: No. This has been a very bothersome problem for the reason
+                    these gentlemen have pointed out. Nevertheless, we’ve had a certain sympathy
+                    with the arguments that we’ve heard from EA. We’re going to have less sympathy
+                    -- what has it been, six months after Chou’s death? A year from now I wouldn’t
+                    know what their reasoning would be.</p>
+                <p>SECRETARY KISSINGER: And you wouldn’t release a volume with some documents
+                    missing?</p>
+                <p>MR. TRASK: We feel that these documents are so important that not to include them
+                    would go beyond the bounds of proper practice.</p>
+                <p>PROFESSOR OLIVER: But you might add that EA wouldn’t even let you put a note
+                    there.</p>
+                <p>AMBASSADOR REINHARDT: They wouldn’t even let us put a footnote there.</p>
+                <p>MR. TRASK: But we have now come back to make another request, and their views
+                    might now be different. We can’t tell.</p>
+                <p>AMBASSADOR REINHARDT: I’m not sure that Hummel has yet focused on this as some
+                    people under him have. Do you know?</p>
+                <p>MR. TRASK: We do not know, except we have some indications.</p>
+                <p>SECRETARY KISSINGER: Probably the institutions are less efficient than academic
+                    institutions (laughter), so the only ones that can generate more work than
+                    faculty meetings are the Bureaus. (Laughter.)</p>
+                <p>PROFESSOR COHEN: It’s a little bigger.</p>
+                <p>MR. TRASK: But this case, while a special and unusual one, is a particularly
+                    important one from the point of view of the principles involved; and that’s why
+                    it interests us.</p>
+                <p>SECRETARY KISSINGER: What were you an Assistant Secretary of? (Addresses
+                    Professor Oliver.)</p>
+                <p>PROFESSOR OLIVER: ARA. My heart was really in E. I grew up with E from ’42 on,
+                    but in the 60s I was tapped to run Inter-American Affairs. EB it’s called now.
+                    In my time it was just E. But I used to come up through the arched doors past
+                    Secretary Olney’s portrait to attend meetings of your predecessor in this
+                    room.</p>
+                <p>I don’t know whether we should mention the other cause celebre to the Secretary
+                    or let it ride.</p>
+                <p>Professor Jacobson, do you wish to address some memorials to the Secretary now
+                    while we have the opportunity?</p>
+                <p>PROFESSOR JACOBSON: It’s a slightly different topic.</p>
+                <p>PROFESSOR OLIVER: Let’s move to a different topic.</p>
+                <p>PROFESSOR JACOBSON: As the range of foreign policy expands, the problems of
+                    getting the record straight will increase-- when Labor takes a role, for example
+                    -- getting documents from the Department of Labor -- and Agriculture and
+                    Treasury and so on.</p>
+                <p>SECRETARY KISSINGER: But theirs are unclassified.</p>
+                <p>MR. TRASK: It’s possible the ones that interest us will be classified.</p>
+                <p>SECRETARY KISSINGER: I don’t exactly know this. It’s rather disgraceful for me to
+                    admit, but I don’t know how these documents are selected. What do you do? You
+                    try to get together -- what’s your definition of what a relevant document is? I
+                    suppose the Bureaus give you copies of everything.</p>
+                <p>MR. TRASK: We begin, of course, with the Department’s records; but many other
+                    agencies are involved. We have various procedures for attempting to gain access,
+                    and later to publish their records too.</p>
+                <p>SECRETARY KISSINGER: Does that include Restricted classification cables that go
+                    only to, say, me, and --</p>
+                <p>AMBASSADOR REINHARDT: NODIS.</p>
+                <p>PROFESSOR OLIVER: NODIS, Limited.</p>
+                <p>MR. TRASK: We haven’t come to that point in the historical period when we get
+                    that sort of classification, but we will.</p>
+                <p>SECRETARY KISSINGER: Because without it it means nothing.</p>
+                <p>PROFESSOR OLIVER: That’s right.</p>
+                <p>AMBASSADOR REINHARDT: Well, there are far fewer of them. That’s where they are
+                    now.</p>
+                <p>SECRETARY KISSINGER: Because Top Secret I don’t even see -- use any more --</p>
+                <p>AMBASSADOR REINHARDT: Very seldom.</p>
+                <p>SECRETARY KISSINGER: -- and it has no significance anyway. (Laughter.) You know,
+                    it’s the modifiers. I think the distribution of Top Secret -- I don’t know how
+                    much less it is than Secret. But what really cuts down distribution is the
+                    LIMDIS, EXDIS, NODIS and some other special ones. And I would say that for my
+                    period and for the period preceding, if you don’t have access to those you can’t
+                    write a history that’s worth a damn.</p>
+                <p>MR. TRASK: This question arises for us in connection with our policy-related
+                    research in various very recent materials but not as yet for the compilation of
+                    the Foreign Relations Series.</p>
+                <p>AMBASSADOR REINHARDT: When they come to that point, presumably the historians
+                    within the Department will have access; but they will have a monumental task of
+                    getting clearance.</p>
+                <p>SECRETARY KISSINGER: I would have thought that some of this would have been next
+                    to impossible.</p>
+                <p>Well, gentlemen, are there any other problems that we --</p>
+                <p>PROFESSOR OLIVER: Professor Gardner?</p>
+                <p>SECRETARY GARDNER: No.</p>
+                <p>SECRETARY KISSINGER: I appreciate it very much.</p>
+                <p>We’ll expand your charter, unless Jack has some objections which he --</p>
+                <p>AMBASSADOR REINHARDT: I can see no objections.</p>
+                <p>SECRETARY KISSINGER: -- which he’s not eager to mention at this meeting
+                    (laughter). But I think we ought to do both -- the research and the foreign
+                    policy series.</p>
+                <p>Thank you very much.</p>
+                <p>PROFESSOR OLIVER: Thank you very much, Mr. Secretary.</p>
+                <p>SECRETARY KISSINGER: Nice to see you.</p>
+                <p>AMBASSADOR REINHARDT: Thank you, Mr. Secretary.</p>
+                <p>(Whereupon, at 4:12 p.m., the meeting was concluded.)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

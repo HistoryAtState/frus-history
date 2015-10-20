@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Minutes of Historical Advisory Committee Meeting, November
+                    1978</title>
+                <title type="short">HAC Meeting Minutes, 1978</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-03-24">March 24, 2014</date>
+                <date type="created" when="1978-11-03">November 3, 1978</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1978-11-03-hac-meeting-minutes.pdf">PDF</ref>, 457 KB, 23pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 3, 1978-Minutes. The referenced briefing
+                    papers are not posted. The minutes were approved by HAC Chair Bernard Cohen on
+                    January 17, 1979.</hi></p>
+            <p>Cited (from an identical copy in another archival collection) in <hi rend="italic"
+                    >Toward “Thorough, Accurate, and Reliable”: A History of the Foreign Relations
+                    of the United States Series</hi>, Chapter 8, <ref target="../chapter-8#fn108"
+                    >Footnote 108</ref></p>
+            <div type="document">
+                <head>Minutes of the 1978 Meeting of the Advisory Committee on Historical Diplomatic
+                    Documentation</head>
+                <dateline>November 3, 1978</dateline>
+                <p rend="underline">American Historical Association</p>
+                <list>
+                    <item>Dr. Lloyd C. Gardner, Professor of History, Rutgers University</item>
+                    <item>Dr. Mack Thompson, Executive Secretary, American Historical Association
+                        (in place of Dr. Norman A Graebner)</item>
+                    <item>Dr. Betty Miller Unterberger, Professor of History, Texas A &amp; M
+                        University</item>
+                </list>
+                <p rend="underline">American Political Science Association</p>
+                <list>
+                    <item>Dr. Bernard C. Cohen, Professor of Political Science, University of
+                        Wisconsin</item>
+                    <item>Dr. Harold K. Jacobson, Professor of Political Science, University of
+                        Michigan</item>
+                </list>
+                <p rend="underline">American Society of International Law</p>
+                <list>
+                    <item>Dr. Alona E. Evans, Professor of Political Science, Wellesley
+                        College</item>
+                    <item>Ambassador John R. Stevenson, Sullivan &amp; Cromwell, New York</item>
+                </list>
+                <p rend="underline">Other Persons Present</p>
+                <p>The Bureau of Public Affairs:</p>
+                <list>
+                    <item>William D. Blair, Jr., Deputy Assistant Secretary of State for Public
+                        Affairs</item>
+                </list>
+                <p>The Office of the Historian (HO):</p>
+                <list>
+                    <item>David F. Trask, The Historian (Executive Secretary of the Advisory
+                        Committee)</item>
+                    <item>Fredrick Aandahl, The Associate Historian</item>
+                    <item>William Z. Slany</item>
+                    <item>John P. Glennon</item>
+                    <item>Arthur G. Kogan</item>
+                    <item>David H. Stauffer</item>
+                    <item>Neal H. Petersen</item>
+                    <item>Allen H. Kitchens</item>
+                    <item>David W. Mabon</item>
+                    <item>Charles S. Sampson</item>
+                    <item>N. Stephen Kane</item>
+                    <item>Paul Claussen</item>
+                    <item>Nina J. Noring</item>
+                    <item>David M. Baehler</item>
+                    <item>Lynn K. Fliakas</item>
+                    <item>Ruth Harris</item>
+                    <item>Dana J. Johnson</item>
+                    <item>Edward C. Keefer</item>
+                    <item>Ronald D. Landa</item>
+                    <item>Robert J. McMahon</item>
+                    <item>Aaron D. Miller</item>
+                    <item>Carl N. Raether</item>
+                    <item>William F. Sanford, Jr.</item>
+                    <item>Harriet D. Schwar</item>
+                    <item>Stanley Shaloff</item>
+                    <item>Louis J. Smith</item>
+                    <item>Sherrill B. Wells</item>
+                </list>
+                <p>The Freedom of Information Staff:</p>
+                <list>
+                    <item>Barbara Ennis, Director</item>
+                    <item>Joan M. Lee, Appeals Officer</item>
+                </list>
+                <p>The Foreign Affairs Document and Reference Center (FADRC):</p>
+                <list>
+                    <item>William Price, Director</item>
+                    <item>Frank M. Machak, Chief, Document and Reference Division</item>
+                </list>
+                <p>The National Archives and Records Service (NARS):</p>
+                <list>
+                    <item>Allen Thompson, Chief, Declassification Division</item>
+                    <item>Milton O. Gustafson, Chief, Diplomatic Branch</item>
+                    <item>Dane J. Hartgrove, Archivist, Diplomatic Branch</item>
+                </list>
+                <p>Department of State press release No. 384, October 10, 1978, provided for open
+                    and closed portions of the meeting, but no closed portion was held. The
+                    following persons from the general public attended the meeting: Professor Jules
+                    Davids, Georgetown University; Professors Wayne S. Cole and George O. Kent of
+                    the University of Maryland; and Ilana E. Stern.</p>
+                <p rend="center"><hi rend="underline">First Session--9:00 a.m.-11:00 a.m.<lb/>Room
+                        1205, Department of State</hi></p>
+                <p rend="center"><hi rend="underline">Greetings and Selection of Chairperson for FY
+                        1979</hi></p>
+                <p>Mr. Trask called the meeting to order at 9:00 a.m., welcomed the members of the
+                    Advisory Committee, and introduced Mr. Blair, who explained that he was filling
+                    in for the Assistant Secretary of State for Public Affairs, Hodding Carter III.
+                    Mr. Blair said that this was both a difficult and promising time for the Office
+                    of the Historian, which made the counsel of the members of the committee and
+                    those they represented especially important. He had good and bad news to report.
+                    The good news was that this was a creative and fertile time for HO. He pointed
+                    in particular to the introduction of word-processing equipment, the feasibility
+                    study of microform as a supplement to printed volumes, efforts to gain greater
+                    access to documents of other agencies, and the impact of Executive Order 12065
+                    on classification and declassification of records. His own view was that under
+                    the Executive Order, which was to become effective on December 1, the bulk of
+                    records used in preparation of the series <hi rend="italic">Foreign Relations of
+                        the United States</hi> would be declassified within 20 years.</p>
+                <p>The bad news, according to Mr. Blair, was that budgetary pressures were as tough
+                    as or tougher than at any time he could remember, and the outlook for a major
+                    improvement was not good. He stressed that the Department took the counsel of
+                    the Committee very seriously, adding that the briefing papers supplied to the
+                    members this year were in response to their concern about using their time more
+                    effectively.</p>
+                <p>Mr. Trask, noting the crowded agenda, asked the committee to select a chairperson
+                    for the forthcoming year. Mr. Gardner expressed the Committee’s happiness at
+                    being present, and said that he wished to endorse everything Mr. Blair had said
+                    concerning the Committee’s importance. Mr. Gardner nominated Mr. Cohen as
+                    Chairperson. The nomination was seconded by Mr. Stevenson, and Mr. Cohen was
+                    elected by acclamation. Mr. Trask and Mr. Blair thanked Mr. Gardner for his
+                    service as Chairperson during the past year.</p>
+                <p rend="center"><hi rend="underline">General Developments (Briefing Paper No.
+                        1)</hi></p>
+                <p>Mr. Trask stated that it had been a year of great activity and change in the
+                    Office of the Historian. To give advice, the Committee must have information,
+                    and the distribution of briefing papers in advance was intended to allow more
+                    time for comments and suggestion at the meeting. Mr. Trask summarized some of
+                    the major developments in HO during the past year. The reorganized Office had
+                    shaken down and appeared to be working as well as one might hope. Contract
+                    historians were providing additional compilation time, as well as professional
+                    stimulus and colleagueship. The Office had been able to complete its word
+                    processing and electronic typesetting system, and the printing money thus saved
+                    had been used to hire contract historians. The Office had made considerable
+                    process on microform feasibility studies. HO’s outreach had also been improved,
+                    and this provided ongoing and useful association with the user community.</p>
+                <p>Mr. Trask expressed pleasure at the continuing praise the <hi rend="italic"
+                        >Foreign Relations</hi> series had received, and noted that this was an
+                    incentive for further improvement. Executive Order 12065 provided an
+                    institutional basis for the acceleration of the series. The Office, he said,
+                    continued to contribute to the research needs of the Department, although the
+                    contributors to this program were not recognized outside the Department. Mr.
+                    Trask noted that the joint Soviet-American publication project had achieved
+                    significant breakthroughs after a difficult start. He felt certain it would be a
+                    landmark in cultural diplomacy and in scholarship. In all the activities of HO
+                    he acknowledged the support of the Bureau of Public Affairs and the
+                    Department.</p>
+                <p>Mr. Trask asked for comments and questions on briefing paper No. 1. Mr. Gardner
+                    asked whether the Linolex word processing system was now fully operative. Mr.
+                    Trask replied that the Office had completed its pilot study, working on an
+                    actual volume. There had been administrative problems in acquiring machinery,
+                    but these were well on the way to resolution. He expected the system to be ahead
+                    of schedule by the end of the current fiscal year. Mr. Gardner asked if any
+                    volumes had yet been completed by this method. Mr. Trask then introduced Ms.
+                    Wells, who was responsible for the HO Secretariat staff, and asked her to
+                    comment on the progress of the Linolex operation. Ms. Wells stated that of the
+                    first volume to be keyboarded in HO under the system (volume I for 1952-1954),
+                    984 manuscript pages had been typed and corrected, 925 had been typed but not
+                    corrected, and 495 were still to be typed. In answer to Mr. Gardner’s query as
+                    to when Linolex processing of this volume had begun, Ms. Wells said the work had
+                    started in March 1978. Mr. Trask remarked that he was very well pleased with the
+                    system and fully confident of its feasibility. It was the key to HO’s future
+                    plans.</p>
+                <p>Mr. Gardner asked for an estimate of the number of <hi rend="italic">Foreign
+                        Relations</hi> volumes HO expected to process each year on the system. Mr.
+                    Trask answered that he hoped as many as 10 volumes a year could be completed if
+                    personnel turnover was kept down, but plans were to produce six per year. HO had
+                    built redundancy factors into the word processing system by designating
+                    personnel who could be used as backstops in case problems arose. A further
+                    complication was that the security people were concerned about the
+                    susceptibility of the system to microwave intelligence. Ms. Wells then noted
+                    that about 60 percent of the word processing for 1952-1954, Volume I, had been
+                    completed in full, and she hoped the entire volume would be completed by January
+                    1979.</p>
+                <p>Mr. Gardner observed that, although the processing of this volume was taking from
+                    March through autumn to complete, the system would have to produce a volume
+                    every 1.2 months in order to do 10 volumes per year. Mr. Trask agreed, and noted
+                    that he expected the word processing group to be able to produce 250 pages per
+                    week, when fully in operation. The Office had the capability to do 350 pages per
+                    week, provided the support staff was completely filled. Mr. Slany added that the
+                    word processing program had begun in March, and that this autumn the average
+                    rate for operators reached 5 pages per hour. [The start-up experimentation has
+                    now been completed. It is anticipated that the system, when fully equipped and
+                    staffed, can process between 10,000-15,000 printed pages per year, a rate of
+                    more than sufficient to produce planned volumes, unless the size and number of
+                    such volumes should be revised.]</p>
+                <p>Mr. Gardner asked whether it took time to train operators, and he wondered what
+                    would happen if an operator left. Mr. Slany responded that while training did
+                    not take a great deal of time, it took time for operators to reach their maximum
+                    speed on the machine. In answer to Mr. Cohen’s inquiry as to how proofreading
+                    was done, Mr. Trask said that the committee would receive a demonstration of the
+                    word processing equipment later in the day. Mr. Aandahl then briefly described
+                    the technical processing of the manuscript.</p>
+                <p>Ms. Evans asked whether the HO staff was doing much research for use within the
+                    Department of State, and whether research would slow down the production of <hi
+                        rend="italic">Foreign Relations</hi>. Mr. Trask replied that there was an
+                    unsatisfactory ratio between <hi rend="italic">Foreign Relations</hi> and the
+                    research effort. Acceleration of the series, which would take a few more years,
+                    would allow a more favorable ratio. He stated that the Office had not done so
+                    much research as in the past, although some of the research was on exceedingly
+                    important subjects that reflected current high priority items for the
+                    Department, such as the Camp David negotiations and Presidential trips to the
+                    Middle East and Africa. He mentioned that Mr. Kitchens’ history of the Sinai
+                    Support Mission had been declassified and prepared for publication.</p>
+                <p>Mr. Stevenson asked to what extent this research was requested by other offices
+                    and to what extent it was originated by HO. Mr. Trask answered that it worked
+                    both ways, but more often than not HO responded to requests from elsewhere in
+                    the Department. He said that although the resources of the Office were limited,
+                    users seemed pleased with the product. Mr. Stevenson asked whether the users of
+                    HO’s research were spread throughout the Department or concentrated in one area.
+                    Mr. Trask answered that the pattern of research moved according to the rise and
+                    fall of issues. Lately it had concentrated on the Middle East, reflecting the
+                    Department’s interests in that area. Nina Noring had compiled an extensive
+                    project on the Middle East for 1973. HO Research also dealt with such issues as
+                    ecology, oceans, science, and technology. Mr. Stevenson asked if HO was involved
+                    in any joint projects. Mr. Trask said that the Office had not worked closely
+                    with other areas of the Department in its research, but its work dovetailed with
+                    research in other U.S. Government agencies. He mentioned as an example the
+                    Soviet-American project, in which the National Archives and Smithsonian
+                    Institution were also participating. Interagency collaborative research was
+                    likely in the future, given the interrelationship of problems. Mr. Stevenson
+                    asked whether the Policy Planning Staff ever made requests for research. Mr.
+                    Trask replied that there had been a close and extensive relationship with the
+                    Policy Planning Staff in connection with a project on human rights.</p>
+                <p>Mr. Cohen referred to Briefing Paper No. 1, page 1, paragraph 4, and asked
+                    whether there had in fact been a drift away from work on research to work on <hi
+                        rend="italic">Foreign Relations</hi>. Mr. Trask said that there was
+                    misperception on this issue, and that such a drift had begun a long time ago. He
+                    had felt when he came to the Department that the research program ought to be
+                    thought about. He himself might inadvertently have given the impression in the
+                    past that some additional research would be undertaken, but this was not the
+                    case. The trend has been in the opposite direction, consistent with the
+                    acceleration and increased complexity of <hi rend="italic">Foreign
+                        Relations</hi>. Mr. Trask noted that he had been the principal culprit in
+                    withdrawing resources from research to <hi rend="italic">Foreign Relations</hi>,
+                    because he believed that only when the series had caught up to a 20-year line
+                    would there be enough time and energy for an adequate program of research. The
+                    Advisory Committee received two memoranda demonstrating the trend toward more
+                    commitment of budget and personnel to compilation, especially since 1976. He
+                    added that the research function was not lying fallow in the interim. The Office
+                    continued to experiment with ideas and methods. The research projects HO was
+                    turning out were very good but few in numbers. A great tragedy, Mr. Trask
+                    believed, was that the Department of State desperately needed research based on
+                    historical perspective. HO was the one body that could help. The major research
+                    component of the Department, the Bureau of Intelligence and Research, did
+                    research on other countries, not on the policy process.</p>
+                <p>Mr. Gardner asked whether cutting the number of pages had helped to accelerate
+                    publication of the series. Mr. Trask said that the triennial approach had had
+                    that effect. Mr. Aandahl said that HO needed to get better control of the total
+                    product. For many years, until the volumes for 1946, the series had been
+                    relatively unplanned. The volumes were now including more material on the
+                    formulation of policy at high levels, and less on operational details.</p>
+                <p>Mr. Gardner cited the <hi rend="italic">Foreign Relations</hi> volume on Israel
+                    for 1948, noting that it had received wide and deserved praise in the academic
+                    community. Because it was done so thoroughly, the Office had been able to refute
+                    inaccurate information. There was a danger in presenting only the main outlines
+                    and therefore eliminating the kind of detail which made the Israel volume so
+                    useful. By arbitrarily limiting pages in advance the series risked opening
+                    itself to a decrease in quality and to scholars’ criticisms that important
+                    documents were left out.</p>
+                <p>Mr. Aandahl said that the office was able to make exceptions in the matter of
+                    pages, and that the treatment being given to the Suez Canal Crisis was an
+                    example. Mr. Blair said that Mr. Aandahl’s point was absolutely right. The
+                    Department might get caught up in its own projected page figures, but the
+                    projections were not sacrosanct. It was only necessary for those who wrestled
+                    with budgets to have an idea of the total product. In the past, the Department
+                    had made some conservative page estimates, which it now found it could
+                    exceed.</p>
+                <p>Mr. Trask said that some of HO’s planning was based on the hope that it could use
+                    microfiche supplements. If the feasibility study showed that this was not a good
+                    idea, the Office would have to rely entirely on the printed word. If HO was not
+                    able to expand coverage through microfiche by five- or ten-fold, it would need
+                    to rethink the process immediately. The Office could make changes and reprogram
+                    its resources and staff energies at later stages. Plans even for the 1955­1957
+                    triennium were not set in concrete, and the Office would be glad to have the
+                    thoughts of the members of the Committee on the subject of pages. Any expansion
+                    of a large nature would, he reminded the Committee, offset the delivery date of
+                    future <hi rend="italic">Foreign Relations</hi> volumes.</p>
+                <p>Mrs. Unterberger asked if what was being contemplated was an expansion of printed
+                    pages or merely a reallocation of existing page units. Mr. Trask stated that HO
+                    planned to produce at least 20,000 printed pages for 1955-1957. [Recent counts
+                    suggest that this estimate may be low.] This figure could be raised or lowered.
+                    He reemphasized that the Office would be happy to receive advice on the subject
+                    from the Committee. The microfiche supplement was the very key to planning. If
+                    it should prove unfeasible, HO would have to reconsider its program.</p>
+                <p>Mr. Blair said that the figure of 20,000 pages for the 1955-1957 triennium was an
+                    example of flexibility. A figure of between 12,000 and 14,000 pages had been
+                    loosely thrown around last year, but that was an overconservative budgetary
+                    projection. The new figure also reflected the concern about page cuts expressed
+                    by the Advisory Committee and others during the past year. Mr. Trask added that
+                    last year HO had been cautious so that it would not be overpromising. People had
+                    mistakenly assumed that the Office was talking about hard decisions when it was
+                    talking only about loose projections and planning figures. HO’s desire was to
+                    publish as much as possible in whatever format. The question was which mode of
+                    presentation would satisfy the whole range of user constituencies.</p>
+                <p>Mr. Cohen asked that discussion of microfiche be continued later, and there was
+                    general agreement.</p>
+                <p rend="center"><hi rend="underline">Access Matters (Briefing Papers No. 2a and
+                        2b)</hi></p>
+                <p>Mr. Trask then turned to the question of access to the records of the Department
+                    and other agencies. He believed that great progress was being made in this area,
+                    and pointed to a conversation on this question that he and other members of the
+                    staff had had the previous day with representatives of the National Security
+                    Council. The objectives in seeking greater access were to expand other-agency
+                    coverage and to expand the usefulness and helpfulness of annotation as a guide
+                    to future research.</p>
+                <p>Citing the declassification of some portions of the Forrestal Diaries by the
+                    Defense Department as an example, Mr. Gardner asked whether HO would support a
+                    scholar’s request for the opening of the Dulles material at Princeton University
+                    for the 1950-1954 period, now that the State Department central files for that
+                    period were in the process of being transferred to the National Archives. Mr.
+                    Blair responded that HO would be glad to see the Dulles material opened, but
+                    because the material pertained to events also covered by records of the
+                    Department of State and other agencies, expedited review would be difficult to
+                    obtain. Mr. Kogan remarked that the Dulles collection at Princeton consisted
+                    largely of copies of Department of State documents. Princeton had no authority
+                    over the material. The principles for declassification of this material would be
+                    the same as for declassification under the new Executive Order. The guidelines
+                    would probably be sent to Princeton. Mr. Trask added that the question of what
+                    was a historical record and what was not was tangled. The new Executive Order
+                    dealt with the question of Presidential Papers, and its provisions were a
+                    victory for proponents of openness. Mr. Trask then commended Mr. Kogan as one of
+                    the leading experts in the entire Government on records policy, and introduced
+                    Mr. Gustafson and Mr. Allen Thompson of the National Archives and Records
+                    Service (NARS), who had joined the meeting.</p>
+                <p>Mr. Blair said it was expected that within the next few months the National
+                    Archives would accession the 1950-1954 block of Department of State central
+                    files. Mr. Stevenson asked whether the Freedom of Information Act was the only
+                    way to obtain declassified records less than 20 years old, and Mr. Kogan replied
+                    that this was the case, except for the mandatory review of Presidential records.
+                    Mr. Stevenson asked what percentage of State Department material was classified.
+                    Mr. Kogan and Mr. Trask said that for the period 1950-1969 the Department of
+                    State had an estimated 78 million pages of documents, of which 27 million were
+                    classified.</p>
+                <p>Mr. Trask introduced Mr. Price and Mr. Machak of FADRC, who had joined the
+                    meeting. Mr. Price observed that in terms of implementing the General
+                    Declassification Schedule (GDS) which had gone into effect in 1972, time was
+                    overtaking his operation. FADRC must get together with the Bureau of Public
+                    Affairs to discuss the problem of making available to the public those documents
+                    that in 1972 had been scheduled for release in six years.</p>
+                <p rend="center"><hi rend="italic">Executive Order No. 12065 and Transfer of
+                        1950-1954 Records (Briefing Papers No. 3 and 4)</hi></p>
+                <p>Mr. Trask introduced Mrs. Ennis, Director of the Freedom of Information Staff,
+                    who joined the meeting. Mr. Blair pointed out that within Executive Order 12065,
+                    the most important item as far as scholars were concerned was the provision for
+                    the release of most documentation after 20 years. In order to implement this
+                    provision, the Department of State was about to take some fairly revolutionary
+                    steps, which involved removing the declassification function from the various
+                    bureaus and centralizing it in one central staff. Mr. Blair commented that, in
+                    his personal opinion, this plan would be adopted in the near future. [The new
+                    system has since been adopted.] It would be an enormous step forward by way of
+                    implementing the 20-year line of the new Executive Order. Mr. Blair also
+                    explained that the President had allowed Executive agencies ten years to reach
+                    the 20-year line, but the Department planned to reach it in half a dozen
+                    years.</p>
+                <p>Mr. Gardner asked about the sort of input the Office of the Historian would have
+                    on the central staff. Mr. Blair responded that, in his personal opinion, the
+                    Office would continue to play an indispensable role. A steering committee would
+                    be formed, headed by the Under Secretary of State for Management, and the Bureau
+                    of Public Affairs would be involved in that committee. The central staff would
+                    screen a selection by HO from the Department’s files and draft guidelines for
+                    the declassification program of the National Archives. Mr. Gardner asked whether
+                    Executive Order 12065 would help to clear away <hi rend="italic">Foreign
+                        Relations</hi> clearance problems. Mr. Blair replied that it was a great
+                    step forward. It would be a drastic shock to many desk officers to learn that
+                    the President wanted documents declassified after 20 years. Mr. Mack Thompson
+                    asked why, if documents could be cleared under the Freedom of Information Act,
+                    they could not simply be released without going through the FOI process, Mrs.
+                    Ennis stated that documents had to be reviewed on an item-by-item basis, but
+                    that most FOI requests were successful. Mr. Price added that under the General
+                    Declassification Schedule, documents would soon be made available automatically.
+                    Mr. Mack Thompson asked for an elaboration of the restraints on getting the
+                    record out. Mr. Blair responded that the problem in one word was resources. Mr.
+                    Price agreed and expanded his earlier remarks concerning the General
+                    Declassification Schedule by noting that even though it provided for the release
+                    of 80 percent of the documentation after six years, that group would not include
+                    the most important foreign policy documentation. Mr. Machak confirmed the latter
+                    point and noted that under Executive Order 11652, FADRC had had to prepare
+                    annual declassification lists of all documents released.</p>
+                <p>Mr. Machak then described the problems involved in making documents declassified
+                    under the GDS available to the public. The task of segregating the declassified
+                    material from the main body of files would become much easier once the period of
+                    computerized record keeping had been reached. Before this time, however, FADRC
+                    would have a resource problem, and the Committee should remember that FADRC’s
+                    first duty was to service the information needs of the Department of State.
+                    FADRC looked to the National Archives for help in providing scholars with
+                    documentation. One problem was that records managers had not yet reached an
+                    educated judgment as to how long an agency needed to retain records. Most
+                    agencies currently operated on a 20-year retention basis. Mr. Gustafson said
+                    that the National Archives wanted to accession records as soon as they were no
+                    longer needed by the originating agency and as soon as they could be opened to
+                    the public. Mr. Stevenson inquired again about the resource question, and
+                    observed that a system of automatic declassification ought to be much cheaper to
+                    administer than the FOI operation. Mr. Trask noted that when Congress drafted
+                    the Freedom of Information Act, it had persons with individual interests in mind
+                    rather than scholars with general interests. This fact had complicated the
+                    situation ever since, because the FOI Act was the only way for scholars to gain
+                    access to government documents before they were subject to automatic review. The
+                    multiplicity of systems for the review of documents made it exceedingly
+                    difficult for records managers.</p>
+                <p>Mr. Price recalled the paper explosion after Pearl Harbor. The files prior to the
+                    introduction of the GDS and the Department’s Automated Data System caused
+                    particular problems, but once FADRC reached the computerized period, it would be
+                    a simple matter to segregate the material and “repackage” the documents. Plans
+                    had not yet been made for the computerized period but were under examination.
+                    Mr. Trask noted that the Department hoped to reach the 20-year line well before
+                    the 10-year mandate.</p>
+                <p>Mr. Gardner remarked that the subject reminded him of “Magic.” Two years ago, he
+                    had learned from a representative of the National Security Agency that it still
+                    held documents relating to Pearl Harbor that were not in the public domain. Mr.
+                    Gardner wondered what other material was still being withheld. He then asked
+                    whether <hi rend="italic">Foreign Relations</hi> clearance problems were
+                    currently greater or lesser than during the period the 1949 China volume was
+                    withheld. Mr. Trask referred the question to Mr. Glennon, who responded, with
+                    reference to the present difficulties, by saying, “Clearance stinks.” Mr.
+                    Gardner then asked how the new system was going to break down the clearance
+                    blockage. Mr. Blair replied that the job would be done not by desk officers but
+                    by a central declassification staff, composed of individuals who had been
+                    Foreign Service officers. The staff would work full time on declassification
+                    matters. Mr, Blair felt that the central staff was a great step forward and that
+                    it would gain expertise and take a dispassionate approach to
+                    declassification.</p>
+                <p>Mr. Trask explained that the Department of State in adopting the central staff
+                    was producing economies of scale. In his opinion, resources were 90 percent of
+                    the access problem; clearance was only 10 percent. Nervousness accompanied
+                    periods of change, and the Department was operating in a period of much greater
+                    openness than before. A good deal of sentiment for openness did exist in the
+                    Department. He had great hopes that the new Executive Order would make a
+                    measurable difference. Mr. Blair cautioned that the millennium had not arrived.
+                    Mr. Price pointed out that under the new system, at least a decision about a
+                    document would be reached one way or the other, instead of the long delay in
+                    decision-making that was currently the case.</p>
+                <p>Mr. Trask asked Mr. Allen Thompson of NARS to comment on the new guidelines that
+                    were to be written. Mr. Thompson replied that NARS also viewed the new Executive
+                    Order as a major step forward, but had reservations concerning its ability to
+                    cope with the anticipated deluge of paper. NARS estimated that it would take 10
+                    years to make the transition. In the world of the 20-year line, Mr. Thompson
+                    noted, more categories of documents would be withheld than at 30 years, and NARS
+                    would need more guidance than before on what should be withheld. His office had
+                    no idea of what percent of the documents would be withheld at 20 years, but it
+                    was obvious that the provision exempting foreign government information would
+                    mean that a very high percentage, probably 10 percent, would be held back. This
+                    would require a substantial amount of declassification work at 30 years. He
+                    added that NARS had neither the money nor the personnel to do the review
+                    required under the new Executive Order, and the 30-year line would remain until
+                    the resources were obtained.</p>
+                <p>Mr. Slany stated that intelligence matters had become a larger part of the <hi
+                        rend="italic">Foreign Relations</hi> series, and that the series would have
+                    to be rethought in terms of what the users wanted from it. Mr. Gardner felt that
+                    former Foreign Service officers would be leery of reversing clearance decisions
+                    already made on intelligence material. Mr. Allen Thompson stated that 90 percent
+                    of the material withheld beyond 30 years related to intelligence. The Government
+                    was going to continue to withhold intelligence documentation for a longer period
+                    than the historical community would wait for <hi rend="italic">Foreign
+                        Relations</hi>. Mr. Gardner commented that intelligence matters played an
+                    increasingly important role in recent U.S. foreign policy, and that what was
+                    being said about clearance at the meeting was very serious and bad news. Mr.
+                    Blair agreed with Mr. Gardner and said he had no solution to offer. Mr. Trask
+                    felt that the new system would produce a centralization throughout the
+                    Government that would help HO obtain documents from other agencies. Hopefully,
+                    such highly trained personnel as those in Mr. Thompson’s office at the National
+                    Archives would gradually replace retired Foreign Service officers as members of
+                    the central staff. Mr. Blair referred to the recent decision to place the
+                    central staff in the Bureau of Administration. He observed that some members of
+                    the Bureau of Public Affairs felt that their Bureau had been created by God to
+                    handle declassification, but God had chosen otherwise. Mr. Blair felt that the
+                    decision to place the central staff in the Bureau of Administration was probably
+                    for the best, because the steering committee would be headed by an Under
+                    Secretary, and this would provide a bureaucratic strength to the operation.</p>
+                <p rend="center"><hi rend="underline">Russo-American Documentary History (Briefing
+                        Paper No. 5)</hi></p>
+                <p>Mr. Trask introduced Mr. Sampson and Mr. Landa as the two principal HO historians
+                    working on the Russian-American documentary history project, acknowledged Mr.
+                    Gustafson’s role as an American editor of the project, and pointed out that Mr.
+                    Slany had also been deeply involved. He commended the National Archives for its
+                    leadership in the enterprise. Mr. Cohen remarked that he could understand Mr.
+                    Trask’s enthusiasm for such a project and asked whether there were any comments
+                    concerning Russian cooperation that had not been expressed in the briefing
+                    paper. Mr. Sampson observed that getting documents from the Soviets had been a
+                    bit like pulling teeth, but that they had become more cooperative over time. At
+                    first there had been hesitancy and anxiety on both sides over what the project
+                    would actually involve. As the scope of the project grew, cooperation between
+                    the two sides increased. Mr. Gustafson explained that the original concept had
+                    been much more limited: both sides would separately collect documentation,
+                    compare their findings, and then select from this group certain documents for
+                    publication in a rather slim volume. The Department of State had desired
+                    something more, however, and with its influence and resources, better documents
+                    were obtained than before. The final product will consequently be much better
+                    than originally intended.</p>
+                <p>Mr. Trask observed that the project involved a carrot-and-stick process, and that
+                    it was part of the cultural diplomacy of the United States. Problems could still
+                    arise if there was a change in U.S.-Soviet relations that would prevent
+                    publication of the final product. Mr. Mack Thompson volunteered that while
+                    speaking with Tikhvinsky, the principal Soviet editor for the project, he had
+                    learned that the Soviets were thinking of two volumes instead of one. Mr.
+                    Thompson inquired as to what the United States attitude was toward this. Mr.
+                    Trask responded that the subject of a second volume could possibly become a
+                    subject of negotiation in subsequent talks. Currently, the Soviets were
+                    contemplating a second volume on World War II or the last ten years. Many
+                    possibilities were involved and at some point the American side might discuss
+                    them with the Soviet side.</p>
+                <p>Mr. Trask suggested that similar collaborative efforts might be worked out with
+                    other parts of the world, such as a Middle Eastern area or Japan, and noted that
+                    the Japanese had already expressed interest in the idea. Mr. Trask then
+                    expressed his belief that the Russian-American project was of enormous political
+                    significance. He noted, however, that the resource question was relevant, and
+                    that the Office had had to transfer two historians from work on <hi
+                        rend="italic">Foreign Relations</hi> in order to compile the volume. Mr.
+                    Blair advised the Committee that HO had been permitted to make this tradeoff of
+                    increasingly scarce resources and engage in the Russian-American project only
+                    because a U.S. foreign policy objective was involved: the opening up by a tiny
+                    bit of some of the functioning of the Soviet Government by providing access to
+                    Soviet archives. This objective did not necessarily apply to other parts of the
+                    world. Where no foreign policy objective existed, it would be difficult to
+                    justify an expenditure of resources on a similar project. Mr. Gustafson agreed
+                    with Mr. Blair that the joint project would help open Soviet archives to U.S.
+                    scholars.</p>
+                <p>Mr. Trask then announced the need to recess this part of the meeting so that the
+                    Committee might proceed to the Office of the Historian for a demonstration of
+                    the Linolex word-processing system, microfiche technology, and meetings with the
+                    staff.</p>
+                <p>Mr. Allen Thompson added that if any members of the Committee desired to take a
+                    look at his declassification operation at the National Archives, it could be
+                    arranged either for that day or during a subsequent visit to Washington.</p>
+                <p>The meeting was recessed until 2 p.m.</p>
+                <p rend="center">SECOND SESSION<lb/>2:18-4:05 p.m.</p>
+                <p rend="center"><hi rend="underline">Microform Supplements (Briefing Paper No.
+                        6)</hi></p>
+                <p>Mr. Trask reopened the meeting at 2:18 p.m. and welcomed Ilana Stern, a former
+                    member of the Office. Mr. Aandahl said that before discussion of the microform
+                    issue, he wished to record a conversation with the Under Secretary of State for
+                    Political Affairs, David D. Newsom, who had hosted the luncheon for the Advisory
+                    Committee. Secretary Newsom recalled that in the past he had both cleared some
+                        <hi rend="italic">Foreign Relations</hi> galleys as a desk officer and had
+                    presented <hi rend="italic">Foreign Relations</hi> volumes to foreign statesmen.
+                    He expressed his hope that there was a reasonable ground between the concern of
+                    historians about publishing the foreign policy record and the concern of
+                    diplomats about not including especially sensitive material.</p>
+                <p>Mr. Gardner and Mr. Cohen, referring to earlier remarks by Mr. Slany, asked why
+                    documents printed in <hi rend="italic">Foreign Relations</hi> volumes would also
+                    be included in the proposed microform supplement. Mr. Slany explained that the
+                    advantage of doing so was that the scholar would be able to compare the printed
+                    text with a facsimile text in order to assure himself that the compilation
+                    editor had not distorted the meaning of the document, either through annotation
+                    or deletions.</p>
+                <p>Mr. Trask stated that he was presuming different groups would use the microform
+                    edition of the printed volumes. A scholar would be interested mainly in the
+                    original documents; he would use the printed volume principally as a guide to
+                    the documents. It was a planning assumption that the microform edition was
+                    intended primarily for scholars.</p>
+                <p>Mr. Aandahl noted that a question had arisen at the luncheon concerning the
+                    experience of the National Archives with microform. Mr. Gustafson stated that
+                    diplomatic records had been microfilmed through 1910; but thus far only selected
+                    files with the highest research potential had been microfilmed for subsequent
+                    years. The program was based on filming a file only when it was declassified and
+                    arranged and could be filmed in its entirety.</p>
+                <p>Mr. Cole stated that he differed from Mr. Trask over the use of <hi rend="italic"
+                        >Foreign Relations</hi>. He noted that he used the volumes frequently and
+                    also did archival research. He considered the volumes to be more than finding
+                    aids, however, and often used them for classes for the study of secondary topics
+                    where there was no need to go into further depth. He consequently questioned
+                    whether the assumption that scholars would rely primarily on the microfiche
+                    supplement was indeed a valid one. Mr. Trask replied that he intended no lack of
+                    respect for those satisfied with the volumes in their present form. He stated
+                    that for individuals such as Mr. Cole, whose main research interest, the
+                    domestic side of international politics, did not focus upon State Department
+                    documents, the volumes might well be sufficient. However, he reiterated that the
+                    microform supplement would be of great utility to scholars in diplomatic
+                    history, those studying official relations between states, who desired to pursue
+                    given topics in depth. Mr. Aandahl pointed out that the microform supplement
+                    would also serve as a clearance tool. If the principal papers in the files were
+                    cleared, others would follow.</p>
+                <p>Mr. Gardner stated that the researcher would not be satisfied to rely solely on
+                    240,000 pages of documents in microfiche. He pointed out that the microfiche
+                    would cover many different topics, and that those documents of interest to a
+                    particular monographist would still not eliminate his need to visit the National
+                    Archives to consult the original files. He believed that although the idea of a
+                    supplement was nice, the Office should not undertake the project with the notion
+                    that it would make scholars happy. Mr. Slany replied that the supplement was
+                    simply another benchmark, a way of capturing more documents, and that it was not
+                    intended to make further research unnecessary. Because of the rapid
+                    deterioration of files after they were moved to other depositories, it was
+                    desirable to capture the results of HO’s research as soon as possible. Many
+                    scholars would still have to go to the Archives to do further research. For
+                    other <hi rend="italic">Foreign Relations</hi> users, the microfiche supplement
+                    and printed pages would be enough. The microfiche supplement would improve the
+                    value of <hi rend="italic">Foreign Relations</hi>, although it was not expected
+                    to solve all problems.</p>
+                <p>Mr. Jacobson asked what time limits had been set for a decision on the issue of a
+                    supplement and whether it would be in the form of microfilm or microfiche. He
+                    also asked what percentage 240,000 pages represented of the total number of
+                    available documents, how the selection would be made, and how much staff time
+                    would be allocated to the process. Mr. Trask replied that there would first be a
+                    feasibility study. If it was successful, HO would write an options paper and
+                    formally propose the project to Mr. Blair. The options paper would include
+                    information and suggestions from the Committee. He emphasized that no final
+                    decision had been made and that none had been asked for.</p>
+                <p>Mr. Blair indicated that he was leaning in the direction of the microfiche
+                    supplement, and that if the Committee felt the Department was headed in the
+                    wrong direction, he would like to hear about it immediately. There were many
+                    tradeoffs, but the key one was that within a certain ceiling of money, HO faced
+                    an explosion of documentation. It was still possible to stay totally with
+                    printed volumes, but with no prospect of an increase in the budget ceiling,
+                    there would be a continuous decline in the fraction of the significant record
+                    the Department could publish. Should the Department sacrifice something and use
+                    part of the budget to publish a much larger number of documents than would be
+                    available in the printed edition? Mr. Blair concluded that the answer to this
+                    question appeared to be that the Department should use a fraction of the budget
+                    for microform. The Department was close to reaching a firm decision, and one
+                    would undoubtedly be made before the Committee met again. If the Committee
+                    thought these conclusions were wrong, the Department would like to hear their
+                    views.</p>
+                <p>Mr. Trask said that a microform supplement might be used as part of the
+                    declassification procedure under the new Executive Order, and that this was why
+                    a decision had to be made soon. Mr. Slany pointed out that he did not anticipate
+                    that a microfiche supplement would detract in any way from the printed edition.
+                    He further explained that under the old system, a compiler would develop a large
+                    number of working papers from which he or she would make a final selection for
+                    inclusion in the series. Under the new system, the working papers, most of which
+                    would go into the supplement, would become the basis for declassifying the files
+                    under the new Executive Order. In order to underscore the selective nature of a
+                    fiche supplement Mr. Slany stated that from 5 to 10 percent of the total
+                    available important documents would be microfiched. Mr. Blair emphasized that
+                    production of the microfiche supplement did not entail a separate selection
+                    process, but that it would consist of the preliminary selection, which would be
+                    made in any case.</p>
+                <p>Mrs. Unterberger asked whether the use of documents from other agencies would
+                    increase clearance problems. Mr. Slany answered that clearance would always be
+                    difficult. The Office could nevertheless blank out microfiche frames containing
+                    documents that could not be immediately declassified, and later release the
+                    unexpurgated original selection when everything had been cleared. Mr. Trask
+                    pointed out that the relative ease of blanking out uncleared documents by means
+                    of a modern camera gave the microfiche a distinct advantage over the printed
+                    volumes, since subsequently cleared material could never be added to printed
+                    volumes except through a supplement. He said that by maintaining a master set of
+                    microfiche containing all the original documents, the eliminated frames could be
+                    easily reinstated in the publicly available microfiche as the withheld
+                    material was declassified. In the brief discussion which followed, note was
+                    taken of the great advantage to scholars in knowing where documents had been
+                    excluded because they had not been declassified.</p>
+                <p>Mr. Cohen stated that he had concluded that the feasibility question was
+                    substantially an economic one. He asked whether a feasibility study had been
+                    made on the technical and economic aspects of the microfiche supplement. Was it
+                    economically possible, for example, for the Department to sell a single
+                    microfiche card at a time for 25 cents? Mr. Slany responded that it was not
+                    worthwhile for commercial publishers to sell single microfiche cards, and that
+                    they preferred to sell sets. Mr. Trask added that a microfiche card cost far
+                    less than a printed page. Mr. Cohen conceded that production costs would
+                    probably be less but asked whether distribution costs would not be excessive.
+                    More specially, he questioned whether the office could economically sell
+                    microfiche cards in small amounts. Mr. Aandahl commented that the Government
+                    Printing Office could sell cards for 25 cents. Mr. Trask, however, stated that
+                    the Office of the Historian could prepare microfiche masters with its own
+                    personnel more cheaply than the Government Printing Office. [Mr. Trask did not
+                    mean to imply that HO would <hi rend="underline">market</hi> microfiche. HO
+                    would make masters available to the publisher. The publisher would manage
+                    distribution and sales. Obviously the smaller an order the higher the unit cost
+                    to the purchaser as a general rule.] With regard to the merits of the various
+                    kinds of microforms, he believed microfiche to be the most efficient. Mr. Cohen
+                    agreed but suggested that it was unwarranted to assume that <hi rend="italic"
+                        >Foreign Relations</hi> users would buy microfiche cards even if the
+                    Department could sell them. It would be impractical to assume that historians
+                    would have microfiche readers at home; they would use their libraries. The
+                    Department could not afford to sell a microfiche card for 25 cents, he believed;
+                    the cost to the Department, with handling, might be $5.00.</p>
+                <p>Mr. Trask replied that many historians who used microform documents owned
+                    microfilm readers. Such readers cost $100 ten years ago. The more a scholar was
+                    involved in multiarchival and multilingual research, the more likely he was to
+                    buy his own reader and his own film. The microfiche supplement was aimed at a
+                    small group and there was a much broader interest in the printed volumes.
+                    However, the supplement provided the research scholar with his own files. Mr.
+                    Trask emphasized that the microfiche supplement would be used not only by
+                    Americans but also by researchers throughout the world. Scholars, who perhaps
+                    could not visit the Archives, would have access to the microfiche supplement. It
+                    was a small group, but an important one. Researchers, particularly in the Third
+                    World, would find the microfiche edition a treasure.</p>
+                <p>Mr. Stevenson stated that while he considered the microfiche supplement to be an
+                    excellent idea, he was concerned that it might supplant the printed volumes. Mr.
+                    Trask responded that there was no thought of this. Mr. Stevenson then stated his
+                    interest in more recent documents and asked whether the <hi rend="italic"
+                        >Current Documents</hi> series could be revived. He stated that these
+                    volumes, combined with a microfiche supplement containing documents currently
+                    available, would be immensely useful to political scientists, the legal
+                    profession, and many other interested groups. He felt that the revised
+                    Department of State <hi rend="italic">Bulletin</hi> was not adequate. In
+                    financial terms, <hi rend="italic">Current Documents</hi> with a microfiche
+                    supplement might save money in the long run by expediting the general
+                    declassification process. He expressed the opinion that a revived <hi
+                        rend="italic">Current Documents</hi> would put pressure on desk officers to
+                    declassify materials scheduled to appear in the current volume and would
+                    increase the accessioning of documents to the Archives, particularly the
+                    materials automatically declassified in six years. He did not think reactivating
+                        <hi rend="italic">Current Documents</hi> would be that costly.</p>
+                <p>Mr. Blair replied that ideally he and the HO Staff would like to see the revival
+                    of the series and that perhaps the issue should be looked at again. He pointed
+                    out that the <hi rend="italic">Bulletin</hi> had expanded its scope in order to
+                    help fill the gap left by <hi rend="italic">Current Documents</hi>. Mr. Blair
+                    noted that budgetary limitations were the main impediment to reactivating <hi
+                        rend="italic">Current Documents</hi>, and that he himself had turned down
+                    proposals for its revival because he could not find another operation from which
+                    to take the resources. He added that <hi rend="italic">Foreign Relations</hi>
+                    served as the spearhead in the declassification process. Mr. Blair concluded
+                    that the issue was a question of priorities, and asked the Committee whether it
+                    would be willing to see resources taken from <hi rend="italic">Foreign
+                        Relations</hi> to revive <hi rend="italic">Current Documents</hi>. Mr.
+                    Stevenson then inquired whether the persons who selected documents for the <hi
+                        rend="italic">Bulletin</hi> could assemble a microform supplement. Mr. Blair
+                    replied that perhaps the <hi rend="italic">Bulletin</hi> staff could make a
+                    better selection of documents, if this would help.</p>
+                <p>Mr. Gardner returned to the question of the preparation and distribution of the
+                    proposed microfiche supplement. He asked whether the Office of the Historian
+                    would handle small orders for fiche and whether the Government Printing Office
+                    would be willing to take orders for a single microfiche card. He also questioned
+                    whether HO could afford the resources that would be needed to review and update
+                    a supplement. He pointed out that staff members would have to proofread 240,000
+                    microfiche frames for legibility and completeness, and then periodically revise
+                    them, inserting subsequently declassified documents. How, he asked, could the
+                    staff meet its current responsibilities to the printed <hi rend="italic">Foreign
+                        Relations</hi> volumes, do additional research such as that for
+                    Russian-American project, and still have time to do justice to microfiche? Mr.
+                    Gardner suggested that the feasibility study of microform include a study of
+                    HO’s ability to do all these things, and Mr. Blair agreed. Mr. Slany stated that
+                    equipment was available that would facilitate the replacement of microfiche
+                    frames. He added that with respect to the review and proofreading of documents
+                    to be published in microfiche, the Office would exploit the Group Chiefs, who
+                    could review the microfiche supplement in addition to their regular review of
+                    manuscript for the printed volumes. The actual collection and selection of
+                    documents for a microfiche supplement could be efficiently accomplished through
+                    the organization of the staff to avoid duplication of effort. With regard to the
+                    question of microfiche production and sales, Mr. Slany explained that there were
+                    no good answers yet. GPO and commercial producers could give no precise
+                    estimates until they knew exactly what the requirements of the Office were.
+                    Therefore, a pilot project for the 1955-1957 period needed to be completed
+                    before exact costs could be ascertained. Other pilot projects, such as a
+                    possible joint Department of State-National Security Council undertaking, could
+                    also provide the needed information and could concentrate on documents that were
+                    easily reproduced and that did not require a great deal of editing. Mr. Trask
+                    stressed the advantage of being able to introduce into a set an entire new
+                    microfiche card when previously-deleted documents were declassified, whereas
+                    pages could not be added once a printed volume had been published. He reiterated
+                    that regardless of the final cost of producing microfiche, it would be much
+                    lower than that for printed pages. Mr. Cohen again voiced his skepticism that
+                    the Office would be able to afford to sell individual microfiche cards. He
+                    stated that as the editor of a professional journal, he had found that the sale
+                    of individual reprints resulted in a net loss for the publication because of
+                    high bookkeeping and processing costs. He believed the issue needed to be
+                    carefully studied. Mr. Trask replied that reprint costs would not be critical
+                    because the Federal Government would subsidize microfiche production and
+                    distribution much as it subsidized publication of the printed volumes.</p>
+                <p>Mr. Jacobson said that although he favored the microfiche supplement, the
+                    Advisory Committee would like a fairly exact estimate both of its cost and of
+                    what the same amount of money would achieve if used to augment the printed
+                    volumes. The Committee needed this information to be effective in defending the
+                    supplement to the scholarly community. Committee members would need to show that
+                    a given amount of money allocated to the <hi rend="italic">Foreign
+                        Relations</hi> series could reproduce, for example, either 1.1 percent of
+                    available documents in the printed volumes or a combination of 1 percent on
+                    printed pages and an additional 9 percent on microfiche. Mr. Trask replied that
+                    Government Printing Office had estimated the cost of reproducing 240,000
+                    document pages on master fiche cards to be $84,000, which included the subsidy
+                    element. He added that this figure, which included distribution, was a maximum
+                    one. He expressed the hope that majority of supplementary materials would be
+                    documents from other agencies but presumed that at first a heavy percentage
+                    would originate in the State Department. The total number of documents to be
+                    reproduced in both printed and microfiche form would be less than 1 percent of
+                    the unpublished material, not 5 to 10 percent. He pointed out, however, that the
+                    microfiche supplement would increase the number of published documents tenfold.
+                    The estimated cost per frame of microfiche was 35 cents, compared with $60 per
+                    printed page under the present system, or $25 per page under the word processing
+                    system.</p>
+                <p>Mr. Gardner questioned whether the value of the microfiche supplement to
+                    researchers could really justify the staff time and expense required for its
+                    preparation. He was not certain how many researchers in the Third World had
+                    access to reader/printers, Even in the United States, he pointed out,
+                    reader/printers in libraries seemed to be broken half the time. In doing
+                    research, a scholar might need to have as many as three or four <hi
+                        rend="italic">Foreign Relations</hi> volumes open at one time to compare
+                    different documents. One could not use three or four microfiche readers
+                    simultaneously. It was difficult to locate documents on fiche cards and even
+                    more difficult to compare documents unless one had the money to make copies. In
+                    addition, one needed a darkened room. The process was not simple even for
+                    Americans accustomed to these problems. The notion that a major tool was being
+                    provided to the Third World must be checked out. Mr. Gardner asked why the
+                    Office could not concentrate on putting out higher-quality printed volumes on
+                    the basis of the new savings under word processing in printing costs, which were
+                    down from $900,000 to $300,000 per year. Microform could be left to the National
+                    Archives, whose microfilm publications were superbly done. While he recognized
+                    the needs the Office was attempting to fill by means of a supplement, he
+                    believed that the drain on staff resources presented a real problem. The time
+                    required to train contract historians who would serve only a limited time in the
+                    Office compounded the problem. Mr. Gardner concluded that he would much prefer
+                    to see the HO staff concentrate on maintaining the high standards of the printed
+                    volumes than try to do too many things at once.</p>
+                <p>Mr. Blair replied that if the consensus of the Committee was that microfiche was
+                    not an effective research tool, the Department would have to look at it again
+                    and perhaps postpone it. In the meantime, the <hi rend="italic">Foreign
+                        Relations</hi> series would go downhill. With all due respect, the
+                    Department could not leave the problems to the National Archives. What the
+                    Department produced was what the scholarly community would get. The Department
+                    should provide expanded coverage, but it was not locked into any of the figures
+                    cited. Mr. Blair stated that what attracted him as a layman, assuming that
+                    microfiche was a little more acceptable than Mr. Gardner had described it, was
+                    the possibility of experimenting to see if the idea of a supplement was worth
+                    pursuing. Mr. Blair was impressed by the fact that 5 to 10 times as many
+                    documents could be made available. The figures might be wrong, but that was
+                    secondary. The main point was whether or not the experiment was worth
+                    making.</p>
+                <p>Mr. Gardner stated that as he read the figures, the Department could increase the
+                    size of the printed volumes and still experiment with microform, because of the
+                    savings made under the new word processing system. Mr. Blair agreed that this
+                    should be possible. Mr. Trask also agreed, but reemphasized the importance of
+                    pursuing the microfiche supplement. His generation had pioneered in using fiche
+                    and had made a great contribution to the study of international relations. <hi
+                        rend="italic">Foreign Relations</hi> for the year 1898 had only a couple of
+                    cocktail conversations on the Spanish-American War.</p>
+                <p>Mr. Trask said that in the past microfilm and microfilm readers had often been
+                    miserable to work with. He also noted that microfiche legibility could present
+                    some difficulty in the future supplement. But he emphasized that there would be
+                    no alternative to the microfiche supplement should it not be produced. Mr, Trask
+                    again stressed the importance of the supplement to the Third World, and recalled
+                    from his own experience an Indian researcher at the British Public Record Office
+                    who ordered documents microfilmed for use at home. He pointed out that making
+                    microfiche copies of documents readily available to researchers all over the
+                    world would introduce a whole new concept of scholarship.</p>
+                <p>Mr. Kane stated that the Office must be conscious of the tradeoffs a microfiche
+                    program would bring in the allocation of staff time. If the four HO Group Chiefs
+                    were indeed to be made responsible for reviewing documents intended for
+                    microfiche reproduction, he doubted whether they would have much time to remain
+                    active compilers for the printed volumes. Mr. Aandahl replied that perhaps
+                    arrangements could be made to have the documents intended for microfiche
+                    reviewed outside the Office. Mr. Trask stated that he believed Mr. Kane’s
+                    concern to be sound, and added that HO would have to rethink who did what under
+                    the new format. The selection and review of documents for the microfiche
+                    supplement was a complex process. Another element of the feasibility study was
+                    to reprogram the tasks of people in the Office. The next stage would be a pilot
+                    project.</p>
+                <p>At this point Mr. Cohen noted that since the Committee had addressed most of its
+                    attention to the first portion of the afternoon agenda, he hoped that there
+                    would be enough time to cover the other items. Mr. Trask consequently asked Mr.
+                    Aandahl to introduce the next scheduled topic.</p>
+                <p rend="center"><hi rend="underline"><hi rend="italic">FRUS</hi> Schedule (Briefing
+                        Paper No. 7)</hi></p>
+                <p>Mr. Aandahl discussed the production schedule, emphasizing recent delays in the
+                    declassification of manuscripts. He added that the Office would not be able to
+                    maintain its schedule for attaining the 20-year line unless favorable
+                    declassification action proceeded more rapidly, and unless adequate resources
+                    were continually available. Mr. Aandahl then invited comments from the
+                    Committee, and none were forthcoming. Mr. Trask stated that the Office was
+                    within shouting distance of finishing the portion of the series covering the
+                    1955-1957 triennium.</p>
+                <p rend="center"><hi rend="underline">McGovern Amendment (Briefing Paper No.
+                    8)</hi></p>
+                <p>Mr. Trask then turned to the McGovern Amendment, expressing pleasure that
+                    Congress had taken note of the <hi rend="italic">Foreign Relations</hi> series.
+                    He added that the Amendment, which had been introduced without the knowledge of
+                    the Office of the Historian, had led Congress to misunderstand the Office’s
+                    intentions. He noted that the provision for joint State-Congressional
+                    consultation in the final legislation was a positive development which could
+                    have relieved the initial misunderstanding had it been allowed to occur earlier.
+                    Mr. Gardner said that the Briefing Paper had overstated the Amendment by saying
+                    that it precluded the use of microform. He noted that the purpose of the
+                    original Senate version of the Amendment, not included in the briefing material,
+                    had been to establish a floor on printed pages in the <hi rend="italic">Foreign
+                        Relations</hi> volumes. Mr. Trask, referring to page 2 of Briefing Paper No.
+                    8, noted that the conference committee report described the original Senate
+                    Amendment as seeking to prevent the replacement of printed pages with
+                    microfiche. Mr. Gardner quoted testimony of Ben H. Read, Under Secretary of
+                    State for Management, before the Senate Foreign Relations Committee, concerning
+                    page cuts in the <hi rend="italic">Foreign Relations</hi> series. Secretary Read
+                    stated that he had received no budgetary request for the series that had been
+                    turned down. He continued that if there had been a change in policy, he would
+                    have heard. Mr. Read also promised to let the Foreign Relations Committee know
+                    if there was a change in policy.</p>
+                <p>Mr. Cohen asked whether the formal consultation was to be conducted through the
+                    Secretary of State or Mr. Trask. Mr. Trask said he had asked the same question.
+                    He wanted to begin the process immediately, and did not think the word “formal”
+                    had any significant meaning. Mr. Cole felt that it was not a throwaway word. He
+                    believed the Amendment was designed to establish a minimum number of pages for
+                    the printed volumes. He further interpreted the Amendment as a warning to the
+                    Department not to reduce the number of printed pages too much in behalf of the
+                    microfiche supplement, and that if the Department envisioned such a development,
+                    Congress would want to discuss it first. Mr. Trask reemphasized the importance
+                    of consultation with Congress, and restated his belief that the misunderstanding
+                    inherent in the McGovern Amendment would not have arisen if consultation had
+                    been instituted earlier. He added that Congress now knew what the Office was
+                    doing and vice versa. He pointed out that 1955-1957 volumes would satisfy the
+                    page requirements of the original version of the Amendment which stipulated that
+                    no three-year triennium of <hi rend="italic">Foreign Relations</hi> should have
+                    less than two-thirds the number of pages contained in the volumes for 1947-1949.
+                    He emphasized that the Office was not locked into a specific number of pages for
+                    the 1955-57 period. It was possible to authorize an increase in the number of
+                    pages for the 1955-57 triennium from 15,000 to 20,000 if it proved necessary.
+                    Mrs. Unterberger expressed surprise that the page limits for the 1955-1957
+                    triennium were so flexible. It was her understanding from last year’s Advisory
+                    Committee meeting that the level of 15,000 pages would be an absolute maximum.
+                    This was also the understanding of a large number of individuals in the academic
+                    community. Mr. Trask apologized for this misapprehension; he hoped to avoid such
+                    misapprehensions in the future.</p>
+                <p rend="center"><hi rend="underline">Outreach (Briefing Paper No. 9)</hi></p>
+                <p>Mr. Trask turned to the Outreach activities of the Office. He stated that through
+                    participation in various activities of the scholarly community, the HO staff had
+                    developed a better perception of user interest in <hi rend="italic">Foreign
+                        Relations</hi>. He indicated that one area the Office needed to explore
+                    further was the role it could play at the community college level. He pointed
+                    out that the outreach program was important for the staff because it tended to
+                    relieve the sense of professional isolation and rejection sometimes experienced
+                    by official historians. He added that the Office program had staff support, and
+                    he felt that the results achieved thus far suggested that the program should be
+                    continued. Mr. Trask then asked for comments, and, eliciting none, went on to
+                    the next topic.</p>
+                <p rend="center"><hi rend="underline">Strengthening of the Advisory Committee
+                        (Briefing Paper No. 10)</hi></p>
+                <p>Mr. Trask invited comments or suggestions on the composition and functions of the
+                    Advisory Committee. He pointed out that changes in the Committee’s charter, if
+                    any, must be instituted by December 1978. Mr. Stevenson questioned whether the
+                    current term of four years was too long, and suggested a more frequent rotation
+                    of members if no increase in the size of the Committee were possible. Mr. Trask
+                    replied that fiscal constraints limited the size of the Committee. Mr. Aandahl
+                    stated that the length of terms of individual members should not be reduced too
+                    drastically, because a member’s first year was mainly devoted to
+                    familiarization. Mr. Cohen suggested that a three-year term appeared to be the
+                    most reasonable compromise.</p>
+                <p>Introducing a new subject, Mr. Gardner asked whether the Office had made plans to
+                    publish a retrospective volume covering the years 1945 to 1950 and primarily
+                    containing Truman Library materials not available when the volumes for these
+                    years were compiled. If nothing had been done, he formally requested a
+                    feasibility study on the issue. Mr. Glennon replied that a retrospective volume
+                    on intelligence for the years 1947-1951 was under discussion. Mr. Petersen
+                    mentioned that a manuscript on intelligence had been prepared covering the years
+                    1947 to 1954. It was currently a basis for discussion and review with INR and
+                    CIA, but the current clearance outlook was grim, and the Office was not sure how
+                    to proceed. Mr. Trask said that as resources became available the Office would
+                    consider doing topical but not strictly chronological volumes. Mr. Gardner
+                    stated that he favored a chronological approach in cases where a major source of
+                    documentation such as the Truman Library had previously been closed to <hi
+                        rend="italic">Foreign Relations</hi> compilers. He felt that HO would gain
+                    tremendous credit from a retrospective volume. Mr. Trask replied that the more
+                    such volumes the Office could do, the more pleased it would be. The main problem
+                    was one of resources, which the Office would have to subtract from somewhere.
+                    One argument against compiling retrospective chronological volumes was that most
+                    of the newly-available material would have been absorbed in the work of
+                    independent scholars, and was in any event available to the public at the
+                    Presidential libraries.</p>
+                <p>Mr. Aandahl suggested that a microfiche supplement covering earlier material was
+                    worth considering. With respect to retrospective volumes, Mr. Trask noted that
+                    Professor John Gaddis was currently filling in gaps left by earlier <hi
+                        rend="italic">Foreign Relations</hi> volumes. However, he felt that HO’s
+                    capabilities exceeded those of private scholars in doing justice to this kind of
+                    task, and he would like the Office to do such volumes if the time and money
+                    could be spared. Mrs. Harris then described her work on intelligence materials
+                    for years 1955-1961.</p>
+                <p>Mr. Trask concluded by paying tribute to the competence of the staff and by
+                    introducing the contract historians (Mrs. Harris, Mr. Patterson, Ms. Wells, Ms.
+                    Pitts and Mr. McMahon) to the Committee.</p>
+                <p>Mr. Trask adjourned the meeting at 4:05 p.m. Members of the Committee then met
+                    informally to discuss their report.</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

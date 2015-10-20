@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="complete">Clarence Berdahl Report on Consultantship in the Historical
+               Office, August 1961</title>
+            <title type="short">Berdahl Consultantship Report, 1961</title>
+         </titleStmt>
+         <publicationStmt>
+            <date type="posted" when="2013-12-09">December 9, 2013</date>
+             <date type="created" when="1961-08-31">August 31, 1961</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>A scan of the original document is available for download (<ref
+                  target="1961-08-31-berdahl-consultantship-report.pdf">PDF</ref>, 721 KB, 8pp.)</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of the
+               Historian, Advisory Committee on Historical Diplomatic Documentation Files, 1957-1990
+               (Lot File 96 D 292), Box 1, 1961-Report.</hi></p>
+         <p>Cited in <hi rend="italic">Toward “Thorough,
+                  Accurate, and Reliable”: A History of the Foreign Relations of the United States
+                  Series</hi>, Chapter 8, <ref target="../chapter-8#fn8">Footnote 8</ref></p>
+         <div type="document">
+            <head>Report on Consultantship</head>
+            <dateline>June 20-August 31, 1961</dateline>
+            <p>Mr. Noble:</p>
+            <p>I submit the following report on my consultantship in the Historical Office during
+               this summer (June 20-August 31, 1961):</p>
+            <p>1. <hi rend="underline">Purpose</hi>. According to the terms of my appointment, I was to
+               examine the procedures followed and advise the Director “with regard to the adequacy
+               of coverage of the sources used and the methods of research followed by the Office,”
+               and to make “such proposals in connection therewith as may seem justified.”</p>
+            <p>2. <hi rend="underline">Method of Work</hi>. In order to become fully acquainted with
+               the problems and procedures in respect to the compilation, editing, and publication
+               of the volumes on <hi rend="italic">Foreign Relations of the United States</hi>, I
+               was first given a thorough introduction to the various records, files of documents,
+               indexes and other finding devices, and library collection and facilities within the
+               State Department and available to the Historical Office staff.</p>
+            <p>Secondly, I conferred with every member of the Foreign Relations staff, and with some
+               others, about the problems and procedures involved in the compilation of these
+               volumes. Although there were some differences of opinion with respect to the
+               practical application of these matters to the immediate tasks, there was virtual
+               agreement on the nature of the problems involved, and I secured from these experts in
+               historical research a far better understanding of the problems and difficulties with
+               which they are confronted.</p>
+            <p>Thirdly, I reviewed some of the published Foreign Relations volumes, including
+               Conference volumes; some page-proof (especially 1942. II. Europe), some galleys
+               (especially 1943. II. Europe); some compilations in various stages of preparation for
+               production (1945, Dumbarton Oaks; 1945, Austria; 1945 Near and Middle East); and the
+               plan or tentative contents for volumes in the course of compilation (1945). All this
+               was for the purpose of noticing the scope, the source (whether from the Central Files
+               or other sources); possible gaps, variety and relative importance of subject or
+               stories, extent of non-political or non-State Department material (e.g. economic and
+               military questions; Presidential, War or Defense, Intelligence, etc., documents).</p>
+            <p>Fourthly, I examined carefully a considerable number and variety of documentary
+               collections--the Algiers Post Files (the so-called Murphy Files) for 1943 (12 boxes);
+               the European Affairs Office or Lot Files for 1943 (6 boxes); some of the Dumbarton
+               oaks and other pre-United Nations papers in the International Organization Lot Files
+               (10 out of the 104 boxes of this material); papers relating to the Allied Control
+               Council for Austria (9 folders); some of the European Affairs Lot Files relating to
+               the Occupation of Germany (2 boxes, 80 folders, principally for 1945 and 1947, but
+               with occasional papers for earlier years). I tried also, without actually reading
+               many papers to become reasonably well acquainted with the Central Files, the Index
+               Cards, and various aids and finding devices for facilitating the use of these
+               files.</p>
+            <p>Finally, I read a number of memoranda on various matters, including clearance
+               problems; attended staff meetings; and discussed numerous questions with individual
+               staff members, some brought to my attention by them and some raised by me out of my
+               examination of these papers and compilations. As a result of these weeks of study and
+               observation, the following comments are made on what seem to me to be the major
+               problems in respect to the Foreign Relations series:</p>
+            <p>3. <hi rend="underline">Quantity of Documentation</hi>. There is nothing quite so clear
+               as the vast and growing amount of documentation that must be examined by those who
+               compile the Foreign Relations volumes. A measurement of the Index Cards to the
+               Central Files alone, and exclusively by countries, shows, for the years 1940-1944,
+               3190-1/4 inches of these cards for Latin America, 1467-1/4 inches of cards for
+               Western Europe, 1351-1/4 for the British Commonwealth, Eastern Europe, and the Far
+               East, 473-1/2 for the Near East and Africa, or a total of 6482-1/4 inches of these
+               index cards covering a period of five years. Another measurement, based on the number
+               of cards per inch, shows with reference only to the correspondence to and from
+               London, 4,680 cards for 1934, 35,955 cards for 1944, 20,280 cards for 1949. Well over
+               400,000 documents were added to the Department's subject files in each year from 1955
+               to 1960. A single compiler in one year examined 3,603 index cards and 7,463 papers
+               relating to three countries (Bulgaria, Japan, USSR). These statistics, incomplete and
+               limited as they are, give some indication of the enormous task now involved in the
+               compilation of these volumes. Nor is there any reason to doubt that the amount of
+               documentation will continue to increase. There may be some decrease for certain
+               areas, such as Latin America, with the return of more normal relationships, but this
+               will certainly be offset by the continuing development of multilateral agencies and
+               regional and global relationships.</p>
+            <p>4. <hi rend="underline">Complexity of Documentation</hi>. Much more of a problem than
+               the mere quantity is the increasing complexity of the documentation. The war and
+               post-war events have brought about a situation in which the State Department, once
+               exclusively responsible for foreign policy, is now only one of the agencies involved,
+               others being particularly the Department of Defense, the Central Intelligence Agency,
+               the U.S. Information Agency, the Treasury Department, and others. The State
+               Department itself has been required to engage in activities of a much broader scope
+               than before, its own documentation thus becoming more complex (involving economic and
+               military, as well as political considerations), while the documentation of these
+               agencies is also closely related to the actual foreign policy as determined and
+               carried on.</p>
+            <p>The emphasis on multilateral (regional and global) relationships has produced a mass
+               of documentation quite different from and much more difficult to classify and arrange
+               than that based largely on the simpler bilateral relationships. This change has also,
+               of course, vastly increased the quantity as well. Thus, the documentation relating to
+               the pre-United Nations period (Atlantic Charter, Dumbarton Oaks Conversations, the
+               State Department preparatory work, etc.) is contained in 104 boxes and an Inventory
+               of these records, prepared by Dorothy B. Thomas, of the Reference and Documents
+               Section of the Bureau of International Organization, makes up a booklet of 35 pages;
+               the Department's documentation of the United Nations itself for the years 1946-1949
+               occupies 49 files drawers and deals with 112 different subjects; and another
+               Inventory of the records of the various wartime conferences of Heads of State,
+               Council of Foreign Ministers, and similar meetings, prepared by Alycedale Collins and
+               Hilda Nash, of the Records Service Center, comprises a booklet of 132 pages listing
+               the contents of 243 boxes.</p>
+            <p>The documents relating to the Austrian Control Council, contained in nine larger
+               folders, reveal the intermingling of political, military, and economic questions; in
+               the Central Files there are at least 45 drawers of documents dealing entirely or
+               largely with economic problems in Occupied Germany; in the Bonn Post Files there are
+               182 boxes of documents relating exclusively to the control of I.G. Farben, involving
+               economic, financial, accounting, and legal questions; while in the European Affairs
+               Lot Files there are in only two boxes 80 folders containing documents relating to
+               German Occupation problems, principally in 1945, that include Council of Foreign
+               Ministers' directives, restitution of property, reparations, economic unity of
+               Germany, Rhineland-Ruhr, the Saar Valley, railways, the Polish boundary, and many
+               others, including, significantly, a memorandum on “State-War Relations in respect to
+               the Control of Germany.” The intermingling of political, territorial, economic, and
+               military considerations in our post-war foreign policy is thus clearly revealed, with
+               the consequent complexity of documentation which the compilers and editors have to
+               put into proper perspective to produce a coherent account.</p>
+            <p>5. <hi rend="underline">Use of Post and Lot (Office) Files</hi>. There is some
+               difference of opinion as to the use that should be made of these papers, which are
+               not in the Central Files. They are available at irregular intervals, the Post Files
+               not being available at all, I believe, until 1955; they are often very poorly
+               classified and arranged; they are not indexed and therefore take considerable time.
+               Sometimes their examination yields very little in addition to what is found in the
+               indexed Central Files.</p>
+            <p>I am, however, convinced from my own sampling of these files that they may be and
+               often are the source of very important documentation that has somehow not been
+               included in the Central Files, and it is my opinion that they ought to be used rather
+               assiduously. For example, the Algiers Post Files for 1943, often referred to as the
+               Murphy Files, contain in 12 boxes a number of documents that filled in the record
+               found in the Central Files and illuminated the account of the Giraud-de Gaulle
+               problem. The Bonn Post Files have 182 boxes of documents on the I.G. Farben problem
+               alone; and the European Affairs Lot Files contain 80 large folders of documents
+               relating to the economic aspects of German occupation. These are samples only, and
+               for some other matters similar files would not doubt be less important. To some
+               extent the individual compiler, who knows his subject, may sense whether or how
+               thorough a search need be made of these records, but they should by all means be
+               taken seriously into account.</p>
+            <p>6. <hi rend="underline">Scope and Selectivity</hi>. The vast increase in the amount of
+               documentation has required considerable emphasis on the need for selectivity. It is
+               obviously impossible any longer to publish all the documents if the volumes are to be
+               kept within reasonable compass and produced within a reasonable period. The emphasis
+               on a greater degree of selectivity is therefore quite necessary and proper. However,
+               the directive under which the Historical office operates should also be emphasized,
+               namely, that these Foreign Relations volumes should include “all documents needed to
+               give a comprehensive record of the major foreign policy decision within the range of
+               the Department of State's responsibilities, together with appropriate materials
+               concerning the facts which contributed to the formulations of policies;” and that
+               this record should also, if possible, “show the alternatives presented to the
+               Department before the decision was made.” It seems to me quite clear that the first
+               and principal consideration in compiling and editing these volumes must be to produce
+               a complete and accurate record. The size and number of volumes and the speed of
+               production are important but secondary considerations.</p>
+            <p>This means, in the first place, that all State Department documents relating to major
+               foreign policy questions, including the Post and Lot Files, must be taken into
+               account. In this connection, every compiler has to contend with the problem of
+               occasional missing documents, which may have been misplaced in the files, drawn out
+               and indefinitely retained by some officer, and even completely lost through lack of
+               adequate records. It would seem highly desirable that improved methods be used for
+               recording, copying, and maintaining the Central Files so as to avoid this problem and
+               save the time involved in searching for missing documents.</p>
+            <p>Secondly, the principle of a thorough and accurate record means now, in my opinion,
+               that use must also be made of documents produced and controlled by Government
+               agencies other than the State Department, especially of Presidential, Defense, and
+               Intelligence papers. The use of such outside papers was contemplated in the directive
+               noted above; it is essential in respect to the Conference volumes, occupation and
+               other post-War policies; but it seems to me desirable in respect to most major
+               matters in view of their broad and complex nature. It may be regrettable that the
+               State Department is no longer the exclusively agency in determining our foreign
+               policy, but that is the situation which must be reflected to the extent necessary in
+               the Foreign Relations volumes.</p>
+            <p>All of this means greater difficulty in compiling these volumes, for the vast amount
+               of documentation requires also emphatic application of the principle of
+               selectivity--that is, selecting the essential documents for textual publication,
+               summarizing or annotating those of lesser importance, and eliminating those not
+               essential to a meaningful and accurate record. It should be pointed out, however,
+               that the staff has for some time clearly recognized the need of such selectivity,
+               first in deciding what are “major foreign policy decisions” deserving of
+               documentation at all, and, secondly, in the actual selection of documents for final
+               publication; and this deliberate selection has been emphasized and increased in
+               response to the suggestions of the Advisory Committee. For example, the documentation
+               of Refugees (1945) was reduced by 40 per cent as the original selection went through
+               microfilming into working documents and final review; in another case involving three
+               countries, more than 7,000 documents originally examined were reduced to about 1,300
+               for working purposes, and less than one half of these, or about 7 per cent of the
+               original selection, were actually compiled; in still another case, relating to the
+               Far East (1943), only about 5 per cent of the papers in the Central Files were taken
+               out for working purposes and less than 2 per cent were used in the compilation.</p>
+            <p>While these figures suggest careful and even drastic selection in some cases, they
+               reveal nothing about the principles involved. Everyone agrees that some subjects are
+               less important than other subjects, but it is difficult to list those subjects
+               without qualification as to time and circumstance; there are times when certain
+               countries are so unimportant that no documentation is necessary at all, but it is
+               quite impossible to list these countries for all time. It would be my conclusion,
+               after reviewing a number of papers and compilations, that such matters as individual
+               claims, passport and visa problems, rights of business firms, disposition of
+               archives, air transport privileges, tele-communication stations--in general, matters
+               concerning private individuals and companies--might generally be omitted, or be
+               treated with an editorial note; but there are circumstances that make some of these
+               of considerable public importance and deserving of documentation. There is no way of
+               avoiding the best judgment of the individual compiler in respect to selection.</p>
+            <p>Another feature of this selective process is that no time is saved by selection
+               (except as certain few subjects might be eliminated in advance), for in order to
+               decide what documents to eliminate or to reduce to an editorial note or to annotate,
+               the compiler must look at all the documents. Greater selectivity should reduce the
+               number and size of the volumes, but can hardly reduce the time of the staff to a
+               perceptible extent.</p>
+            <p>7. <hi rend="underline">Conference Volumes</hi>. The compilation of separate Conference
+               volumes has produced some problems, particularly because some were compiled and
+               published ahead of the regular volumes for the years covered. That required
+               background material in the Conference volumes, some of which might more properly have
+               been included within the regular volumes, and raises the question whether to reprint
+               documents in the regular volumes in order to get a connected account or to permit a
+               hop-skip-and-jump account in the regular volumes and refer to the documents already
+               printed in the Conference volumes. Problems such as these might have been avoided if
+               both Conference and regular volumes had been compiled at the same time, but this was
+               impossible under the circumstances. It is my view that the production of separate
+               Conference volumes is in itself desirable in view of the special and multilateral
+               nature of those proceedings, and I should like to encourage their continued
+               production in that form; but I would hope that so far as possible, they be compiled
+               at the same time as the regular volumes in order to coordinate the materials somewhat
+               better.</p>
+            <p>8. <hi rend="underline">Publication Progress: Time Lag</hi>. My own view with respect to
+               the time lag in publication of Foreign Relations have changed somewhat as I have
+               observed the problems involved. The fact that the volumes are now approximately
+               twenty years behind currency is deplorable from every point of view, and I would urge
+               that every effort be made to narrow that gap or at least to prevent it from becoming
+               wider. The situation must be faced realistically, however, and I do not find any
+               reason to suppose that this time-lag can even be maintained in the immediate future.
+               It does seem to me much more important to emphasize the need for a comprehensive and
+               accurate record, no matter what it may cost in respect to time of publication.
+               Although one should encourage at all a wider time-lag, and there must be a point at
+               which the line should be held, that point is probably not yet reached in any crisis
+               sense. In fact, compilation, which is approximately 16 years behind currency, is
+               still ahead of some important sources, such as the Truman papers. It seems to me more
+               important to use those known sources, even if this means further delay in
+               publication. Also, the problems of clearance should be eased somewhat as time goes
+               on.</p>
+            <p>9. <hi rend="underline">Clearance</hi>. The clearance problem continues to be one of the
+               most difficult, requiring time and forcing delay beyond what is reasonable. The
+               problem is difficult within the State Department, and becomes much more difficult as
+               Defense documents and even Intelligence documents are or should be used in order to
+               prepare an authentic record. My attention has been called to cases where clearance
+               has been refused even though the documents themselves had been declassified. The
+               increased time-lag should ease this problem somewhat, but the problem continues such
+               that serious effort ought to be made to get a White House ruling to govern all
+               agencies. It seems to me that with persons on the White House Staff who are familiar
+               with scholarly research and sympathetic to the production of an honest record, the
+               time may now be propitious for a thorough consideration of this problem. I would
+               earnestly suggest that the appropriate officials of the Bureau and the Department be
+               persuaded to approach Mr. Schlesinger on this matter.</p>
+            <p>10. <hi rend="underline">Planning</hi>. The Advisory Committee has suggested the
+               desirability of planning these Foreign Relations volumes for a period of years in
+               advance of compilation. This presumably implies considering the number of volumes,
+               the content of those volumes, relative emphasis on the various subjects, the
+               arrangement of the subject-matter; and might involve some changes, perhaps even
+               drastic changes, in form and content. I know that the staff has given a good deal of
+               attention to this matter, and I am not prepared to make specific suggestion at this
+               time. It does seem to me, however, that in view of the time-lag, it should be
+               possible to survey the general situation over a period of five years in the light of
+               present knowledge of events, make a preliminary study of the documentation involved,
+               and out of that come to some general conclusions with respect to what should be
+               produced and how best to deal with the problems. Of course no one assumes that such
+               planning can necessarily be carried out exactly as planned; there must be opportunity
+               for adaptation to circumstances.</p>
+            <p>11. <hi rend="underline">Staff</hi>. The staff problem is the crucial one, as I see it;
+               and by that I do not refer to its quality but to its number. I have the highest
+               admiration for the scholarship, devotion to duty, and integrity of every member of
+               the staff; it is a group which any University Department of History or Political
+               Science should be proud to claim. But this staff is confronted with an impossible
+               task, and must be substantially enlarged if these Foreign Relations volumes are to be
+               produced as they should be. The proposal of the Advisory Committee for additional
+               staff seems to me much too modest, and I would suggest at least six additional
+               members are essential in order to maintain the present time-lag of twenty years. I
+               see no other solution to the problem.</p>
+            <p>In view of the increased importance of economic question, it would no doubt be
+               desirable to have on the staff at least one person thoroughly trained in Economics or
+               Economic History. This does not seem to me absolutely essential, for most broadly
+               trained historians or political scientists should easily recognize the importance of
+               economic problems and evaluate the documents relating to those questions. I would
+               seem to me that persons with abroad training and experience in research, who could be
+               shifted easily from one area to another as the need arises, are highly desirable,
+               together with a number who may be area specialists. But I strongly urge that every
+               effort be made to secure substantial additions to the staff.</p>
+            <p>12. <hi rend="underline">Conclusions</hi>. There is little that need be added to the
+               comments already made. I may, however, emphasize these points:</p>
+            <p>(a) There should be no effort to interfere with the individual approach which each
+               compiler must make to his own subject. It might, however, be desirable to have
+               somewhat more direction, consultation, and coordination with respect to the entire
+               task. This should serve to ensure the appropriate emphasis on the various
+               subjects.</p>
+            <p>(b) The general examination and use of papers outside the Central Files--Post and Lot
+               Files within the State Department, the White House papers, and the papers of other
+               agencies--should be encouraged, although the extent of use must, of course, vary
+               according to the subject. I would suggest also that editorial notes and annotations
+               referring to memoirs and first-hand accounts might well be used to fill in gaps in
+               the regular volumes, as they have been used particularly in the Conference
+               volumes.</p>
+            <p>(c) I should very much like to see the chronological List of Papers, discontinued in
+               1937, restored. This would make possible some further rearrangement of the
+               documents.</p>
+            <p>(d) Attention might well be given to the subject-matter arrangement. I personally
+               prefer this arrangement to the completely chronological, but the classifications
+               might well be broadened into fewer subjects.</p>
+            <p>(e) Finally, I would reemphasize that the crucial problems are those of clearance and
+               staff, and even an enlarged staff would be hampered if there is no solution to
+               clearance.</p>
+            <p>In conclusion, I must express my appreciation of the unfailing courtesy and genuine
+               cooperation I received from every member of the staff during this assignment.</p>
+            <p>Clarence A. Berdahl</p>
+         </div>
+      </body>
+   </text>
+</TEI>

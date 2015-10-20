@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="complete">Correspondence Between Richard Leopold and George Kennan,
+               February-March 1957</title>
+            <title type="short">Leopold-Kennan Correspondence, 1957</title>
+         </titleStmt>
+         <publicationStmt>
+            <date type="posted" when="2013-12-09">December 9, 2013</date>
+             <date type="created" when="1957-03-21">March 21, 1957</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>A scan of the original document is available for download (<ref
+                  target="1957-03-21-kennan-to-leopold.pdf">PDF</ref>, 570 KB, 5pp.)</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of the
+               Historian, Advisory Committee on Historical Diplomatic Documentation Files, 1957-1990
+               (Lot File 96 D 292), Box 1, Advisory Committee on the Foreign Relations Series
+               1961-1964.</hi></p>
+         <p>Cited in <hi rend="italic">Toward “Thorough,
+                  Accurate, and Reliable”: A History of the Foreign Relations of the United States
+                  Series</hi>, Chapter 7, <ref target="../chapter-7#fn81">Footnote 81</ref></p>
+         <div type="document" xml:id="leopold-to-kennan">
+            <head>Richard W. Leopold to George F. Kennan</head>
+            <dateline>3 February 1957</dateline>
+            <p>I would be grateful if you could steal some time from your busy schedule to think
+               about the future of the <hi rend="italic">Foreign Relations</hi> series, a problem I
+               mentioned to you briefly on Friday evening. With your background and knowledge you
+               can be most helpful, I am sure, to the historical guild on this matter; and I have
+               already taken the liberty of suggesting your name as a most appropriate member of two
+               committees which will have to consider this problem. One is a committee of the
+               American Historical Association known as the Committee on the Historian and the
+               Federal Government. That group is already in existence and I have been a member of
+               it. The other is an Advisory Committee of the Department of State, a body just now
+               being formed.</p>
+            <p>The problem, as I see it, is what principle of selection should govern the printing
+               of documents relations to American foreign policy as we reach the period of the
+               Second World War. Can that story be reconstructed from the files of the Department of
+               State alone? The answer must surely be in the negative. To a certain extent, such has
+               always been the case. Never could the official archives tell us everything. But
+               beginning in 1941 the problem becomes more acute because, presumably, more and more
+               key documents never came to rest in the Department's archives. These are to be found
+               either in the private papers of key figures or in the records of other departments,
+               notably the Army and Navy.</p>
+            <p>Until recently the editors of the <hi rend="italic">Foreign Relations</hi> series did
+               not feel obliged to reproduce anything that could not be found in the files of the Department
+               of State. This was the policy that underlay those extremely useful supplements on the
+               First World War and Russia, 1918-1919. Now some attempt is being made to gather
+               materials from Hyde Park and elsewhere. In one sense this new approach is
+               commendable, for it enriches the record. In another sense it is both futile and
+               dangerous: futile because there are obvious limits to the amount of material from
+               private collections that can be reprinted, and dangerous because it exposes the
+               editors to the charge of selectivity and intentional distortion or suppression. I
+               have expressed my fears on this point in my brief review of the Yalta volume which
+               appeared in the December issue of the <hi rend="italic">Mississippi Valley Historical
+                  Review</hi>.</p>
+            <p>There is still another facet of this problem. It involves the official papers in the
+               Department of Defense. The editors of the series have done little with these, and yet
+               they obviously shed much light on the formulation of foreign policy. Here the
+               Department of State has to deal with another and coordinate branch of the
+               executive.</p>
+            <p>My own feeling, for what it is worth, is that the time has come to take the
+               compilation of the <hi rend="italic">Foreign Relations</hi> series out of the hands
+               of the Department of State and make it the responsibility of some inter-departmental
+               agency. But how this can be done and where it should be located puzzles me. Such a
+               transfer may create more problems than it solves.</p>
+            <p>I would like very much to have your views on these questions, if not now, at some
+               future date when you have had the leisure to ponder them. I have had them very much
+               on my mind ever since 1951, when I first began to write brief notices of the volumes
+               for the <hi rend="italic">Mississippi Valley Historical Review</hi>.</p>
+         </div>
+         <div type="document" xml:id="woodward-to-kennan">
+            <head>L.E. Woodward to George F. Kennan</head>
+            <dateline>8 March 1957</dateline>
+            <p>Dear Kennan: Here are a few stray notes on Prof. L's most interesting letter.
+               LEW.</p>
+            <p>I can of course speak on this question only from the point of view of my English
+               experience. In the Documents on British Foreign Policy we limited ourselves to
+               printing <hi rend="underline">in the text</hi> documents contained in the Foreign Office
+               Archives (exceptionally we have printed <hi rend="underline">in the text</hi> a few
+               documents from other archives - mainly Cabinet Archives - but these exceptions are
+               only in cases where, for some reason or other, a document which ought to have been
+               registered in the F.O. archives was not there, and we were able to get a copy from
+               elsewhere). We have printed in the appendices, or given extracts in footnotes, from
+               documents in other archives. We have been very sparing about this - for the reason
+               which Professor Leopold mentions - Once you get away from the F.O. archives, there is
+               no end to the amount of material you might include, and you are - as Professor
+               Leopold says - risking the charges of selectivity, distortion, and suppression. (This
+               is, by the way, one reason why we did not follow Gooch and Temperley - our
+               predecessors in editing F.O. volumes of documents - in printing - as they did - a <hi
+                  rend="underline">selection</hi> of minutes. It is impracticable to print <hi
+                  rend="underline">all</hi> minutes and undesirable to <hi rend="underline">select</hi>
+               from them* [*Our rule has been to include minutes only when they state <hi
+                  rend="underline">facts</hi> not mentioned in the text of a document.]) We took the
+               view that it was better to limit ourselves to the F.O. archives - scholars who use
+               our material will then know that, although they are not getting all the story, they
+                  <hi rend="underline">are</hi> getting all that the F.O. archives can tell them in the
+               form of documents received and transmitted. In any case the bulk and number of such
+               documents is such that - if you aim at completeness within these limits - it is not
+               easy to print much more without making the collection unwieldy. The British
+               collection differs to some extent from the U.S. collection in that it does not aim at
+               covering the whole field of activities of British diplomacy. It singles out certain
+               major subjects and countries and tries to be complete on those subjects; other
+               subjects and countries are not given a place at all - viz. we have not, as far as I
+               remember, published a single despatch or telegram to or from central or South
+               America. We have thereby saved a good deal of space, and though we have been
+               criticized by people interested in Portugal or Siam, our method has been generally
+               approved.</p>
+            <p>I have myself found - in using For. Relations volumes - the inclusion of material
+               from outside the archives of the State Dept. a little disconcerting because I have
+               always felt that - in dealing with this “outside” material - the editors were unable
+               to apply the same standards of “completeness” which they would apply to the material
+               in the S.D. archives. You thus had a kind of “double standard” - but this is just
+               what you don't want in a collection of documents.</p>
+            <p>The question of material in the archives of the Service depts is an obvious
+               difficulty, though less difficult - on the British side - than one might expect. For
+               one thing all the reports from senior attachés go through the ordinary embassy or
+               legation channels, and are in the F.O. archives - but more important is the fact that
+               practically all the main issues, though not technical details, in which defense
+               consideration are of importance are discussed in the F.O despatches. I should guess
+               that to some extent this must also be the case in the S. Dept. documents - though
+               there may be some differences because important despatches to ambassadors explaining
+               British policy are nearly always approved - at least in general terms - by the
+               Cabinet, and therefore cover the whole field - including the views of the Service
+               Ministers on the defence aspects.</p>
+            <p>I would not feel competent to say much about the idea of putting the compilation of
+               the Foreign Relations series into the hands of an inter-departmental agency, but I
+               can see endless difficulties in this if it were applied in Great Britain. For one
+               thing no single dept would feel that the production of the volumes was its particular
+               responsibility. We have found it most useful to be able to get the Foreign Office to
+               weigh in when there has been a question of publishing documents which are in the F.O
+               archives but are also in the Treasury archives (e.g. correspondence about inter
+               allied debts). The Treasury has no interest in the publication of our volumes, and is
+               inclined to say “keep off”, whereas the F.O. can weigh-in - from the top - in the
+               interest of making its volumes complete and adequate. Unless U.S. depts are not as
+              “departmental” in outlook as British departments, I should be afraid that the
+               interdepartmental organisation would be regarded as nobody's child, and that it would
+               in fact lose out in any conflict with a particular dept. I should also be afraid that
+               the editorial supervision would get unwieldy. I may be biased about this but Rohan
+               Butler and I have often thought that the smallness of our staff - two editors, each
+               with one assistant, and one F.O. woman clerk between us to keep track of documents,
+               with our letters, etc. - has had certain advantages. We have had to do an immense
+               amount of work ourselves which - with a larger staff - we would have delegated, but
+               of the result is that, while the historical masterpieces we might ourselves have
+               written if we had not been tied down so much remain unwritten, the actual selection
+               and editing of F.O. documents has been done better because we have had to do pretty
+               well all of it ourselves. If the editors have to range over the archives of half a
+               dozen departments, they must delegate a great deal of the work, and they must depend
+               too much on their assistants. If you try to avoid this by having a larger body of
+               senior editors, it is harder to keep a common standard. As I have just said, a
+               historian who takes on the job of editing modern documents will find that this work
+               crowds out pretty well everything else, but at least - if he is limited to one set of
+               archives - he can learn to master them. He could not possibly master more than one
+               set. So I would be inclined to say - let the S.D. keep the For. Rel. in its hands -
+               and let it be content to produce its own material - even if the historian will also
+               have to use other material - in any case the diplomatic record has its own very high
+               value and completeness. If other depts want to follow the example of the S.D. and
+               publish their records, let them do so - and any problems of policy - large or small -
+               can be discussed by the respective editors as and when such problems arise.</p>
+         </div>
+         <div type="document" xml:id="freund-to-kennan">
+            <head>Freund to George F. Kennan</head>
+            <dateline>13 March 1957</dateline>
+            <p>Woodward's letter is a very interesting one, especially because he has so much
+               experience in this type of work in Britain. But the British experience is not really
+               analogous to the problems facing the U.S. in similar publication ventures.</p>
+            <p>For one thing, the scale of the work to be done here, if the <hi rend="italic"
+                  >Foreign Relations</hi> series is to continue and expand, is much greater. This is
+               not only so because the volume of diplomatic exchange is greater than the F.O. has to
+               deal with, but also because the S.D. would not be able to limit publication to
+               exchanges with only a small number of countries at specified times, and, perhaps most
+               important, because our government’s policy formulation and implementation processes
+               are more unwieldy than Great Britain's, and not as well coordinated. For example, I
+               do not believe that the decision and actions leading to U.S. approval of German
+               rearmament in 1950 can be revealed without publication of Pentagon materials of which
+               copies would, presumably, not be available at the S.D. Other departments and agencies
+               and certain coordinating bodies would also have to give over materials if the
+               published collection of documents is to be of any real value.</p>
+            <p>Woodward is undoubtedly right in saying that the efficient way of producing volumes
+               of documents is to give full responsibility to qualified historians who will work
+               with a very small staff. But this advice, it seems to me, is incompatible with
+               another of his suggestions, namely that the S.D. should keep the series in its hands.
+               Surely what the S.D. would do is to retain the services of one or two “big name”
+               historians (e.g. Langer and Gleason) who would <hi rend="underline">supervise</hi> the
+               work of a large staff of researchers and interlopers. The work of such an aggregation
+               would not inspire confidence in their product. Nor would S.D. sponsorship tend to
+               elicit cooperation with the Defense and other department and agencies without whose
+               contribution of material (i.e. access to their archives by qualified historians) the
+               volumes would be incomplete at best, and very possibly misleading.</p>
+            <p>Surely the S.D. and other departments much have a hand in producing these volumes.
+               But why not limit their involvement to approving or disapproving of the documents to
+               be published after they have been collected by historians who do the actual research
+               and editing with the help of a minimum number of civil service personnel aid.
+               Finally, it would seem to me much wiser to have the project sponsored by a private
+               source or sources (e.g. the Ford Foundation) than to have the historians paid by and
+               subjected to any sort of unusual loyalties to the Government.</p>
+         </div>
+         <div type="document" xml:id="kennan-to-leopold">
+            <head>George F. Kennan to Richard W. Leopold</head>
+            <dateline>21 March 1957</dateline>
+            <p>I have been slow in replying to the questions in your letter of February 3 about the
+               future of the <hi rend="italic">Foreign Relations</hi> series; but it is, as you are
+               aware, a difficult problem, to which ready answers do not present themselves.</p>
+            <p>I took the liberty of showing your letter to my colleague here at the Institute, Sir
+               Llewellyn Woodward, who is - as you know - one of the two editors of the British
+               series. I enclose a copy (or rather, a deciphered version - you know what some
+               British handwriting is) of his comment. I also enclose comments written by Gerald
+               Freund, whom you met here, on Woodward's paper.</p>
+            <p>Will you permit me to continue to reserve my final comment until I have thought about
+               this further? Recognizing the good sense and authority of all that Woodward says, I
+               am impressed, as is Freund, with the differences in the situation here from that
+               which prevails in England. My own experiences, particularly during the last war, lead
+               me to doubt that a series of documents confined to the State Department materials
+               alone would be in any way adequate to tell the story of America's involvement in any
+               one of a number of important issues. My thoughts run, at the moment, to the idea of
+               the government's contracting the documentary publication out to a semi-private
+               academic unit - along the lines (organizationally, not substantively) of the M.I.T.
+               Center for International Studies or the Rand Corporation, with the idea that this
+               unit would get out documentary series addressed to given subjects or episodes of
+               major importance rather than attempt to cover the field chronologically, by
+               countries. I am sure, too, that this thought will have many drawbacks. But it would
+               permit the assembling of the range of the material that would be necessary to give
+               any coherent concept of what transpired, and the intensive and highly responsible
+               selectivity that would have to be exercised if the final product were to be kept to
+               manageable dimensions.</p>
+            <p>It might be necessary to take certain special precautions to assure high scholarly
+               capability, wisdom, and integrity on the part of those to whom this really great
+               responsibility would be given. I could conceive that it might be desirable, for
+               example, to establish a panel of representatives of such organizations as the
+               American Historical Association and the Council of Learned Societies, merely for the
+               purpose of making nominations from which the government might select the scholars who
+               would be entrusted with this work. Surely, <hi rend="underline">some</hi> collaboration
+               between public and private effort would be necessary to implement any idea of this
+               sort. But the alternative would be to try to carry on with the <hi rend="italic"
+                  >Foreign Relations</hi> series, as heretofore produced; and you have yourself set
+               forth the reasons why this would be difficult.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

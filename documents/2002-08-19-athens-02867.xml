@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="complete">Telegram From the Embassy in Greece to the Department of State,
+               August 2002</title>
+            <title type="short">Telegram From Embassy Athens, 2002</title>
+         </titleStmt>
+         <publicationStmt>
+            <date type="posted" when="2013-12-09">December 9, 2013</date>
+             <date type="created" when="2002-08-19">August 19, 2002</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>A scan of the original document is available for download (<ref
+                  target="2002-08-19-athens-02867.pdf">PDF</ref>, 208 KB, 5pp.)</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><hi rend="italic">Source: Department of State, State Archiving System, 2002 ATHENS
+               002867. The cable was sent Priority to the Department and for information to the
+               Consulate in Thessaloniki and the Embassies in Nicosia and Ankara. The requested
+               distribution included Grecinos, Gollner-Sweet, and R. Glover in EUR/SE; L. Schwartz
+               and M. Toner in EUR/PA; J. Miller in H; and M. Makri in Thessaloniki PA.</hi></p>
+         <p>Cited in <hi rend="italic">Toward “Thorough,
+                  Accurate, and Reliable”: A History of the Foreign Relations of the United States
+                  Series</hi>, Chapter 12, <ref target="../chapter-12#fn43">Footnote 43</ref></p>
+         <div type="document">
+            <head>Telegram From the Embassy in Greece to the Department of State</head>
+            <dateline>Athens, August 19, 2002, 1425Z</dateline>
+            <p>02867. Subject: Release of FRUS Volume Elicits Mild Media Interest and Questions
+               About Lacunae</p>
+            <p>1. Summary. The 15 August release of the Foreign Relations of the United States
+               volume pertaining to Greece, Turkey and Cyprus in the period 1964-68 drew secondary
+               attention from TV, radio and print media. All media noted that the USG was fully
+               aware of possible coup attempts during this period of political ferment, but seemed
+               to display “apathy and indifference” to then King Constantine's request for US
+               military support for a coup of his own. The media noted that American authorities
+               feared that Andreas Papandreou's political ascent would result in a more
+               anti-American course, and said the documents showed then-US Ambassador Phillips
+               Talbot unaware that the CIA station was in touch with the Greek colonels who plotted
+               the successful coup d'etat in April, 1967. Despite this material, most media were
+               rather disappointed by the contents of the volume, and seemed more intrigued by the
+               USG bureaucratic in-fighting which delayed the release of a volume printed in 2000.
+               All media asserted that the USG gave the go-ahead in the wake of recent arrests of
+               members of the Greek terrorist group 17 November. End Summary.</p>
+            <p>Who Knew What, and When</p>
+            <p>2. The 777-page volume was released on a Greek holiday, so it took until Sunday and
+               even Monday for most papers to sink their teeth into the contents. Radio and TV news
+               bulletins carried highlights of the report as a secondary item in their Sunday
+               bulletins, and noted the points cited above. The two largest TV stations, Mega and
+               Antenna, ran voice-overs of “revelations” in the FRUS volume over historical photos
+               from mid-1960s and the coup d'etat. Some reports noted that Talbot seemed to be
+               expecting the King to engineer a coup in cooperation with the generals, and was
+               somewhat shocked when it turned out to be the colonels who were responsible. All
+               newspapers, including pro-government, anti-American Eleftherotypia and conservative,
+               pro-main opposition Eleftheros Typos, pointed out that the documents show the CIA
+               operated under no such misapprehension, and was “fully aware of what the colonels
+               were going to do.” In a front-page story, independent, respected Kathimerini wrote
+               that even those US officials blind-sided by the coup were reassured by the pro-US
+               sympathies of Col. Papadopoulos, who had served as a liaison with DIA, and of Col.
+               Pattakos, “who had relatives in the US Army.”</p>
+            <p>Reasons for Delay</p>
+            <p>3. All media devoted equal attention to the delay in the release of the volume. On
+               Sunday 18 August, extensive inside reports in To Vima and Kathimerini claimed that
+               CIA authorities had delayed release of the published volume in the fear that there
+               would be reprisals against American officials currently in Greece. The two papers
+               said there was considerable wrangling between the State Department, represented by
+               then US Ambassador Burns and by historian Jim Miller, and the CIA over both what the
+               volume should and should not contain, and the date of its release. Even though only
+               0.04 [percent] of the declassified documents were censored, the 19 August edition of
+               Eleftherotypia divined a suspicious number of holes in the account, and ran the
+               sub-head “the Americans are hiding the role of their secret services.” To Vima noted
+               that the volume's release had been carefully timed to coincide with the sleepiest
+               time of the summer: August 15 is a holiday and traditionally the high point of the
+               Greek summer, with most of the country at the beach.</p>
+            <p>4. Most electronic and print media, still awash in non-stop coverage of the cases of
+               the arrested terrorists belonging to the 17 November group, elided between the two
+               stories, and claimed, on the basis of circumstantial evidence alone, that the CIA
+               lifted its objections to the release of the report once the GOG had “broken” 17N.
+               Thus ended a deadlock that began when the declassification project ended in 1999.</p>
+            <p>Government Reaction</p>
+            <p>5. Back from the beach and in typical form was government spokesman Christos
+               Protopappas, who said “none of these revelations come as big news to us. It was
+               well-known that the secret services of certain countries were involved in what
+               happened during that time. It is no coincidence that President Clinton, on his visit
+               here, apologized for the role those services played in creating and in sustaining the
+               junta.” (Comment: this is a deliberate misreading of Clinton's far more nuanced
+               statement in November, 1999.)</p>
+            <p>Is That All There Is?</p>
+            <p>6. Comment. Overall (and fortunately) there seemed to be a sense of disappointment at
+               the contents of the FRUS. The two year delay in the volume's release and the
+               conspiratorial bent of most Greek media had tempted readers to believe there would be
+               new evidence of skullduggery and malfeasance. Instead, as an insightful op-ed piece
+               in Kathimerini (8/19) noted, it showed the disorganization and vanity of the Greek
+               political establishment, and that establishment's responsibility for allowing the
+               junta to remain in power for seven years. “No one has ever accepted that the old
+               regime collapsed because of the inability of the politicians who comprised it, given
+               that all those who survived its collapse, with the exception of King Constantine,
+               resurfaced to build the post-1974 political system,” wrote diplomatic editor Costas
+               Iordanides.</p>
+            <p>7. Indeed, in a country where paranoia is as rife as it is in Greece, it may be the
+               wisest course of action to be as open as possible with the release of declassified,
+               archival material. In this case, doing so allowed us to map out the limits of what US
+               involvement in Greece's domestic affairs has been, and to advertise, by example, the
+               openness of American political culture. Releasing the documents as promptly and as
+               unabridged as possible helps us in our continuing campaign to “normalize” the
+               Greek-US relationship and reduce the level of anti-Americanism based on suspicion of
+               US policy interests in Greece. End Comment.</p>
+            <p>Miller</p>
+         </div>
+      </body>
+   </text>
+</TEI>

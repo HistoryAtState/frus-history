@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">The Constitutional Basis of <hi rend="italic"
+                    >FRUS</hi></title>
+                <title type="short">The Constitutional Basis of <hi rend="italic">FRUS</hi></title>
+                <author>Aaron W. Marrs</author>
+                <sponsor>Office of the Historian, U.S. Department of State</sponsor>
+            </titleStmt>
+            <publicationStmt>
+                <date when="2011-10-24">October 24, 2011</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>In these blog posts, we have been sharing the fruits of our ongoing research into
+                    the history of the <hi rend="italic">Foreign Relations of the United States</hi>
+                    series. As our investigation continues, our knowledge about the series grows and
+                    evolves. In this post, I’ll discuss how new findings shed light on some
+                    long-standing questions about the series.</p>
+                <p>One of the frustrating aspects of researching Civil War-era <hi rend="italic"
+                    >FRUS</hi> tomes is that documentation from the nineteenth century tells us very
+                    little about the actual mechanics of how the volumes were assembled. We don’t
+                    know much about how the documents were selected or who did the selecting
+                    (although, in <ref target="/historicaldocuments/frus-history/research/those-asterisks">my previous
+                    post</ref> I showed that we can learn something by looking at the material left
+                    out of the volume). The philosophical impetus behind releasing documentation has
+                    represented another gap in our knowledge. We’ve never known how fully involved
+                    Secretary of State <ref target="/departmenthistory/people/seward-william-henry"
+                    >William Henry Seward</ref> was in the creation of the series or what purpose he
+                    believed the series had (if any).</p>
+                <figure rend="smallfloatinline">
+                    <graphic url="adams-charles-francis.jpg"/>
+                    <head>Charles Francis Adams, Minister to the United Kingdom</head>
+                </figure>
+                <p>Recent sleuthing at the National Archives has uncovered more of the story,
+                    illuminating Seward’s ideas concerning the utility of releasing foreign
+                    relations documentation. (Hearty thanks are due to Forrest Barnum for conducting
+                    the original research and to David Langbart of the National Archives for
+                    generously providing the images of the original document.) In 1864, Seward
+                    defended the practice to his minister in London, <ref
+                    target="/departmenthistory/people/adams-charles-francis">Charles Francis
+                    Adams</ref>, and in so doing laid out some principles which undoubtedly guided
+                    the compilation of <hi rend="italic">FRUS</hi> during the war years. Let’s take
+                    a look at the documents.</p>
+                <p>On February 11, 1864, Adams complained to Seward about the publication of his
+                    correspondence in a previous year’s edition of <hi rend="italic">FRUS</hi> (see
+                    <ref
+                    target="http://digicoll.library.wisc.edu/cgi-bin/FRUS/FRUS-idx?id=FRUS.FRUS1864p1"
+                    >the full text of Adams’s despatch</ref>). Adams noted that “the publication of
+                    the diplomatic papers … has elicited much comment in Parliament and in the
+                    newspapers,” and attached a clipping from the <hi rend="italic">The Times</hi>
+                    (London) which described debates in the House of Lords and House of Commons.
+                    Adams expressed his disappointment that “when you decided on publishing those
+                    instructions, you did not at the same time” publish another despatch which would
+                    have made his actions more understandable to the British. Because of the uneven
+                    publication of the record, Adams contended, he was now perceived by the British
+                    government to have “suppress[ed]” information back in 1863.</p>
+                <p>Seward responded on March 2, 1864. His response was not published in <hi
+                    rend="italic">FRUS</hi>, but can be found in manuscript form (see <ref
+                        target="/historicaldocuments/frus-history/research/seward-letter">here</ref> for the transcript and PDF
+                    scan) at the <ref target="http://www.archives.gov/">National Archives</ref> in
+                    College Park, Maryland.<note n="1">Instruction No. 859 from the Department of
+                    State, March 2, 1864, Instructions from the Department of State, 2nd Series,
+                    volume XIV, Embassy Great Britain, RG 84, National Archives. Thanks to Forrest
+                    Barnum for conducting this research.</note> Seward quickly dispensed with
+                    Adams’s complaint, particularly since Adams himself admitted in his despatch
+                    that no “particular injury” had resulted from the publication of the
+                    documentation. Seward then embarked on a lengthy defense of the publication of
+                    diplomatic correspondence. Since this document constitutes what little evidence
+                    we have of the administration’s intent, I think that it is worth quoting at some
+                    length here. Here’s how Seward began his defense of the publication:</p>
+                <q rend="blockquote">“The Constitution of the United States requires the President,
+                    from time to time, to give to Congress information concerning the state of the
+                    Union. In the beginning of our government a practice obtained according to which
+                    the President communicated this information on the assembling of Congress in a
+                    full and comprehensive annual speech or message, to which are appended all the
+                    important reports and documents which have been placed by the Heads of
+                    Departments before the President as the sources and evidences of the information
+                    to be by him submitted to Congress. It is hardly necessary to say that the
+                    interest of Congress and of the people of the United States in the transactions
+                    of the Executive Department, always earnest, became intensified with the
+                    breaking out of the civil war.”</q>
+                <p>For Seward, then, informing Congress had a Constitutional basis. Seward was
+                    referring to <ref
+                    target="http://www.archives.gov/exhibits/charters/constitution_transcript.html"
+                    >Article II, Section 3</ref>, which states that the President shall “from time
+                    to time give to the Congress Information of the State of the Union.” Clearly,
+                    Seward understood providing information to Congress to be a duty rather than an
+                    option; that responsibility had only intensified during the Civil War. Seward
+                    then noted that the President considered it to be “more satisfactory” to fulfill
+                    this obligation “with all possible fullness at the beginning of each meeting of
+                    Congress, rather than to await their special calls for it in particular cases.”
+                    As I have noted elsewhere <ref target="/historicaldocuments/frus-history/research/the-first-volume">in
+                        this article</ref> and <ref target="/historicaldocuments/frus-history/research/marrs-on-the-first-volume"
+                    >video</ref>, Congress requested and received diplomatic documentation since the
+                    earliest years of the republic. Now, however, Lincoln felt it was appropriate to
+                    supply the information without waiting to be asked by Congress.</p>
+                <p>Seward noted that in a democracy, the people deserve to have information since
+                    they are the source of the government’s power:</p>
+                <q rend="blockquote">“The Government constantly depends on the support of Congress
+                    and the People, and that support can be expected only on the condition of
+                    keeping them thoroughly and truthfully informed of the manner in which the
+                    powers derived from them are executed. Mutual confidence between the People and
+                    the Government is a condition of our national life.”</q>
+                <p>Seward then turned from an explanation of why materials could be excluded from
+                    <hi rend="italic">FRUS</hi> (and thus, why the materials Adams was worried about
+                    should be included). Speaking again of Congress, Seward wrote:</p>
+                <q rend="blockquote">“They had the same right to see my dispatch to you of the 11th
+                    of July, 1863, that they had to see any other parts of the Executive
+                    correspondence concerning foreign affairs. This history would be incomplete
+                    without that document. It was the President’s duty to communicate it, unless
+                    special reasons of a public nature existed for withholding it. Only two such
+                    special reasons could be allowed, namely, one, that the publication would be
+                    incompatible with the public interests by affecting a friendly negotiation on an
+                    existing question. But the question which had called out the dispatch had been
+                    for a time put at rest; and mutually satisfactory explanations between the two
+                    Governments had been made. The other reason was that the publication might give
+                    offence to Great Britain. But the document was a communication from this
+                    Government not to Her Majesty’s Government, but to its own agent; and the paper
+                    was believed to be as respectful to the British Government as it manifestly was
+                    earnest and sincere. On the other hand, to withhold so important a portion of
+                    the Executive correspondence would have seemed to imply a confession that it was
+                    improper in itself, while to practice reserve on so great a question would be
+                    liable to be deemed an abuse of the confidence which Congress and the people had
+                    so freely reposed in the Government.”</q>
+                <p>Here, Seward made clear that there were only two reasons for excluding material:
+                    if it was affecting negotiations or would give offense to another power. In the
+                    course of the entire response, Seward set out the complete case of why it was
+                    important to release the documentation. The President had a Constitutional
+                    obligation to communicate with Congress. The American people, through their
+                    Congress, had the right to be informed since the power of the government was
+                    derived from the people. There were very few reasons why documents deserved to
+                    be excluded from publication. Indeed, the exclusion of documents could itself
+                    raise questions about the reliability of the government.</p>
+                <p>As we know from <ref target="/historicaldocuments/frus-history/research/those-asterisks">my past
+                    post</ref>, material was sometimes excluded for what appeared to be very
+                    different reasons (such as pointing out the embarrassment of Union defeat at
+                    Bull Run). Nevertheless, Seward’s statement to Adams in 1864 presents a strong
+                    case for what the administration believed it accomplished with the release of
+                    these volumes. The need for transparency was explicitly linked to our form of
+                    government and the obligations created by the Constitution which the Union was
+                    fighting so hard to preserve.</p>
+                <p><hi rend="italic">Read <ref target="/historicaldocuments/frus-history/research/seward-letter">the text of
+                    Seward's statement to Adams</ref>, or download the <ref
+                    target="http://static.history.state.gov/frus150/seward-letter.pdf">PDF</ref>, 1
+                    MB, 9 pp.</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

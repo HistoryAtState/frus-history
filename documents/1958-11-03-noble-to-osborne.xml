@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Memorandum From Bernard Noble to Melville Osborne, November
+                    1958</title>
+                <title type="short">Noble to Osborne, 1958</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-01-27">January 27, 2014</date>
+                <date type="created" when="1958-11-03">November 3, 1958</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1958-11-03-noble-to-osborne.pdf">PDF</ref>, 288 KB, 4pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: National Archives and Records Administration, Record Group
+                    59, Entry UD-WW-9: Bureau of Public Affairs, Office of the Historian, Arthur
+                    Kogan Files, 1945-1980 (83 D 230), Box 2, Foreign Classified Documents General.
+                    Official Use Only. Drafted by E. Ralph Perkins. Posted from an uninitialed
+                    carbon copy of the memorandum.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 7, <ref
+                    target="../chapter-7#fn67">Footnote 67</ref></p>
+            <div type="document">
+                <head>Memorandum From G. Bernard Noble (Chief of the Historical Division) to
+                    Melville Osborne (Office of Caribbean and Mexican Affairs)</head>
+                <dateline>November 3, 1958</dateline>
+                <p>Subject: Clearance with Foreign Governments of Reports of Conversations with
+                    Foreign Officials prior to Publication in <hi rend="italic">Foreign Relations of
+                        the United States</hi></p>
+                <p>Your memorandum to me of September 22, 1958 raises the broad question of
+                    Department policy regarding clearance of records of conversations with foreign
+                    officials, not just the clearance of a specific <hi rend="italic">Foreign
+                        Relations</hi> volume or the clearance of papers with countries relations
+                    with which are within the responsibility of the ARA area. As indicated in my
+                    memorandum of September 15, 1958 to MID - Mr. Blanchard I feel that such an
+                    extension of our clearance practices as you recommend would be most unfortunate
+                    in circumscribing the freedom of our Government to publish its official records.
+                    I am therefore offering the following comments on some of the points you
+                    raised:</p>
+                <p>1. You cite three cases as illustrations of embarrassments that can be caused if
+                    reports on conversations by our diplomatic representatives with foreign
+                    officials are not cleared with the respective foreign governments. It is
+                    interesting that none of the three cases mentioned in paragraph (1) on the first
+                    page of your memorandum of September 22 regarding the reluctance of Mexican
+                    officials to have records of their conversations published are properly
+                    connected with <hi rend="italic">Foreign Relations</hi>. You state that Mexican
+                    officials are reluctant to confide in our representatives, “knowing, as they
+                    inevitably do, that records of their conversations may be published by the
+                    United States at will.” This generalization scarcely applies, however, to such
+                    accounts as appear years later in the <hi rend="italic">Foreign Relations</hi>
+                    volumes as part of the official record of United States diplomacy. Comments on
+                    the three cases cited follow:</p>
+                <list>
+                    <item>(a) Mr. Crockett’s memorandum of September 2, 1957 (not October 4, 1957)
+                        referred to apprehensions by a Mexican official resulting from a report that
+                        United States backing was involved in his candidacy for President. This
+                        report was originally mentioned in a private publication which was discussed
+                        in Congressional hearings. Mr. Crockett appropriately pointed out that there
+                        was a confusion of <hi rend="italic">Foreign Relations</hi> with the
+                        publication of Congressional hearings on current matters, and that the
+                        report which gave rise to the official’s apprehensions was entirely
+                        unrelated to the <hi rend="italic">Foreign Relations</hi> series. Such
+                        confusion is unfortunate but is hardly a reason for changing policy as to
+                        publishing <hi rend="italic">Foreign Relations</hi>.</item>
+                    <item>(b) The second case mentioned refers to a memorandum by the Ambassador in
+                        Mexico on a conversation of January 29, 1958 with the Mexican Finance
+                        Minister regarding a claims case. The Finance Minister remarked that he
+                        might have a memorandum of a previous conversation although he did not like
+                        to make memoranda of conversations and he did not usually do so. In this
+                        case his secretary produced a memorandum which recorded what an American
+                        official had told him, but not his own part in the conversation. No mention
+                        was made of <hi rend="italic">Foreign Relations</hi> or any other
+                        publication.</item>
+                    <item>(c) The case reported in Report No. 664, September 29, 1949 involved a
+                        meeting in which Mexican and United States officials took part to discuss
+                        stationing customs inspectors at the Mexico City airport. A Mexican Foreign
+                        Office official made certain changes in the language of a record of a
+                        previous conversation, eliminating certain statements that he preferred not
+                        to have in writing. The reason is not given, but it could as well have been
+                        hesitation to give officially certain commitments regarding customs
+                        inspection as fear of publication some years later. No mention of
+                        publication in <hi rend="italic">Foreign Relations</hi> or elsewhere was
+                        made.</item>
+                </list>
+                <p>2. You suggest that there is an inconsistency in our practice of clearing with
+                    foreign governments papers originating with these governments and not clearing
+                    with them the records made by our diplomatic officials of conversations with
+                    officials of such foreign governments. The fact is, however, that documents
+                    received from and originating with a foreign government are in an entirely
+                    different category as far as responsibility for publication is concerned, for
+                    reports by American officials on conversations with officials of foreign
+                    governments. The former represent in most cases official government statements
+                    for which the originating government must assume responsibility. It is entirely
+                    proper therefore that clearance from the originating government should be
+                    obtained. The report by an American officials of a conversation with a foreign
+                    official is our own document for which the other government need assume no
+                    responsibility. The foreign official may have been speaking on his own, not
+                    presenting an official government view. Also, in case the issue is raised, it
+                    can be said that the report is merely the interpretation of the American officer
+                    reporting.</p>
+                <p>3. It is suggested that foreign officials will not talk frankly for fear a report
+                    of the conversation may be published some fifteen or more years hence. This
+                    concern seems to be exaggerated, but if the danger exists it is doubtful that
+                    foreign government clearance would be a real remedy. Permission to print is
+                    requested not from the individual whose conversation is reported but from
+                    foreign office officials at the time of clearance. It might be fully as damaging
+                    to put the report in the hands of an official in the foreign office as to
+                    publish it. At least, if it becomes known through publication in <hi
+                        rend="italic">Foreign Relations</hi> it will be in a proper context.</p>
+                <p>4. Clearance with foreign governments of reports of conversation would often put
+                    us in the dilemma of presenting small items of conversation out of context or
+                    presenting the entire document containing the reported statements along with
+                    additional comment by the American official. In effect, that would often give a
+                    right of censorship to the foreign government over the entire document, in cases
+                    where the real objection might well be to comments of the American official
+                    rather than to what the foreign official is reported to have said. In objecting
+                    to clearance this would not need to be stated. In many cases it would not be
+                    feasible to cut out what the foreign official is reported to have said without
+                    omitting the entire document or at least an important portion of the
+                    document.</p>
+                <p>5. The suggestion is made that documents reporting conversations could be
+                    presented for clearance, but that if a government objected merely because it had
+                    no record of the conversation or because its records differ “we should have to
+                    inform it that we could not defer publication for these reasons”. This does not
+                    seem to be practical. To submit a document to a foreign government and then to
+                    publish it over such government’s objections would certainly cause far more
+                    resentment than to publish it without asking for clearance.</p>
+                <p>6. Although we may sometimes anticipate difficulties in obtaining clearance for
+                    these documents from foreign government, it does not follow that publication by
+                    us without such clearance would necessarily be contrary to the wishes of these
+                    foreign governments. There is a real difference between giving consent to
+                    publication and having no objection to publication if done entirely on the
+                    responsibility of another government. It is also probably true that in many
+                    foreign offices that are timid officials who would hesitate to give approval to
+                    publication in the vague fear that there might be some repercussion for which
+                    they would be held responsible.</p>
+                <p>7. There may, of course, be exceptions to this long-standing rule that reports by
+                    our officials on conversations with foreign officials are not normally submitted
+                    to foreign governments for clearance. For example, when such reports contain
+                    significant and apparently damaging quoted passages from statement of foreign
+                    officials, these reports may, in general, be submitted for clearance. A
+                    distinction can appropriately be made between documents which report
+                    conversations in direct quotation and those which merely report the substance of
+                    conversations. In the case of direct quotations the implication is that
+                    stenographic notes were made and that the statements are quoted just as stated,
+                    though in fact this may not be the case. It is difficult for the person quoted
+                    to deny responsibility. Most reports of conversations, however, are written some
+                    time after the conversation and they paraphrase only the substance of the
+                    conversation, giving the writer’s interpretation. These are quite different from
+                    direct quotations and may generally be published on our own responsibility.</p>
+                <p>8. In exceptional cases, also, merely paraphrased reports may be submitted for
+                    clearance. If, for example, such a report is in the nature of an agreed minute
+                    of a conference discussion, it should be submitted. Conceivably there may be
+                    other cases when shrewd judgement would require such reports to be submitted for
+                    clearance, or possibly for information.</p>
+                <p>9. In cases of this kind no hard and fast line can be drawn. In the last resort
+                    tough-minded judgment is called for to determine whether a given set of facts
+                    can justify the exclusion of a document of substantive importance from the
+                    published record of our diplomacy. It seems clear, however, that to require that
+                    all documents reporting on conversations with foreign officials be submitted to
+                    foreign governments for clearance would not only be contrary to long-established
+                    practice, but it would frequently cause unnecessary embarrassments in our
+                    relations with such governments, and would also vastly complicate the over-all
+                    problem of editing and publishing the <hi rend="italic">Foreign Relations</hi>
+                    volumes.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

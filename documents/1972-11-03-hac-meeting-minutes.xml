@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Record of Historical Advisory Committee Meeting, November
+                    1972</title>
+                <title type="short">HAC Meeting Record, 1972</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-05-19">May 19, 2014</date>
+                <date type="created" when="1972-11-03">November 3, 1972</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1972-11-03-hac-meeting-minutes.pdf">PDF</ref>, 231 KB, 12pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 2, 1972—Minutes. Limited Official
+                    Use. The schedule of manuscript completion, mentioned under “Agenda Item 5,” is not posted.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 8, <ref
+                    target="../chapter-8#fn67">Footnote 67</ref></p>
+            <div type="document">
+                <head>Record of the 1972 Meeting of the Advisory Committee on <hi rend="italic"
+                        >Foreign Relations of the United States</hi></head>
+                <dateline>November 3, 1972</dateline>
+                <list>
+                    <item>The Advisory Committee:<list>
+                            <item>David R. Deener, Provost and Dean of the Graduate School, Tulane
+                                University, New Orleans, Louisiana 70118 (American Society of
+                                International Law)</item>
+                            <item>Alwyn V. Freeman, Member, Board of Editors, <hi rend="italic">The
+                                    American Journal of International Law</hi>, Washington, D.C.
+                                20008 (American Society of International Law)</item>
+                            <item>Walter LaFeber, Professor of History, Cornell University, Ithaca,
+                                New York 14850 (American Historical Association)</item>
+                            <item>Armin H. Rappaport, Professor of History, University of
+                                California, La Jolla, California 92037 (American Historical
+                                Association)</item>
+                            <item>Richard C. Snyder [Not present], Director, Mershon Center, Ohio
+                                State University, Columbus, Ohio 43210 (American Political Science
+                                Association)</item>
+                            <item>Paul A. Varg, Professor of History, Michigan State University,
+                                East Lansing, Michigan 48823 (American Historical
+                                Association)</item>
+                            <item>H. Bradford Westerfield, Professor of Political Science, Yale
+                                University, New Haven, Connecticut 06520 (American Political Science
+                                Association)</item>
+                        </list></item>
+                    <item>The Bureau of Public Affairs:<list>
+                            <item>William D. Blair, Jr., Acting Assistant Secretary of State for
+                                Public Affairs</item>
+                        </list></item>
+                    <item>The Historical Office:<list>
+                            <item>William M. Franklin, Director</item>
+                            <item>Richardson Dougall</item>
+                            <item>Fredrick Aandahl</item>
+                            <item>Arthur G. Kogan</item>
+                            <item>John P. Glennon</item>
+                            <item>Ralph R. Goodwin</item>
+                            <item>William Slany</item>
+                            <item>Homer L. Calkin</item>
+                            <item>John A. Bernbaum</item>
+                            <item>Joan E. Brosius</item>
+                            <item>Mary P. Chapman</item>
+                            <item>M. Paul Claussen</item>
+                            <item>Herbert A. Fine</item>
+                            <item>Evans Gerakas</item>
+                            <item>N. Stephen Kane</item>
+                            <item>David W. Mabon</item>
+                            <item>Margaret G. Martin</item>
+                            <item>Nina Noring</item>
+                            <item>Neal H. Petersen</item>
+                            <item>Lisle A. Rose</item>
+                            <item>Beverly Z. Rowsome</item>
+                            <item>Charles S. Sampson</item>
+                            <item>Louis J. Smith</item>
+                            <item>David H. Stauffer</item>
+                        </list></item>
+                </list>
+                <p>Opening Session - 9:00 a.m. - 12:15 p.m.</p>
+                <p rend="center">AGENDA ITEM 1: OPENING REMARKS</p>
+                <p>Mr. Franklin opened the meeting by introducing members of the
+                <hi rend="italic">Foreign Relations</hi> staff and also members of the Historical Studies
+                Division. Mr. Franklin observed that the work of the latter Division
+                is closer to that of the <hi rend="italic">Foreign Relations</hi> Division than ever before
+                because of rising interest in the post-World War II period. Historical
+                Studies does both classified and unclassified projects, an example of
+                the latter being <hi rend="italic">Documents on Germany, 1944-1970</hi>, a compilation prepared
+                last year for the Senate Committee on Foreign Relations. Mr.
+                Franklin concluded by introducing Mr. Arthur Kogan, Special Assistant
+                to the Director, who is in charge of declassification and of liaison
+                with the National Archives and other agencies concerned with documentary
+                problems.</p>
+                <p>At 9:15 a.m. Mr. Blair joined the meeting. He welcomed the members
+                of the Advisory Committee on behalf of Secretary of State Rogers and
+                stated that the Committee’s advice over the years had been most helpful
+                in speeding up the production of the <hi rend="italic">Foreign Relations</hi> series. The
+                past year, he continued, had seen great strides in the acceleration of
+                publication of the series. In the century since the project began there
+                had been a steady and growing gap between diplomatic events and the
+                publication of documentary material relating to them in the <hi rend="italic">Foreign Relations</hi> series. But in the past year alone, <hi rend="italic">Foreign Relations</hi> had
+                produced no less than 10 volumes including the last one relating to the
+                wartime conferences, the last volumes dealing with 1946, and nearly all
+                volumes dealing with the events of 1947. Concurrently, there had been
+                a substantial increase of staff in the Historical Office although State
+                Department rolls had been cut 15% over the past several years. Moreover,
+                the Historical Office had been successful in obtaining a substantial
+                increase in operating budget. For the fiscal year 1972, <hi rend="italic">Foreign Relations</hi> had been allotted a budget of $224,000 but had actually spent
+                    $256,000. For FY 1973 <hi rend="italic">Foreign Relations</hi> is budgeted at $336,000 and for
+                FY 1974 the budget request is $576,000.</p>
+                <p>Mr. Blair stated that there had been several reasons for this substantial
+                    increase in support for the <hi rend="italic">Foreign Relations</hi> series. Scholars
+                had encouraged the Department to reverse the widening gap between events
+                and their documentation in <hi rend="italic">Foreign Relations</hi>. The White House had responded
+                    and on March 8 President Nixon had issued his order that <hi rend="italic">Foreign Relations</hi> close the gap to twenty years within three years. William B.
+                Macomber, Jr., Deputy Under Secretary of State for Management, had
+                played an important role in the impetus which had been given to the series.</p>
+                <p>Mr. Blair stated that every effort would be made to meet the new
+                target, but cautioned that the battle had not yet been won. Even with
+                the Presidential directive and the related Executive Order on classification
+                (of the same date) there remained obstacles: conflicts over
+                security policy, the sheer bulk of work, and a manifold clearance problem.
+                He promised that the Bureau of Public Affairs would do everything
+                possible to continue the substantial progress made in the past year.</p>
+                <p rend="center">[Mr. Blair left the meeting at 9:24 a.m.]</p>
+                <p>Mr. Freeman asked how soon the budget increases would lessen the
+                publication gap to twenty years. Mr. Franklin replied that the budgetary
+                projection for fiscal 1974 was “astronomical” by previous standards
+                and that money of itself no longer constituted any hindrance to narrowing
+                the gap.</p>
+                <p rend="center">AGENDA ITEM 2: SELECTION OF CHAIRMAN</p>
+                <p>Mr. Deener was elected unanimously to serve for the coming year.</p>
+                <p rend="center">AGENDA ITEM 3: DATE OF MEETINGS</p>
+                <p>Discussion turned to the possibility of choosing a new date for
+                the Committee’s meetings, since the first Friday in November had proved
+                inconvenient for some members. Mr. Deener’s suggestion of the second
+                Friday in November was accepted by the Committee.</p>
+                <p rend="center">AGENDA ITEM 4: CHANGES IN THE <hi rend="italic">FOREIGN RELATIONS</hi> STAFF</p>
+                <p>Mr. Franklin noted the retirement of S. Everett Gleason and the
+                    latter’s replacement as Chief of the <hi rend="italic">Foreign Relations</hi> Division by
+                Fredrick Aandahl, who had had long experience with the Historical Office
+                and, previously, with the Jefferson Papers.</p>
+                <p>Mr. Aandahl noted the retirement of Rogers P. Churchill, for many
+                years responsible for documentation of Soviet-American relations. He
+                introduced new members of the staff. John Bernbaum had taken his
+                doctorate at the University of Maryland in June. Paul Claussen was a
+                doctoral candidate at George Washington University. Lisle Rose, a
+                Ph.D. from the University of California at Berkeley, had taught at
+                the University of Nebraska and at Carnegie-Mellon University in Pittsburgh.
+                N. Stephen Kane, of the University of Wisconsin - Oshkosh, had joined
+                the staff as a visiting fellow sponsored by the National Historical
+                Publications Commission.</p>
+                <p>Mr. Franklin noted that the Historical Office was filling its
+                    vacancies and the three new positions in the <hi rend="italic">Foreign Relations</hi> staff
+                with professional historians, a development which had happily reversed
+                the Department’s practice of sending Foreign Service Officers to the
+                Office for temporary tours. FSO’s often considered duty at the Historical
+                Office a digression from their careers.</p>
+                <p>Mr. Rappaport asked if FSO’s who did temporary duty with the
+                Historical Office might not be useful later in promoting the influence
+                of the Office throughout the Department.</p>
+                <p>Mr. Franklin said that in the past senior FSO’s had been assigned
+                to the Historical Office to aid in clearance procedures, and that this
+                had been beneficial. However, FSO’s regardless of grade had not always
+                had the training necessary for research in the files.</p>
+                <p>Mr. Franklin agreed with Mr. Goodwin that Joan Brosius, an FSO
+                currently assigned to the Historical Office, was the exception that
+                proved the rule.</p>
+                <p rend="center">AGENDA ITEM 5: STATUS OF THE SERIES AND PUBLICATION PROSPECTS</p>
+                <p>Mr. Franklin described the reorganization of the geographical branches
+                    of the <hi rend="italic">Foreign Relations</hi> Division. A schedule of projected manuscript
+                completion dates through 1976 was passed out [copy attached]. Both Mr.
+                Franklin and Mr. Aandahl emphasized that manuscript completion dates
+                were not to be confused with publication dates, and that the clearance
+                process remained unpredictable.</p>
+                <p>In response to a question from Mr. Rappaport, Mr. Aandahl described
+                the manuscript preparation process. He noted in particular that each
+                branch tried to project in advance the major compilations and the space
+                allowable for each. This was now necessary because of the huge volume
+                of documentation. Discovery of important unexpected material could of
+                course alter these projections.</p>
+                <p>Mr. Franklin mentioned that <hi rend="italic">Foreign Relations</hi> had moved away from
+                diplomatic correspondence to an emphasis on top-level policy goals and
+                policymaking. Planning was therefore more necessary than ever before
+                in order to exclude marginal compilations at the outset.</p>
+                <p>Mr. Aandahl then briefly outlined the compilation process and the
+                    various types of files available in the Department to the <hi rend="italic">Foreign Relations</hi> researcher.</p>
+                <p>Mr. LaFeber inquired whether the Historical Office was able to
+                obtain documents from the Presidential libraries. He also asked if
+                use was made of the Acheson papers. Messrs. Franklin, Aandahl, and
+                Slany pointed out that we usually had received excellent cooperation
+                from the FDR Library, that the Truman Library posed a problem because
+                President Truman had not released many of his papers, and that <hi rend="italic">Foreign Relations</hi> researchers who had recently screened the Acheson papers had
+                found them to contain few documents not already in Departmental files.</p>
+                <p>Mr. Varg asked if <hi rend="italic">Foreign Relations</hi> had access to the files of
+                other agencies that take part in the making of foreign policy. Mr.
+                Rappaport inquired if <hi rend="italic">Foreign Relations</hi> staff were allowed to make
+                their own search of Defense Department files. In reply Mr. Dougall
+                noted that it was not necessary to make an initial search of outside
+                files because substantial materials from other agencies and interdepartmental
+                mechanisms (including NSC) were in Department files. Mr.
+                Aandahl stated that other agencies, including the Defense Department,
+                generally provided the Historical Office with copies of specific
+                documents on request. Mr. Franklin added, however, that some agencies
+                had not yet established procedures for making their materials available
+                to scholars. Both Mr. Franklin and Mr. Dougall stressed that
+                the current main problem of <hi rend="italic">Foreign Relations</hi> was not access to other
+                agencies’ files but clearance of materials originating in them.</p>
+                <p>Mr. Westerfield suggested legislation requiring past Presidents
+                to turn over their papers to the Library of Congress or National
+                Archives. Mr. Franklin pointed out such a law might lead to destruction
+                of some papers and that current practice was a compromise whereby
+                presidential papers become the property of the Government at the latest
+                upon a President’s death. Presidents, however, retained the option
+                of bequeathing their papers to their heirs.</p>
+                <p rend="center">[At 10:30 a.m. the Committee recessed for coffee.]</p>
+                <p>Upon resumption Mr. Aandahl completed his exposition of the
+                    <hi rend="italic">Foreign Relations</hi> production process, touching on the part played by
+                technical editors of the Publications Division (PBR), the contract
+                editing performed by Crowell-Collier, and the work of the Government
+                Printing Office. In reply to questions by Mr. Freeman and Mr.
+                Rappaport regarding the security handling of the documents by editors
+                and printers in advance of clearance, Mr. Dougall reviewed the procedures
+                followed in the handling of <hi rend="italic">Foreign Relations</hi> manuscript and
+                galleys, and Mr. Franklin emphasized that the procedures had approval
+                of the Department’s security unit.</p>
+                <p>Mr. Franklin said that increased budget had enabled the Historical
+                Office to work out an arrangement with the Government Printing Office
+                whereby the Office on occasion paid a surcharge permitting the accelerated
+                schedule for proofs, printing and binding.</p>
+                <p>Mr. Aandahl pointed out that the schedule of dates for the delivery
+                of manuscript volumes to the technical editors was based on approximately
+                eight months and two full-time researchers per volume.</p>
+                <p>To a question by Mr. Westerfield as to why the clearance process
+                is begun after galleys are in print, rather than in the manuscript stage,
+                Mr. Aandahl replied that printed proofs were much more acceptable to
+                clearing officers. Mr. Goodwin and Mr. Slany pointed out that for
+                some documents bearing special security classifications, clearance was
+                in fact initiated before the galley stage.</p>
+                <p>Mr. Franklin responded to a question from Mr. Freeman concerning
+                    the cost of putting <hi rend="italic">Foreign Relations</hi> into galleys before clearance.
+                The original manuscript was usually hard to read because of its
+                bulkiness and poor legibility . Galley proof provided a clean and well-printed
+                version with multiple copies for simultaneous clearance and
+                proofreading. The busy desk officers in the Department were likely
+                to complete their review of copy much more quickly in this galley form.
+                Mr. Dougall pointed out the advantage that proofreading of galleys
+                could proceed at the same time as clearance.</p>
+                <p>In answer to a question by Mr. LaFeber, Mr. Aandahl indicated that
+                there was a likelihood that the 1953 volumes would be published by 1976.
+                Mr. LaFeber pointed out that this was not a twenty but a twenty-three
+                year lag in publication, and that the slogan “1956 by 1976” apparently
+                referred to compilation rather than publication. Mr. Aandahl felt that
+                unless the scope of coverage were sharply reduced it would be unrealistic
+                to expect to proceed faster.</p>
+                <p>Mr. Rappaport asked whether lack of personnel was the principal
+                obstacle to speeding publication. Mr. Aandahl replied that the most
+                difficult problem was clearance.</p>
+                <p>Mr. Franklin observed that there was some time lost in training
+                before new members of the staff became fully effective. He had
+                recommended, when the Presidential directive was being considered,
+                that five years, rather than three, should be allotted for bringing
+                the series to the twenty-year line.</p>
+                <p>Answering questions from Mr. LaFeber and Mr. Freeman as to when
+                the twenty-year line would be achieved, Mr. Franklin estimated that
+                publication could be expected a year or so after the compilation
+                completion dates shown on the chart. At least some volumes should
+                be published at the twenty-year interval by 1976 or 1977.</p>
+                <p>Mr. LaFeber then made a comparison between the publication schedules
+                presented at last year’s meeting and those of the present meeting
+                and noted that certain volumes in the clearance stage last year were
+                still in that stage. Mr. Aandahl replied that NSC clearance had been
+                the problem here. Recently, after three years of effort, the Historical
+                Office and the Bureau of Public Affairs had succeeded in obtaining the
+                clearance of NSC materials for the first time. Once the 1948 volumes
+                were cleared, NSC clearance for 1949 and 1950 should be much easier.</p>
+                <p>Mr. LaFeber then asked about the progress of the new “crisis”
+                compilations suggested by the White House in August 1971. Mr. Franklin
+                said the Historical Studies Division’s pilot project in this area had
+                not gained necessary declassification action.</p>
+                <p>Mr. Franklin emphasized that in such compilations covert operations
+                figured prominently, and he asked the Committee for help in deciding
+                how to deal with them. To include references to them might hold up
+                clearance. Mr. Rappaport asked whether clearances could be obtained
+                if the material relating to covert matters were eliminated, to which
+                Mr. Franklin replied that even a minimum compilation on the pilot
+                project had not been cleared.</p>
+                <p>In answer to a question by Mr. Deener as to whether the clearances
+                for 1948 and 1949 would cover most types of clearance problems coming
+                up through 1956, Mr. Franklin answered in the affirmative, pointing
+                out that he hoped for increased speed after the current clearances were
+                obtained.</p>
+                <p>In response to Mr. Varg’s question concerning the availability
+                    in the National Archives of documents deleted from <hi rend="italic">Foreign Relations</hi>,
+                Mr. Franklin explained that any document deleted from the series
+                during the clearance process is put in a special blue-bordered envelope
+                and sent to the National Archives together with a list of all
+                such documents. If a researcher begins work in a file where such a
+                document occurs, the document is sent back to the Department for review.
+                Hopefully most such documents will be declassified when thirty years
+                old unless the head of the originating agency specifically exempts
+                them from automatic declassification.</p>
+                <p>Mr. Rappaport asked if Archives sent the blue-envelope documents
+                back to the Department without notifying researchers. Mr. Franklin
+                replied that researchers would probably know of their existence
+                through references.</p>
+                <p>Mr. Dougall noted that over the years one or two subjects had been
+                totally removed. One dealt with military bases, and had been covered
+                by an editorial note so that the volume in which it was to appear need
+                not be held up indefinitely.</p>
+                <p>Mr. Franklin pointed out that documents were regularly omitted
+                if they concerned certain continuing problems between states abroad
+                where the United States was somewhat involved -- e.g., Latin American
+                boundary disputes. Such documents were excluded because of the
+                extreme sensitivity of matters still in negotiation; releasing them
+                might impede current diplomatic business. Mr. Franklin said that he
+                knew of no case where deletion had been used to cover errors in policy
+                or personal mistakes, and he emphasized that he was striking sharply
+                at this accusation because it was now heard so frequently. The deleted
+                documents tended to deal with covert matters, with ongoing disputes,
+                or with matters where a position taken twenty years ago would still
+                affect seriously the conduct of current business.</p>
+                <p>In reply to a question by Mr. Westerfield as to whether there would
+                have to be a time lag of decades if covert operations were to be covered,
+                Mr. Franklin stated that <hi rend="italic">Foreign Relations</hi> had no intention of covering
+                covert operations as such, and that the discussion had been over
+                incidental references to them. Even the references would hold the
+                series back.</p>
+                <p>Mr. Westerfield said that if the choice were between dropping back
+                to twenty-five years to include references to such operations or
+                publishing at twenty years without them, he would opt for the former.
+                Mr. Deener was of the opinion that dropping back to twenty-five years
+                would not result in the inclusion of more such materials in the series.
+                Mr. Rappaport expressed the view that if the question arose as to
+                whether to hold up publication of a volume in order to include
+                coverage of covert operations, the decision should depend on the
+                individual case.</p>
+                <p>When Mr. Deener called for discussion of any additional problems
+                which might exist in the areas of editing or clearance, Mr. Aandahl
+                called upon the Branch Chiefs. Mr. Goodwin pointed out that in the
+                case of the General Branch, the subject of national security policy
+                was the principal source of clearance difficulties. The compilation
+                for the year 1950 was illustrative of this. It involved all the
+                sensitive agencies of the government: NSC, Defense, AEC, and CIA.
+                Volume I for 1947, which had been in clearance last year (as noted
+                earlier by Mr. LaFeber) was now cleared except for one document being
+                reviewed by AEC and CIA. Mr. Franklin pointed out that one of the
+                clearance quirks of the moment was that the NSC required clearance by
+                the CIA before it would consider clearance of its own documents.</p>
+                <p>Mr. Glennon then reported on the work of the Eastern Branch. The
+                Korean compilation for 1950 had gone to the technical editors last
+                March and was now being put into galleys; 1948, volume VII, was being
+                put in pages; and it was hoped that NSC clearance of 1948, volume VIII,
+                would be obtained soon. No major clearance problems were expected
+                over Korea for 1950.</p>
+                <p>Mr. Slany mentioned another clearance problem beginning in the
+                1950’s: the National Intelligence Estimates. These were desirable
+                documents to include in the series. Mr. Glennon reminded the committee
+                that some Estimates had already been mentioned by name and number in
+                    <hi rend="italic">Foreign Relations</hi>.</p>
+                <p>Mr. Franklin then raised another clearance problem: persons
+                involved in the current détente were nervous over publication of material
+                which documented the bitterness of the Cold War.</p>
+                <p>Mr. Slany pointed out that one effect of speeding up the series
+                might be to reassure persons who were afraid that publication would
+                hurt their activities. Publication of the Pentagon Papers seemed not
+                to have caused an overwhelming disaster. Readers would see what the
+                staff had seen as editors, with scarcely a paragraph lost. There would
+                be guides to other material in the files in the form of editorial notes.
+                We would leave behind a trail of file numbers and tips for further
+                research. There would be no intrinsic reason why the sensitive agencies
+                should be hurt. Indeed, once they saw that no serious effects
+                result from publication, they might in fact start helping us.</p>
+                <p>Mr. Aandahl observed that we had held off in some of our assaults
+                until we had some indication that we could win. Now that NSC clearance
+                was coming, it might be easier to make progress with some of the other
+                agencies.</p>
+                <p>Technical editing was then discussed. Mr. Aandahl said that it
+                would be desirable to have a larger number of permanent State Department
+                editors in addition to outside contractors. Mr. Dougall pointed
+                out that there had been a lowered quality in technical editing over
+                the past ten years in such matters as consistency in headings, citations,
+                and typefaces. Mr. Franklin remarked that a more serious form
+                of discrepancy occurred when, in the case of indexing by outsiders,
+                a different system of transliteration had been used from that in the
+                text. It was not good editing to have this sort of practice occur.
+                It was, however, cheaper to have technical editing done by outside
+                contractors.</p>
+                <p>Mr. Stauffer then mentioned the seminars which had been conducted
+                by Mr. Slany for a number of members of the staff. Mr. Slany pointed
+                out that the meetings had dealt with both the substantive and the
+                technical sides of editing, and had attempted to evolve an ongoing
+                plan by exploring new areas not previously given thorough coverage in
+                the series.</p>
+                <p>Mr. Franklin pointed out that <hi rend="italic">Foreign Relations</hi>, in keeping with
+                its position as an official government publication, had formerly contained
+                relatively little annotation. At present, however, private
+                publications were cited, although this practice was limited to primary
+                source material and the memoirs of official participants. One problem
+                was that a mere reference to someone controversial might raise the
+                question of our objectivity.</p>
+                <p>Mr. Slany raised another editorial problem: that of making <hi rend="italic">Foreign Relations</hi> responsive to the needs of those doing research. The series
+                had a role as the wedge of access. To be really effective in this
+                connection the series must relate and respond to other research and
+                writing in the field and be particularly conscious of the known points
+                of dispute.</p>
+                <p>There was some discussion at this point of the problems of citing
+                    personal memoirs and oral history interviews in <hi rend="italic">Foreign Relations</hi>.
+                Emphasis was on both the value of these materials and the need for
+                caution in their handling. Mr. Goodwin made the point that sometimes
+                such sources helped establish some general point even when their factual
+                integrity was at many points uncertain.</p>
+                <p>Mr. Franklin mentioned that the Senate Foreign Relations Committee
+                was planning to publish transcripts of executive-session testimony.
+                This was an offspring of the declassification question and might help
+                to open up executive-session material in the future. Mr. Freeman said
+                that notice should be taken of what time lag the Senate Committee followed.
+                In response to an inquiry by Mr. Westerfield as to whether clearance was
+                obtained from the Senators involved, Mr. Franklin answered that he did
+                not know.</p>
+                <p rend="center">[At 12:15 the Committee recessed for lunch with
+                Mr. Macomber. It reconvened at 2:45 p.m.]</p>
+                <p rend="center">AGENDA ITEM 8: PROBLEMS OF ACCESS AND DECLASSIFICATION</p>
+                <p>Mr. Dougall discussed the Executive Order on declassification
+                of March 8, 1972. He noted first that several proposals made by the
+                Historical Office had not been accepted in the final draft. He outlined
+                provisions of the Freedom of Information Act of 1967, which was
+                the statutory basis of the Executive Order. The Act was really designed
+                for the citizen who wishes to obtain declassification of
+                individual documents, not for the scholar interested in general declassification.
+                For the latter, use of the Act to obtain declassification
+                is a lengthy, laborious, and usually unsatisfactory process, and
+                expensive to boot.</p>
+                <p>The new Executive Order, he continued, gives an initial impression
+                that all U.S. Government documents will be declassified in ten years,
+                but there are a substantial number of exceptions, although the number
+                of officials who may classify documents and apply the exceptions has
+                been greatly reduced. Moreover, the new Order applies only to documents
+                dated later than June 1, 1972. Declassification of documents
+                prior to that date must be effected through use of the Freedom of
+                Information Act.</p>
+                <p>Mr. Dougall concluded his explanation of the Order by pointing
+                out that probably its most positive feature was extension government-wide
+                of the thirty-year rule (which originated in the Department of
+                State).</p>
+                <p>Both Mr. Franklin and Mr. Dougall drew the conclusion that the
+                Executive Order would make little difference to the serious scholar.
+                Although it might be possible under the coming computerized retrieval
+                system to make available large quantities of automatically declassified
+                documents, the cream of the crop would probably be excepted. In addition
+                computer print-outs would cost money.</p>
+                <p>Mr. Varg noted the existence of ill will among young scholars concerning
+                the current research situation. There was a great differential
+                of competence within the Archives staff, and when young doctoral candidates
+                drew poor research assistants they could be denied access to
+                crucial available information. Mr. Franklin suggested that Mr. Varg
+                take up this matter with Archives directly.</p>
+                <p>Mr. Dougall stated that the discussion at this point again
+                    brought up the locator feature of the <hi rend="italic">Foreign Relations</hi> series. Editorial
+                    notes in <hi rend="italic">Foreign Relations</hi> could point the young researcher to documentation
+                on a given problem for which there was not enough space in the
+                series itself. These notes could indicate that such documentation
+                might well be spread across the whole spectrum of lot and decimal files
+                for a given year or series of years, thereby providing the researcher
+                with the key as to where and how far to look.</p>
+                <p>Mr. Varg added that the greatest problem scholars were facing
+                was that foreign-policy documents had been generated by a greatly increased
+                number of agencies after World War II and access to these
+                documents was severely limited. Young scholars had become impatient,
+                and had taken to issuing “ten year manifestoes” which didn’t cut to
+                the heart of the real and basic problems which had been discussed here.</p>
+                <p>Mr. Aandahl asked the Committee as a whole if outside scholars
+                felt the Historical Office had done an adequate job on the Cold War
+                in <hi rend="italic">Foreign Relations</hi>. Mr. LaFeber replied affirmatively. Mr. Aandahl
+                observed the series had always tried to cover all sides of the biggest
+                issues, and Mr. Rappaport noted that this had always been the mission
+                of <hi rend="italic">Foreign Relations</hi>.</p>
+                <p>Mr. LaFeber stated that one of his graduate students, interested
+                in U.S.-Thai relations, had consulted the appropriate volume for 1947
+                but had found nothing on the subject. Mr. Glennon explained that a
+                review of the matter had disclosed that there was no body of documents
+                worthy of inclusion in the series, and that relations of the two
+                countries were then of peripheral importance.</p>
+                <p>Mr. Franklin mentioned a similar criticism concerning the treatment
+                of Korea in the 1945 volume. The volume correctly reflected the
+                fact that Korea had not then been an important factor in American
+                diplomacy so far as policymakers were concerned. Both Mr. Franklin
+                and Mr. Aandahl pointed out that the perspective of twenty years did
+                enable the staff occasionally to include material that was not contemporarily
+                relevant but became so later.</p>
+                <p>Mr. LaFeber observed that apparently the Executive Order would
+                    have no real effect on the future of <hi rend="italic">Foreign Relations</hi>. He pointed
+                out that the Committee would have two obligations: First, to explain
+                the Executive Order to the scholarly community, especially to the
+                American Historical Association, and second, to stress the necessity
+                of getting the <hi rend="italic">Foreign Relations</hi> publication interval down to twenty
+                years.</p>
+                <p>Mr. Franklin suggested that the Committee might investigate,
+                through the various learned societies to which its members belonged,
+                how well scholars had done in getting access to top-flight policy
+                documents through the Executive Order. He explained that the Order
+                had had the effect of whetting scholarly appetites for quicker
+                declassification, but he was afraid that the results had been disappointing
+                to the scholars.</p>
+                <p>Mr. LaFeber then asked whether the Historical Office thought that
+                it needed more staff to reach the twenty-year line in three years. Mr.
+                Franklin replied that this was impossible to determine at the moment.
+                It would depend on how long it would take new staff members to reach
+                a level of sustained competence. He had reserved the right to request
+                further positions in the future if lack of staff proved to be the main
+                factor holding up production, but if clearance should be the main
+                source of slowdown, there would be no reason to ask for further staff.
+                Mr. Franklin again stressed the bottlenecks outside the Historical
+                Office, such as clearances from various agencies and governments,
+                editorial work including indexing, and the facilities and priorities
+                of the Government Printing Office.</p>
+                <p>At 4:06 p.m. Mr. Deener adjourned the meeting so that the members
+                of the Advisory Committee could have a private discussion.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

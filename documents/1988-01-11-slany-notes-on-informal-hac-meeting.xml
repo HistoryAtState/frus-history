@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">William Slany Report on Informal HAC Meeting, January
+                    1988</title>
+                <title type="short">Slany Informal HAC Meeting Report, January 1988</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-02-24">February 24, 2014</date>
+                <date type="created" when="1988-01-11">January 11, 1988</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1988-01-11-slany-notes-on-informal-hac-meeting.pdf">PDF</ref>, 416
+                    KB, 2pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 5, Correspondence-1988. Drafted by Deputy
+                    Historian Neal H. Petersen (PA/HO).</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 10, <ref
+                    target="../chapter-10#fn36">Footnote 36</ref></p>
+            <div type="document">
+                <head>WZS Report on Results of Advisory Committee Meeting</head>
+                <dateline>January 11, 1988</dateline>
+                <p>WZS met with the Committee at a hotel after the Friday session of the regular
+                    meeting was snowed out. He reported the following to FR managers on Monday.</p>
+                <p>The FRAC is very dubious about the utility of an intelligence supplement. NHP
+                    should draft a more complete justification statement.</p>
+                <p>The FRAC wants an updated version of the 60-by-90 schedule. WZS wants a new
+                    version rather than an updated version of the old schedule, which is now
+                    overtaken by events. NHP should prepare the new schedule.</p>
+                <p>The FRAC is receptive to the idea of expert review of volumes at the planning
+                    stage and then again at the pre-publication stage. HO needs to devise a
+                    plan.</p>
+                <p>The FRAC wants to weigh in on the matter of the structure of the series. It is
+                    inclined toward comprehensiveness, in at least providing information on file
+                    location for all significant subjects. Members are turned off by the idea of not
+                    covering lesser subjects in any manner. This will be discussed at the November
+                    meeting. We will want to devise detailed tables of contents for the 1961-1963
+                    volumes.</p>
+                <p>Some of the members are skeptical about microfiche. Some prefer microfilm. We
+                    need to integrate microfiche supplements into our overall planning in order to
+                    better explain it to the FRAC.</p>
+                <p>With regard to CDC and declassification, the Committee liked the CDC
+                    presentation, particularly Sober’s. Members still want to see withheld documents
+                    and the guidelines developed for NARA reviewers, but most feel that this year’s
+                    meeting was a step forward.</p>
+                <p>Perkins will address a letter to Redman on the failure of the Department to
+                    follow up on his meeting with Spiers in 1987. He will stress the need for
+                    dialogue and indicate that the Committee is not wedded to the concept of an
+                    “ombudsman” to monitor declassification.</p>
+                <p>The Committee was not much concerned with the decompiling process, feeling that
+                    was our business.</p>
+                <p>Most of the above was discussed with Redman and High at a meeting on Friday
+                    January 8.</p>
+                <p>There was agreement that the next Advisory Committee meeting would be held in
+                    November.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

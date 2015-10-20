@@ -1,0 +1,49 @@
+<event>
+    <id>7</id>
+    <title>Panel Discussion on <em>FRUS</em> at the Wilson Center</title>
+    <created>2011-11-07</created>
+    <icon>
+        <width>150px</width>
+        <height>114px</height>
+        <url>http://static.history.state.gov/frus150/wilson-center-logo.png</url>
+        <alttext>Wilson Center Logo</alttext>
+    </icon>
+    <link>/historicaldocuments/frus-history/events#wilson-center</link>
+    <link-alttext>More information about this event</link-alttext>
+    <event-type>Public Presentation</event-type>
+    <event-date>2012-02-02</event-date>
+    <teaser>
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <a href="/historicaldocuments/frus-history/events#wilson-center">“<em>Foreign Relations of the United States</em> Series: SALT I, 1969–1972”</a>
+            <br/> (Panel Discussion at the Wilson Center) </div>
+    </teaser>
+    <full-description>
+        <div xmlns="http://www.w3.org/1999/xhtml" id="wilson-center">
+            <a style="float:right" class="not-external" href="http://www.wilsoncenter.org/event/foreign-relations-the-united-states-series-salt-i-1969%E2%80%931972" title="Link to Wilson Center event info">
+                <img width="150px" height="114px" style="border:1px black solid" src="http://static.history.state.gov/frus150/wilson-center-logo.png" alt="Wilson Center Logo"/>
+            </a>
+            <h3>
+                <a href="http://www.wilsoncenter.org/event/foreign-relations-the-united-states-series-salt-i-1969%E2%80%931972">“<em>Foreign Relations of the United States</em> Series: SALT I, 1969–1972”</a>
+            </h3>
+            <p style="font-size: 0.825em; text-transform: uppercase;"> A panel discussion at the Wilson Center<br/>February 2, 2012, 3:30-5 p.m.</p>
+            <p>The Nuclear Proliferation International History Project in collaboration with the
+                U.S. Department of State's Office of the Historian presents a panel discussion on
+                the latest volume in the <em>Foreign Relations of the United States</em> Series, 1969–1976,
+                Volume XXXII, SALT I, 1969–1972. Speakers will include: Erin Mahan, chief historian
+                of the Office of the Secretary of Defense, Michael Krepon, co-founder and senior
+                associate at Stimson and Amb. Raymond L. Garthoff, senior fellow at the Brookings
+                Institution, and former member of the SALT negotiating team.</p>
+            <p>The Strategic Arms Limitation Talks produced a series of comprehensive arms control
+                agreements between the United States and the Soviet Union that for the first time
+                limited the deployment of ballistic missiles and anti-ballistic missile systems.
+                Commonly referred to as “SALT I,” the agreements were signed by President Richard
+                Nixon and the General Secretary of the Soviet Union Leonid Brezhnev at the Moscow
+                Summit in May 1972. This volume documents the negotiations leading up to the
+                agreement, the internal deliberations among U.S. policy makers, and reveals the play
+                of political and national security considerations that factored into U.S.
+                negotiating positions and policy decisions.</p>
+            <p>Tim McDonnell, program associate in the Wilson Center's Nuclear Proliferation
+                International History Project will chair the event.</p>
+        </div>
+    </full-description>
+</event>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Memorandum of Conversation Among HO and CIA Officials,
+                    August 1979</title>
+                <title type="short">HO-CIA Meeting, 1979</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2013-12-09">December 9, 2013</date>
+                <date type="created" when="1979-08-15">August 15, 1979</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1979-08-15-ho-meeting-with-cia.pdf">PDF</ref>, 272 KB, 6pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: National Archives and Records Administration, Record Group
+                    59, Entry UD-08D-4: Bureau of Public Affairs, Assistant Secretary and Deputy
+                    Assistant Secretary Subject Files, 1975-1981 (82 D 297), Box 6, The Historian’s
+                    Office 1979. Drafted by David Baehler and Paul Claussen, September 7, 1979. An
+                    unknown hand, presumably Deputy Assistant Secretary of State for Public Affairs
+                    William Blair, underlined passages in the text. For these annotations, refer to
+                    the scanned copy of this document.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 9, <ref
+                    target="../chapter-9#fn18">Footnotes 18</ref> and <ref
+                    target="../chapter-9#fn82">82</ref></p>
+            <div type="document">
+                <head>Memorandum of Conversation Among HO and CIA Officials</head>
+                <dateline>August 15, 1979</dateline>
+                <p>On August 15, representatives of the Central Intelligence Agency's
+                    declassification operation and the Office of the Historian (PA/HO) met to
+                    discuss problems of clearance and access for the series <hi rend="italic"
+                        >Foreign Relations of the United States</hi> (FRUS). Present from HO were
+                    David Trask, Bill Slany, Paul Claussen, and David Baehler. The following were
+                    present from CIA:</p>
+                <list>
+                    <item>[<hi rend="italic">name not declassified</hi>] Information Review Officer
+                        in the Directorate for Operations (DDO).</item>
+                    <item>Gale Allen, Chief, Classification Review Division (CRD), Information
+                        Systems Staff, Directorate for Administration.</item>
+                    <item>Jack Pfeiffer, CIA Historian</item>
+                    <item>[<hi rend="italic">name not declassified</hi>] Chief, Branch for National
+                        Foreign Assessment Center, CRD.</item>
+                    <item>[<hi rend="italic">name not declassified</hi>] Chief, Branch for
+                        Directorate of Administration, CRD.</item>
+                    <item>[<hi rend="italic">name not declassified</hi>] Chief, Branch for
+                        Directorate of Operations, CRD.</item>
+                </list>
+                <p>The last three are each subordinates of Allen. [<hi rend="italic">name not
+                        declassified</hi>] Chief, Branch for Directorate of Science and Technology,
+                    CRD, was not present.</p>
+                <p>Allen opened the discussion by indicating the CRD's role in the declassification
+                    operation of the CIA. It is the equivalent of the Systematic Review Staff of the
+                    Department's Classification/Declassification Center. The major difference is
+                    that it reviews at the 20-year line all of CIA's documents, not just a sample.
+                    It also reviews all FRUS material sent to the Agency for review. FRUS galleys
+                    and manuscript sent to CIA receive priority attention, as reflected in the
+                    recent fast turn-around time.</p>
+                <p>After the CRD completes its review of each FRUS compilation, it sends it to [<hi
+                        rend="italic">text not declassified</hi>] group in the Directorate for
+                    Operations. In response to a question, Allen indicated that the DDO was the only
+                    directorate of the four to which FRUS material was automatically referred for
+                    follow-up review, because the DDO was the area of greatest sensitivity. Material
+                    was referred to the other directorates only if it was sensitive to those areas.
+                    It was revealed later that 80 or 90 percent of CIA's mandatory review requests
+                    fell within areas covered by the DDO, and the declassification operation there
+                    was consequently much more developed than in any other directorate. To review
+                    FRUS material, the CRD was using consultants or contractors who were familiar
+                    with a specific area by virtue of having served in the field. They were brought
+                    on board as needed either for FRUS or for systematic review assignments.</p>
+                <p>Allen broached the issue of substantive clearance, admitting that there was a lot
+                    of room for disagreement on the decisions taken. Even within the CRD, any two
+                    analysts might disagree on declassifying the same document, different copies of
+                    which turn up in separate collections. If could happen within CIA, it stood to
+                    reason that CIA and HO might disagree on decisions. Trask briefly outlined HO's
+                    new procedure for submitting FRUS material for review under E.O. 12065, noting
+                    that it was pointless for HO to submit material that was not going to be
+                    cleared. There would, however, be cases where HO felt material should be
+                    declassified and CIA did not.</p>
+                <p>Allen then discussed the criteria by which CIA reviewed FRUS material. It was
+                    hard to be one hundred percent certain at any given time about what material was
+                    in the public domain. The range was great, from the recently published report on
+                    assassinations, to the Pentagon Papers, to information that had been
+                    specifically cleared by CIA's Publication Review Board. Allen volunteered that
+                    he could arrange meetings between his analysts in a given area and the
+                    appropriate Department of State historians. If HO could show that knowledge of
+                    an incident or policy had already been revealed by “executive disclosure” (i.e.,
+                    officially divulged), CIA would consider approving it for publication. In
+                    response to a question by Slany, [<hi rend="italic">name not declassified</hi>]
+                    stated that this excluded memoirs written by foreign government figures after
+                    they left office. Otherwise, manuscripts and publications approved by CIA's
+                    Publication Review Board constituted a second category of executive disclosure.
+                    If any given information has already been cleared by the Board, it will be
+                    approved for publication in FRUS. CIA's problem is that prior to 1977 there were
+                    no good records of what was officially approved and what was not. CIA has a
+                    bibliography of all manuscripts officially approved since the beginning of
+                    1977.</p>
+                <p>A third category of executive disclosure is the release of documents through
+                    mandatory review. Slany asked whether the CIA had a method of keeping track of
+                    the documents that have been declassified in this way. [<hi rend="italic">name
+                        not declassified</hi>] answered that the DDO has a computer that indexes all
+                    of the documents retrieved for purposes of replying to FOI requests arriving in
+                    that directorate. In addition, the Information and Privacy Staff, which is the
+                    mandatory review counterpart to CRD, indexes everything requested of the entire
+                    agency. Allen did not recommend that HO make use of the computerized system
+                    because the record was not as complete as it could be and the information might
+                    not be retrievable in a form that HO could use. Trask pointed out that this body
+                    of computer-stored information could itself be considered an official record,
+                    reviewable after 20 years.</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] stated that if the Department of
+                    State were to make a revelation concerning an incident or policy related to
+                    CIA's Directorate of Operations, the DDO would not feel obliged to confirm that
+                    disclosure. [<hi rend="italic">Name not declassified</hi>] felt particularly
+                    conscious of the statutory obligation to protect intelligence sources and
+                    methods because CIA was constantly faced with litigation. CIA based its actions
+                    on section 6 of the Central Intelligence Agency Act of 1949, which includes
+                    language obliging the Director of Central Intelligence to protect sources and
+                    methods from unauthorized disclosure. [<hi rend="italic">Name not
+                        declassified</hi>] acknowledged that in some cases CIA was dealing with
+                    personalities rather than certainties, so contact between HO compilers and CIA
+                    reviewers would be useful. In response to a question by Trask, Allen indicated
+                    that he was prepared to facilitate such contact, beginning with the FRUS volumes
+                    for 1952-1954 on which there were differences of view mentioned in Trask's
+                    letter of July 23.</p>
+                <p>In response to a question by Baehler, [<hi rend="italic">name not
+                        declassified</hi>] acknowledged that ClA considered FRUS to be the maximum
+                    form of executive disclosure. Because of this, the Agency was very careful about
+                    each clause, sentence, or document that it cleared for publication. The CIA knew
+                    that the Soviets would scrutinize each new FRUS volume, as would the British and
+                    the French. He emphasized that there was no going back once publication had
+                    occurred, so CIA reviewers must be cautious beforehand.</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] distinguished between review of
+                    various types of material. NIE's and SNIE's, for example, did not often present
+                    a clearance problem. [<hi rend="italic">Text not declassified.</hi>] Slany asked
+                        [<hi rend="italic">name not declassified</hi>] whether there were guidelines
+                    by which decisions on these various categories of material were made, pointing
+                    out that because HO had not had access to the greater body of material, its
+                    historians did not know what categories of material might lie beyond in the area
+                    of covert operations. [<hi rend="italic">Name not declassified</hi>] responded
+                    that the guidelines were established initially in his [<hi rend="italic">text
+                        not declassified</hi>] head, and then discussed. The inference was that
+                    nothing has yet been written by way of guidelines. In response to a question by
+                    Trask, [<hi rend="italic">name not declassified</hi>] indicated that CIA had
+                    supplied the National Archives with agency guidelines for systematic review, to
+                    be applied to material found in the files of other agencies.</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] stated that in cases where CIA was
+                    involved, the Agency might have to extend classification beyond 20 years because
+                    of the sensitivity of an issue. He cited Stephen Kane's compilation on Guatemala
+                    for 1952-1954 as an example. CIA would have to resist the publication of
+                    anything more than the basic fact that the Agency participated in the overthrow
+                    of the Arbenz regime. It could not allow publication of details concerning how
+                    it was done, what incidents were involved, or what sources or methods were used,
+                    even though Kane was being granted access to documentation on matters. Trask
+                    indicated that HO was not interested in publishing details concerning the
+                    mechanics of operations. But were policy issues -- for example, whether or not
+                    the Ambassador was fully cognizant of the operation and whether or not he was
+                    part of its planning -- also excluded under [<hi rend="italic">text not
+                        declassified</hi>] criteria?</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] said CIA would defer to the
+                    Department of State on the foreign relations aspects of an issue. If the
+                    Department, taking into consideration relations with a given country today,
+                    determined that no foreign relations problem was involved, such information
+                    could be published. Trask asked if it was the sensitivity of an operation that
+                    was really issue. [<hi rend="italic">Name not declassified</hi>] then returned
+                    to the wording of E.O. 12065: would its release contribute to “identifiable
+                    damage” to the national security? That was the key phrase, he said, not
+                    sensitivity. He then reiterated that CIA would defer to the Department on the
+                    foreign policy aspects of an issue. Asked about CIA's justification for
+                    withholding material beyond 20 years, [<hi rend="italic">name not
+                        declassified</hi>] mentioned the 30-year rule for foreign government
+                    information, CIA's statutory mandate for protecting sources and methods, and
+                    problems of forgery of internal CIA documents by unfriendly governments if the
+                    format of a CIA document was revealed.</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] volunteered that the FRUS
+                    editorial note was a useful device for maintaining the integrity of the series
+                    by acknowledging CIA's presence in a given country while at the same time
+                    avoiding detailed coverage of CIA activities in any given operation. Most
+                    friendly foreign governments would recognize the validity of this sort of
+                    treatment. Slany pointed out that in order to prepare editorial notes, the
+                    Department's historians would need access to CIA documents. The possibility of a
+                    partnership existed in which FRUS could perform a useful service. There was some
+                    general discussion of the access question. [<hi rend="italic">Name not
+                        declassified</hi>] noted that HO had recently gained access to various
+                    documents through Pfeiffer's office. Access to documents originated by the DDO
+                    area was at the discretion of individual area division chiefs, some of whom
+                    might be reluctant to hand over material. Trask noted that HO understood that
+                    its channel for access after Pfeiffer's operation ceased at the end of 1979 was
+                    to be the Center for the Study of Intelligence. Allen [<hi rend="italic">text
+                        not declassified</hi>] explained that the Center was a unit of CIA's Office
+                    of Training, under the Directorate of Administration, to which fellows were
+                    assigned for 9 or 12 months' study. The Center also has a permanent staff. There
+                    was some discussion of why the Center might have been designated to service HO's
+                    needs.</p>
+                <p>Claussen noted that in CIA's review of FRUS material during the past year there
+                    were some inconsistencies, oversights, and possible inaccuracies in what was
+                    recommended for deletion, both within and between volumes. It would therefore be
+                    highly desirable for FRUS compilers to meet with appropriate CIA
+                    declassification analysts to discuss the four volumes cited in HO's letter of
+                    July 23, as well as other volumes now outstanding. He pointed out that the
+                    charter under which FRUS is prepared requires that there be no alteration of the
+                    texts of documents and no deletions without an indication of where in the text
+                    deletions are made. The obligatory indication of ellipsis or bracketed notations
+                    might in some cases suggest to readers familiar with other published accounts of
+                    a given event that more sinister actions were undertaken than was actually the
+                    case, or that more had been deleted from a given document than was actually
+                    removed.</p>
+                <p>Allen once again suggested meetings between FRUS compilers and his
+                    declassification analysts to talk about specific instances of disagreement on
+                    declassification actions. [<hi rend="italic">Name not declassified</hi>]
+                    applauded and encouraged liaison for the sake of omitting “inconsistencies,
+                    oversights, and inaccuracies.” He said that some CIA officers, when faced with a
+                    declassification decision, did not have all the necessary information, and would
+                    therefore welcome consultation with HO specialists. Allen proposed that the
+                    meetings be held informally, but that the conclusions reached be documented. It
+                    was agreed that Baehler and Allen would arrange appointments. Volumes for
+                    1952-1954 on Latin America and Indochina would probably be the first two to be
+                    considered.</p>
+                <p>Trask observed that from HO's point of view there were three categories of
+                    material: first, that which was clearly not releasable; second, that which was
+                    clearly releasable; and third, that about which HO was unsure. This third would
+                    be the subject of discussion. HO could be more helpful if it knew the
+                    appropriate guidelines.</p>
+                <p>Baehler briefly described the new declassification system within the Department
+                    of State and pointed out that in the future CIA would receive the documents the
+                    Department wished to publish in raw, unedited photocopy form. [<hi rend="italic"
+                        >Name not declassified</hi>] expressed concern about whether or not HO could
+                    always recognize CIA matters contained in State Department documents. Claussen
+                    pointed out that such matters would be identified by experienced officers on the
+                    Department's central declassification staff.</p>
+                <p>[<hi rend="italic">Name not declassified</hi>] asked whether HO had approached
+                    the National Security Council on access to and declassification of the sort of
+                    material HO sought from the CIA. He said that on questions of policy concerning
+                    covert activities, CIA was really only an executive secretariat to the NSC in
+                    the later 1950s and 1960s. NSC had a more important role than the CIA, and HO
+                    would do well to get into the NSC files if it wanted to publish the documents on
+                    intelligence operations of greatest historical interest.</p>
+                <p>Trask emphasized in conclusion that HO wanted to be sure that it had done
+                    everything possible to put in the published record what was appropriate. At the
+                    same time, he was sure that it had been made clear during this exchange of views
+                    that HO intended to act responsibly.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

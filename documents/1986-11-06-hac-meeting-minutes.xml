@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Minutes of Historical Advisory Committee Meeting, November
+                    1986</title>
+                <title type="short">HAC Meeting Minutes, 1986</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-02-24">February 24, 2014</date>
+                <date type="created" when="1986-11-06">November 6, 1986</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1986-11-06-hac-meeting-minutes.pdf">PDF</ref>, 326 KB, 21pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 5, Advisory Committee Minutes - 1986. Drafted
+                    by Historian William Z. Slany, Deputy Historian Neal H. Petersen, and Assistant
+                    to the Historian and Information Staff Chief Carol A. Becker (PA/HO). A record
+                    of the classified briefing on declassification procedures, mentioned at the
+                    close of the Thursday afternoon session, has not been located.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 10, <ref
+                    target="../chapter-10#fn19">Footnote 19</ref></p>
+            <div type="document">
+                <head>Minutes of the 1986 Meeting of the Advisory Committee on Historical Diplomatic
+                    Documentation</head>
+                <dateline>November 6-7, 1986</dateline>
+                <p rend="underline">American Historical Association</p>
+                <list>
+                    <item>Dr. Robert Dallek, Department of History, University of California, Los
+                        Angeles, California 90024</item>
+                    <item>Dr. Blanche Wiesen Cook, Department of History, John Jay College, CUNY,
+                        New York, New York 10036</item>
+                    <item>Dr. Warren F. Kuehl, Department of History, University of Akron, Akron,
+                        Ohio 44325</item>
+                </list>
+                <p rend="underline">American Political Science Association</p>
+                <list>
+                    <item>Dr. Michel Oksenberg, Center for Chinese Studies, Lane Hall, University of
+                        Michigan, Ann Arbor, Michigan 48109</item>
+                    <item>Dr. Deborah W. Larson, Department of Political Science, Columbia
+                        University, New York, New York 10027</item>
+                </list>
+                <p rend="underline">American Society of International Law</p>
+                <list>
+                    <item>Dr. John Lawrence Hargrove, Executive Vice President and Executive
+                        Director, The American Society of International Law, 2223 Massachusetts
+                        Avenue, N.W., Washington, D.C., 20008</item>
+                </list>
+                <p rend="underline">Organization of American Historians</p>
+                <list>
+                    <item>Dr. Bradford Perkins, Department of History, University of Michigan, Ann
+                        Arbor, Michigan 48109</item>
+                </list>
+                <p rend="underline">Society for Historians of American Foreign Relations</p>
+                <list>
+                    <item>Dr. Warren I. Cohen, Department of History, Michigan State University,
+                        East Lansing, Michigan 48824</item>
+                    <item>Dr. Michael H. Hunt, Department of History, University of North Carolina,
+                        Chapel Hill, North Carolina 27514</item>
+                </list>
+                <p rend="underline">Other Persons Present:</p>
+                <p>Bureau of Public Affairs (PA):</p>
+                <list>
+                    <item>George B. High, Deputy Assistant Secretary</item>
+                </list>
+                <p>The Office of the Historian (PA/HO):</p>
+                <list>
+                    <item>(Both days):</item>
+                    <item>William Z. Slany, The Historian</item>
+                    <item>Neal H. Petersen, Deputy Historian</item>
+                    <item>John P. Glennon, Foreign Relations Division Chief</item>
+                    <item>Carol A. Becker, Assistant to the Historian and Information Staff
+                        Chief</item>
+                    <item>Mitchell Stewart, Management Advisor</item>
+                    <item>Charles S. Sampson</item>
+                    <item>David W. Mabon</item>
+                    <item>(Friday only):</item>
+                    <item>Paul Claussen, Policy Studies Division Chief</item>
+                    <item>David S. Patterson, Operations Staff Chief</item>
+                    <item>David H. Herschler, Records Historian</item>
+                    <item>David M. Baehler</item>
+                    <item>Suzanne E. Coffman</item>
+                    <item>Evan Duncan</item>
+                    <item>Evans Gerakas</item>
+                    <item>Nancy Golden</item>
+                    <item>Katherine Hagedorn</item>
+                    <item>Kay Herring</item>
+                    <item>Nina D. Howland</item>
+                    <item>Edward C. Keefer</item>
+                    <item>Ronald D. Landa</item>
+                    <item>James E. Miller</item>
+                    <item>Nina J. Noring</item>
+                    <item>Neal O’Loughlin</item>
+                    <item>David S. Painter</item>
+                    <item>William F. Sanford</item>
+                    <item>Harriet D. Schwar</item>
+                    <item>Louis J. Smith</item>
+                    <item>Sherrill B. Wells</item>
+                </list>
+                <p>Center for Classification/Declassification (A/CDC): (Thursday session)</p>
+                <list>
+                    <item>Ambassador John R. Burke, Deputy Assistant Secretary of State for
+                        Classification/Declassification</item>
+                    <item>Dwight Ambach, Director, Office of Systematic Review</item>
+                    <item>Benjamin Fleck</item>
+                    <item>Charles Floweree</item>
+                    <item>William Galloway</item>
+                    <item>Sidney Sober</item>
+                </list>
+                <p>Foreign Affairs Information Management Center (A/FAIM):</p>
+                <list>
+                    <item>Paul Washington, Chief, Publishing Services Division</item>
+                    <item>Rita Baker, Documentary Editing Section Chief</item>
+                </list>
+                <p>Others:</p>
+                <list>
+                    <item>Milton O. Gustafson, Chief, Diplomatic Branch, NARA</item>
+                    <item>Edwin A. Thompson, Project Director, Records Declassification Division,
+                        NARA</item>
+                    <item>David Langbart, Records Appraisal Division, NARA</item>
+                    <item>Kenneth McDonald, Chief Historian, CIA</item>
+                    <item>Chief, Classification Review Division, CIA</item>
+                    <item>Mary McAuliffe, Historian, CIA</item>
+                    <item>James Gardner, American Historical Association</item>
+                </list>
+                <p>[<hi rend="italic">Omitted here is a list of abbreviations.</hi>]</p>
+                <p rend="center"><hi rend="italic">Thursday Morning Session (Closed)</hi></p>
+                <p>The meeting was convened at 10:30 a.m. Deputy Assistant Secretary High welcomed
+                    the Committee to the Department, observed the Department’s concern over the
+                    effort to accelerate the <hi rend="italic">Foreign Relations</hi> series, and
+                    wished the Committee well in its deliberations. The Committee elected Prof. Brad
+                    Perkins by acclamation to be Chairman.</p>
+                <p rend="underline">Opening Statement by The Historian</p>
+                <p>Mr. Slany asked the Committee to consider and make recommendations to the
+                    Department on two major issues this year: 1) the need to limit the size of the
+                        <hi rend="italic">Foreign Relations</hi> series in order to stretch
+                    available resources to meet the targets of the acceleration program; and 2) the
+                    need for expert academic critical evaluation of the contents of volumes before
+                    publication to assure that the numerous if smaller volumes published under the
+                    acceleration plan contain the essential historical record.</p>
+                <p>Consideration of these two related issues ought to be carried on bearing in mind
+                    the three positive factors and three negative factors. On the positive side:</p>
+                <list>
+                    <item>(1) The first year of the acceleration plan has been successful and
+                        publication and declassification of the increased number of volumes is on
+                        schedule;</item>
+                    <item>(2) The Department’s leadership is aware and concerned about the delays in
+                        publishing the <hi rend="italic">Foreign Relations</hi> series and supports
+                        the efforts of all involved to speed up the process;</item>
+                    <item>(3) The process of declassifying the volumes in the series is working
+                        well.</item>
+                </list>
+                <p>On the down side, however, there are an equal number of negative factors:</p>
+                <list>
+                    <item>(1) General budget reduction efforts of the government as a whole and the
+                        sharp cuts in the State Department’s budget in particular have a very direct
+                        and serious impact upon the <hi rend="italic">Foreign Relations</hi> program
+                        and will require broad cost cutting measures if the acceleration schedule is
+                        to be achieved.</item>
+                    <item>(2) In the last ten years the Historian’s Office has carried out a major
+                        modernization and improvement in the preparation of the series volumes
+                        including greatly expanding the sources used in the compiling, expanding the
+                        annotational apparatus, and revising the format of the volumes; the
+                        Committee and the public, however, has thus far seen few of these new
+                        volumes (more than 40 in number have been compiled and fewer than 10
+                        published) and cannot make much of a judgment about the new editing
+                        procedures and how far they go toward reducing the need for oversized
+                        books;</item>
+                    <item>(3) while the declassification procedures have been essentially perfected
+                        and are functioning well, the substantive evaluation of the impact of
+                        declassification review upon the quality of the published historical record
+                        has to be continuously critically reviewed; the staff of the Historian’s
+                        Office is inevitably placed in an adversarial position toward the
+                        Department’s declassifiers and obliged to advocate the maximum disclosure of
+                        historical records and information.</item>
+                </list>
+                <p>Mr. Slany concluded by again emphasizing the need for Advisory Committee advice
+                    and counsel on structure and scope of an accelerated series that provides for
+                    over 50 volumes over the next four years as well as for guidance on how to
+                    institute a more systematic critique of that many volumes in advance of their
+                    publication. The review and critique that was most needed would evaluate the
+                    structure of individual volumes, the selection of documents, and the impact upon
+                    the accuracy of the record of deletions in the declassification process. In the
+                    discussion that followed the Committee commented upon the merits and dangers of
+                    the trade-off between earlier publication of the record and more selective
+                    volumes in the series that were smaller than those of recent years. The
+                    committee explored the concern of the academic profession over the endorsement
+                    of a Department policy to publish less of the official record. There seemed to
+                    be general willingness on the Committee’s part to acknowledge the need for
+                    economies in producing the accelerated series, but members were eager to explore
+                    all aspects of the matter.</p>
+                <p rend="underline">Statement on Budgetary Considerations by Mitchell Stewart</p>
+                <p>Three factors are at work:</p>
+                <list>
+                    <item>1) The accelerated publishing schedule will create a large increase in
+                        funding requirements. The Department has already acted to reduce sharply the
+                        printing and binding costs of each volume by concluding a long-term contract
+                        with a commercial printing firm. Under this new printing contract, each
+                        800-page volume costs the DOS $28,000. This figure is far lower than any GPO
+                        cost for any previous volume and is generally regarded as genuinely
+                        economical. It includes technical editing, proofreading, index, composition,
+                        printing and binding.</item>
+                    <item>2) There is a tradeoff between volume size and cost. Each additional page
+                        above 800 (which has been determined to be the optimum size to declassify,
+                        edit, index, and produce) has a dollar cost associated with it.</item>
+                    <item>3) Marketing realities matter. Of a complete press run of about 3000
+                        copies, the first 300 copies (paid for by the Department at a cost of
+                        $28,000) are given away by HO; the next 1030 copies (at a marginal cost of
+                        $4.00 per volume) are given away by the Congress to the depository
+                        libraries; the next 1000 copies (again at a marginal cost of $4.00 each) are
+                        paid for by the Congress and are given away as House Documents. Thus, only
+                        about 800 are sales items at GPO for which marketing techniques will make
+                        any difference at all.</item>
+                </list>
+                <p>Upon conclusion of this presentation, several committee members inquired about
+                    the relative advantage of publishing the <hi rend="italic">Foreign
+                        Relations</hi> volumes at a university press. Members of the Historian’s
+                    Office explained that the Department was obliged by law to publish its volumes
+                    only through the Government Printing Office. A waiver from this legal
+                    requirement could only be obtained from Congress, and it was extremely difficult
+                    to obtain. The extended term printing contract for the volumes was the best that
+                    could be done, but the Department would continue to pursue such a waiver. The
+                    university press route remained a possibility in the future. The great advantage
+                    of a university press might not be in its cost per item but in its far superior
+                    merchandising mechanisms. On the other hand, the GPO distribution system, which
+                    provides free of charge copies of each <hi rend="italic">FRUS</hi> volume to
+                    over 1000 depository libraries, retains an undeniable advantage.</p>
+                <p>Committee members inquired about the possibility of publishing some list of the
+                    documents omitted from <hi rend="italic">Foreign Relations</hi> volumes because
+                    of declassification problems. Such a list of documents could help scholars who
+                    might wish to carry on research beyond the printed texts. Reductions in the
+                    number of documents printed in the series would make such lists even more
+                    useful. Mr. Slany said that to some extent this was already being done, but in
+                    the form of references to individual documents in footnotes. In cases where
+                    whole documents had been deleted by the CDC, a precise list of still classified
+                    papers would become grist for FOIA requests. The CDC would obviously find such a
+                    list undesirable. Slany assured the Committee that the Historian’s Office would
+                    explore the inclusion in future <hi rend="italic">FRUS</hi> volumes of calendars
+                    or lists of papers not selected for publication but of importance to the study
+                    of the subject being documented.</p>
+                <p>There was a discussion of the relationship of the publication of the <hi
+                        rend="italic">Foreign Relations</hi> volumes and the systematic
+                    declassification of Department records and their opening to scholars and the
+                    public. Strictly speaking the opening of the Department’s files for scholars’
+                    access and the publication of the selected record in the <hi rend="italic"
+                        >FRUS</hi> volumes are separate and distinct operations. In practice, the
+                    preparation of the <hi rend="italic">Foreign Relations</hi> volumes is the
+                    essential first step in the CDC’s work in systematically reviewing the files for
+                    declassification. Slany observed that the contribution of the historians in
+                    selecting a sample of the most representative documents and files for any given
+                    time period is the key to the CDC processing of the whole of the Department
+                    records before they are acquired by the National Archives. From the Department’s
+                    point of view the actual publication of the volumes in the <hi rend="italic"
+                        >Foreign Relations</hi> series is not necessary for the completion of the
+                    declassification of all the records and their opening at the National Archives.
+                    Slany further observed that budget reductions being experienced by the
+                    Department made the status of the <hi rend="italic">FRUS</hi> series precarious
+                    for the reason that opening of the files could go forward even if no volumes
+                    were published. That was why it is urgent to devise a publication scheme and
+                    scope that continues to be reasonable to meet the most urgent Department
+                    obligations to the historical community.</p>
+                <p>The Committee turned to a discussion of the functions and role of a possible
+                    editorial board. Attention was given to the utility of a pre-publication review
+                    of the volumes. Slany reminded the Committee that more than 50 volumes would, if
+                    the schedule were adhered to, be published in the next four years. Neither the
+                    Office nor the Department wanted to wait for several years to discover that the
+                    volumes were flawed in some serious way as to negate the whole expensive effort
+                    of bringing out the volumes in the face of so many constraints. Slany was
+                    willing for the Committee to provide the names of particularly qualified
+                    scholars who could review the <hi rend="italic">FRUS</hi> volumes after they had
+                    been declassified but before they were set in print and published.</p>
+                <p>The idea of an editorial board as a subcommittee of the Advisory Committee was
+                    examined and generally supported. The editorial board or members of the
+                    Committee might serve as brokers between the Department and the academic
+                    community in identifying qualified specialists who would review individual
+                    volumes.</p>
+                <p>Further Committee discussion revolved around two overlapping themes -- the need
+                    for the Committee or its editorial board to review and evaluate the contents of
+                    the slimmer <hi rend="italic">Foreign Relations</hi> volumes in manuscript
+                    before and apart from any declassification review (and whether this review
+                    required access to the larger body of classified records from which the
+                    manuscript compilations were derived) and the second theme of the need for the
+                    Committee and board to review the deletions made during the declassification
+                    process to determine the accuracy of the remaining record to the published. The
+                    Committee did not come to a clear conclusion in the exchanges on these subjects,
+                    but it appeared to be inclined to wish to investigate both. Committee members
+                    also raised the question of whether the Department and other agencies prepared
+                    and exchanged lists of documents declassified under the FOIA process and the <hi
+                        rend="italic">FRUS</hi> declassification procedures. Mr. Slany informed the
+                    Committee that, at the request of the A/CDC, the Historian’s Office had proposed
+                    a quarterly Departmental publication of lists of Department documents
+                    declassified and released under the FOIA. This publication, which could be used
+                    by the public to identify and get access to copies of released documents, could
+                    be fairly easily and economically prepared. The decision on going ahead with
+                    this project rested elsewhere in the Department.</p>
+                <p>The Committee also wanted to know more about the microform supplements. Mr. Slany
+                    had reported earlier that microform supplements would be resorted to for
+                    publication of some documents not included in the accelerated <hi rend="italic"
+                        >Foreign Relations</hi> volumes. He thought that the size of the supplements
+                    would vary but would probably be in the ratio of three microformed pages of
+                    manuscript for every page of manuscript that went into the print volumes. The
+                    documents included in supplements would not be those denied publication for
+                    reasons of classification, but those not included in print volumes because of
+                    their secondary importance and their size. Mr. Glennon explained that several
+                    different designs for microform supplements were being used. First, there were
+                    those special internal serial documents like <hi rend="italic">Current Economic
+                        Developments</hi>, the Top Secret Summaries, the Wang-Johnson talks, and
+                    other collections of the same sort. Such serials would be included as
+                    supplements but without much, if any, annotational connection to the printed
+                    volumes in the <hi rend="italic">FRUS</hi> series. Second, there were
+                    collections of documents that related to a particular volume, on particular
+                    countries or topics (such as Burma or Nepal), that were too large to include in
+                    the print volume but could be published as supplements and linked in some
+                    general annotational way. Thirdly, there were supplements composed of individual
+                    documents that were not important enough to include in the printed volumes but
+                    which would be carefully linked to the documents in the printed text with
+                    annotational apparatus. The Historian’s Office was pursuing all three
+                    tracks.</p>
+                <p>The Committee had lunch with Ambassador Gerald Helman on the 8th Floor of the
+                    Department. Ambassador Helman is Deputy to Under Secretary of State for
+                    Political Affairs Michael Armacost.</p>
+                <p rend="center"><hi rend="underline">Thursday Afternoon Session (Closed)</hi></p>
+                <p>The meeting reconvened at 2 p.m. Chairman Perkins returned the discussion to Mr.
+                    Slany’s presentation on reduction of the size of <hi rend="italic">FRUS</hi>
+                    volumes for 1958-1960 and said that the proposal represented a 40% cut. Prof.
+                    Oksenberg suggested that the volumes contain a guide to what is left out for
+                    reasons of space and clearance. Prof. Perkins said that there were problems
+                    connected with specifying what was not in the volumes. Prof. Cohen said that
+                    this step was essential. Prof. Larson said that smaller volumes would
+                    necessitate a more systematic approach to inclusion of materials; inclusion
+                    should be based on a hierarchy of importance, with White House material first.
+                    Mr. Slany noted that more White House documents were being included, and that
+                    there was a top-down approach. However, the principles of inclusion that date
+                    back to Secretary Kellogg should be examined and revised. Mr. Glennon added that
+                    there was much more White House documentation beginning with the Eisenhower
+                    years. This also pertained to the Vietnam volumes of the Kennedy and Johnson
+                    period.</p>
+                <p>Prof. Oksenberg observed that in the briefing material <hi rend="italic"
+                        >FRUS</hi> had been described in four different ways: l) history of the
+                    conduct of American diplomacy 2) record of the conduct of foreign relations 3)
+                    the official diplomatic record, and 4) (implicitly) a guide to illuminate the
+                    foreign policy decision-making process. If one definition were chosen, that
+                    might point the way on categories of inclusion. Prof. Dallek recounted the
+                    evolution of the series from the 1930’s when it relied almost exclusively on
+                    State documents to its present form. He thought emphasis should continue to be
+                    placed on the decision-making process and highest-level papers.</p>
+                <p rend="underline">Pre-Publication Review of Volumes</p>
+                <p>Prof. Hunt said that he was reluctant to approve smaller volumes without
+                    Committee consideration of contents. The Committee had to see what was left out
+                    for reasons of national security and for size reduction. Prof. Dallek said an
+                    editorial board should be an arm of the Advisory Committee and not a 30-person
+                    board. Oksenberg and Cook supported this idea. Prof. Perkins cited the
+                    possibility of establishing an editorial board as a subcommittee of the
+                    Committee.</p>
+                <p>There ensued general discussion of the feasibility of review prior to publication
+                    of the volumes. Mr. Slany referred to CDC reluctance, but noted that in the past
+                    the Committee had seen volumes before publication. The concepts of
+                    pre-declassification review by the committee, post-declassification review, and
+                    a combination of the two were considered.</p>
+                <p>Prof. Cook referred to the 1952-1954 Guatemala compilation as one that fell short
+                    of being comprehensive; even some declassified documents were not included. Mr.
+                    Slany said that HO had been unable to use some declassified documents in the
+                    case of Guatemala and in other instances. Prof. Dallek observed that if Vietnam
+                    coverage were severely curtailed by declassification review, it could cause
+                    major credibility problems with the profession.</p>
+                <p>Prof. Oksenberg suggested a review similar to that obtained by a university
+                    press, that is, review by a scholar and another knowledgeable person prior to
+                    publication of a book. Prof. Dallek suggested that the Committee might serve as
+                    a clearing house for appropriate readers. Mr. Petersen observed that publication
+                    produced by military historical offices were often reviewed by advisory
+                    committees after declassification and before release. Prof. Hunt said the
+                    Committee could start up immediately in this fashion. Mr. Slany cautioned that
+                    the CDC was sensitive to the possibility of pre-publication leakage even though
+                    this had never taken place.</p>
+                <p>Prof. Kuehl referred to the report of last year’s Committee subcommittee on the
+                    editorial board question which had recommended that the board be composed of
+                    Committee members. Chairman Perkins said that the committee report would ask for
+                    review of <hi rend="italic">FRUS</hi> manuscript in the future. Prof. Hunt
+                    agreed that the board should be composed of Committee members. Prof. Dallek
+                    added that the committee could also arrange for outside readers as the subject
+                    matter indicated. Mr. Glennon suggested a two-step approach; for now, it would
+                    be easier to arrange for the Committee to review volumes after declassification
+                    but before publication; subsequently, permission should be sought for Committee
+                    examination of volumes as compiled and to see all documents excised and denied.
+                    Prof. Oksenberg felt that the Department would agree to Committee access to all
+                    documents chosen for a volume, but would not permit examination of
+                    declassification decisions.</p>
+                <p>[At this point, Ambassador John Burke, Deputy Assistant Secretary (CDC) and
+                    members of his staff discussed the declassification process with the Advisory
+                    Committee until the session adjourned at 5:30 p.m. The proceedings of that
+                    discussion have been classified SECRET and are thus not included in these
+                    minutes.]</p>
+                <p rend="center"><hi rend="underline">Friday Morning Session (Open)</hi></p>
+                <p>Prof. Perkins formally convened the meeting at 9:13 a.m., and asked Mr. Slany to
+                    make his presentation.</p>
+                <p>Mr. Slany said that there were three main issues to discuss: the structure of the
+                        <hi rend="italic">Foreign Relations</hi> series both in terms of physical
+                    size and of content, the role of microform supplements, and distribution and
+                    marketing. He referred the committee to Tab 7 of their briefing material, which
+                    set out publication plans and Tables of Contents for <hi rend="italic">FRUS</hi>
+                    volumes in the 1955-57 and 1958-60 periods. He noted that only 17 volumes for
+                    the 1958-1960 triennium were planned, which was a reduction from 1955-1957. The
+                    committee could help us determine if this framework best served the interests of
+                    scholars. In addition, he pointed out that the numbering of the volumes had
+                    become arbitrary. Starting with 1955-57, they are now numbered and printed as
+                    cleared and published. This step will not allow the continuation of the
+                    numbering pattern of previous years.</p>
+                <p>Prof. Perkins asked if reducing the size of the volumes by 40% and introducing
+                    microfiche supplements will produce savings. Mr. Slany replied that reductions
+                    were the only way the series could be produced at all in the light of dwindling
+                    resources.</p>
+                <p>Prof. Kuehl asked by what standards would the future volumes be organized. Mr.
+                    Slany replied that it would depend on personnel and financial resources and the
+                    number of pages that could be printed, edited, and cleared. Other agencies had
+                    less resources for clearing documents; their declassification activities are not
+                    centralized in every case as they are in the State Department. In a February
+                    meeting the State Department approached all the clearing agencies and filled
+                    them in on the requirements for meeting a 30 year line by 1990. All the agencies
+                    indicated their willingness to try very hard to meet the schedule for the 50
+                    streamlined print volumes.</p>
+                <p rend="underline">Microfiche Supplements</p>
+                <p>Prof. Hunt asked what percentage of the cuts from the volume will be restored by
+                    the microfiche. Mr. Slany estimated that the supplements will include about 3
+                    times as many documents as the printed volume and that the total documentation
+                    released should be 2 to 3 times as great as in a printed volume. The documents
+                    selected for microform publication, however, also require declassification,
+                    which adds substantially to the clearance burden.</p>
+                <p>Prof. Hunt asked how material for the microform supplements would be selected.
+                    Mr. Glennon replied that there were several modes: special documentary
+                    collections tied only indirectly to specific volumes of the series; documents,
+                    or even collections of documents for whole countries, of lesser importance; and
+                    collections of documents that were closely tied by annotation to the texts of
+                    the printed volumes. He said that HO hoped to use the third mode most
+                    frequently.</p>
+                <p>Mr. Slany explained that at least one State Department internal publication will
+                    come out in microform very soon. This publication--Current Economic
+                    Developments--is one example of a publication not connected to any specific
+                    volume. He noted that it had an elaborate index and was an excellent guide to
+                    the major issues of U.S. foreign economic policy during the period of its
+                    internal publication, 1945-1954.</p>
+                <p>Prof. Kuehl asked what the time frame for volumes and microform publications
+                    would be. Mr. Slany replied that ideally supplements would appear at the same
+                    time as the printed volumes to which they were related. Prof. Perkins asked if
+                    both groups of documents went simultaneously for clearance. Mr. Slany replied
+                    that in some cases the bodies of documents went to A/CDC as a single very large
+                    sample. However, for budgetary reasons CDC presently could review only those
+                    documents proposed for publication in <hi rend="italic">FRUS</hi> volumes. The
+                    intention had been for the Historical Office to give CDC a larger sample with
+                    which to write their guidelines and to make a final selection for <hi
+                        rend="italic">FRUS</hi> only after declassification. Prof. Perkins asked if
+                    this method actually expedited <hi rend="italic">FRUS</hi> volumes. Mr. Slany
+                    replied that dealing with a larger sample facilitated NARA declassification work
+                    rather than <hi rend="italic">FRUS</hi> volumes.</p>
+                <p>Prof. Kuehl asked if documents declassified in later years but relevant to the
+                    subject of a particular fiche supplement would be considered for publication as
+                    additions later on. Mr. Slany said this was a question for the committee’s
+                    consideration. If the fiche trailed the volumes, it might be possible. However,
+                    a definitive supplement would limit ability to publish these later documents. He
+                    added that the final decision on when to publish the fiche had not been made. He
+                    also noted that a number of problems with the format in which they would be
+                    released had to be resolved. Prof. Kuehl stressed that updating fiche was
+                    easy--simply add a suffix to the old number on the new fiche card to indicate
+                    where the new material should be filed.</p>
+                <p rend="underline">Transfer of Records and Preparation of Guidelines</p>
+                <p>Prof. Cohen repeated Prof. Perkins’ question about whether review of the <hi
+                        rend="italic">FRUS</hi> volumes by the CDC delayed the opening of documents
+                    at NARA. Mr. Slany indicated that publication of <hi rend="italic">FRUS</hi> and
+                    opening of the complete files were not absolutely linked. The real issue in
+                    opening files at NARA was the elasticity of CDC resources.</p>
+                <p>Prof. Kuehl asked whether the word “disclosure” had ever been defined. Mr. Slany
+                    said that it meant opening all records to researchers. HO’s goal was to bring
+                    its activities as close as possible to the 30-year line for both publications
+                    and for opening Department files at the Archives.</p>
+                <p>Prof. Perkins asked whether there had been a decision to “decouple” <hi
+                        rend="italic">FRUS</hi> publication from opening the files. Mr. Slany
+                    replied that these were separate lines of activities. Alan Thompson said that
+                    NARA did in fact accept uncleared records, with guidance for their subsequent
+                    clearance coming from CDC and HO. In reply to a question from Prof. Cohen, Mr.
+                    Thompson said that historical perspectives and relations with the country in
+                    question determined what documents were or were not sensitive. Guidelines for
+                    1955-59 are being based on the experience gained with the 1950-54 files. The
+                    guidelines are classified, but CDC bases them on criteria from the country
+                    desks. They are written in narrative style and are quite specific as to what has
+                    to be withheld. Ambassador John Burke was the only person whom Mr. Thompson
+                    could cite as their author.</p>
+                <p>Prof. Dallek asked whether <hi rend="italic">FRUS</hi> publication and NARA file
+                    openings were simultaneous. Mr. Thompson replied that there had been no linkage
+                    between the two for the past 10 years. Mr. Slany added that, as a matter of
+                    fact, NARA records could be opened more or less on schedule even if the
+                    Department decided not to finance the publication of any more <hi rend="italic"
+                        >FRUS</hi> volumes. PA/HO still would have the responsibility, however, to
+                    collect the documents to initiate the preparation of guidelines for the
+                    declassification process. By identifying leading policy issues, <hi
+                        rend="italic">FRUS</hi> publication helped NARA to develop its own
+                    declassification guidelines.</p>
+                <p rend="underline">Declassification Procedures</p>
+                <p>Prof. Cook inquired about pre-CDC clearance procedures. Mr. Slany replied that
+                    before the CDC was created in 1978 documents had to be reviewed by overburdened
+                    geographic bureaus. Other agencies and governments still had to consulted, but
+                    HO itself coordinated the review process. The sharp increase in FOIA requests in
+                    the late 70’s made bureau review impossible. “If CDC did not exist, it would
+                    have to be invented.”</p>
+                <p>Prof. Larson then asked whether documents were transferred to NARA incrementally
+                    before there was a CDC. Mr. Slany said this was the case, and the bureaus had to
+                    be asked to agree to their transfer. Milton Gustafson then explained that prior
+                    to 1975, State records were released to NARA one year at a time. The Freedom of
+                    Information Act amendments in the late 70s, however, no longer permitted records
+                    to be withheld just because 25 or 30 years had not yet elapsed, obliging NARA to
+                    turn to multi-year blocks. Mr. Thompson said that NARA expected to release all
+                    1959 records by 1991, some of them next summer.</p>
+                <p>Prof. Larson expressed concern at the delay in releasing records, noting that the
+                    British had already released records relating to the Suez Crisis. Mr. Thompson
+                    said that some State records on Suez would be available in January; he said
+                    we’re ahead in some areas and behind in others, and NARA would be delighted to
+                    go faster if it had the resources.</p>
+                <p>Prof. Perkins asked how CDC decided to allocate its resources. Mr. Slany replied
+                    that HO provided lists to the CDC showing the volumes in the order necessary to
+                    meet the publication schedule. Mr. Thompson added that <hi rend="italic"
+                        >FRUS</hi> got priority for CDC review. Mr. Gustafson noted that NARA needed
+                    a better record of documents declassified through publication in <hi
+                        rend="italic">FRUS</hi>. It was embarrassing to have a researcher make an
+                    FOI request only to be told months later that the documents desired had been or
+                    were about to be published.</p>
+                <p>Mr. Slany said that CDC had a less than perfect record of what documents it had
+                    declassified since its beginnings in 1979. There was no stamp on documents
+                    indicating whether or not they had been previously declassified or withheld.
+                    HO’s word processing system was currently being used to try to devise a list of
+                    documents cleared wholly or in part. Mr. Hargrove asked whether there was any
+                    means of keeping track of which documents were not cleared the first time
+                    around, so that they could be added to the database. Mrs. Carol Becker replied
+                    that HO was compiling lists of documents that it had selected for publication,
+                    and that the lists would later indicate whether or not the individual documents
+                    had been cleared.</p>
+                <p>Prof. Cook asked whether other agencies were working toward the same time
+                    schedule as State. Mr. Thompson replied that, theoretically, NARA would like to
+                    review all Federal records at 30 years, regardless of origin. In practice,
+                    resources were limited and only a State subvention to NARA was expediting the
+                    opening of State’s records. Of other agencies, only AID was making a similar
+                    joint effort. By way of contrast, one more year would still be needed to clear
+                    the last records of the OSS, which closed down in 1945. There had been no
+                    cooperation from the FBI concerning its records.</p>
+                <p rend="underline">Electronic Records</p>
+                <p>Prof. Kuehl then asked what would happen when existing computer technology became
+                    obsolete. Mr. Slany said that HO had not formulated any rules, but that a
+                    Department task force was studying the preservation and control of electronic
+                    records. David Herschler qualified this observation. A working group had been
+                    established with two people from HO on it, but there had been only one meeting
+                    and that was 8 or 9 months ago.</p>
+                <p>Prof. Perkins asked about the life expectancy of diskettes. Mr. Herschler replied
+                    that diskettes were not an acceptable storage mode. Nine-track magnetic tape,
+                    however, was acceptable. The life span of laser disks was not certain, but
+                    appeared to be at least 15 to 20 years.</p>
+                <p>Prof. Oksenberg pointed out that preservation of electronic records could be the
+                    most urgent issue of all before the committee. Mrs. Becker suggested that all
+                    new members of the committee be sent copies of Mr. Herschler’s 1985 report on
+                    the subject.</p>
+                <p>Mr. Herschler then pointed out that the Department’s electronic records were far
+                    from complete. Office lot files are not part of the automated files, but
+                    supplement them. Lot files are “computerized” only if created on a word
+                    processor. Prof. Dallek asked whether memcons were in lot files or computerized
+                    in the central files. Mr. Herschler explained that they were only on paper. FAIM
+                    did not always regularly microfilm them for inclusion in its system. Mrs. Becker
+                    explained that since 1973 (when the Department’s automated system went into
+                    effect), the Department’s practice was to have 2 official record copies, one on
+                    film and one on tape. Records of the Secretary of State were in custody of the
+                    Executive Secretary, and were stored on a separate computerized system (SADI)
+                    with its own index.</p>
+                <p>Prof. Oksenberg asked whether State studied how other agencies kept their
+                    records. Mr. Herschler replied that every agency had some electronic records,
+                    but none was wholly paperless. There was no coordinated interagency policy on
+                    electronic records.</p>
+                <p>Mr. Slany then interrupted the session for a coffee break at 10:15 a.m.</p>
+                <p rend="underline"><hi rend="italic">Foreign Relations</hi> Supplementary Volumes
+                    on Intelligence</p>
+                <p>Mr. Slany resumed the session by introducing the subject of retrospective
+                    supplements to printed volumes in the <hi rend="italic">FRUS</hi> series. A
+                    previous Committee had suggested preparation of a supplement on post-World War
+                    II intelligence and foreign policy development which would incorporate
+                    disclosures made since the volumes in this area were published. The Office of
+                    the Historian was considering such a project, perhaps comprising one printed
+                    volume and one microfiche supplement. He asked Kenneth McDonald, the CIA
+                    Historian, to discuss this proposal further.</p>
+                <p>Mr. McDonald noted that the idea had originated three years earlier, when he and
+                    Mr. Petersen had participated on a SHAFR panel on intelligence. In 1983 the CIA
+                    was beginning to release OSS operational records and was also negotiating with
+                    Congress on the Freedom of Information Act. He pointed out that in the
+                    bargaining which culminated in the recent legislation that exempted the CIA from
+                    some aspects of FOIA, an agreement had been reached to review some older CIA
+                    records for possible release. The concept of supplementary intelligence-related
+                        <hi rend="italic">FRUS</hi> publications was given impetus by this
+                    agreement. The Agency now has a classification review staff which is currently
+                    working on the records of the Office of the Director of Central Intelligence
+                    from the late 1940s. Mr. McDonald commented that the Department’s requirement
+                    for records from 1945-1950 thus coincides with the work of the CIA
+                    declassification staff, and will result in State historians being given good
+                    access to CIA records of the period. He is not sure, however, how much of this
+                    material can be declassified.</p>
+                <p>He then introduced the Chief of the Classification Review Division (CRD) who
+                    described the historical review program. It has started reviewing records from
+                    the Office of the Director of Central Intelligence, as well as some records from
+                    the Special Services Unit (which superseded OSS) and records of the U-2
+                    incident. The staff has processed about 135 feet of records. Review must now be
+                    coordinated with other agencies. About l foot of records has completed the
+                    entire process. The next group of records to be examined will be finished
+                    intelligence, which the CIA hopes will help with the <hi rend="italic">Foreign
+                        Relations</hi> supplements.</p>
+                <p>Mr. McDonald observed that the <hi rend="italic">Foreign Relations</hi> series
+                    represents the U.S. Government’s accountability for its foreign policy. The CIA
+                    recognizes this. While the British have never released any intelligence records
+                    at all, the CIA is committed to releasing its records. The Agency works under
+                    the same NARA rules as other executive agencies, using the same procedures.</p>
+                <p>Prof. Hunt asked if finished intelligence will deal with covert intelligence. The
+                    CRD chief said that operational records relating to sources and methods are
+                    exempted from consideration by his staff under the new Congressional directive.
+                    The committee pressed to get an appreciation of where the cut-off line existed
+                    in determining what constituted operational information. Both Prof. Perkins and
+                    Prof. Cook used CIA activities in Italy during the first decade after WW II as
+                    an example of covert operations which were well known, historically significant,
+                    and could be documented without compromising CIA methods or sources. Both Mr.
+                    Macdonald and the CRD chief indicated that it was altogether unlikely that the
+                    CIA would officially confirm the existence of covert operations, despite
+                    widespread knowledge of the existence and impact of such operations.</p>
+                <p>This, the CRD chief stated again, is the central issue. The CIA works for the
+                    President under Congressional oversight. It has orders from both the Congress
+                    and the President to protect sources and methods. If he were to look at these
+                    records to see if they could be released, he would ask the following questions:
+                    Who ordered the activities? Who was used? Where did the money come from? How did
+                    it get there? The Agency would probably not reveal this. Where, he asked, should
+                    they draw the line? Just admitting that this activity occurred would not, he
+                    felt, be enough. There was no real answer, but he would probably be inclined to
+                    “cut it off early.”</p>
+                <p>Mr. Slany observed that these issues were worth consideration by the Committee.
+                    Perhaps the Committee could explore how the Office of the Historian could work
+                    with the CIA to bring material on intelligence formulation to light and could
+                    confirm that the <hi rend="italic">Foreign Relations</hi> was a useful vehicle
+                    for disclosure.</p>
+                <p>Prof. Dallek stated that although it was fine to publish a retrospective volume
+                    and that its publication would represent some progress, there should be no
+                    illusions about the volume’s reception; some scholars would “savage” it,
+                    scoffing at how little was being released compared to what was already widely
+                    known. He worried about creating cynicism, about creating a sense of a gap
+                    between U.S. rhetoric and action. He was not, however, insensitive to the
+                    Office’s and the CIA’s dilemma. The volume would produce an angry reaction, but
+                    he favored publishing it.</p>
+                <p>Prof. Perkins asked for a concrete indication of what was being considered for
+                    publication. Mr. Petersen responded that one volume relating to the
+                    organizational development of the intelligence community from the Second World
+                    War to 1950, and a second volume largely relating to finished intelligence
+                    concerning the Soviet Union are being prepared. Prof. Perkins asked what was the
+                    proportion of previously released documents to never released documents in the
+                    proposed supplement? Mr. Petersen responded that probably less than 25% of the
+                    volume on organization of intelligence would comprise CIA material. The second
+                    volume would have a larger percentage. Mr. Petersen added that there was also
+                    the CIA report to every NSC meeting on the world situation, as well as Director
+                    of Central Intelligence memoranda to the President. Although much of this
+                    material has been declassified, it will be published in a coherent way for the
+                    first time. To avoid disappointment, he recommended defining the terms of
+                    reference for the supplements very carefully and then sticking to them.</p>
+                <p>Mr. Slany suggested that the committee might want to nominate a reviewer or two
+                    for these volumes before publication. Prof. Dallek felt that such a review might
+                    serve to help preserve the credibility of the <hi rend="italic">FRUS</hi>
+                    series.</p>
+                <p>Prof. Kuehl observed that most important to him was the question of the budget
+                    trade-off in preparing a supplement. The Office was proposing two additional
+                    volumes at the same time it was reducing the size of the regular series. Mr.
+                    Slany responded that one or two volumes could be added over four or five years
+                    without a change in the schedule for the regular series. Three or four volumes,
+                    however, would tip the balance. This was less a problem for printing and
+                    publication than it was for declassification. The Committee’s recommendations
+                    would be useful to us in setting our priorities.</p>
+                <p>Prof. Kuehl asked whether a new policy of supplementing the series was being
+                    established. Both Prof. Hunt and Prof. Cook stated they would need to see the
+                    material involved before making a recommendation. Prof. Cook also asked for more
+                    guidance. She was worried about creating a dual system rather than being
+                    vigorous about a 30-year rule and accountability, even though she realized some
+                    issues won’t wind down after 30 years. Prof. Larson said that political
+                    scientists would find such volumes very useful, even if they contained nothing
+                    more than finished intelligence.</p>
+                <p>Prof. Oksenberg wondered whether the retrospective supplement might encourage
+                    people not to declassify things now--to delay release--because they knew there
+                    would be a supplement to the volumes they review now. Was there any validity to
+                    this argument? He offered the observation that Mr. McDonald had neglected to
+                    mention the very important CIA dealings with other intelligence communities,
+                    either overt or covert--would it be useful to delay publication until liaison
+                    relationships could be included? Mr. McDonald responded that the area of liaison
+                    arrangements was extremely sensitive. The British do not admit the existence of
+                    intelligence organizations for 30 years, even if commonly known. For the United
+                    States to acknowledge the existence of these organizations could endanger
+                    current liaison arrangements. Therefore release of this information was
+                    unlikely. The CRD chief confirmed that the United States cannot unilaterally
+                    declassify that material, noting that most countries do not require their
+                    intelligence services to release information.</p>
+                <p rend="underline">Distribution of <hi rend="italic">FRUS</hi> Volumes</p>
+                <p>Mr. Slany asked Paul Washington, Director of Publishing Services, to comment on
+                    production and distribution of <hi rend="italic">FRUS</hi>. Mr. Washington noted
+                    that the primary issues considered by the committee last year in his area
+                    included technical editing resources and costs and the possibility of
+                    privatizing the publication of the series. Mr. Washington indicated that the
+                    focus of concern had changed somewhat over the course of the past year, and that
+                    he had both good and bad news to convey to the committee. The good news was that
+                    the Department now had the editorial resources to handle anything. Moreover,
+                    Amtech Information Services has received a multiyear contract to publish the
+                    volumes, eliminating the need to take bids for every volume. The new printing
+                    arrangements seemed to be working well. There was more good news in the cost
+                    figures for the most recent volumes published. Costs have dropped under new
+                    printing procedures from a high of $175,000 per volume to controlled costs of
+                    $35,000 - $45,000 per volume. Improved marketing developments were on the way;
+                    the Superintendent of Documents was happy to consider increased sales of <hi
+                        rend="italic">Foreign Relations</hi> volumes. In the area of distribution,
+                    USIA has agreed to update stocks of <hi rend="italic">FRUS</hi> volumes at posts
+                    abroad to enhance visibility and sales. On the down side, because
+                    declassification had slowed down recently, there is not much technical editing
+                    or Amtech printing work to do; the editing staff has been diverted to other
+                    areas.</p>
+                <p>Prof. Perkins asked what the variation in sales between a popular and unpopular
+                    volume were. Mr. Washington noted that a popular volume, 1952-1954, XIV, has
+                    sold 173 copies this year. In response to Prof. Cook’s query about the
+                    possibility of reprinting out of print volumes, Mr. Washington explained that
+                    the plates for printing the volumes are destroyed because of storage problems.
+                    Mr. Slany commented that the Committee had to remember that “popular” and
+                    “unpopular” were relative terms--even popular <hi rend="italic">Foreign
+                        Relations</hi> volumes had a small market.</p>
+                <p>Prof. Larson remarked that sometimes by the time many scholars learn the volumes
+                    are out, they are out of print. Mr. Washington responded that GPO produces a
+                    monthly catalogue of available items available to all who request being placed
+                    on their mailing list. Ms. Becker noted that press releases on each volume are
+                    sent to journals and individual historians, and that each of these press
+                    releases has an order blank with price information on the back. Ms. Herring
+                    urged the committee members to encourage their colleagues to reply to the
+                    Department’s annual questionnaire asking if they wish to remain on the mailing
+                    list. Regulations require that the list be purged and updated annually, and
+                    individuals not responding to the questionnaire are automatically taken off the
+                    mailing list.</p>
+                <p>Mr. Slany noted that the Department intends to produce a catalogue of Department
+                    publications. Mr. Washington stated that GPO, because of the unpredictability of
+                    publication schedules, has been so far reluctant to offer standing subscription
+                    orders for <hi rend="italic">Foreign Relations</hi> volumes.</p>
+                <p>Prof. Larson suggested advertising in a professional journal. Prof. Kuehl
+                    strongly urged that the Department advertise the volumes, particularly in <hi
+                        rend="italic">Diplomatic History</hi>.</p>
+                <p>Prof. Perkins asked what the average size of a press run was. Mr. Washington
+                    replied between 1,500 to 3,000 copies. Of these, GPO tries to sell between 800
+                    and 1000. A large number of unsold volumes, he observed, are taking up space on
+                    GPO shelves. These volumes are expensive to warehouse, and GPO doesn’t want them
+                    around too long.</p>
+                <p>Prof. Kuehl asked for cost projections over the next few years in order to assess
+                    the question of the necessity of smaller volumes. Washington projected fairly
+                    stable costs of $35,000 - $45,000 per volume, with a possible variation of 6% up
+                    and as much as 10-12% down. Included in that figure are printing and binding
+                    costs of about $20,000. per volume and editing costs of about $24,000. per
+                    volume.</p>
+                <p>Mr. Hargrove recalled last year’s discussion of privatizing publication of the
+                    series. He applauded the printing contract which had been let, and asked if any
+                    consideration had been given to letting a similar contract to a private firm to
+                    promote marketing of the series on a commission basis. Washington indicated that
+                    he was receptive to the idea, but he noted that the GPO had its own marketing
+                    staff which would feel threatened by any such suggestion.</p>
+                <p>At this point, Mr. Perkins noted it was time to break for lunch. The session then
+                    recessed at 12 noon.</p>
+                <p rend="center"><hi rend="underline">Friday Afternoon Session (Closed)</hi></p>
+                <p>The meeting resumed shortly after 2 P.M. Mr. Slany asked Mrs. Becker to explain
+                    to the committee the status of the microfiche supplement program.</p>
+                <p rend="underline">Microfiche Supplements</p>
+                <p>Mrs. Becker began by tracing for the new members on the committee the Office’s
+                    previous experience in publishing in microfiche--the supplement to the 1981 <hi
+                        rend="italic">Current Documents</hi> volume. With the help of a consultant,
+                    first we developed an excellent set of specifications for archival microfiche.
+                    Our first publication consisting of 150 microfiches was accompanied by a
+                    pamphlet and packaged in a Tyvec floppy bag for mailing. In early 1985, Mrs.
+                    Becker and Mr. Glennon went to the Library of Congress to see what had happened
+                    to the publication in their Government Documents Collection. They discovered
+                    that the fiche had been put in a microfiche drawer in order by Superintendent of
+                    Documents (SUDOCS) Number on one side of a large room. The pamphlet, on the
+                    other hand, had been shelved with the book collection (right next to the printed
+                    volume for 1981) on the other side of the room. Result: the wrong two parts were
+                    together. This situation undoubtedly was replicated in most of the government
+                    collections across the country, because libraries have to protect microfiche
+                    from light and dust, but put all printed material on open shelves. In other
+                    libraries, moreover, the fiche and the print volumes might be in separate rooms
+                    or on separate floors in libraries, rather than on opposite sides of one
+                    room.</p>
+                <p>After exploring many different options for ensuring that publications that are
+                    split in libraries are properly crossreferenced both on the shelf and in
+                    catalogs, the Office and the GPO jointly came up with the idea of a box that
+                    solved many problems: 1) it looked like a volume in the <hi rend="italic"
+                        >FRUS</hi> series and could be shelved like one in the proper sequence; 2)
+                    it would afford light and dust protection for the fiche; 3) it would keep the
+                    fiche and the pamphlet together in a vinyl folder inside the box; 4) it was
+                    enthusiastically endorsed by the Government Depository Librarians Council in the
+                    fall of 1985 as a way to allow libraries to keep the series together in a
+                    responsible manner. A prototype of the box was produced by GPO, which Mrs.
+                    Becker showed to the committee and then passed around for closer inspection.</p>
+                <p>A long contract-writing period began in the fall of 1985, just before the 1985
+                    Advisory Committee meeting (at which meeting we reported that our hopes were
+                    high for a solution to the shelving dilemma.) The contract had to cover four
+                    different products: a box that resembled a book; a vinyl folder to hold the
+                    fiche and the pamphlet; the pamphlet; and the fiche. The contract was put out
+                    for bids in August; there were no bidders. The contract was put out again in
+                    September; there was one bidder. At a meeting at GPO earlier in November, the
+                    State Department rejected the bid on the grounds of cost. The State Department’s
+                    costs would be over $20,000. (the price of a print volume), and the sales price
+                    would have to be $50. to $60. to permit GPO Marketing to cover their costs. The
+                    GPO suggested that the contract be amended to allow a longer time schedule for
+                    production, which they predicted would lower the costs somewhat.</p>
+                <p>Mr. Slany asked the committee for their advice - should we continue to pursue the
+                    box idea despite the high cost? Should we redesign the box so that it would be
+                    much larger and much cheaper, to hold all the supplements together, rather than
+                    in individual boxes? Should we abandon the box idea altogether and concentrate
+                    on getting our microfiche publications out to the scholars as soon as possible
+                    (since two fiche publications are completed now and ready to be contracted
+                    out--the Wang-Johnson talks to supplement the 1955-57 China volume published
+                    last summer, and the <hi rend="italic">Current Economic Developments</hi> series)?</p>
+                <p>Prof. Cook strongly supported continuing to try to produce a box. Prof. Oksenberg
+                    was anxious to see documentation on the Wang-Johnson talks. Prof. Hunt favored
+                    producing a large box to house all microfiche supplements to the series. If the
+                    box had to be abandoned because of cost, Prof. Kuehl favored giving each fiche
+                    supplement a volume number, so that librarians and users would be forced to
+                    account for missing numbers, and thus would go to the catalog which would give
+                    the correct classification number and location for the missing “volume.”</p>
+                <p>The committee promised to recommend action in its report.</p>
+                <p>Prof. Perkins adjourned the meeting at about 3 P.M. The committee then met in
+                    private session to consider its recommendations and report.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,1168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Minutes of Historical Advisory Committee Meeting, November
+                    1990</title>
+                <title type="short">HAC Meeting Minutes, 1990</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2013-12-09">December 9, 2013</date>
+                <date type="created" when="1990-11-15">November 15, 1990</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1990-11-15-hac-meeting-minutes.pdf">PDF</ref>, 832 KB, 28pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Front Office
+                    Files, 1989-1990 (Lot File 93 D 287), Box 1, FRUS—Advisory Committee 1990 Annual
+                    Meeting (11/15-16).</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 11, <ref
+                    target="../chapter-11#fn48">Footnote 48</ref></p>
+            <div type="document">
+                <head>Minutes of the 1990 Meeting of the Advisory Committee on Historical Diplomatic Documentation</head>
+                <dateline>November 15-16, 1990</dateline>
+                <p rend="center"><hi rend="underline">Participants:</hi></p>
+                <p rend="underline">Advisory Committee</p>
+                <list>
+                    <item>Richard Cooper</item>
+                    <item>Betty Glad</item>
+                    <item>Margaret Hermann</item>
+                    <item>George Herring</item>
+                    <item>Warren Kimball</item>
+                    <item>Bradford Perkins</item>
+                    <item>Emily Rosenberg</item>
+                    <item>Ronald Spector</item>
+                    <item>Anne Van Camp</item>
+                    <item>Stephen Zamora</item>
+                </list>
+                <p rend="underline">Bureau of Public Affairs</p>
+                <list>
+                    <item>G. Alfred Kennedy, Deputy Assistant Secretary</item>
+                    <item>Susan Povenmire</item>
+                    <item>
+                        <list>
+                            <item><hi rend="underline">Office of the Historian</hi></item>
+                            <item>William Z. Slany, The Historian</item>
+                            <item>David Baehler</item>
+                            <item>Rita Baker</item>
+                            <item>Paul Claussen</item>
+                            <item>Evan Duncan</item>
+                            <item>Taylor Fain</item>
+                            <item>Evans Gerakas</item>
+                            <item>Nancy Golden</item>
+                            <item>David Herschler</item>
+                            <item>Nina Howland</item>
+                            <item>Ted Keefer</item>
+                            <item>David Mabon</item>
+                            <item>Elaine McDevitt</item>
+                            <item>Jim Miller</item>
+                            <item>Nina Noring</item>
+                            <item>Althea Robinson</item>
+                            <item>Charles Sampson</item>
+                            <item>Bill Sanford</item>
+                            <item>Harriet Schwar</item>
+                            <item>Luke Smith</item>
+                            <item>Sherrill Wells</item>
+                        </list>
+                    </item>
+                </list>
+                <p rend="underline">Division of Freedom of Information, Privacy, and Classification
+                    Review</p>
+                <list>
+                    <item>Henry Bardach</item>
+                    <item>Frank Machak</item>
+                    <item>Richard Morefield</item>
+                </list>
+                <p rend="underline">Publishing Services Division</p>
+                <list>
+                    <item>Barbara Bacon</item>
+                    <item>Paul Washington</item>
+                </list>
+                <p rend="underline">Bureau of Legislative Affairs</p>
+                <list>
+                    <item>Gary Chafin</item>
+                </list>
+                <p rend="underline">Office of the Legal Adviser</p>
+                <list>
+                    <item>Katherine Skipper</item>
+                </list>
+                <p rend="underline">Others</p>
+                <list>
+                    <item>George Chalou, National Archives</item>
+                    <item>Ron Swerczek, National Archives</item>
+                    <item>David Langbart, National Archives</item>
+                    <item>J. Kenneth McDonald, Central Intelligence Agency</item>
+                    <item>Mary McAuliffe, Central Intelligence Agency</item>
+                    <item>Paige Miller, National Coordinating Committee for the Promotion of
+                        History</item>
+                </list>
+                <p rend="center"><hi rend="underline">Open Session, November 15, 1990,
+                    Morning</hi></p>
+                <p>The Open Session of the 1990 meeting of the Advisory Committee on Historical
+                    Diplomatic Documentation began at 9:05 a.m. Prof. Richard N. Cooper arrived at
+                    9:25. Dr. William Z. Slany proposed that a Chairman be selected and an agenda be
+                    adopted. Prof. Warren F. Kimball was selected by acclamation as Chairman. The
+                    draft agenda circulated earlier by Slany was adopted provisionally.</p>
+                <p>Deputy Assistant Secretary for Public Affairs G. Alfred Kennedy was the first
+                    speaker. He stated that the Department wants to cooperate with the Committee and
+                    feels its work is important. He mentioned the controversy caused by the
+                    resignation of former Chairman Warren Cohen, and said that he did not believe
+                    that an Act of Congress would be necessary to improve the series; working in
+                    concert with the Committee should be sufficient. Kennedy said that Slany would
+                    describe in more detail PA's plan. Once the Department agreed to the plan,
+                    coordination with other agencies would be possible. Publication of a volume was
+                    not enough; it was necessary for scholars to verify its accuracy, completeness,
+                    and integrity. HO was being reorganized to concentrate more resources on
+                    compilation and publication. Kennedy concluded by saying that he would report on
+                    the meeting to Assistant Secretary Tutwiler.</p>
+                <p>Kimball then opened the floor to questions.</p>
+                <p>Prof. Bradford Perkins said that Warren Cohen had believed that he had reached an
+                    agreement with State, and had quit after State had reneged on it. Last year's
+                    meeting, incidentally, had been the first at which neither the Assistant
+                    Secretary nor the senior DAS had been present. Perkins was skeptical that State
+                    could deliver.</p>
+                <p>Kennedy replied that nobody had shown him documentary evidence of a
+                    State-Committee agreement; perhaps there was a verbal agreement. It was time to
+                    put this issue behind us. The Department wants to deliver on the <hi
+                        rend="italic">Foreign Relations</hi> series. The absence of senior people
+                    did not mean a lack of commitment. Tutwiler was aware of the problem and had
+                    brought more senior people into the discussion. Under Secretary Selin said that
+                    he looked forward to meeting with the Advisory Committee. Moreover, a year after
+                    Cohen's resignation, the Department senior leadership is engaged with the issue.
+                    They are moving to reduce tensions within the agency and to convince the
+                    Congress that State can fix the problem. He hoped to have a plan ready before
+                    Congress took up the legislation again.</p>
+                <p>Kimball asked whether Advisory Committee members could meet with Tutwiler.
+                    Kennedy replied that the request was not unreasonable, but any meeting might
+                    take place at short notice.</p>
+                <p>Prof. Stephen T. Zamora asked whether State was still uncertain about the
+                    Advisory Committee's role. Kennedy denied it. Zamora stated that, after only two
+                    meetings, he was unclear about his own role. Slany said that part of the problem
+                    was the dynamics of changing Committee membership; he looked forward to a still
+                    more active Committee in the months to come.</p>
+                <p>Prof. Ronald H. Spector asked whether State had a counterproposal to the
+                    legislation which spells out the Advisory Committee's role. Kennedy replied that
+                    a work plan was being developed and that possibly Congress could be persuaded
+                    that legislative action was unnecessary. Slany would describe the committee's
+                    role at greater length.</p>
+                <p>Slany stated that the Department lacks unanimity on a definition of the
+                    Committee's role. The aim was to give it a more specific role in the production
+                    of the volumes and to avoid a repeat of the Iran flap.</p>
+                <p>Perkins asked if it were true that someone in FPC had said the Advisory Committee
+                    had no “need to know.” Kennedy denied that this was now the case.</p>
+                <p>Kimball said that access was the key to the Advisory Committee's evaluation
+                    sanction. The Secretary can designate a “need, to know” for State's records. If
+                    he does, a major problem is solved. Kennedy replied that Baker was unlikely to
+                    say anything that explicit, or that “need to know” would ever be complete. State
+                    was trying to upgrade the Committee members' clearances, but even then there
+                    would be statutory and other limits. Kimball replied that the key matters were
+                   “need to know” and level of access. He was stressing the former, and the
+                    Committee's need to have a high-level person come out and say that they had it,
+                    within statutory limits.</p>
+                <p>Perkins said that he understood from FPC that copies of documents stored in PA/HO
+                    for the preparation of <hi rend="italic">Foreign Relations</hi> were temporarily
+                    downgraded to Secret. Richard Morefield of FPC/HDR replied that documents were
+                    downgraded to Secret for handling purposes only.</p>
+                <p>Prof. Margaret Hermann, a new member, expressed surprise that access for the
+                    Committee was not automatic. Slany replied that State would consider how to
+                    grant access and would work with other agencies on specific topics.</p>
+                <p>Prof. Betty Glad asked whether there were any proposals to ease access guideline
+                    restrictions. Slany replied that there were no new laws or regulations, just
+                    procedural changes to facilitate disclosure.</p>
+                <p>Hermann asked whether the Advisory Committee could take one volume and see what
+                    was excluded so as to get a better feel for the guidelines. Perkins called the
+                    guidelines so vague that even the Declaration of Independence could be kept
+                    classified. Much depended on individual FPC members. Slany replied that State is
+                    considering involving one or more Committee members in the publication cycle for
+                    one volume--a “companion editor”--but that it would take awhile to arrange.
+                    Slany said that he had made the proposal to the Committee during the past 2
+                    years. Participation would require visiting the Department regularly. Kimball
+                    then said that a working session would be necessary to discuss such a proposal.
+                    Spector said that the Advisory Committee preferred cooperation to another year
+                    of “guerrilla warfare,” but that it could not endorse non-formulated
+                    proposals.</p>
+                <p>Cooper wanted to know: 1) what were the terms of the Committee's mandate and 2)
+                    what were State's objections to the legislation? What specific criteria did they
+                    oppose?</p>
+                <p>Slany replied that he had identified the Committee's major concerns. The
+                    Committee had tried to address issues on a case-by-case basis. Documents from
+                    other agencies complicated the declassification process. State was now trying to
+                    publish 10 <hi rend="italic">Foreign Relations</hi> volumes each year. Cooper
+                    said that if the Committee had no access to classified material, how were they
+                    to determine why something was excluded, and wondered what their role was. Slany
+                    noted that the Advisory Committee had had “episodic” access during the 1950s,
+                    60s, and 70s when questions of skewing the record had arisen. The discussion now
+                    centered on a broader mandate. Perkins said that, beginning 4 years ago, FPC
+                    began to report excisions to them. Slany replied that such a briefing would be
+                    held tomorrow.</p>
+                <p>Morefield tried to differentiate between declassification guidelines in the
+                    Executive order and the guidelines given to the Archives. Perkins asked whether
+                    the general guidelines were classified. He had never seen a copy of them, but
+                    they had to differ from the Executive order. Both Cooper and Kimball said that
+                    the Committee was very much concerned with NARA's declassification guidelines
+                    and would like to see a copy of them, while Spector observed that each agency
+                    interpreted the Executive order differently and set its own declassification
+                    guidelines. Morefield explained that the Executive order required
+                    declassification after systematic review, or else for the agency to give
+                    instructions to NARA about what topics still needed protection. Kimball wanted
+                    more details on the guidelines and said that the matter should be discussed at
+                    greater length.</p>
+                <p>Zamora reiterated that the Committee lacks a defined role. The legislation gives
+                    it one, although perhaps it is too broad. Kimball stated that the Committee
+                    should make clear to the Department what its view of its role is. The <hi
+                        rend="italic">Foreign Relations</hi> series and the Department faced a
+                    crisis of confidence. The Committee should be ready to help the Department but
+                    in order to help, it must have confidence in the Department's operations.</p>
+                <p>Slany introduced Gary Chafin from the Department's Bureau of Legislative Affairs
+                    who discussed State's reaction to the legislation. Chafin reported that the
+                    Department had been surprised at the speedy approval of the bill in the Senate
+                    after being told to expect no action. The bill will be reintroduced in the 1991
+                    session, probably as part of the Department authorization bill. The House took
+                    no action on the bill, but the topic would come up next year in some form.</p>
+                <p>H Bureau had sent its objections to the House Foreign Affairs Committee (HFAC)
+                    and the Senate Foreign Relations Committee (SFRC), but unless State could
+                    present an alternative, Congress would be heard from and hearings might be held.
+                    State's first objection to the bill was that it derogated from the Executive
+                    order and mandated a piecemeal change in government-wide practice. The major
+                    effort is to avoid damage from the legislation.</p>
+                <p>Perkins asked what damage the Department envisions. Chafin responded that the
+                    legislation would derogate from the Executive order. Legislation should not be
+                        <hi rend="italic">Foreign Relations</hi>-specific.</p>
+                <p>Cooper then asked whether State considered the bill too broad or too narrow in
+                    scope. Chafin replied that the issue should be addressed in a broader way rather
+                    than by disrupting government-wide practices.</p>
+                <p>Spector commented that no government-wide declassification now existed; the
+                    Executive order was interpreted differently by different agencies. Glad noted
+                    that specific legislative action might give a push toward a better
+                    government-wide system.</p>
+                <p>Chafin noted that a second objection to the legislation was the creation of
+                    further layers of bureaucracy. The legislation would also abolish the Committee
+                    in its present form. Cooper said “it would not be the end of the world.”</p>
+                <p>Glad asked if the Department supported any parts of the legislation. Slany
+                    responded that while the Department appreciated the generalized sentiment of
+                    support for <hi rend="italic">Foreign Relations</hi> in the bill, the question
+                    was whether the legislation if passed would make coordination and work on the
+                    series more effective.</p>
+                <p>The Committee recessed at 10:30 a.m.</p>
+                <p rend="center"><hi rend="underline">Closed Session, November 15, 1990,
+                        Morning</hi></p>
+                <p>The Committee reconvened at 10:50 a.m. Kimball announced that the Committee had
+                    decided to depart from the agenda in order to hold a closed, Committee-only
+                    session from 3:30 p.m. to the end of the afternoon.</p>
+                <p>Paul Washington spoke on the distribution of the <hi rend="italic">Foreign
+                        Relations</hi> series. Beginning in 1986, the Government Printing Office, in
+                    the interest of economy, had distributed 23 volumes of <hi rend="italic">Foreign
+                        Relations</hi> to 1,100 depository libraries in microfiche form. This
+                    distribution had been completed last April. PA/HO had learned of the conversion
+                    to microfiche distribution only 2 years ago. If all the depository libraries
+                    were to be given hard copies of each of the 23 volumes, the reprints would cost,
+                    at an average of $15 apiece, $379,500, or $16,500 a volume. This cost would be
+                    spread over the next 5 years. The question was, who would pay? Some of the
+                    depository libraries had indicated a preference for fiche because of space
+                    limitations, but 2/3 wanted the printed volumes. If GPO obtains the needed
+                    funds, these libraries will be resurveyed to see if they still want the paper
+                    copies. There was also the question of whether the depository libraries would
+                    receive paper copies of future volumes. Some, again for space reasons, did not
+                    want to. Washington also handed out a chart showing availability and sales of
+                    in-print <hi rend="italic">Foreign Relations</hi> volumes. Cooper wondered how
+                    the print run of the volumes was determined, and was told that it was determined
+                    by the GPO and was often an odd number.</p>
+                <p>Prof. George Herring wondered if the Committee should repeat its recommendation
+                    of last year, that the libraries should all receive paper copies. Cooper said
+                    that maybe the Committee should not make a recommendation on this point, and
+                    allow the libraries to make their own decisions on the basis of their individual
+                    use patterns and space availability. Kimball thought that users had the right to
+                    put their oar in, and that the Committee were users and serious ones at that.
+                    Glad pointed out that paper copies were in the interest of students as well as
+                    professors, but there should be provision for microfiche at small
+                    depositories.</p>
+                <p>It gradually developed from the discussion that GPO's present plan was definitely
+                    to have some form of a dual hard copy and microfiche distribution system.
+                    Washington and Slany pointed out that this was not wasteful because of the
+                    comparative inexpensiveness of microfiche.</p>
+                <p>Glad suggested making print over-runs available to individuals. Washington said
+                    this would reverse a 10-year policy of maintaining an overstock for future
+                    generations of scholars.</p>
+                <p>Cooper pointed out that printing costs are a function of technology and that
+                    print runs of future volumes would no doubt be less expensive. The discussion
+                    closed with the Committee reserving for the time being its position on the
+                    issue.</p>
+                <p>Slany then presented his report on the status of the <hi rend="italic">Foreign
+                        Relations</hi> series. He noted that the Office of the Historian had
+                    reorganized in order to assign more historians to work as <hi rend="italic"
+                        >Foreign Relations</hi> compilers. Only a small staff had guided <hi
+                        rend="italic">Foreign Relations</hi> in recent years, but the pace of the
+                    series had not suffered because the declassifiers had been clearing out a large
+                    backlog of volumes.</p>
+                <p>Now the Office was redeploying its professional staff to keep the pipeline full
+                    and to keep the scope of the series in rough equity with that of the three
+                    previously-prepared triennia. He introduced the Division Chiefs: Charles
+                    Sampson, Europe and Canada; Paul Claussen, East Asia and Latin America; Nina
+                    Noring, Middle East, Africa, and South Asia; David Mabon, Arms Control and
+                    Economics; Sherrill Wells, General and Special Projects. A total of 19 people
+                    will give full or part-time attention to compiling and editing material for the
+                    Kennedy years.</p>
+                <p>A new Deputy Historian/General Editor was being recruited to give substantive and
+                    management guidance to the <hi rend="underline">Foreign Relations</hi> program.
+                    Slany asked particularly for the Committee's suggestions regarding potential
+                    applicants for this position. The new person, he said, would have primary
+                    responsibility for the Kennedy and Johnson periods.</p>
+                <p>Slany described briefly the proposed tables of contents for the 1961-1963 period,
+                    of which the Committee had received a copy. Although constrained by reduced
+                    funding, the Office planned to produce 25 volumes plus microform supplements.
+                    The Department sought to match the series at the level of completeness reached
+                    by the series for the Eisenhower period. He emphasized that the tables were
+                    still flexible and open to the Committee's suggestions. He described the work
+                    done so far for the triennium: four volumes on Vietnam, two already published
+                    and two in the publication process; two volumes on Laos and Western Europe,
+                    delivered to the declassifiers last summer; and five more volumes completed or
+                    near completion.</p>
+                <p>Slany said that the content and scope of the volumes had become an important
+                    topic due to a shrinking resources at the Office's disposal. He discussed the
+                    ever-increasing necessity to tighten the standards of selection, again stressing
+                    the potential helpfulness of the Committee in making suggestions for items to
+                    focus on. It might be necessary to contract-out certain volumes to make up for
+                    gaps in the Office's expertise. Another possibility was to do the entire 5 years
+                    of the Johnson administration as one unit.</p>
+                <p>Rosenberg asked how it was possible to keep the volume sizes the same given the
+                    increase in the number of documents available to historians for this time
+                    period. Perhaps a different format was needed for the series to reflect
+                    this.</p>
+                <p>Slany admitted that an ever smaller percentage of available documents were being
+                    printed than in earlier decades, and that fewer of these documents were State
+                    Department documents.</p>
+                <p>Cooper said that the increase in the number of available documents might
+                    necessitate a new strategy for compiling <hi rend="italic">Foreign
+                        Relations</hi>.</p>
+                <p>Slany said the publication might have to move to a more bibliographic function,
+                    serving as an archival source and directing scholars to existing documents not
+                    contained in the volumes.</p>
+                <p>Perkins said that there was a choice between covering all topics in a shallow
+                    manner or reverting to a “post-holing” technique of singling out important
+                    issues for detailed coverage while acting as a bibliographic source on
+                    others.</p>
+                <p>Cooper pointed out that what scholars today may single out for detailed coverage
+                    may turn out to be of little importance to future scholars.</p>
+                <p>Kimball said the Committee might consider asking HO to prepare a study on this
+                    issue to generate thinking on future strategies for the <hi rend="italic"
+                        >Foreign Relations</hi> series.</p>
+                <p>Van Camp agreed and emphasized that the issue needed to be considered beyond that
+                    meeting.</p>
+                <p>Glad suggested that some guidelines on this subject must already exist for some
+                    of the Kennedy volumes to have been compiled and asked Slany to share these.
+                    Slany replied that no such explicit guidelines existed.</p>
+                <p>Perkins asked that the Committee receive a flow chart showing where each of the
+                    planned volumes was in the compilation and publication process. HO had furnished
+                    such a chart in previous years and it had been very helpful. Rosenberg requested
+                    a chart which would show the proportion of denied materials in each volume as
+                    published, for the period 1949-1963.</p>
+                <p>The Committee discussed the problems and opportunities presented by
+                    computerization of records. David Herschler pointed out that a great many
+                    documents never made it into the Department's computerized database. David
+                    Langbart, the National Archives specialist on retirement of Department of State
+                    records, described the special program for the retirement of lot files from the
+                    Executive Secretariat, stressing that these were not, even after accessioning,
+                    integrated into the Central Files because they had never been meant to be part
+                    of them. Preserving these records was vital because they including many items
+                    which, “by both accident and intent,” had not been logged into the automated
+                    system. Cooper made a distinction between official and unofficial records but
+                    was assured by many of those present that this distinction often broke down in
+                    practice.</p>
+                <p>Kimball inquired whether these problems were a legitimate concern of the
+                    Committee. Van Camp disagreed saying that the topic was fundamental to the
+                    Committee and to the <hi rend="italic">Foreign Relations</hi> series. If
+                    information were not well-managed, the job of compiling and publishing <hi
+                        rend="italic">Foreign Relations</hi> would be made more difficult and would
+                    affect the manner in which HO functions. Kimball stated that the Committee
+                    should therefore have a statement from the Department on just what its records
+                    policy was. Van Camp replied that she thought that such a report might be
+                    difficult to generate.</p>
+                <p>The Committee recessed at 12:05 p.m.</p>
+                <p rend="center"><hi rend="underline">Luncheon, November 15, 1990<lb/>Buchanan
+                        Room</hi></p>
+                <p rend="underline">Present</p>
+                <list>
+                    <item>Committee members</item>
+                    <item>G. Alfred Kennedy</item>
+                    <item>Susan Povenmire</item>
+                    <item>William Z. Slany</item>
+                    <item>John Fawcett, National Archives</item>
+                    <item>Elaine McDevitt</item>
+                </list>
+                <p>The Advisory Committee held a working luncheon. John Fawcett, Director of the
+                    Office of Presidential Libraries, National Archives and Records Administration,
+                    joined the Committee as did Deputy Assistant Secretary Kennedy and Special
+                    Assistant Povenmire. In informal discussions during the meal the Committee
+                    members reviewed the morning proceedings and Fawcett's efforts to improve the
+                    public use of documents at some of the more newly-established Presidential
+                    libraries.</p>
+                <p>As the meal ended, Under Secretary Selin joined the Committee. The Under
+                    Secretary greeted the Committee and expressed his appreciation for its valuable
+                    advice to the Department and the Historian. He assured the Committee of the
+                    Department's continuing commitment to an accurate and comprehensive <hi
+                        rend="italic">Foreign Relations</hi> series. The Under Secretary personally
+                    acknowledged the importance of the Advisory Committee's role in verifying the
+                    accuracy of published volumes in the series. He was quite aware that the
+                    Committee members could not evaluate the quality of books proposed for
+                    publication unless they could themselves see what was deleted during the
+                    declassification process. Only that sort of examination could determine whether
+                    the printed record was distorted in any important way. He recognized that
+                    Committee members' access to classified records was absolutely indispensable for
+                    them to do their work.</p>
+                <p>Under Secretary Selin understood that the process of providing Committee members
+                    with Top Secret clearances was underway. He warned that the process could be
+                    lengthy, and the whole Advisory Committee might not have their clearances soon.
+                    The Under Secretary reminded the Advisory Committee of the difficulties in
+                    expediting clearances. He suggested that the Committee might want to form a
+                    subcommittee or working party of those members who were cleared by the spring of
+                    1991 in order to get on with the process of reviewing classified records
+                    withheld from a volume or volumes proposed by the Department Historian for
+                    Committee scrutiny.</p>
+                <p>In response to a question from Kimball regarding the relative uselessness of
+                    security clearances without a “need to know,” Under Secretary Selin assured the
+                    Advisory Committee that it would, of course, have such a “need.”</p>
+                <p>The Under Secretary took up the question of the pending Congressional bill
+                    regarding the <hi rend="italic">Foreign Relations</hi> series. There were many
+                    problems with the existing draft legislation. The Department knew that it had to
+                    improve the series and was certain it could do so far better than Congress
+                    could. The Department had, however, been slow in bringing before the
+                    Congressional committees the Department's views on the legislation and its plans
+                    to assure the accuracy and completeness of the published record. The Under
+                    Secretary assured the Committee that the Department would have its action plan
+                    on the reform of the <hi rend="italic">Foreign Relations</hi> series in the
+                    hands of the relevant Congressional committees before Congress convened on
+                    January 17, 1991. The Advisory Committee would be consulted and kept informed
+                    about the contents of the plan.</p>
+                <p>Under Secretary Selin responded to the Advisory Committee members who anticipated
+                    they might be involved in the expected Congressional hearings in 1991 regarding
+                    the legislation. He acknowledged that the members of the Committee might be
+                    asked to comment to the Congress regarding the legislation. The Committee was,
+                    however, a creation of the Department, and the Under Secretary could not imagine
+                    how the Committee as a whole could possibly take a formal, public position
+                    regarding the legislation, especially legislation that the Department
+                    opposed.</p>
+                <p>Perkins was particularly concerned to know if the Under Secretary understood the
+                    importance to the Advisory Committee of access to the Department guidelines for
+                    the page-by-page declassification review of Department documentation transferred
+                    to the National Archives. The Committee felt strongly that its mandate must not
+                    be confined to documents included in particular <hi rend="italic">Foreign
+                        Relations</hi> volumes but must extend to the larger body of Department
+                    documentation from which the contents of the printed volumes were drawn. Under
+                    Secretary Selin acknowledged that the Committee's access to the Department's
+                    relevant systematic review declassification guidelines was necessary to allow it
+                    to fully evaluate the accuracy and completeness of the published historical
+                    record and other records made accessible to the public at the National
+                    Archives.</p>
+                <p>Under Secretary Selin concluded his remarks to the Advisory Committee by assuring
+                    them of the Department's intention to move quickly to perfect its planning for
+                    an improved <hi rend="italic">Foreign Relations</hi> series and the hope that
+                    the Committee can work with the Department and the Historian in modernizing the
+                    publication.</p>
+                <p>The luncheon concluded at 1:45 p.m.</p>
+                <p rend="underline">Closed Session, November 15, 1990, Afternoon</p>
+                <p rend="underline">Others Present</p>
+                <list>
+                    <item>John Fawcett, National Archives</item>
+                    <item>Nancy Smith, National Archives</item>
+                    <item>Thomas Thorne, PA/HO</item>
+                </list>
+                <p>The session reconvened at 2 p.m.</p>
+                <p>John Fawcett summarized the Presidential libraries' former procedure of
+                    simultaneously processing classified documents for use by PA/HO historians and
+                    for the public at large. Because this procedure did not adequately meet PA/HO
+                    needs, materials are now partially processed for Department of State historians
+                    in order of priority for <hi rend="italic">Foreign Relations</hi> volumes.</p>
+                <p>Fawcett reported there were over 20 visits by PA/HO historians to the John F.
+                    Kennedy Library during 1989. He also reported resources were increased at the
+                    Lyndon B. Johnson and Kennedy Libraries to expedite the examination of documents
+                    by Department of State historians.</p>
+                <p>Slany stated these procedures and additional resources had definitely enhanced
+                    research performed by PA/HO historians. He briefly outlined the PA/HO
+                    reorganization, and said the reorganization will increase the number of
+                    historians performing research at Presidential libraries during 1992 and 1993.
+                    Slany indicated he would work out a schedule of visits by PA/HO historians to
+                    Presidential libraries that “won't overwhelm everyone,” and that PA/HO
+                    historians would only resort to using Presidential libraries for documents not
+                    found elsewhere. Fawcett said it would be helpful and essential for the
+                    Presidential libraries to have as much advance notification as possible of <hi
+                        rend="italic">Foreign Relations</hi> needs.</p>
+                <p>Fawcett and his assistant, Nancy Smith, stated that access by PA/HO to documents
+                    is typically much easier directly at the agency level than at Presidential
+                    libraries because of the NSC's review procedure. As an example, Fawcett outlined
+                    the following procedure for historians to gain access to classified NSC and
+                    White House documents at Presidential libraries: 1) the NSC is notified PA/HO
+                    would like to review a certain file or files, 2) NSC is notified a second time
+                    when PA/HO requests a copy of the documents, and 3) NSC is asked to review
+                    compilations for declassification.</p>
+                <p>Charles Sampson noted, however, that the NSC has never denied PA/HO timely access
+                    to documents.</p>
+                <p>Fawcett referred to a recent article in the <hi rend="italic">Washington
+                        Post</hi> that reported former Secretary of State George Shultz had removed
+                    copies of his official papers. Fawcett commented that Secretary Shultz was the
+                    first Secretary of State to have implemented a procedure for removing his
+                    papers, and that all classified documents are in the Federal Records Center
+                    managed by the National Archives in San Bruno, California.</p>
+                <p>Sampson, speaking on behalf of PA/HO, expressed appreciation for all the
+                    assistance provided by Suzanne Forbes at the Kennedy Library.</p>
+                <p>The session adjourned for a break.</p>
+                <p rend="center"><hi rend="underline">Closed Session, November 15, 1990,
+                        Afternoon</hi></p>
+                <p>Thomas Thorne made a presentation on the volume on the relationship between
+                    intelligence and U.S. foreign policy that will supplement the <hi rend="italic"
+                        >Foreign Relations</hi> series. The project had been started several years
+                    ago, interrupted, then resumed in May 1990 on a part-time basis (about 60
+                    percent). The majority of the material had been collected before he began work
+                    on the project although some collecting is still being done with the aid of the
+                    CIA. Compilation and annotation should be completed in early 1991.</p>
+                <p>The volume will be a combination fiche and print publication covering the
+                    formation of the intelligence community during the period 1945-1950. The project
+                    will comprise about 3,400 pages of documents: 2,200 pages of memoranda, reports,
+                    minutes; and 1,200 pages of finished intelligence, i.e., estimates, intelligence
+                    memoranda to the President which transmitted raw intelligence data (about 1/4 of
+                    the 1,200 pp.).</p>
+                <p>Thorne explained his standards of selection:</p>
+                <p>1) In compiling an institutional history, he sought to cover the main issues and
+                    themes of the beginning of the intelligence community: military vs. civilian
+                    control, size of the agency, the origins of covert action in the late 1940s, the
+                    integration of clandestine intelligence collection, and the development of the
+                    evaluative and estimating process.</p>
+                <p>2) He also included samples of finished intelligence (to be reproduced in the
+                    fiche portion), including estimative material, and interagency intelligence
+                    estimates for the period 1946 through mid-1950 until the outbreak of the Korean
+                    war.</p>
+                <p>In collecting the documentation, Thorne discovered that materials are widely
+                    scattered among government agencies and within agencies: Central and lot files
+                    of the Department of State, Truman Presidential Library, Military Record Groups
+                    at NARA, Bureau of the Budget (especially 1943-1946), and other files at NARA.
+                    There are a few record collections that have cumulated material that would be
+                    otherwise difficult to locate. He cited the Troy Papers at NARA and the
+                    collections at the CIA History staff. Overall, he found CIA records rather
+                    difficult to use because he had no direct access to the files but had to go
+                    through the History Staff. Nor are there any finding aids that would facilitate
+                    research. Recordkeeping in the early years of the Agency was neither regularized
+                    nor centralized.</p>
+                <p>A “surprising” amount of material has already been declassified except in two
+                    categories: covert actions and the origins of clandestine intelligence
+                    collection. Thorne was optimistic, however, that the age of the documents and
+                    already-released information would help to overcome problems in declassifying
+                    these documents.</p>
+                <p>J. Kenneth McDonald, Historian of the CIA, characterized the volume on
+                    intelligence as a model of collaboration between the Agency and PA/HO. In 1985,
+                    the Agency inaugurated its Historical Review Program to review and release
+                    records and established an advisory panel of consultants consisting of both
+                    government officials and distinguished historians. Under systematic
+                    declassification, the CIA has released two histories of the early years of the
+                    Agency.</p>
+                <p>McDonald cited the two recently-published histories: one by Arthur Darling
+                    published in November 1989 covering the 1945-1950 period and one by Ludwell
+                    Montague published in September 1990 covering Walter Bedell Smith's tenure as
+                    Director of Central Intelligence. The Agency was currently working on
+                    declassifying supporting documents for the first history.</p>
+                <p>Mary McAuliffe, Deputy Historian of the CIA, reiterated Thorne's statement of the
+                    difficulty of using the CIA files. She attributed this difficulty to two
+                    factors:</p>
+                <p>1) there has been no orderly recordkeeping in the CIA, leading to great
+                    difficulties in finding early documents; and</p>
+                <p>2) the compartmentalization of the Agency has resulted in each directorate
+                    maintaining separate files.</p>
+                <p>The CIA History Staff, mostly historians on the staff engaged in writing
+                    histories, has made an effort to collect some source documents from around the
+                    agency. This cooperative project with Thorne has stimulated more of this effort
+                    to collect and identify files within the Agency.</p>
+                <p>In response to a question regarding future intelligence volumes for the post-1950
+                    period, McDonald said CIA had no plans to produce more special volumes. [The
+                    State Department Historical Office, however, will be planning intelligence
+                    supplements to span the Eisenhower period.] McAuliffe looked forward to building
+                    on the close and productive working relationship the CIA History Staff and the
+                    State historians--Bill Deary, Neal Petersen, Ted Keefer, and now Tom Thorne--had
+                    developed in working on this volume.</p>
+                <p>In regard to including documents on specific covert actions, Thorne noted that
+                    the volume was only a broad overview of the subject and contained no details on
+                    specific actions. There were, however, specific intelligence estimates on, for
+                    example, Soviet military strength, included in the documents that would be
+                    reproduced in the microfiche portion of the publication.</p>
+                <p>On the issue of State historians' access to CIA records, which Zamora pointed out
+                    was a problem identified last year, Slany said that access to CIA records in the
+                    files of other government agencies was better, but there are no doubt episodes
+                    for which State does not have access to key documentation. McDonald again made
+                    his point that the problem is not access but declassification, which the CIA
+                    History Staff can facilitate somewhat by acting as a broker with the CIA
+                    declassification staff.</p>
+                <p>The issue of requesting access to CIA records at the Presidential Libraries or
+                    requesting access directly from the CIA was discussed. The intelligence
+                    documents at the Libraries were generally quite accessible and allowed the
+                    historians a larger selection; the CIA records are dispersed throughout the
+                    Agency and are extremely difficult to find or gain access to even for CIA
+                    historians. There are few if any finding aids. Nonetheless, as McDonald pointed
+                    out, the collaboration between Thorne and McAuliffe should be used as a model
+                    for designing future State-CIA cooperative research for <hi rend="italic"
+                        >Foreign Relations</hi> volumes.</p>
+                <p>Kimball asked if there were a position the Committee could take in this issue
+                    that could be helpful. Hermann noted it appeared that beyond urging continued
+                    close cooperation between the CIA and the State Department, no further Committee
+                    statement was necessary.</p>
+                <p>McDonald digressed to speak about the legislation and the problems it posed for
+                    the agencies in the foreign affairs community. The legislation proposed
+                    establishing a “super declassification board,” a panel made up of historians
+                    that would determine ultimate declassification. The panel would institute
+                    sanctions on the agency involved. McDonald indicated that an
+                    Executive/Congressional quarrel was not the best way to solve the
+                    declassification impasse. In response to a question, however, McDonald said that
+                    the CIA was not working on alternatives to the legislation.</p>
+                <p>Slany expressed his and the Office's appreciation for Thorne's contribution to
+                    the progress on the important project of an intelligence supplement to the <hi
+                        rend="italic">Foreign Relations</hi> series, due largely to Thorne's
+                    experience as the former Director of the Bureau of Intelligence and Research.
+                    Hopefully the volume would be published in 1993.</p>
+                <p>Cooper asked about the possibility of publishing National Intelligence Estimates
+                    which represented finished intelligence stripped of all references to sources
+                    and methods. The NIEs were important in the policymaking process. He wondered
+                    why it was so difficult to declassify them. McDonald and McAuliffe agreed.</p>
+                <p>Morefield and McDonald explained that publishing the NIEs as a series of numbered
+                    documents could reveal long-term trends of intelligence collection and methods
+                    of analysis and evaluation--the so-called “mosaic argument”.</p>
+                <p>Kimball noted that the Committee would take the position that inclusion of NIEs
+                    would be very valuable to the published record and would urge their
+                    declassification.</p>
+                <p>McAuliffe briefly summarized the guidelines of declassification of covert actions
+                    that the Agency uses: no presence in foreign countries and no activities in
+                    foreign countries are acknowledged by the Agency, unless a “window” has been
+                    opened by, for example, the assassination of a CIA Station Chief.</p>
+                <p rend="center"><hi rend="underline">Closed Session, November 16, 1990,
+                        Morning</hi></p>
+                <p rend="center"><hi rend="underline">Participants</hi></p>
+                <p rend="underline">Advisory Committee</p>
+                <list>
+                    <item>Warren Kimball, Chairman</item>
+                    <item>Betty Glad</item>
+                    <item>George Herring</item>
+                    <item>Bradford Perkins</item>
+                    <item>Emily Rosenberg</item>
+                    <item>Ann Van Camp</item>
+                    <item>Stephen Zamora</item>
+                </list>
+                <p rend="underline">Bureau of Public Affairs</p>
+                <list>
+                    <item>G. Alfred Kennedy, Deputy Assistant Secretary</item>
+                    <item>Susan Povenmire</item>
+                    <item>
+                        <list>
+                            <item><hi rend="underline">Office of the Historian</hi></item>
+                            <item>William Z. Slany, The Historian</item>
+                            <item>PA/HO Staff</item>
+                        </list>
+                    </item>
+                </list>
+                <p rend="underline">Office of Freedom of Information, Privacy, and Classification
+                    Review</p>
+                <list>
+                    <item>Richard Morefield</item>
+                    <item>Hugh McL. Woodward</item>
+                    <item>Philip Valdes</item>
+                </list>
+                <p rend="underline">Others</p>
+                <list>
+                    <item>George Chalou, National Archives</item>
+                    <item>Mary McAuliffe, Central Intelligence Agency</item>
+                    <item>Kenneth McDonald, Central Intelligence Agency</item>
+                    <item>Nancy Smith, National Archives</item>
+                </list>
+                <p>The Committee convened at 9 a.m. Slany circulated to the members: 1) copies of
+                    model pages for a facsimile edition of a <hi rend="italic">Foreign
+                        Relations</hi> volume, and 2) copies of a 1988 memorandum outlining various
+                    options for the future format of the series.</p>
+                <p>Morefield said that he wished to brief the Committee on the work of his unit, the
+                    Historical Documents Review Staff of the Division of Freedom of Information,
+                    Privacy, and Classification Review (FPC/HDR), prior to the volume briefings to
+                    be given by Philip Valdes on the 1955-1957 Eastern European volume, and by Hugh
+                    Woodward on the 1958-1960 Cuba volume.</p>
+                <p>Morefield explained the relationship of HDR to other elements of the IS
+                    bureaucracy. He said that HDR's work fell into three areas: 40 percent of the
+                    time was spent reviewing for declassification <hi rend="italic">Foreign
+                        Relations</hi> volumes and other special projects submitted by HO (such as
+                    the intelligence volume discussed yesterday or a lot file project on the
+                    Secretary of State's Memoranda of Conversation); 40 percent of the time was
+                    spent on systematic review of the Department's documents as part of the transfer
+                    to the National Archives; and 20 percent of the time went to other agency
+                    support. He used this breakdown to underline that HDR could only devote less
+                    than half of its time to reviewing <hi rend="italic">Foreign Relations</hi>.</p>
+                <p>Morefield emphasized that the production of <hi rend="italic">Foreign
+                        Relations</hi> volumes should be viewed as a pipeline. He pointed out that
+                    over the last 5 years many volumes had been leaving the pipeline, but few had
+                    been entering it. This was not completely HO's fault, but rather reflected the
+                    difficulty in gaining access to Kennedy Library documentation. But the paucity
+                    of volumes entering the pipeline had created programming problems for HDR which
+                    had to properly oversee its budget and inform annuitants whether their services
+                    would be required during the coming year. He said that recently HDR and HO had
+                    been working toward achieving a schedule that would help address these
+                    problems.</p>
+                <p>Morefield said that HO had three problems in regard to the <hi rend="italic"
+                        >Foreign Relations</hi> series:</p>
+                <p>1) How to handle editorially the growing number of issues within increasing space
+                    limitations. He expressed concern that if HO did not cover a particular issue
+                    for space reasons and did not explain this in a preface, then the reader would
+                    presume that the HDR “troglodytes” had rejected it;</p>
+                <p>2) How to handle the subject of covert activities when a government-wide decision
+                    denies their declassification. Morefield indicated two recently declassified <hi
+                        rend="italic">Foreign Relations</hi> volumes which handled the intelligence
+                    question adroitly: the coverage of assassination intrigue by using Church
+                    Committee hearings and coverage within the Suez volume of the impact of
+                    intelligence on the decisionmaking process; and</p>
+                <p>3) How to achieve objectives with declining available resources. HDR, he pointed
+                    out, needed to know when <hi rend="italic">Foreign Relations</hi> manuscript was
+                    going to be submitted to HDR because it had to deal with staff and budget
+                    limitations.</p>
+                <p>Morefield then briefly summarized recent discussions between HO and HDR which had
+                    produced a schedule for the submission for review of <hi rend="italic">Foreign
+                        Relations</hi> volumes through March 1991. Morefield pointed out that the
+                    scheduling question involved the size of the <hi rend="italic">Foreign
+                        Relations</hi> series and the need to abide by plans and agreements
+                    made.</p>
+                <p>Morefield also raised the question of joint planning. In August and September a
+                    schedule had been worked out through March 1991. He referred to a 1986
+                    memorandum by the declassification leadership that committed the Department to
+                    fewer and smaller volumes. According to Morefield, HO had reneged on this, and
+                    now FPC will be stretched to the limit to meet demands posed by the documenting
+                    of the Kennedy administration.</p>
+                <p>Morefield praised the briefing on the intelligence volume given the previous day
+                    and said that HO should provide HDR with similar briefings on all volumes. He
+                    felt the remark that most of the documents had already been declassified was
+                    particularly helpful.</p>
+                <p>Morefield described the lengths of time involved in each step of the
+                    declassification process. The initial HDR review, during which the HDR reviewer
+                    consulted with the appropriate State Department desk, took 6-9 months for an
+                    800-page volume. When this was completed, HO could if it wished appeal the
+                    results. Simultaneously documents were sent to other government agencies and,
+                    when necessary, to foreign governments. This second step took 6-9 months, during
+                    which time HDR had no control over the process. Once these reviews were
+                    received, documents were then sent once again to the desk and then to NSC.
+                    Following NSC review, the volume once more went through the desks. HO could
+                    appeal the results when the process was done and this appeal might take a year.
+                    The whole declassification process (without the appeals) takes 2 to 2-1/2 years.
+                    With publication time included, it is around 3 years if all goes well.</p>
+                <p>Perkins recalled that several years ago HO had prepared flow charts for each of
+                    the volumes which were quite helpful in determining which component of the
+                    process was responsible for delay. He recalled that the last flow chart he had
+                    seen showed that the major delay was at the NSC. Morefield replied that by
+                    detailing FPC staff to NSC they had resolved this problem. Kimball suggested
+                    that HO prepare a type of “buck sheet” (as “flow chart” was an out-of-date
+                    concept) that would indicate who was responsible for which deletions.</p>
+                <p>Kimball noted that 6 to 9 months seemed very long to him; he wondered why it took
+                    so long. Morefield replied that some reviewers keep going back to the bureaus to
+                    get as much as possible released. He reviewed their efforts with NSC and
+                    explained how FPC had cut back on the amount of material sent to other agencies.
+                    He raised FPC's brokering of the NIE and SNIE reports with CIA.</p>
+                <p>Kimball assumed that the Committee would obtain access to denied and excised
+                    documents and stressed the need to know which agency had denied or excised a
+                    document. He felt the Committee could not do its job without this access.
+                    Morefield stated that access would be a problem and stressed that pointing
+                    fingers at other agencies would be counter-productive.</p>
+                <p>Kimball replied that <hi rend="italic">Foreign Relations</hi> was authorized by a
+                    Presidential directive and Executive order. Morefield noted that nonetheless it
+                    was hard to get other agencies to spend money for our programs and that
+                    finger-pointing would only make it harder.</p>
+                <p>Kimball asked if FPC could reverse NSC decisions.</p>
+                <p>Morefield indicated that it could not and that in any case it was probably
+                    imprudent to do so. He indicated that State had to give consideration to other
+                    agency concerns, because if an agency feels it has been hurt by a State release
+                    it will not cooperate further. Morefield then went on to describe the INFORM
+                    system for tracking declassified documents and making them available to the
+                    public. He noted that as soon as a volume was published there were requests for
+                    the documents cross-referenced and for those excised as well.</p>
+                <p>There followed a brief discussion on the limits on earnings of the FPC staff
+                    annuitants.</p>
+                <p>Morefield then stressed that clearance of <hi rend="italic">Foreign
+                        Relations</hi> volumes was not the top FPC priority. He could juggle the
+                    staff within a quarter but had to balance HO demands against those of Archives.
+                    FPC could not ignore its mandate to turn over to the Archives State Department
+                    files at about the 30-year line. He reiterated that for the past year and a half
+                    he had been trying to get a schedule from HO without success and that finally he
+                    had given HO the parameters of what FPC could handle: he asked that HO spread
+                    out submission of manuscript over a given year and that it not all be on one
+                    subject.</p>
+                <p>Slany observed that he had given FPC preliminary schedules and that the present
+                    one stretched into 1992.</p>
+                <p>Van Camp believed a long-range plan would help. She asked how the 30-year line in
+                    the proposed legislation would affect FPC. Morefield replied that this would
+                    detract from the effort to clear <hi rend="italic">Foreign Relations</hi>
+                    volumes since more time would be needed to do the processing.</p>
+                <p>As Morefield concluded his remarks, Kimball brought up a letter from a number of
+                    HDR staffers recently published in the <hi rend="italic">Foreign Service
+                        Journal</hi>. Kimball particularly objected to the statement that the
+                    mandate of the Committee did not include declassification. Kimball called this
+                   “wrong.” He said it did not reflect the cooperative attitude that the Committee
+                    was trying to encourage with the declassification unit and said he was “deeply
+                    troubled” by it. Kimball said it reflected an attitude problem in HDR.</p>
+                <p>Morefield responded that the Committee and part of the Department had differing
+                    views on the Committee's mandate. Morefield said there was not more specificity
+                    in the Committee's charter because agreement could not be reached within the
+                    State Department.</p>
+                <p>Perkins stressed that was old business. The Committee felt strongly that it was
+                    advisory on declassification as well since as the volumes became more selective
+                    in the face of exponentially growing numbers of records, this function would
+                    become even more important. Perkins pointed out that as <hi rend="italic"
+                        >Foreign Relations</hi> was forced to become more and more selective from
+                    the mass of documentation, it was more and more imperative for the Committee to
+                    become involved in the general declassification issue.</p>
+                <p>The meeting then turned to the declassification briefing of <hi rend="italic"
+                        >Foreign Relations</hi>, 1955-1957, volume XXV, Eastern Europe. Kimball
+                    posed the question of whether in the absence of appropriate access to documents
+                    the Committee members wished to hear the briefings at all, as this would be a
+                    form of acquiescence in the denial of access. The Committee disagreed and
+                    consideration turned to the briefing.</p>
+                <p>This portion of the minutes is Confidential and is maintained as a separate
+                    document.</p>
+                <p>The meeting recessed at 10:30 a.m. for a break.</p>
+                <p rend="center"><hi rend="underline">Closed Session, November 16, 1990,
+                        Morning</hi></p>
+                <p>The Committee reconvened at 10:45 a.m. to hear Frank Sieverts of the Senate
+                    Foreign Relations Committee (SFRC) staff and Jim Curry of the Senate Select
+                    Committee on Intelligence (SSCI) staff discuss the proposed <hi rend="italic"
+                        >Foreign Relations</hi> legislation.</p>
+                <p>Sieverts began by explaining the genesis of the bill. The impetus for the
+                    legislation came from the extensive public criticism of alleged significant
+                    omissions in <hi rend="italic">Foreign Relations</hi>, 1952-1954, Iran. This
+                    included criticism by all the major historical organizations. This criticism had
+                    come to the attention of the SFRC, its Chairman, Senator Claiborne Pell, and its
+                    ranking minority member, Senator Jesse Helms. Senators Pell and Helms had found
+                    allies in the majority and minority leaders of the SSCI, Senators David Boren
+                    and William Cohen.</p>
+                <p>When the Senators focused on the problem, they had discovered that <hi
+                        rend="italic">Foreign Relations</hi> had no legislative mandate: “it exists
+                    because it exists”. Sieverts explained that this was reason to worry because the
+                    Department of State <hi rend="italic">Bulletin</hi> had once existed and is no
+                    more. Given the fate of the <hi rend="italic">Bulletin</hi>, which also lacked a
+                    mandate, Sieverts felt that it was important to provide the <hi rend="italic"
+                        >Foreign Relations</hi> series with one.</p>
+                <p>Sieverts outlined the history of the bill. It was approved by the Senate Foreign
+                    Relations Committee as an amendment to a Department of State supplemental
+                    authorization bill; the Department of State then determined that it did not
+                    require the supplemental authorization; the legislation was then introduced as a
+                    free-standing bill. It was passed by the Senate in the final days of the last
+                    session (thereby constituting an “action of the Senate”), but did not become law
+                    because there was no corresponding House of Representatives action.</p>
+                <p>Sieverts predicted that in early 1991 the Senate and House bill would be added to
+                    a “must” authorization bill for Department of State funding. He expected it to
+                    be passed in mid-February and noted that interested parties had until then to
+                    make comments and suggestions.</p>
+                <p>Sieverts then asked the Advisory Committee for advice regarding the proposed
+                    legislation which, he noted, authorizes the <hi rend="italic">Foreign
+                        Relations</hi> series as a continuing responsibility of the U.S. Government
+                    and gives the Advisory Committee <hi rend="underline">legal</hi> status, thereby
+                    making both <hi rend="italic">Foreign Relations</hi> and the existence of the
+                    Committee a matter of law. The legislation also spells out goals for <hi
+                        rend="italic">Foreign Relations</hi>; provides a set of principles for the
+                    series; defines the function of the Advisory Committee; and provides for
+                    automatic declassification of Department of State documents after 30 years. It
+                    also creates a procedure for the inclusion of intelligence materials in <hi
+                        rend="italic">Foreign Relations</hi>.</p>
+                <p>Sieverts explained that the goal of the legislation was to get HO historians
+                    fullest access to Department of State and other government agency documents. He
+                    said that the SFRC had received wide public support and interest and repeated
+                    that he was confident that the legislation would pass. He then asked Jim Curry
+                    to discuss the Department of State's response to the proposed legislation, a
+                    letter dated October 25 from Assistant Secretary of State for Legislative
+                    Affairs Janet Mullins to Dante Fascell, Chairman of the House Committee on
+                    Foreign Affairs.</p>
+                <p>Curry began by explaining that he too was trained as an historian, with a Ph.D.
+                    from the University of Virginia. He pointed out that neither Senator Boren nor
+                    Senator Cohen would ever do anything to damage U.S. intelligence equities and
+                    noted that they had had extensive discussions with CIA representatives to ensure
+                    that the legislation <hi rend="underline">would</hi> protect U.S.
+                    intelligence.</p>
+                <p>Noting that many documents use code words, Curry declared that the Mullins letter
+                    could have used “hyperbole” and “paranoia” as its codewords. He considered the
+                    letter a statement of official Department of State opposition to the bill. For
+                    example, her letter claims that the legislation derogates from the
+                    government-wide system for declassification provided by Executive Order 12356.
+                    Curry pointed out, however, that in fact the legislation leaves declassification
+                    in the hands of the originating agencies, but requires that those agencies
+                    attempt to declassify documents for <hi rend="italic">Foreign Relations</hi> and
+                    tries to establish procedures for the submission of <hi rend="italic">Foreign
+                        Relations</hi> documents to agencies for declassification. It also calls for
+                    unclassified abstracts or summaries of documents that cannot be
+                    declassified.</p>
+                <p>Curry argued that 30-year-old documents--except those dealing with certain
+                    activities--do not need to be remain classified. Embarrassment and stupidity
+                    should not be used as grounds for denial. The American people are entitled to
+                    know the basis for U.S. foreign policy and 30 years is <hi rend="underline"
+                        >not</hi> too short a time. It was not true that U.S. national security
+                    would be endangered by the legislation. National security would be protected,
+                    but would not be used as an excuse for withholding documents.</p>
+                <p>Curry also dealt with the contention that the proposed bill would conflict with
+                    the Atomic Energy Act, the National Security Act of 1947, or other legislation.
+                    He believed that with reason and responsibility, the material could be
+                    released.</p>
+                <p>Curry denied the letter's complaint that preparation of unclassified abstracts or
+                    summaries of withheld documents under the proposed bill would be a fiscal
+                    problem for the Department and said that only a handful of documents would need
+                    summarizing. If more resources were required, the Department should ask Congress
+                    for the money. He also disagreed with the letter's contention that the Advisory
+                    Committee would become a high-level review body, rather than a scholarly
+                    advisory body. Some additional work would be required but Curry pointed out that
+                    the Committee would be authorized to review <hi rend="underline"
+                    >procedures</hi>, which should not take too much more time. Under the
+                    legislation, the Committee would have access, would receive a sampling of
+                    documents, and would know what had been left out of <hi rend="italic">Foreign
+                        Relations</hi>.</p>
+                <p>Perkins asked for an explanation of the end of the process if the Advisory
+                    Committee did not agree with declassification decisions. Curry responded that
+                    the agency would then have to make a case to the SFRC and the HFAC for
+                    withholding the document. However, he described this as a “sanity check” and
+                    said that the committees would not force an agency to release withheld
+                    documents; the originating agency would always have the final say.</p>
+                <p>Glad asked whether this would be micromanagement. Curry replied that he hoped
+                    not, but noted that sometimes Congress needed to micromanage. She then asked
+                    whether dealing with reports on declassification disputes would be a burden for
+                    Congress. Curry replied that this procedure was supposed to encourage settlement
+                    of differences. Congressional committees get such reports all the time. Also the
+                    reports would be used only as a last resort and he did not believe they would be
+                    particularly burdensome.</p>
+                <p>Zamora commented that the proposed legislation did not seem to change the
+                    declassification guidelines, except for the Department of State. He pointed out
+                    that the exception no. 3 allowed documents to be withheld if their release would
+                    demonstrably impede current diplomatic negotiations or other ongoing official
+                    activities of the U.S. Government and said that “other activities” seemed
+                    awfully broad. Sieverts explained that some historians wanted to allow only very
+                    specific and limited grounds for denial. The drafters had to have guidelines
+                    flexible enough to protect national security, but these were not to be used as
+                    loopholes to avoid declassification.</p>
+                <p>Rosenberg asked what the differences were between the Senate and House bills.
+                    Noting that the legislation would be redrafted in the next session, Sieverts
+                    said that there were only minor differences. He explained, for example, that the
+                    House bill specified when terms of Committee members were to start and said that
+                    the Senate would probably adopt the House language. Perkins noted that the House
+                    language also tightened up the date in which the system would go into effect.
+                    Sieverts observed that, if anything, the House was more suspicious than the
+                    Senate about declassification.</p>
+                <p>Kimball asked if the legislation applied only to <hi rend="italic">Foreign
+                        Relations</hi> or did it apply to documents accessioned by the National
+                    Archives as well. Sieverts responded that it would certainly apply as well to
+                    the documents destined for the Archives because of the provision for automatic
+                    declassification after 30 years. Curry added that the Advisory Committee would
+                    review Department of State declassification <hi rend="underline"
+                    >procedures</hi>, but would only receive a sampling of withheld documents.
+                    Committee members would not become declassifiers. Sieverts pointed out that the
+                    new automatic declassification process would be simpler than the current system.
+                    After 30 years, the burden of proof would be shifted to the agency.</p>
+                <p>Kimball noted that the Committee was most concerned about the guidelines.</p>
+                <p>Sieverts stated that if the bill was adopted the guidelines would be changed and
+                    it would make declassification easier. With a tip of the hat to Senator Helms,
+                    he suggested that the present system of declassification could be viewed as
+                   “Corporate Statism” whereby the government controlled release of historical
+                    materials. The bill envisioned a “Free Enterprise” approach in which private
+                    scholars would take control. There was general awe that Sieverts had managed to
+                    hit the appropriate ideological buttons with that analogy.</p>
+                <p>Perkins complained that it was “not quite fair” to assume that the Department
+                    declassifiers automatically wanted to keep documents classified and asked
+                    whether action by the Department to change its declassification modus operandi
+                    would mean that <hi rend="italic">Foreign Relations</hi> legislation would not
+                    be needed. Curry said that he agreed that this might have been possible if the
+                    Department had cooperated, but pointed out that it had been fighting the
+                    legislation “tooth and nail.” Perkins asked if a new law was necessary, to which
+                    Curry replied yes.</p>
+                <p>Herring commented that the focus of the bill had been on Department of State
+                    records and asked what about those of other agencies, noting that such agencies
+                    presented an increasing share of policy and declassification problems. Sieverts
+                    replied that the origins of the bill had been Department of State problems and
+                    concern over material omitted from <hi rend="italic">Foreign Relations</hi>, but
+                    agreed that this was just a beginning. He noted that use of the documents of
+                    other agencies was a growing problem for historians, even those with access. He
+                    pointed out that earlier intelligence documents had been transmitted through the
+                    Department of State. This was no longer true, but if historians lacked access to
+                    these documents, they would not have a full picture of what happened. The
+                    legislation constituted an important step in the right direction. Curry added
+                    that release of CIA documents will, of course, be difficult, but he believed
+                    that the bill was a major step forward.</p>
+                <p>Kimball expressed concern that the proposed language on the content of the series
+                    might prevent necessary changes and reforms. He asked what would happen if HO
+                    were to claim that because there were too many documents, <hi rend="italic"
+                        >Foreign Relations</hi> should become a finding aid consisting primarily of
+                    indexes and bibliographical information. Would the legislation prevent this?
+                    Curry said yes, it would prevent changing the basic format of the series. He
+                    argued that this was a good thing because <hi rend="italic">Foreign
+                        Relations</hi> constituted a major resource for historians who cannot come
+                    to Washington. Curry noted that he had used <hi rend="italic">Foreign
+                        Relations</hi> as an undergraduate; he argued that the government should
+                    continue to publish the series and try to make it as comprehensive as
+                    possible.</p>
+                <p>Kimball repeated that he was concerned with the practical aspects of producing
+                        <hi rend="italic">Foreign Relations</hi>. Would the legislation be an
+                    obstacle to reforms in 15 years?</p>
+                <p>Sieverts suggested that there might be a point at which major changes in <hi
+                        rend="italic">Foreign Relations</hi> would become necessary. Sieverts
+                    thought this would perhaps occur with the Department's 1973 conversion to
+                    electronic record-keeping and he saw that as a time to consider changes. Clearly
+                    automatic declassification would then be necessary. Sieverts stated that <hi
+                        rend="italic">Foreign Relations</hi> had a special status and the
+                    legislation sought to preserve it.</p>
+                <p>Perkins asked what would happen if the Historical Office needed to expand
+                    resources to maintain the format? Curry answered that the Department should come
+                    to Congress with an appropriation request.</p>
+                <p>Van Camp commented that <hi rend="italic">Foreign Relations</hi> might have to be
+                    reformed in 2 years, not 15; thus perhaps the legislation was not realistic.
+                    Curry asked why it would be necessary or desirable to change <hi rend="italic"
+                        >Foreign Relations</hi> to merely an index of documents.</p>
+                <p>Kimball retracted that example as too extreme, but wondered again if the
+                    Department of State and the Advisory Committee decided to change the format,
+                    would the bill impede that? Would reform be possible without a new law? He
+                    observed that the legislative process wasn't neat and clean.</p>
+                <p>Sieverts stated that the Congress would certainly be prepared to think about
+                    change, especially in connection with electronic record-keeping and computerized
+                    access. It would be prepared to look at how these developments would affect <hi
+                        rend="italic">Foreign Relations</hi>. Curry suggested that if the Department
+                    did not work with the Congress it would find that the bill “would be rammed down
+                    their throat”. So far, the Department had responded only with a flat “no”.</p>
+                <p>Zamora asked whether the Department could forestall the legislation by
+                    instituting a new plan. Sieverts replied yes, but argued that <hi rend="italic"
+                        >Foreign Relations</hi> needed a legislative mandate; thus, they intended to
+                    go forward with the legislation. Important declassification and <hi
+                        rend="italic">Foreign Relations</hi> goals belong in the law. In addition,
+                    Curry pointed out this could not be done just by the Department of State.
+                    Obviously State cannot force access by other agencies, but the bill can. Van
+                    Camp asked how legislation would do this. Curry said that the bill sets it out
+                    in law.</p>
+                <p>McDonald agreed with the basic intent of the legislation but had some
+                    reservations. The provisions for access to CIA material would mean that scores,
+                    if not more, people would have access to extraordinarily sensitive material. It
+                    was not just the case of compiler and reviewing editor of <hi rend="italic"
+                        >Foreign Relations</hi>, but numerous officials in State, CIA, Congress, the
+                    Advisory Committee, etc., down the line. It increased the risks of leakage.</p>
+                <p>McDonald also observed that the Advisory Committee was now an amateur, temporary
+                    body. The law would transform it into a different organization and require it to
+                    become more bureaucratic. It might even develop its own staff. He noted that the
+                    present system was slow, frustrating, and arcane, but wondered if the new system
+                    contemplated under the bill would be any better.</p>
+                <p>Kimball said that the question was who watches the watchdogs? McDonald suggested
+                    that they might limit complete access to 2-3 Advisory Committee members who
+                    would report to the whole Committee. He reminded the Committee that with
+                    official access comes responsibilities including an agreement to pre-publication
+                    review. Access to Top Secret documents changes what you write. Curry said that
+                    the drafters had been as sensitive as possible to the need to protect national
+                    security and the CIA's integrity, but noted that these were 30-year-old
+                    documents. The bill attempted to protect both national security and the
+                    interests of the U.S. public.</p>
+                <p>The Committee then heard a declassification briefing of <hi rend="italic">Foreign
+                        Relations</hi>, 1958-1960, volume VI, Cuba. This portion of the minutes is
+                    Confidential and is maintained as a separate document.</p>
+                <p>At 12:15 p.m., the meeting adjourned for a working luncheon.</p>
+                <p rend="center"><hi rend="underline">Luncheon, November 16, 1990</hi></p>
+                <p rend="underline">Present</p>
+                <list>
+                    <item>Advisory Committee members</item>
+                    <item>Ambassador Roy. R. Rubottom</item>
+                    <item>William Z. Slany</item>
+                    <item>David Herschler</item>
+                    <item>David Mabon</item>
+                    <item>Elaine McDevitt</item>
+                </list>
+                <p>During this working luncheon, Ambassador Roy Rubottom reviewed the upcoming <hi
+                        rend="italic">Foreign Relations</hi> volume on Cuba, 1958-1960. Ambassador
+                    Rubottom had been Assistant Secretary of State for Inter-American American
+                    Affairs during this period, and signed many of the documents that appear in the
+                    volume.</p>
+                <p>Ambassador Rubottom stated that it was important to understand U.S.-Cuba
+                    relations in the context of U.S. relations with all of Latin America. The United
+                    States followed a three-pronged policy with regard to Castro during this period:
+                    probe and test; let Castro's deeds speak for themselves; and rely on
+                    international mechanisms, particularly the OAS (which he said was a weak link).
+                    He provided a number of interesting anecdotes with regard to his experiences in
+                    obtaining information about Castro.</p>
+                <p>With regard to the volume on Cuba, Ambassador Rubottom had just a few specific
+                    comments:</p>
+                <p>l) The book covered the U.S. policy of allowing Castro's deeds to speak for
+                    themselves quite well. The NIEs printed in the volume are particularly
+                    revealing.</p>
+                <p>2) One anecdote concerned a trip by Ambassador Smith to Santiago in which the
+                    Batista regime violently suppressed a protest by women. When Smith publicly
+                   “deplored” this, he was criticized in the pro-Batista press. According to
+                    Rubottom, Smith was never the same. This episode, he suggested, could be
+                    included in annotation in the volume.</p>
+                <p>3) He could find no mention in the volume of the Advisory Council on Economic
+                    Affairs, chaired by Milton Eisenhower, which he thought deserved a citation in
+                    an appropriate footnote.</p>
+                <p>4) In response to a query by Kimball whether he was “comfortable with the
+                    integrity of the volume,” Ambassador Rubottom replied, “I think so”. And in
+                    response to a followup question whether there was anything of significance
+                    omitted from the volume, Ambassador Rubottom did point out that the extensive
+                    and intensive work between the United States and the OAS did not get very
+                    thorough treatment in the volume. Mabon noted, however, that this area was
+                    covered in the Latin America regional volume.</p>
+                <p rend="center"><hi rend="underline">Closed Session, November 16, 1990,
+                        Afternoon</hi></p>
+                <p>The Committee reconvened at 2 p.m.</p>
+                <p>Slany proposed that in order to allow the Advisory Committee to meet in Executive
+                    Session, the planned discussions for the afternoon be removed from the agenda
+                    and substituted with written reports to the Committee. These included long-term
+                    planning for the <hi rend="italic">Foreign Relations</hi> series; facsimile
+                    publishing (in the event the series should need to be produced in this way in
+                    order to meet the cost of publishing 12 volumes each year); a proposed
+                    microfiche publication of declassified NSC minutes, agendas, actions, and
+                    memoranda of discussion for the years 1947-1953; and an explanation of the steps
+                    taken by PA/HO in compiling and publishing the much-criticized volume on Iran,
+                    1951-1954.</p>
+                <p>With regard to the Iran volume, it would be useful to get the Advisory Committee
+                    to recommend steps in dealing with gaps in the record and finding ways to
+                    supplement the record with documents now available that were not previously
+                    released or seek additional documents from the CIA.</p>
+                <p>Kimball asked if the tranche of documents recently released by Iran is available.
+                    McDonald responded that it was available and the CIA had a copy. McAuliffe added
+                    that this documentation needs to be assessed to determine if it contains
+                    information to supplement the foreign policy record. The Advisory Committee
+                    suggested that HO make recommendations regarding the gaps in the Iran volume for
+                    the Committee to review and discuss at the next meeting. Slany agreed to
+                    this.</p>
+                <p>Glad asked McDonald if Jim Curry's earlier statement was correct that the
+                    legislation on <hi rend="italic">Foreign Relations</hi> would not affect CIA
+                    declassification procedures. McDonald stated that he thought this would be the
+                    case because the release of documents would remain within CIA control.
+                    Congressional sanction, he said, would likely put more pressure on the agency to
+                    release material for <hi rend="italic">Foreign Relations</hi>, so to that extent
+                    there would be an impact on the CIA. He remained concerned that expanded access
+                    to CIA documentation heightened the risk of leaks of the most sensitive
+                    information.</p>
+                <p>Kimball asked if the CIA planned to work with Congress to deal with this problem.
+                    McDonald stated that he thought the CIA could work with Congress on a practical
+                    solution. The Department of Justice, however, had drafted a technical objection
+                    to the legislation.</p>
+                <p>Rosenberg said the notion that the legislation will result in large numbers of
+                    contested documents may not be the case if agency historians and declassifiers
+                    would work out conflicts in advance. McDonald responded that there was much to
+                    be said for this view. On the whole, he thought, the legislation was like using
+                    a 16-inch gun when a rifle was needed. He thought the legislation, as presently
+                    laid out, was overkill; the best solution might be to handle the matter
+                    administratively.</p>
+                <p>In response to a question by Kimball whether Congress should enact legislation
+                    authorizing the <hi rend="italic">Foreign Relations</hi> series and leave the
+                    details of implementation to the Executive branch, McDonald stated that the CIA
+                    has an advisory committee that functions this way. Accountability can be built
+                    into the legislation, he said, without having Congress micromanage its
+                    implementation.</p>
+                <p>George Chalou of the National Archives pointed out that NARA had been told by
+                    Morefield that under the legislation State declassification reviewers would
+                    divide Department of State records at NARA into “Department only” and “other
+                    agency” groups. NARA has grave reservations about this procedure, he said, as it
+                    could result in “alienation” of Department of State historical files, changing
+                    the original order of the documents.</p>
+                <p>Slany proposed that he report to the Committee by mail on the remaining agenda
+                    items (long-term planning for the series, facsimile publications, a proposed
+                    microfiche publication on NSC documents, background on the preparation of the
+                    Iran volume, and options on following up on the omissions from the Iran volume)
+                    and allow the Committee to move into private session.</p>
+                <p>Kimball thanked Slany, the PA/HO staff, and other participants in the 2-day
+                    meeting. The afternoon session adjourned shortly before 3 p.m., and the Advisory
+                    Committee went into executive session.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

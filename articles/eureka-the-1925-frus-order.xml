@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Eureka!: The 1925 <hi rend="italic">FRUS</hi> Order (and Why
+                    You Should Be Nice to Archivists)</title>
+                <title type="short">The 1925 <hi rend="italic">FRUS</hi> Order</title>
+                <author>Joshua Botts</author>
+                <sponsor>Office of the Historian, U.S. Department of State</sponsor>
+            </titleStmt>
+            <publicationStmt>
+                <date when="2011-10-27">October 27, 2011</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>One of the most frustrating experiences for a historian occurs when you know that
+                    something happened but you can’t find contemporary sources to shed light on how
+                    it happened, or why it happened the way that it did. For the <hi rend="italic"
+                    >FRUS</hi> sesquicentennial project, the Departmental Order of March 26, 1925,
+                    which for the first time explicitly defined principles for the <hi rend="italic"
+                    >Foreign Relations</hi> series, has been a source of exactly this kind of angst.
+                    After hours of digging through the Department of State’s central files for the
+                    period 1910-1929 in search of the Order – which had been reprinted in a 1928 <hi
+                    rend="italic">FRUS</hi> volume<note n="1"><ref
+                    target="http://digicoll.library.wisc.edu/cgi-bin/FRUS/FRUS-idx?type=turn&amp;entity=FRUS.FRUS1914Supp.p0007&amp;id=FRUS.FRUS1914Supp&amp;isize=M"
+                    ><hi rend="italic">Papers Relating to the Foreign Relations of the United
+                    States, 1914 Supplement: The World War</hi> (Washington, DC: Government Printing
+                    Office, 1928), pp. iii-iv</ref>.</note> and referenced repeatedly as an
+                    important milestone for the series – the best I could come up with was a 45-page
+                    memorandum written in 1937 that summarized its origins to refute criticism of
+                    later <hi rend="italic">FRUS</hi> volumes.<note n="2">Cyril Wynne, “Memorandum
+                    on the subject of Dr. D. C. Poole’s letter of June 21, 1937, which includes a
+                    statement giving the background of the present system of preparing the Foreign
+                    Relations volumes,” July 13, 1937, 026 Foreign Relations/1210, Department of
+                    State Central Decimal File, 1930-1939, Record Group 59 (henceforth RG 59),
+                    Archives II, College Park, MD (henceforth Archives II), pp. 4-22.</note> While
+                    the 1937 memo provided a great deal of interesting information about the Order
+                    and the major players in its creation, it was a poor substitute for primary
+                    source documentation from 1925 embodying contemporary, rather than
+                    retrospective, accounts of the effort to formalize the principles behind the <hi
+                    rend="italic">Foreign Relations </hi> series.</p>
+                <p>Luckily for me and the rest of the <hi rend="italic">FRUS</hi> sesquicentennial
+                    research team, the person who is probably more familiar with the archived
+                    records of the Department of State than anyone else in the world was also
+                    determined to track down the 1925 Departmental Order. David Langbart is an
+                    archivist at the National Archives and Records Administration. In the past, he
+                    was responsible for assessing the historic value of Department of State records
+                    (and those of other agencies) to ensure that significant archival materials are
+                    preserved; he now has responsibilities for describing those records and
+                    providing assistance to researchers interested in using them. For many years,
+                    the Office of the Historian has worked closely with Langbart to conduct research
+                    in recently-retired Department of State files for <hi rend="italic">FRUS</hi>
+                    compilation. As we began looking more systematically at the history of <hi
+                    rend="italic">FRUS</hi> this year, we quickly discovered that he already knew
+                    where a lot of the skeletons were buried (so to speak). Well before we began
+                    investigating the history of <hi rend="italic">FRUS</hi>, Langbart’s success in
+                    preserving important records from the production of the wartime conference <hi
+                    rend="italic">FRUS</hi> volumes in the 1950s proved essential to investigating
+                    <ptr
+                    target="http://history.state.gov/historicaldocuments/frus-history/research/politics-of-the-yalta-frus"
+                    />the origins, controversies, and effects of the Yalta volume. He helped us
+                    track down original copies of several important instructions and despatches
+                    printed in nineteenth century <hi rend="italic">FRUS</hi> volumes so that the
+                    full and excised versions of the texts could be compared. He secured a
+                    high-quality digital copy of an 1864 instruction from Secretary of State William
+                    Seward to Minister to London Charles Francis Adams that contained the earliest
+                    authoritative explanation for and defense of the <hi rend="italic">Foreign
+                    Relations</hi> series yet found. Most recently, Langbart’s discovery of where
+                    records related to the 1925 Departmental Order were hiding within the vast array
+                    of Department of State files proved instrumental to my research.</p>
+                <p>The documents that Langbart found shed new light on the motivations behind the
+                    1925 Order and clarified the key players who established a firm foundation for
+                    <hi rend="italic">FRUS</hi>’s future. The original version of the editorial
+                    principles drafted by head of the Division of Publications Tyler Dennett and
+                    approved by <ref target="/departmenthistory/people/kellogg-frank-billings"
+                    >Secretary of State Frank Kellogg</ref> included an opening one-sentence
+                    paragraph omitted from the version published in 1928: “Although the Secretary of
+                    State is not by law required to make an annual report, it is recognized that a
+                    well-informed and intelligent public opinion is of the utmost importance for the
+                    conduct of foreign relations.” This justification for <hi rend="italic"
+                    >FRUS</hi> also appears in documents that describe internal discussions among
+                    top Department of State officials. Dennett’s covering memorandum to the
+                    Secretary transmitting the Order for Kellogg’s approval explained that <hi
+                    rend="italic">FRUS</hi> “ought to contribute to the promotion of interest in
+                    questions of foreign policy and in turn assist in the maintenance of an
+                    intelligent public opinion.” In short, the Department intended for <hi
+                    rend="italic">FRUS</hi> to serve an important public affairs function in
+                    addition to satisfying demands from the academic community.<note n="3">
+                    “Principles to Guide the Editing of ‘Foreign Relations,’” attachment to Tyler
+                    Dennett memorandum to Secretary of State, March 26, 1925, Folder “55D606
+                    OSS/PB-1,” Box 35, Miscellaneous Office Files, 1910-1944, RG 59, Archives II, p.
+                    1 and Dennett memorandum to Secretary of State, pp. 1-2.</note> </p>
+                <p>These papers also illustrate that many Department officials were engaged in the
+                    formulation of the 1925 Order. Dennett, who took charge of the Division of
+                    Publications – and <hi rend="italic">FRUS</hi> – in late 1924, was the central
+                    figure in determining the future the series, but he had crucial allies in the
+                    top ranks of the Department. <ref
+                    target="/departmenthistory/people/macmurray-john-van-antwerp">Assistant
+                    Secretary of State John Van Antwerp MacMurray</ref> convened a high-level
+                    meeting in his own office where the Department Solicitor (bureaucratically
+                    ranked just below the Assistant Secretary) and the heads of the geographical
+                    divisions (including Allen Dulles, future Director of the Central Intelligence
+                    Agency) held “a thorough discussion of the principles which ought to guide the
+                    editing of ‘Foreign Relations.’” MacMurray also commented on Dennett’s
+                    subsequent drafts of the Order before they were submitted to Kellogg for his
+                    approval.<note n="4">Dennett memorandum to Secretary of State, p. 1 and John
+                    V.A. MacMurray note to Tyler Dennett (with attached annotated draft), March 24,
+                    1925 in Folder “55D606 OSS/PB-1,” Box 35, Miscellaneous Office Files, 1910-1944.
+                    </note> <ref target="/departmenthistory/people/grew-joseph-clark">Undersecretary
+                    of State Joseph Grew</ref> (the second-highest ranked official in the
+                    Department) endorsed Dennett’s initiatives as well.<note n="5">Grew initialed
+                    his approval on both Dennett’s March 26, 1925 memorandum transmitting the Order
+                    to Kellogg as well as the actual “Principles to Guide the Editing of ‘Foreign
+                    Relations’” document.</note> Since its inception, <hi rend="italic">FRUS</hi>
+                    received high-level attention. However, this is the earliest documentation
+                    illustrating systematic consideration of the series’ purpose and principles
+                    among top Department officials that we’ve encountered so far.</p>
+                <p>The insights about the evolution of <hi rend="italic">FRUS</hi> gleaned from the
+                    1925 Departmental Order and the surrounding correspondence that David Langbart
+                    found in the National Archives demonstrate that there’s no substitute for
+                    primary source documents. They also provide a useful reminder for all
+                    researchers seeking to understand the past: it’s a good idea to be nice to
+                    archivists!</p>
+                <p> <hi rend="italic">Read the text of the original <ref
+                    target="/historicaldocuments/frus-history/research/1925-order">“Principles to Guide the Editing of
+                    ‘Foreign Relations’” and Tyler Dennett’s covering memoranda to Secretary of
+                    State Frank Kellogg</ref>, or download the <ref
+                    target="http://static.history.state.gov/frus150/1925-order.pdf">PDF</ref>, 499
+                    KB, 8 pp.</hi> </p>
+            </div>
+        </body>
+    </text>
+</TEI>

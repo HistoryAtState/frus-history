@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Memorandum From Francis Terry McNamara and David Trask to
+                    William Dyess, March 1981</title>
+                <title type="short">McNamara and Trask to Dyess, 1981</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2013-12-16">December 16, 2013</date>
+                <date type="created" when="1981-03-13">March 13, 1981</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1981-03-13-mcnamara-and-trask-to-dyess.pdf">PDF</ref>, 110 KB,
+                    4pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Paul Claussen Files, 1972-2005 (Lot File 08 D 437), Box 7, Chron
+                    File March 1981. The document bears Francis Terry McNamara’s initials, but not
+                    David Trask’s. A copy was sent to David Trask.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 9, <ref
+                    target="../chapter-9#fn76">Footnotes 76</ref> and <ref
+                    target="../chapter-9#fn77">77</ref></p>
+            <div type="document">
+                <head>Memorandum From Francis Terry McNamara (Deputy Assistant Secretary of State
+                    for Public Affairs) and David Trask (Director of the Historian’s Office) to
+                    William J. Dyess (Assistant Secretary of State for Public Affairs)</head>
+                <dateline>March 13, 1981</dateline>
+                <p>Subject: “To Fresh Woods and Pastures New”</p>
+                <p rend="underline">The Problem</p>
+                <p>We believe that the time has come for us to reassess our goals in regards to the
+                    Historian’s Office. For the past <hi rend="underline">two</hi> years all efforts
+                    have been bent towards reaching a twenty-year line in the publication of the <hi
+                        rend="italic">Foreign Relations</hi> series (<hi rend="italic">FRUS</hi>) by
+                    1986. The outcome of these extensive endeavors has been to demonstrate that HO
+                    can readily attain a twenty-year line in preparation of manuscripts but that it
+                    cannot achieve a twenty-year line in conversion of manuscripts into published
+                    books.</p>
+                <p>Attempts to speed compilation and to reduce costs have been effective, but a
+                    breakdown in the delivery of central services, of which difficulties with
+                    declassification constitute only one dimension, have precluded maintenance of
+                    the desired schedule of publication. Even if declassification difficulties were
+                    to disappear overnight, publication cannot be hastened materially until a whole
+                    range of improvements are made in the delivery of needed central services, for
+                    example, services that emanate from the Government Printing Office (GPO) and the
+                    Foreign Affairs Information Center (A/FAIM).</p>
+                <p>Moreover, delays in publication have contributed to a budgetary crisis of unknown
+                    but significant proportions. The cost of publication has marched well beyond the
+                    assumptions made when funds were allocated for outstanding unpublished volumes
+                    (about twenty covering 1950-1954 and about 13 covering 1955-1957).</p>
+                <p rend="underline">Options Opened to Us</p>
+                <p>What is to be done? There follows a brief exposition of three options.</p>
+                <list rend="bulleted">
+                    <item>One would be to maintain the present objectives, seeking to attain the
+                        twenty-year line by 1986.</item>
+                    <item>Another would be to maintain the present objectives, seeking to attain the
+                        twenty-year line by 1986, mobilizing a whole range of new resources and
+                        seeking much-improved delivery of central services.</item>
+                    <item>A third would be to retain the goal of a twenty-year line but to accept
+                        some delay in reaching it, holding for the moment the present gap of 26-30
+                        years while engaging in certain compensatory activities to mitigate the
+                        credibility gap and expand the policy oriented research program.</item>
+                </list>
+                <p rend="underline">Discussion</p>
+                <p>There is no need to indicate the requirements of option #1 since it represents
+                    merely the maintenance of the <hi rend="underline">status quo</hi>.</p>
+                <p>Further, there is no need to restate the requirements of option #2, since it is
+                    the course of action that has been recommended in the recent past.</p>
+                <p>If both options #1 and #2 prove unacceptable or unattainable, the only logical
+                    alternative is to accept a hold-the line policy with compensatory activities.
+                    There follows a brief outline of the measures that could be adopted along this
+                    line with some of their advantages and disadvantages.</p>
+                <p>1. HO could divert about half of its personnel to policy-related historical
+                    research, greatly enlarging its output in this area. An early increase in the
+                    volume of such activity is entirely consistent with the present effort to
+                    upgrade the Department’s role in the making of overall national policy.
+                    Policy-related historical research of the highest quality is an indispensable
+                    element in the policy process, and no other organization in the Department is
+                    qualified to provide it.</p>
+                <p>2. HO could use the other half of its personnel to sustain the publication of the
+                        <hi rend="italic">Foreign Relations</hi> series at its present level and
+                    plan for a renewed burst of compiling in two or three years when
+                    declassification has overtaken compiling. To accomplish even this limited
+                    objective the Department must improve its provision of needed central services.
+                    But no truly extraordinary effort would be necessary, and upgrading could
+                    proceed at a measured pace.</p>
+                <p>A schedule for work on the <hi rend="italic">Foreign Relations</hi> series would
+                    rest on twin pillars: first; priority to publication of volumes for the period
+                    1950-1957 already compiled. Second, adjustment of the schedule for compilation
+                    of volumes covering the period 1958-1963 to the pace of declassification
+                    activity. HO would thus reduce its huge backlog of unpublished manuscripts and
+                    work toward the ideal of processing manuscripts through publication only after
+                    completing the task of declassification. Phases in this process would be: (a)
+                    publication of volumes covering 1950- 1954 that are undergoing declassification
+                    re-review at the present time; (b) publication of volumes in the triennium
+                    1955-1957, now all but completed in manuscript form; (c) preparation of large
+                    collections of documents that might be included in the volumes covering the two
+                    triennia 1958-60 and 1961-63 for submission to the
+                    Classification/Declassification Center and other declassification authorities;
+                    (d) compilation, editing, and publication of the triennial sets for 1958-1960
+                    and 1961-1963. HO would seek at all times to accelerate movement toward a
+                    twenty-year line, but it should not anticipate significant gains for several
+                    years.</p>
+                <p>3. HO could resume the provision of a service to its user population that would
+                    compensate to some extent for the failure to attain the twenty-year line at an
+                    early date, namely, publication of the “Current Documents” series. This series
+                    was suspended after publication of the volume for 1967 because of budgetary
+                    considerations. Given new capabilities, it seems entirely feasible to resume
+                    this activity on a much-improved basis at greatly reduced cost. Modern modes of
+                    publication involving use of word-processing equipment, electronic typesetters,
+                    and microform allow for this outcome. The new “Current Documents” would include
+                    important other-agency information and unpublished information of importance as
+                    well as the types of information included in the old series.</p>
+                <p rend="underline">Conclusions</p>
+                <p>To summarize, this approach would involve increasing HO’s policy-related research
+                    and resuming publication of “Current Documents” in compensation for accepting a
+                    temporary hesitation in the early achievement by the <hi rend="italic">Foreign
+                        Relations</hi> series of a twenty-year line.</p>
+                <list rend="bulleted">
+                    <item>The disadvantage of this approach is that it probably could, if
+                        misunderstood, arouse considerable anxiety among the user population.</item>
+                    <item>The advantage of this approach is that it would reduce the gap between
+                        announced intentions and actual accomplishments, compensating for some
+                        slowness in delivery of the <hi rend="italic">Foreign Relations</hi> series
+                        by enhancing the volume of policy-related research and resuming publication
+                        of “Current Documents.”</item>
+                </list>
+                <p>With the establishment of a central declassification office, it makes little
+                    sense for HO to work on documents prior to their declassification. In the
+                    abstract, it might seem that this practice could afford a useful head-start in
+                    compiling volumes. Hard experience over the past two years, however, has proven
+                    otherwise. Interminable battles over declassification have resulted in a virtual
+                    standstill in publication, a lowering of morale in HO and the creation of an
+                    skepticism among important users of <hi rend="italic">FRUS</hi>. Moreover, many
+                    of the cost benefits to be realized from the application of new word processing
+                    techniques have been jeopardized by delays ascribable to classification
+                    problems.</p>
+                <p>We are convinced that substantial savings in time and money can be realized by
+                    working only with declassified documents. As a start, editing and printing might
+                    be contracted out to low bidders, getting away from the need to use costly GPO
+                    classified facilities. Expensive excisions from nearly completed volumes could
+                    be eliminated. The interminable, rancorous arguments between equally dedicated
+                    historians and declassifiers could be greatly reduced. Finally, on the positive
+                    side, the historians could be of help in providing historic perspective to
+                    illuminate some of the murkier problems for the Department’s policy makers.</p>
+                <p rend="underline">Recommendation</p>
+                <p>We propose that you approve option #3, since it is clearly preferable to the
+                    other options in the existing circumstances. If you take this step, one that we
+                    deem fully within your authority as the Assistant Secretary of State for Public
+                    Affairs, we will proceed to develop detailed plans for putting the three
+                    principal recommendations of option #3 into effect at the earliest convenient
+                    moment.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

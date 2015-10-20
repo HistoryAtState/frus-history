@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Minutes of Historical Advisory Committee Meeting, November
+                    1963</title>
+                <title type="short">HAC Meeting Minutes, 1963</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-02-10">February 10, 2014</date>
+                <date type="created" when="1963-11-01">November 1-2, 1963</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1963-11-01-hac-meeting-minutes.pdf">PDF</ref>, 2.3 MB, 23pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 2, 1963—Minutes. Limited Official
+                Use.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 8, <ref
+                    target="../chapter-8#fn48">Footnote 48</ref></p>
+            <div type="document">
+                <head>Minutes of the 1963 Meeting of the Advisory Committee on <hi rend="italic"
+                        >Foreign Relations of the United States</hi></head>
+                <dateline>November 1-2, 1963</dateline>
+                <p>The morning session on Friday, November 1, began at approximately 9:45 a.m.</p>
+                <p>Present:</p>
+                <list>
+                    <item>The Advisory Committee:<list>
+                            <item>Clarence A. Berdahl, Chairman</item>
+                            <item>William W. Bishop, Jr.<note n="*" place="end" xml:id="fn1">These
+                                    new members of the Committee were sworn in by William J. Tonesk,
+                                    Deputy Chief of Protocol, in ceremonies in the West Diplomatic
+                                    Reception Room, at 9:15 a.m. (AGENDA ITEM l)</note></item>
+                            <item>Robert H. Ferrell*</item>
+                            <item>Richard W. Leopold</item>
+                            <item>Robert E. Osgood*</item>
+                            <item>Robert R. Wilson</item>
+                            <item>Fred H. Harrington was unable to be present</item>
+                        </list></item>
+                    <item>Officers of the Historical Office:<list>
+                            <item>William M. Franklin, Director</item>
+                            <item>Richardson Dougall</item>
+                            <item>E. R. Perkins</item>
+                            <item>S. Everett Gleason</item>
+                            <item>Rogers P. Churchill</item>
+                            <item>Newton O. Sappington</item>
+                            <item>Fredrick Aandahl</item>
+                            <item>John G. Reid</item>
+                            <item>Alston R. Wright</item>
+                            <item>Ralph R. Goodwin</item>
+                            <item>Velma H. Cassidy</item>
+                            <item>Herbert A. Fine</item>
+                            <item>George Kent</item>
+                            <item>William Slany</item>
+                            <item>John P. Glennon</item>
+                        </list></item>
+                </list>
+                <p rend="underline">AGENDA ITEM 2: Opening remarks</p>
+                <p>Mr. Franklin welcomed the Committee members and expressed his appreciation and
+                    gratitude for their work and efforts on behalf of <hi rend="italic">Foreign
+                        Relations</hi>. He noted that the group exerted considerable influence on
+                    the Department of State and in the scholarly community and had been of great
+                    help in solving the problems of <hi rend="italic">Foreign Relations</hi> or at
+                    least lending sympathetic assistance. Mr. Franklin recalled that the Committee,
+                    during the first years of its life, had acted primarily as a kind of “watch-dog”
+                    group. In more recent years, however, the Committee had interested itself
+                    increasingly in the procedures under which <hi rend="italic">Foreign
+                        Relations</hi> is compiled. In 1962, Mr. Franklin noted, the Committee had
+                    considered the goals of the series -- particularly the twenty-year goal. He
+                    concluded that the present agenda had been drawn up to stress the procedures of
+                    producing <hi rend="italic">Foreign Relations</hi>, especially recent procedural
+                    innovations, so that the series might at least remain within sight of the
+                    twenty-year goal.</p>
+                <p rend="underline">AGENDA ITEM 3: Report on status of the series and publication
+                    plans</p>
+                <p>Mr. Aandahl gave a brief explanation of the table giving the status of the
+                    volumes in the series (the table had been included as an appendix to the
+                    agenda).</p>
+                <p>Mr. Franklin outlined an ambitious publication program, predicting that five
+                    volumes would be issued in fiscal year 1964 (one has already been released) and
+                    ten volumes in fiscal year 1965. He noted that 1941, volume VI, was still a
+                    laggard; that 1942 was completely published; and that henceforth, <hi
+                        rend="italic">Foreign Relations</hi> would be released in chronological
+                    sequence, including the China volumes. HO had given up the idea of any mass
+                    release of the China volumes and even anticipated a continuing struggle with FE
+                    on the release of individual volumes. Mr, Franklin felt that the China volume
+                    for 1944 might not be the first volume published for 1944 (in view of FE’s
+                    reaction to the publication of China 1943 as the first among the 1943 volumes)
+                    but it could be released perhaps as the second volume of 1944.</p>
+                <p rend="underline">AGENDA ITEM 4: Efforts to expedite output (budget estimates,
+                    target dates, editorial procedures, and clearances)</p>
+                <p>Mr. Dougall gave a report on budget estimates and target dates for <hi
+                        rend="italic">Foreign Relations</hi> volumes during the next two fiscal
+                    years. He explained the method of paying printing and binding charges--one-half
+                    the cost of a volume is committed at the time it is sent to the Government
+                    Printing Office to be put into galleys, the second half being committed when a
+                    volume is sent to GPO for page proof. Although Congress has not appropriated the
+                    Department’s funds for the current fiscal year, HO, with the support of the
+                    Bureau of Public Affairs (P area), is aiming for a printing and binding target
+                    of $104,000 in fiscal year 1965. This program, which doubled our present
+                    allotment, has received the approval of Department budgetary officers and of the
+                    Bureau of the Budget.</p>
+                <p>Mr. Franklin explained that the 1965 estimates provided for no increase in the
+                    staff, the higher targets for publication to be achieved by accelerated
+                    procedures. By way of background, he pointed out that printing and binding money
+                    had been lavishly provided in 1953 but that it had been reduced in later years
+                    to a point just sufficient to cover our output. This was why our request for
+                    $104,000 startled the budget authorities, who asked whether we would actually
+                    use this amount. We replied that we could. If we are able to fill the bill, we
+                    will be in good shape for future budget requests; otherwise, we will be in
+                    difficulty.</p>
+                <p>Mr. Leopold and Mr. Osgood queried whether a dramatically large increase in the
+                    number of volumes to be published would raise any questions in the Department.
+                    Mr. Franklin said that the Department would not question the rate of release so
+                    long as the total number of volumes covering the events of a year was held
+                    within reasonable limits.</p>
+                <p>Mr. Dougall, referring to the second chart attached to the agenda, explained the
+                    necessity of getting manuscript to the Division of Publishing Services (PB)
+                    early enough in a fiscal year so that sufficient time would be available to
+                    complete preliminary editing and to send sufficient material to GPO to permit
+                    obligating of funds before the end of that fiscal year. He noted that all the
+                    regular volumes for 1945 would be in the hands of PB this month. The Arcadia
+                    Conference was already there and the Second and Third Washington and the
+                    Casablanca Conferences would be sent by April 1964. The manuscript for 1946 has
+                    not been specifically scheduled, but three volumes would be ready to go to PB by
+                    December 1964. Stage two of fund obligation would depend in part on the size of
+                    the PB staff, the “cutting of corners” by PB, and the clearance question. Mr.
+                    Franklin noted that in the past it had not been of special importance whether a
+                    volume was released in one fiscal year or in the next. The introduction of the
+                    concept of the twenty-year line as a firm goal had forced us to stake out a
+                    specific publication program for each fiscal year.</p>
+                <p>Mr. Perkins informed the Committee that the abnormally large number of volumes
+                    (12) for 1945 paralleled that of the period after World War I when there were
+                    sixteen volumes for 1919. He stated that the end of the war and the problems
+                    produced thereby would make 1945 a peak year. He predicted that the total number
+                    of volumes for 1946 would decline because of the absence of separate Conference
+                    volumes but felt that the number of regular volumes would remain as high as
+                    before.</p>
+                <p>Mr. Franklin reminded the Committee of the many postwar international conferences
+                    which would have to be documented in <hi rend="italic">Foreign Relations</hi>.
+                    He noted that the Committee last year had agreed that about ten volumes per year
+                    should be the maximum and he asked the new members to comment on this. Mr.
+                    Leopold suggested that the new members might also express their views on the
+                    adequacy of the number of volumes for the 1940-41 period, for example.</p>
+                <p>Mr. Ferrell commented that it appeared to him to be overly fulsome coverage to
+                    devote more than 40 pages to the seizure of I.T.&amp;T. properties by the
+                    Spanish Government in 1940. Mr. Osgood agreed to the need for greater
+                    selectivity in future volumes. He felt if there were too many volumes, their
+                    utility to scholars and government administrators would be diluted. Mr. Bishop
+                    inquired whether the Whiteman <hi rend="italic">Digest</hi> was being
+                    coordinated with <hi rend="italic">Foreign Relations</hi> to prevent duplication
+                    of coverage and to assure that one would cover what the other did not treat. Mr.
+                    Perkins stated that the preparation of the two series had not been coordinated.
+                    He suggested that this approach might not be very fruitful because the <hi
+                        rend="italic">Digest</hi> was interested in legal matters while <hi
+                        rend="italic">Foreign Relations</hi> stressed diplomatic subjects. Mr.
+                    Bishop suggested that footnote cross references in the two series would be
+                    valuable. He also noted that the <hi rend="italic">Digest</hi> could take a
+                    great deal of pressure off <hi rend="italic">Foreign Relations</hi> in
+                    connection with such matters as protection of interests.</p>
+                <p>In this connection, Mr. Berdahl noted that matters pertaining to international
+                    law had been generally assigned third priority in the 1946 plan and questioned
+                    whether scholars in this field would be satisfied with such treatment. He
+                    suggested that Mr. Bishop’s approach to this in the <hi rend="italic"
+                        >Digest</hi> with <hi rend="italic">Foreign Relations</hi> might provide a
+                    good “way out”.</p>
+                <p>Mr. Franklin stated that of course the <hi rend="italic">Digest</hi> would be
+                    among the Departmental publications cited by <hi rend="italic">Foreign
+                        Relations</hi>, as would the <hi rend="italic">Current Documents</hi>, in an
+                    effort to avoid duplication.</p>
+                <p>Mr. Berdahl observed that Mr. Manning and Mr. Harrington, at the 1962 meeting of
+                    the Advisory Committee, had suggested that the Committee might press for ten
+                    volumes as a reasonable figure (see <ref target="1962-11-02-hac-meeting-minutes"
+                        >1962 Minutes</ref>, pp. 4, 7). Mr. Osgood agreed that ten volumes would be
+                    a good limit. Mr. Leopold, commenting in like vein on the Committee’s attitude
+                    to the problem last year, observed that the Minutes of last year’s meeting were
+                    excellent and that in view of the brevity of the Committee’s written report, the
+                    Minutes served as a record of the Committee’s views.</p>
+                <p>After a brief intermission, the Committee resumed its sessions at 11 a.m. Mr.
+                    Berdahl drew attention to the excellent article by Mr. Leopold on the <hi
+                        rend="italic">Foreign Relations</hi> series on the occasion of the
+                    Centennial of the series.</p>
+                <p>Mr. Franklin introduced Arthur Marmor, Assistant Chief of PB, who commented on
+                    the problems of his office and its efforts to accelerate the preparation of
+                    manuscript along the lines set forth in Mr. Franklin’s memorandum of September
+                    24, 1963, to PB. Mr. Marmor was confident that the procedures proposed in the
+                    memorandum would speed up technical editing without impairing the basic quality
+                    of the product. Mr. Franklin underscored the vital character of PB’s
+                    contribution to the acceleration of our program, pointing out that a bottleneck
+                    anywhere in the pipeline would stall our efforts. He noted that in cutting
+                    corners we were taking a calculated risk, but he felt confident that the program
+                    would be the gainer for it.</p>
+                <p>Mr. Franklin noted that PB would still have a tremendous job of proofreading,
+                    indexing, and preparing the manuscript for the galley stage. He pointed out that
+                    the shortage of personnel trained for this work was a real problem. Mr. Marmor
+                    stated that PB would be training more personnel for these responsibilities as
+                    they would be released from various qualitative aspects of their present work.
+                    He noted also the difficult replacement problem posed by the expected retirement
+                    of several highly trained members of the staff in a few years. Mr. Franklin took
+                    the opportunity to commend the exceptionally able editing work performed by PB.
+                    Mr. Perkins, Mr. Berdahl, and Mr. Leopold echoed these sentiments.</p>
+                <p>In response to a query from Mr. Ferrell as to how long it took to prepare an
+                    index, Mr. Marmor stated he had no figures. Mr. Dougall volunteered the
+                    information that the indexing of the Potsdam volumes had required more than six
+                    months each. The process had been speeded up by outside contracting of the index
+                    for the Yalta volume, which had taken only three or four weeks. HO and PB,
+                    however, had taken at least an additional week to work on that index. Mr.
+                    Franklin warned that indexing might be the largest single bottleneck in the
+                    whole editing process and asked the Committee whether it would be willing to
+                    accept a cutting of corners in this field. He noted that the indexing of
+                    substantive relations was not as well handled in the Yalta volume as in the
+                    annual volumes. Mr. Goodwin observed that 1941, volume III, had been contracted
+                    out for indexing and that the product was so inferior that he had spent weeks
+                    revising the work, especially where political relationships were involved. Mr.
+                    Franklin also mentioned that the index of the Cairo-Tehran volume had been
+                    contracted out, but had needed revision.</p>
+                <p>Mr. Leopold inquired about the possibility of simplifying the complicated
+                    subject-person index. Mr. Franklin replied that for years <hi rend="italic"
+                        >Foreign Relations</hi> had been indexed on a subject basis. In recent
+                    years, names had been added, making for a more complicated index. Mr. Ferrell
+                    raised for discussion purposes the question of dropping indices in the annual
+                    volumes. Mr. Perkins observed that reviewers had not objected to the absence of
+                    indices in the German Documents and the British Documents. Mr. Franklin
+                    explained that the German Documents were not indexed because of a lack of funds
+                    but that an index volume might be done by the Germans. Mr. Wilson remarked that
+                    omitting indices or using indices of poor quality would be false economy.</p>
+                <p>Mr. Franklin then turned to the question of clearance. He said that Assistant
+                    Secretary of State Manning’s memorandum of January 17, 1963, regarding
+                    acceleration of clearance had a favorable reaction from Assistant Secretaries
+                    and Deputy Assistant Secretaries but that these sentiments had not trickled down
+                    to the reviewing desks. He stated that the Public Affairs Officers, our liaisons
+                    with the bureaus on clearance matters, were “caught in the switches”. In
+                    principle they tended to agree with HO on clearance matters, for they were in
+                    the business of getting information out to the public as quickly and completely
+                    as possible; yet they were in the policy bureaus. At this point, Mr. Franklin
+                    handed to the Committee a draft of a memorandum, already approved in principle
+                    by Mr. Manning and Deputy Assistant Secretary of State Lisle, which was a
+                    follow-up of Mr. Manning’s memorandum of January 17 and would, if approved, be
+                    attached to galleys sent for clearance in order to supply guide lines to the
+                    Public Affairs Officers and to those actually clearing the galleys.</p>
+                <p>Mr. Leopold inquired as to the effectiveness of the three-month limitation in Mr.
+                    Manning’s memorandum. Mr. Franklin asserted that many galleys had not been
+                    completed within three months.</p>
+                <p>Mr. Perkins pointed out that the longevity of certain world leaders complicated
+                    clearance but that obviously invidious references to persons were excised by the
+                        <hi rend="italic">Foreign Relations</hi> staff. He noted the danger that
+                    exclusion of all unfavorable references to living leaders might distort the
+                    record. Mr. Franklin observed that careful deletion of invidious phrases by the
+                    staff might speed up clearance as desk officers would become more confident of
+                    HO judgment on such matters.</p>
+                <p>Mr. Osgood inquired as to the available evidence that the publication of <hi
+                        rend="italic">Foreign Relations</hi> actually affected our foreign
+                    relations. Mr. Perkins was able to remember two examples of invidious phrases,
+                    which created tempests in teapots. Neither had resulted in official protests by
+                    the governments concerned. Mr. Franklin concurred that no <hi rend="italic"
+                        >Foreign Relations</hi> volume had had any great impact on current relations
+                    with any foreign country.</p>
+                <p>Mr. Perkins noted that foreign clearance was not a difficult matter, although
+                    sometimes it was protracted. Our real clearance problems lay within the
+                    Department. Mr. Churchill observed he had already pointed out to reluctant desk
+                    officers that deleting certain words or sentences and replacing them with dots
+                    might prove more troublesome than relatively harmless remarks of no great
+                    import. Mr. Perkins also felt that we might incur charges of censorship as a
+                    result of the need for greater compressing of the record.</p>
+                <p>Mr. Franklin indicated that we have used unofficial publications of authoritative
+                    stature - such as the works of de Gaulle and Churchill in our clearance
+                    difficulties. Our ability to do so would taper off after 1945 as the period of
+                    war memoirs came to an end.</p>
+                <p>Mr. Osgood asked where final authority resided in regard to clearance. Mr.
+                    Franklin observed that deadlocks with desk officers are referred upward to the
+                    Assistant Secretary level and even higher if necessary. We get more support at
+                    the higher levels but we cannot go to such levels in every case. We often prefer
+                    to reserve our position until a given desk officer changes and we have often had
+                    clearance quite readily from a successor occupant of the desk.</p>
+                <p>Mr. Franklin requested the Committee’s suggestions for strengthening the
+                    memorandum to be sent to the bureaus along with our galleys. He pointed out the
+                    risk that if the bureaus were finessed out of their original review by the
+                    three-month proviso, they might hold up publication of the volumes when they
+                    reached the bound stage. He proposed to discuss the draft memorandum with the
+                    Public Affairs Officers when they attended the Committee sessions this afternoon
+                    if the Committee felt such a memorandum had merit. Mr. Manning and Mr. Lisle, he
+                    pointed out, thought the idea was a good one but they did not anticipate that
+                    the effects would be miraculous.</p>
+                <p>Mr. Wilson and Mr. Bishop supported the draft memorandum but suggested the
+                    possibility of sending a reminder to the bureaus before the end of the
+                    ninety-day period. Mr. Berdahl thought the paper should stand as it was. Mr.
+                    Osgood suggested that it would be useful to incorporate a ringing declaration on
+                    the value of the series rather than to weight the memorandum so heavily on the
+                    budgetary angle. He also thought a new statement from Mr. Rusk would be
+                    extremely valuable. Mr. Berdahl suggested the Kennedy letter of September 6,
+                    1961, might swing even more weight.</p>
+                <p>Mr. Franklin pointed out some of the weaknesses in our ability to exploit the
+                    President’s letter. It was known that neither Mr. Rusk nor the Under Secretary
+                    had cleared it; and the fifteen-year period mentioned in the letter was already
+                    outmoded.</p>
+                <p>Mr. Berdahl asserted he wanted same eloquent words added to the memorandum. Mr.
+                    Osgood wondered whether the Committee should send another letter to the
+                    Secretary of State but Mr. Franklin felt we could not be sending letters to the
+                    Secretary as an annual procedure.</p>
+                <p>Mr. Wilson expressed his anxiety that a desk which had failed to give clearance
+                    to the galleys because of the three-month limitation might put a volume on the
+                    shelf just prior to scheduled publication. Mr. Franklin acknowledged that this
+                    risk existed. He reviewed the procedures for preparing the release of a volume,
+                    crowned by preparation of a press release, the final stage at which a bureau
+                    might object to publication. He noted that the press releases were becoming more
+                    and more bland.</p>
+                <p>At this point the meeting was adjourned for lunch.</p>
+                <p>The Committee reassembled at 2:30 p.m. after having lunched with Under Secretary
+                    of State Ball. Mr. Manning, Mr. Franklin and Arthur M. Schlesinger, Jr., also
+                    attended the luncheon. Mr. Berdahl and Mr. Franklin reported briefly on the
+                    sympathetic reception accorded to the Committee by Mr. Ball. The Under Secretary
+                    was well aware of the <hi rend="italic">Foreign Relations</hi> series and of the
+                    job the Committee was doing and even expressed a positive willingness to
+                    participate in the clearance problems. He also gave indication of some sympathy
+                    toward granting an exception for filling a vacancy in the staff, but Mr.
+                    Franklin cautioned the Committee against optimism in this respect.</p>
+                <p rend="underline">AGENDA ITEM 5: Publicity and access to the files:</p>
+                <p>Mr. Franklin explained the new procedures concerning access to State Department
+                    files, i.e., that access was now tied to the release of the <hi rend="italic"
+                        >Foreign Relations</hi> volumes. Thus the files were completely open through
+                    1932 and open on a restricted basis through 1942. He expressed the hope that
+                    those interested in access to the files would now have additional incentive to
+                    support our publication program.</p>
+                <p>Mr. Leopold asked whether release of the first or last volume for any year would
+                    determine the opening of the files. Mr. E. Taylor Parks, who had joined the
+                    afternoon session of the Committee, explained that the new regulations had not
+                    spelled out this matter and that HO would “play it by ear” until it acquired
+                    further experience. He stated that the new procedures had already been quietly
+                    put into effect. For instance, a researcher who had been given access to 1941
+                    files has automatically been given access to 1942 files. In response to a query
+                    from the Committee, Mr. Franklin said that the Department had made no public
+                    statement on the new access procedures and that he would take steps to place an
+                    announcement in the <hi rend="italic">Bulletin</hi> and other Department
+                    publications. Mr. Ferrell also suggested that a notice be placed in scholarly
+                    journals.</p>
+                <p>Mr. Parks noted that we favor a government-wide system in connection with
+                    clearance of applicants for access beyond the open period of the files but not
+                    much has been done in this field. He observed that the Department of the Army
+                    had taken the lead in getting its system of fingerprinting researchers applied
+                    to the rest of the Defense Department as a first step to obtaining a
+                    government-wide system. Mr. Parks thought we might be unable to resist the
+                    pressure for fingerprinting.</p>
+                <p>Mr. Parks asserted that the average time spent in Washington by researchers in
+                    Department files had declined markedly. He attributed this to the high cost of
+                    living away from home and suggested that a foundation might be made interested
+                    in providing subsidies.</p>
+                <p>At about 3 p.m., Deputy Assistant Secretary of State Raymond E. Lisle and three
+                    Public Affairs Officers (Leonard R. Greenup of ARA, John A. Billings of NEA, and
+                    Milan W. Jerabek of EUR) joined the Committee sessions.</p>
+                <p>Mr. Franklin commented on the lack of adequate press coverage of <hi
+                        rend="italic">Foreign Relations</hi> volumes in the American press. He
+                    contrasted this with the coverage given by the foreign press whose agencies in
+                    the United States assiduously follow the release of the volumes in order to
+                    emphasize certain segments of the volumes felt to be of special interest to
+                    their readers. He noted that the scholarly journals reviewed the volumes, but
+                    only after a long time lag. The <hi rend="italic">New York Times</hi> Sunday
+                    Book Review Section and similar sections in the domestic press did not give the
+                    volumes any coverage. Mr. Franklin thought the Committee might be helpful in
+                    getting greater press coverage of the volumes.</p>
+                <p>Mr. Osgood asked why Mr. Franklin thought it desirable to get greater press
+                    coverage in the weekend papers and whom he was seeking to reach in this way. Mr.
+                    Franklin stated he was trying to reach the intelligent non-specialist, the <hi
+                        rend="italic">New York Times</hi> reader, for example. Mr. Osgood agreed
+                    that there was a body of intelligent readers beyond the scholarly fraternity and
+                    it was worthwhile to find them. Mr. Leopold took a dim view of the need to get
+                    greater domestic press coverage. He observed that newspaper reports might be
+                    distorted to achieve news value on current matters rather than emphasizing the
+                    objective and historical values of the volumes. Mr. Ferrell suggested that we
+                    abandon the handing of paper-back copies of <hi rend="italic">Foreign
+                        Relations</hi> to reporters in view of limited press coverage. Rather, <hi
+                        rend="italic">Foreign Relations</hi> should be aimed with greater intensity
+                    at the scholarly journals. Mr. Ferrell and Mr. Osgood admitted regretfully that
+                    the series was not even well enough known by the scholarly profession.</p>
+                <p>Mr. Franklin noted that the recently released 1943, volume I, had a fine section
+                    on the Moscow Conference and showed Secretary Hull at “his finest hour.” Every
+                    volume, he felt, had materials that would interest literate people beyond just
+                    the scholarly community. He regretted we had found no way of communicating with
+                    them. During the past eight to ten years, press coverage of the volumes had
+                    shrunk. He associated this with the increasing blandness of the press releases
+                    but HO was afraid to say much in the press releases for fear of stirring
+                    sensitive issues.</p>
+                <p>Mr. Billings gave a brief summary of the difficulty which had recently arisen
+                    over a story in the Israeli press based on 1943, volume I, which suggested that
+                    American military authorities had opposed the evacuation of Jews from
+                    German-occupied Europe. The record showed that the Joint Chiefs of Staff had
+                    opposed the setting up of a temporary camp for refugees in North Africa because
+                    of shipping problems and for other military reasons. The press report gave the
+                    remarks out of context, not mentioning that the Joint Chiefs had been overruled
+                    by the President and the camp established. Mr. Billings concluded that better
+                    domestic press coverage of <hi rend="italic">Foreign Relations</hi> might have
+                    prevented the incident from happening or made it easier to refute. A telegram
+                    correcting the story has been sent to Tel Aviv. Mr. Franklin suggested that
+                    incidents of this kind would tend to hinder clearance by making desk officers
+                    more cautious. He pointed out that if <hi rend="italic">Foreign Relations</hi>
+                    received more publicity, the public would realize that the series is a
+                    continuing historical project and this would help to eliminate sensational
+                    treatment of special subjects and queries as to why volumes were being released
+                    at a particular time.</p>
+                <p>Mr. Lisle suggested that the press releases issued at the time of publication
+                    might point out certain non-controversial subjects of interest as a guide to the
+                    reporters. He also suggested the possibility of informally briefing the
+                    reporters when the paper-backs were handed to them.</p>
+                <p>Mr. Ferrell returned to his suggestion to abandon giving volumes to newsmen, but
+                    to concentrate instead on learned journals where reviews were more important and
+                    yet were all too sporadic.</p>
+                <p rend="underline">AGENDA ITEM 6: Report on clearance problems, 1943 and 1944:</p>
+                <p>Mr. Sappington stated he was encouraged by the pace of clearance since the
+                    Manning memorandum in connection with 1944, volume III. He noted that four of
+                    six geographic desks had replied within the three-month deadline and that none
+                    of them had requested any deletions. He also noted with pleasure that nine of
+                    the thirteen foreign governments had replied favorably and only one unfavorably.
+                    Mr. Franklin thanked the Public Affairs Officers for their help but noted that
+                    no volume could progress more rapidly than its slowest component.</p>
+                <p>Mr. Churchill’s experience since the Manning memorandum was not as satisfactory
+                    as Mr. Sappington’s. He reported that although replies were coming in faster
+                    than before the Manning memorandum, his galleys had been out over five months
+                    and returns were still incomplete. He felt, therefore, that the memorandum had
+                    been helpful but had not solved the clearance problem. He also felt that there
+                    were now fewer objections among the replies and that these had been settled more
+                    easily.</p>
+                <p>Mr. Franklin stressed that rapid clearance was now of crucial importance because
+                    of our twenty-year mandate and our budgetary commitments. We could not afford
+                    more than three months of clearance and still meet our goals. He thought that
+                    the draft memorandum to the clearing officer should stress this and provide them
+                    with guidelines as to what they should do and what they need not do. He
+                    submitted copies of the draft memorandum on clearance to the Public Affairs
+                    Officers and solicited their views on the usefulness of attaching copies to the
+                    galleys sent to the reviewing officers.</p>
+                <p>Mr. Jerabek felt the draft memorandum was unnecessary in his bureau as EUR was
+                    reasonably prompt in replying to clearance requests. Mr. Billings supported the
+                    emphasis on the three-month limit. Mr. Berdahl stated that the Committee felt
+                    the same way. Mr. Sappington pointed out that the galleys for 1943, volumes V
+                    and VI, had taken twenty-two months to be cleared. Mr. Greenup, in reviewing the
+                    problem of delays in his area, pointed out the shortage of personnel in ARA and
+                    the extra heavy burdens placed on the desk officers by the recent crises in the
+                    ARA area. He observed that officers usually had to review <hi rend="italic"
+                        >Foreign Relations</hi> galleys on their own time in the evenings and on
+                    weekends.</p>
+                <p>Mr. Franklin noted that we had proceeded to print foreign documents when foreign
+                    governments have not responded to our clearance queries. Some were not unhappy
+                    to have us print these documents without their formal consent and not a single
+                    complaint had materialized when we had gone ahead on our own. He wondered
+                    whether the geographic desks would sanction publication without clearance. Mr.
+                    Greenup expressed his doubts about such a procedure and stated he recalled
+                    instances where Departmental clearance had been of help.</p>
+                <p>Mr. Ferrell raised the question whether clearance was really needed. Mr. Perkins
+                    suggested that responsibility for publishing <hi rend="italic">Foreign
+                        Relations</hi> should be vested in HO, which should consult with and be
+                    advised by the geographic desks.</p>
+                <p>Mr. Franklin suggested that the <hi rend="italic">Foreign Relations</hi> staff
+                    might mark those portions of the galleys deserving the special attention of the
+                    clearance officers. He felt such markings might accelerate clearance. Mr.
+                    Billings suggested that the Public Affairs Officer join HO in marking the
+                    galleys. Mr. Greenup and Mr. Jerabek indicated that they already marked galleys
+                    before distributing them to their desk officers. Mr. Jerabek agreed with Mr.
+                    Billings that closer liaison in marking galleys by HO and the Public Affairs
+                    Officers might further facilitate the clearance process. Mr. Gleason expressed
+                    some anxiety that the marking of sensitive portions might serve as an invitation
+                    to the desk officers to use the ax. Mr. Billings expressed doubt that this would
+                    happen.</p>
+                <p>Mr. Jerabek stated that our compilations dealing with de Gaulle presented a
+                    formidable clearance problem and that they would probably have to be resolved at
+                    the Assistant Secretary level.</p>
+                <p>Mr. Schlesinger, who participated in the Committee’s sessions for a brief period,
+                    expressed doubt that anything we published would make de Gaulle more
+                    anti-Anglo-Saxon than he is. He emphasized that <hi rend="italic">Foreign
+                        Relations</hi> was a historical record and observed that in clearance the
+                    presumption should be in favor of the permanent historical record, rather than
+                    transient or speculative risks. (Mr. Schlesinger left the meeting shortly after
+                    making these observations.)</p>
+                <p>Mr. Parks noted that he marked passages for special scrutiny on notes or
+                    manuscript of private researchers sent for clearance and that this had
+                    facilitated clearance.</p>
+                <p>Mr. Franklin suggested the addition to the draft memorandum of a statement that
+                    clearing officers, in order to save time, need not correct errors in spelling,
+                    capitalization, etc., for such errors would be corrected by competent technical
+                    editors prior to publication. Mr. Greenup agreed it would be helpful if the
+                    draft memorandum would state that clearance officers were not to make such
+                    corrections.</p>
+                <p>Mr. Lisle recommended that clearing officers set down in memorandum form their
+                    objections and the reasons therefor rather than indicate their objections by
+                    check marks or other marginal notations on the galleys. He stated this procedure
+                    would cut down on the number of minutiae. Mr. Franklin strongly supported this
+                    position, citing his experience in getting the Cairo-Tehran volume cleared. Mr.
+                    Osgood noted that Mr. Lisle’s suggestion would also prevent ambiguity. Mr.
+                    Churchill supported Mr. Osgood’s view by giving an account of difficulties he
+                    had experienced in interpreting cryptic deletion suggestions made in the margins
+                    of some galleys.</p>
+                <p>Mr. Franklin stated that he would revise the draft memorandum in accordance with
+                    these suggestions. Mr. Billings stated that the draft memorandum was a step in
+                    the right direction. Mr. Jerabek indicated he had no objection, for EUR practice
+                    was to give specific reasons fort deletion requests. Mr. Greenup agreed in
+                    principle but feared that the requirement of a written memorandum would
+                    unnecessarily increase the paper work of the already hard-pressed ARA staff. He
+                    felt that reasons might be set forth as marginal notations. Mr. Billings
+                    suggested the draft memorandum be addressed by Mr. Manning to the other
+                    Assistant Secretaries so that they might lend the prestige of their position to
+                    that of the Public Affairs Officers in pushing for action within three months.
+                    Mr. Franklin agreed and stated that copies would be sent to the Assistant
+                    Secretaries and would also be attached to the galleys in an appropriate number
+                    of copies. Mr. Ferrell decried the bureaucratic toils into which the problem had
+                    become enmeshed. He felt that the twenty-some intelligent persons now
+                    considering the problem should be able to come up with a prompt decision without
+                    referring it elsewhere.</p>
+                <p>At this point, the Public Affairs Officers departed.</p>
+                <p rend="underline">AGENDA ITEM 7: Report on the annual volumes for 1945:</p>
+                <p>Mr. Perkins spoke of the decision made to compress the number of annual volumes
+                    for 1945 to eight after material for about ten volumes had been compiled. He
+                    noted that Mr. Gleason had initially made various recommendations to this effect
+                    and that he himself had been working assiduously to carry out this program. He
+                    was pleased to report that this work was nearing an end and that all 1945
+                    manuscript would be in the hands of PB in November. He noted that the process of
+                    cutting the compilations was a slow one and he had been able to do this work
+                    only because Mr. Gleason had taken over the editing of the 1946 compilations. He
+                    felt that the cutting back had been accomplished within the standards of quality
+                    associated with the <hi rend="italic">Foreign Relations</hi> series and that the
+                    compilations remained comprehensive.</p>
+                <p>Mr. Perkins then made the observation that in the thirty=three years he had been
+                    associated with <hi rend="italic">Foreign Relations</hi>, the staff had never
+                    been more competent than it was today. He emphasized, however, that the present
+                    staff was actually smaller than the staff which compiled <hi rend="italic"
+                        >Foreign Relations</hi> for the 1930’s, despite the tremendous increase in
+                    the amount oi the documents to be covered and their vaster complexity.</p>
+                <p>He expressed great satisfaction that on his approaching retirement, he was
+                    leaving the direction of the series in good hands. He noted that the transition
+                    would be very smooth since Mr. Gleason had been working on editing and other <hi
+                        rend="italic">Foreign Relations</hi> tasks for over a year.</p>
+                <p>Mr. Berdahl and Mr. Leopold both paid tribute to Mr. Perkins’ key role in the
+                    development of the <hi rend="italic">Foreign Relations</hi> series and stressed
+                    particularly Mr. Perkins’ dedication and his concern for orderly transition.</p>
+                <p>Mr. Franklin suggested that the China volumes had been compiled on a larger scale
+                    than the regular volumes and that this would be more marked, beginning with
+                    1945, because of the cutbacks in other areas made under the austerity program.
+                    Mr. Perkins asserted there was an impression that everything had been put into
+                    the China volumes without selectivity but that this was not true. Large amounts
+                    of documentation, he stated, had been deleted during the compiling stage and by
+                    Mr. Prescott, Mr. Reid and himself during the review stages. The China volumes
+                    did involve a special consideration. The Department in 1949 issued a much
+                    criticized White Paper on China and there was a demand for “the complete
+                    record.” For this reason, the China volumes contain types of documentation not
+                    normally used in regular volumes. For example, Messrs. Davies, Service, and
+                    Vincent were lower level officers; yet their reports and memoranda were being
+                    included in the China volumes. So much controversy had developed over the
+                    activities of these officers that the dropping of their papers in an austerity
+                    program might result in charges of omission and whitewash. As a further example,
+                    Mr. Perkins cited the Marshall Mission. Very little on the Mission’s activities
+                    had been reported to the Department in summary communications. Thus we had used
+                    minutes of meetings with Chinese Nationalist and Communist leaders as well as
+                    other documentation in the Marshall Mission files to present an adequate
+                    record.</p>
+                <p>Mr. Franklin noted that the scope of the China volumes resembled that of the
+                    Yalta volume. He asked Mr. Reid whether he would recommends the cutting of the
+                    China volumes in view of the cutting effected by Mr. Perkins on the rest of the
+                    1945 material. Mr. Reid replied that he would not approve this, although he had
+                    no objection to the compression that had been made in the other Far East
+                    material for 1945.</p>
+                <p>Mr. Osgood suggested that if the fuller scope of the China volumes had been
+                    thought desirable for domestic political reasons, this was no longer pertinent
+                    because he felt that the China papers were no longer a serious domestic
+                    political problem.</p>
+                <p>Mr. Perkins noted that the China volumes were not out of proportion, for the 1945
+                    record on China would be contained in one large volume compared to the
+                    equivalent of more than three volumes for Europe.</p>
+                <p>Mr. Berdahl asked whether the Committee approved the standard used in compiling
+                    the China volumes. Mr. Leopold and Mr. Osgood agreed that the standards used
+                    were acceptable and Mr. Berdahl also added his own approval.</p>
+                <p>Mr. Franklin pointed out that the use of minutes in the China volumes pointed up
+                    a continuing problem for the future. He said we would normally use summary
+                    accounts where available but warned that for many conferences they would not be
+                    available. Mr. Perkins noted that we had had to print the minutes of meetings of
+                    the United States Delegation at San Francisco and of the informal consultative
+                    meetings of Foreign Ministers of the sponsoring Governments.</p>
+                <p rend="underline">AGENDA ITEM 8: Report on annual volumes for 1946:</p>
+                <p>Mr. Gleason reported that the process of compilation was not sufficiently
+                    advanced to give substantial information to the Committee. He anticipated a
+                    maximum of eight volumes. The General volume was lagging the most because Mr.
+                    Aandahl had been tied up on the Arcadia Conference and Mr. Goodwin was treading
+                    new ground on the complicated subject of the United Nations. Mr. Gleason
+                    explained that we would confine ourselves to documenting United States policy
+                        <hi rend="underline">vis-a-vis</hi> the United Nations, not the activities
+                    of the United Nations in general, in order to keep within reasonable bounds.
+                    Furthermore, we would concentrate on the political and security aspects. The
+                    United Nations work would fall into two natural fields, the pure UN subjects,
+                    such as the veto and membership, and those which bore on bilateral subjects such
+                    as Iran. The former would be compiled by the General Branch; the latter by
+                    geographic area personnel who would coordinate with Mr. Goodwin to ensure that
+                    no subject of importance fell between two stools. He expected that the UN
+                    specialized agencies would not pass unnoticed but did not anticipate full
+                    coverage of their activities. Mr. Berdahl and Mr. Bishop expressed some
+                    uneasiness as to how subjects like UNESCO, civil aviation, and the ILO would be
+                    treated. Mr. Goodwin explained that the Minutes of the United States Delegation
+                    to the United Nations would serve as the core of the purely UN stories. These
+                    would cast a very wide net which would touch on almost all UN topics.</p>
+                <p>Mr. Franklin pointed out that Mr. Goodwin had been taken from the Near East area
+                    and had spent a whole year in breaking through the bulk and mysteries of the UN
+                    documentation. This revealed sharply our need for additional personnel to
+                    maintain the twenty-year line.</p>
+                <p>Mr. Gleason then reviewed the remaining areas of the 1946 work. Western Europe
+                    and the British Commonwealth were well in hand; the American Republics area was
+                    well along and would likely be of smaller bulk than for 1945; the Far East was
+                    furthest advanced - 500 pages of this material would be ready for obligation of
+                    funds by May 1964; the Near East was much less advanced, and Mr. Fine had not
+                    found it easy to hold down the number of pages devoted to Iran, in view of the
+                    critical UN ramifications; and Eastern Europe had a substantial amount done.</p>
+                <p>Mr. Gleason emphasized that attempts to reduce the size of the compilations was
+                    most difficult. Some stories traditional to <hi rend="italic">Foreign
+                        Relations</hi> were being curtailed or abolished and he felt that this might
+                    produce cries of anguish in some quarters.</p>
+                <p>Mr. Berdahl, on behalf of the Committee, welcomed Mr. Gleason as successor to Mr.
+                    Perkins.</p>
+                <p>Mr. Franklin mentioned that HO had so far been unsuccessful in obtaining
+                    specifically sought documents in the Truman papers. This was already hurting our
+                    1945 compilations and would be even more of a problem for the 1946 compilations,
+                    unless Mr. Truman would relent.</p>
+                <p>The Committee adjourned at 5:30 p.m.</p>
+                <p rend="center"><hi rend="underline">Saturday Session, November 2, 1963, 9:10
+                        a.m.</hi></p>
+                <p>Present:</p>
+                <list>
+                    <item>The Advisory Committee:<list>
+                            <item>Clarence A. Berdahl, Chairman</item>
+                            <item>William W. Bishop, Jr.</item>
+                            <item>Robert H. Ferrell</item>
+                            <item>Richard W. Leopold</item>
+                            <item>Robert E. Osgood</item>
+                            <item>Robert R. Wilson</item>
+                        </list></item>
+                    <item>The Historical Office:<list>
+                            <item>William M. Franklin</item>
+                            <item>Richardson Dougall</item>
+                            <item>E. R. Perkins</item>
+                            <item>S. Everett Gleason</item>
+                            <item>Rogers P. Churchill</item>
+                            <item>Fredrick Aandahl</item>
+                        </list></item>
+                </list>
+                <p>The meeting opened with a discussion of the problem of the clearing and
+                    downgrading of documents for publication. Mr. Franklin explained that the
+                    Government Printing Office (GPO) imposes a surcharge of 20 percent on
+                    composition costs for Confidential material and 30 percent for Secret and Top
+                    Secret material. Beginning with 1944, when the present system of security
+                    classifications went into effect, a large proportion of the documents important
+                    enough for selection for <hi rend="italic">Foreign Relations</hi> bore (and
+                    normally still bear) classifications of Confidential or higher, and under the
+                    regulations the entire body of documents in a given collection must carry the
+                    classification of the highest single item. This means that we would have to
+                    circulate Top Secret galleys to the geographic bureaus for clearance, and this
+                    would have a “murderous” effect, inducing hyper-caution at every turn, and the
+                    budget people shrieked at the cost of the surcharges. To obviate this difficulty
+                    the Division of Publishing Services (PB) had suggested clearing individual
+                    documents in photocopy before the manuscript was sent to the GPO, but the
+                    Historical Office (P/HO) had pointed out that the projected savings in cost were
+                    illusory, for many copies would have to be made of documents affecting more than
+                    one bureau or one country desk, and great unwieldy stacks of photocopies would
+                    have to be circulated, to the consternation of the clearing officers, who find
+                    neatly-printed galley proof bad enough.</p>
+                <p>As an alternative, P/HO has negotiated a special agreement with the Office of
+                    Security (SY) to handle <hi rend="italic">Foreign Relations</hi> manuscript and
+                    galley proof as Confidential, without the need to go through the laborious task
+                    of downgrading each document separately. When the geographic bureaus and other
+                    appropriate offices in the Department grant their necessary concurrence in the
+                    publication of a given volume, this action constitutes in effect
+                    declassification of the papers involved. In addition, P/HO has sought
+                    authorization to have the printing done on an unclassified basis, in a limited
+                    number of copies that could be stamped Limited Official Use or Special Handling,
+                    but efforts in this direction have not as yet succeeded.</p>
+                <p>The Department of Defense (DOD) has been a complicating factor in this process.
+                    Until last week the arrangement was that P/HO should send to DOD three copies of
+                    each Top Secret or Secret paper of Defense origin for downgrading to
+                    Confidential, but now Mr. Winnacker has informed us that DOD will not object to
+                    our including their documents through December 1945 in Confidential galley
+                    regardless of original classification. This arrangement is contingent upon
+                    British concurrence in the case of combined US-UK papers. It is hoped that
+                    similar arrangements can be worked out for 1946 and after.</p>
+                <p>These considerations also affect the question of access to Department of State
+                    files by unofficial researchers. The physical task of individually changing the
+                    classifications of hundreds of thousands of old papers would be enormous. The
+                    historians have been concerned about this problem for several years, and at last
+                    they seem to be able to impress the security authorities that some far-reaching
+                    solution will be necessary. Practical discussions are now taking place, but
+                    there is no indication of an early decision. The Archivist of the United States
+                    now has authority to declassify any paper which has been entrusted to his care
+                    on an “open” basis, e.g., subject to no limitations by the department or agency
+                    which originated the paper. As announced at yesterday’s meeting, the Department
+                    has just issued a new regulation directly tying the open and restricted periods
+                    for access to the completion of the <hi rend="italic">Foreign Relations</hi>
+                    volumes for a given year. The restricted period runs from 1933 through 1942, and
+                    the closed period is from then until the present.</p>
+                <p>The next item on the agenda was discussion of the volumes on the wartime
+                    conferences. Those covering the Cairo-Tehran, Malta and Yalta, and Potsdam
+                    meetings have already been published, and Mr. Franklin reported that the first
+                    of the two remaining volumes was well advanced but that the last one had been
+                    set aside for the time being because of other more pressing assignments. The 800
+                    manuscript pages on the Arcadia conference of December 1941-January 1942
+                    (prepared by Messrs. Franklin and Aandahl) have been sent to PB, and the rest of
+                    the manuscript for this volume (Second Washington, Casablanca, and Trident
+                    conferences, all prepared by Mr. Slany) will soon be sent; initial printing
+                    costs for this volume should be obligated within the next few weeks. The other
+                    volume, on the Quebec conferences of 1943 and 1944, is at a standstill because
+                    Mr, Glennon is working on 1946 material and Mr. Kogan has been given a long-term
+                    assignment for the Berlin Task Force.</p>
+                <p>Mr. Leopold said that he would like to ask about the relation of the <hi
+                        rend="italic">Foreign Relations</hi> series to the other work of the
+                    Historical Office. Was there anything else the Committee should take note of, as
+                    for example the <hi rend="italic">American Foreign Policy: Current
+                        Documents</hi> series, which is also a historical publication of the
+                    Department? What would be a practical goal for the issuance of these volumes?
+                    Mr. Franklin replied that the one for 1960 would soon be released, but that the
+                    ideal would be to publish the volume for each year in October of the following
+                    year. He invited the views of the Committee as to the usefulness of this series.
+                    Mr. Berdahl said that it was “very useful indeed”, that it was a series his
+                    university library could afford to buy and to keep up, and that the advanced
+                    students were enthusiastic about it. Libraries could afford to get several
+                    copies to meet the needs of students and professors. Mr. Leopold asked if any
+                    doubts had been expressed of the usefulness of the series, and Mr. Franklin said
+                    that he himself had had some doubts at first but had later become convinced of
+                    the value of <hi rend="italic">Current Documents</hi>, which contained the heart
+                    of public information on foreign affairs for each year in a single volume. Its
+                    preparation required two man-years per volume, but it served to take a
+                    considerable burden from <hi rend="italic">Foreign Relations</hi>, which need
+                    not reprint the important material already put in permanent form. Mr. Dougall
+                    pointed out that texts in <hi rend="italic">Current Documents</hi> were more
+                    authoritative than those in the <hi rend="italic">Department of State
+                        Bulletin</hi>, which was prepared against tight deadlines that did not allow
+                    for the same kind of thorough editing, and Mr. Perkins said that he had always
+                    preferred to cite the <hi rend="italic">Statutes at Large</hi> or the <hi
+                        rend="italic">Treaty Series</hi> rather than the <hi rend="italic"
+                        >Bulletin</hi>. Mr. Leopold asked if the public was properly informed that
+                    the <hi rend="italic">Current Documents</hi> series was available, and whether
+                    any figures were available as to the distribution. Mr. Franklin explained that
+                    it was sent to depository libraries, and that 500 copies of 1956 and 400 of 1957
+                    had been sold, in addition to the many copies used within the Government. There
+                    was a short discussion as to whether there should be a separate volume for each
+                    year, or whether the earlier pattern of covering 1941-1949 in a single volume
+                    and 1950-1955 in two volumes was more helpful. Mr. Franklin noted that the
+                    1941-1949 issue contained only the “cream”, and Mr. Leopold said he found the
+                    organizational arrangement and the sweep of the 1950-1955 compilation made it
+                    handier in many cases than having to check a number of annual volumes.</p>
+                <p>Mr. Franklin said that because of the unwieldy size of some of the volumes he had
+                    asked the staff to reduce the bulk to more convenient size, and an effort had
+                    been made to combine 1960 and 1961 in one volumes, but this had proved to be
+                    unworkable. He asked for an expression of the Committee’s view as to the proper
+                    size and scope of the volumes. Mr. Osgood expressed a preference for a single
+                    volume for each year, and he would be glad to have it as inclusive as possible.
+                    Other members of the Committee indicated that they were undecided on this
+                    question. Mr. Bishop asked from what sources the material was gathered, and Mr.
+                    Franklin explained that most of it came from the <hi rend="italic">Department
+                        of State Bulletin</hi>, with the rest from Congressional publications,
+                    previously unpublished press releases, and various standard sources, plus some
+                    ephemeral materials otherwise hard to come by.</p>
+                <p>Mr. Leopold asked if copies of <hi rend="italic">Current Documents</hi> were sent
+                    to newspapers for reference purposes, as distinct from review, and Mr. Franklin
+                    said that we were required by law to sell these materials rather than give them
+                    away (except for review copies). He said that there was not now a large free
+                    list.</p>
+                <p>In connection with the advantage of having <hi rend="italic">Current
+                        Documents</hi> as a standard source to be cited in <hi rend="italic">Foreign
+                        Relations</hi> and thereby save space, Mr. Gleason commented that the latter
+                    series could also benefit from the various other publications prepared by the
+                    Historical Studies Division, such as those on disarmament, the Suez crisis,
+                    Germany, and others, even though some them might not be available in permanent
+                    form. The question of reprinting some of this material has come up in connection
+                    with the 1946 compilation on Germany.</p>
+                <p>Mr. Leopold then asked about the allocation of manpower within the Historical
+                    Office. What drains were there upon the staff of <hi rend="italic">Foreign
+                        Relations</hi> besides those already mentioned? Mr. Franklin described the
+                    work of the other two divisions, which occasionally call on the services of the
+                        <hi rend="italic">Foreign Relations</hi> staff. Mr. Dougall’s Historical
+                    Studies Division (divided into two branches headed by Messrs. Costrell and
+                    Patterson) includes a dozen historians and prepares narrative and documentary
+                    studies on a wide variety of subjects, many of them highly classified and
+                    dealing with current matters. Mr. Parks’ Research Guidance and Review Division
+                    deals with questions of access by unofficial researchers to Department of State
+                    records and also includes the <hi rend="italic">Current Documents</hi> series,
+                    edited by Mr. Curl. In the same Division Mrs. Martin does the initial review of
+                    unofficial publications by members of the Department of State. It was pointed
+                    out that the <hi rend="italic">Foreign Relations</hi> Division had been given a
+                    lift by having the wartime conferences done by historians outside of the <hi
+                        rend="italic">Foreign Relations</hi> Division.</p>
+                <p>Mr. Gleason called attention to the great benefit which the Historical Office
+                    derived from its research and reference services to the Department as a whole.
+                    In addition to serving the needs of the scholarly world it had to carry its
+                    weight in the Department. There is an endless series of inquiries on historical
+                    and quasi-historical questions, including many from students. The members of the
+                    Committee indicated that as professors they did not approve of students asking
+                    Government offices to do their research for them. Mr. Dougall explained some of
+                    the procedures (form letters, bibliographies, etc.) used for answering routine
+                    inquiries.</p>
+                <p>Mr. Berdahl then asked if there was a consensus with regard to the <hi
+                        rend="italic">Current Documents</hi> series. The members of the Committee
+                    said that they had used the volumes themselves and had assigned them to their
+                    students. Mr. Leopold expressed the view that the series was valuable and should
+                    become more widely used as it became better known; perhaps some form of
+                    advertising was needed. All agreed that the series should be continued, but they
+                    did not express a definite view as to whether there should be a separate volume
+                    for each year. Mr. Leopold said he preferred a single one for each year, and Mr.
+                    Osgood repeated that he would like to see it as large as possible. Mr. Franklin
+                    said that there was no saving in time and manpower through combining two years
+                    in one, but that there was a saving in printing and binding costs.</p>
+                <p>A discussion then ensued as to the comparative merits of <hi rend="italic"
+                        >Current Documents</hi> and the annual volumes of the Council on Foreign
+                    Relations. Mr. Franklin stated that our volumes were larger, more systematic,
+                    and more comprehensive, but that the C.F.R. volumes had more material of foreign
+                    origin. Mr. Leopold said that he had used both and preferred the <hi
+                        rend="italic">Current Documents</hi>, and besides it was a better buy.
+                    Messrs. Wilson, Bishop, Berdahl, and Ferrell mentioned various possibilities for
+                    gaining wider public knowledge of the series, such as by notices in learned
+                    journals, and in getting reviews elsewhere, which could promote far more
+                    acquaintance and sales. Mr. Gleason remarked that some of the notices which have
+                    appeared are inferior. It was likewise agreed that even the annual reports of
+                    the Committee were not too well printed in the journals, when printed at
+                    all.</p>
+                <p>Mr. Leopold asked if there should be both a public and a confidential report by
+                    the Committee this year. Because not much classified material has been used in
+                    the present meetings, Mr. Franklin thought that no confidential report would be
+                    needed.</p>
+                <p>At this point the members of the Historical Office withdrew, and the Committee
+                    went into private session to consider the drafting of its report.</p>
+                <p rend="center">************</p>
+                <p>At about 10:45 a.m. the entire group (except Mr. Dougall) reassembled. It was
+                    requested that copies of the 1946 plan of priorities be made available to the
+                    new members of the Committee, and also that the minutes of the present meeting
+                    be promptly circulated, especially a copy to Mr. Berdahl for use in drafting the
+                    report.</p>
+                <p>For the benefit of the newly-rejoined participants, Mr. Berdahl summed up the
+                    main points to be covered in the report. It would be along familiar lines,
+                    covering the same old topics with some different emphasis, but would probably
+                    contain some reference to the very sympathetic attitude expressed at the
+                    luncheon with Under Secretary Ball on Friday. The report should say something
+                    about the magnitude of the task, which seems virtually impossible. Mr. Franklin
+                    interjected that we couldn’t say it was impossible until we had given the new
+                    procedures a year’s trial; we had to be in a position to say we had tried
+                    everything within our power before we went back for more help. Mr. Perkins
+                    remarked that the shortage of skilled editors and indexers in PB might be the
+                    most troublesome problem. Cutting corners would help some, but the saving was
+                    mostly in the time of the less-skilled personnel in PB, which had lost several
+                    highly trained people in the reduction in force two years ago.</p>
+                <p>Mr. Leopold wondered if we could afford to wait a year if in fact P/HO and PB
+                    can’t carry the load with present resources, and Mr. Berdahl asked if it would
+                    not be more realistic for the Committee to recommend and press for more staff
+                    now. Mr. Franklin replied that he was very conservative in what he asked for.
+                    Mr. Osgood inquired whether it was good tactics for the Committee to ask for
+                    more than P/HO could actually get. Mr. Franklin said that we need half a dozen
+                    more historians but that this is “practically hopeless” to ask for.</p>
+                <p>Mr. Bishop wanted to know if it would hurt P/HO’s chances if the Committee asked
+                    for too many. Mr. Franklin said that one would have to consider whether the
+                    Department would think the Committee was entirely unrealistic and had its feet
+                    off the ground. Would this reduce the impact of the Committee? Just now there
+                    was a freeze, so that there would be a grim fight just for one GS-7 job. The
+                    alternative to these small requests would be a major appeal to the
+                    Secretary.</p>
+                <p>Mr. Gleason thought it would be eminently desirable to state the ideal. Mr.
+                    Leopold said that it was understood that a freeze was now in effect, but the
+                    Committee could express the obvious need. Others agreed, both for the present
+                    and the future. Mr. Wilson thought there should be some indication that the
+                    Committee was cognizant of the budgetary problem but <hi rend="underline"
+                        >still</hi> thought that the staff should be increased. Mr. Osgood thought
+                    that the Committee would lose part of its value if it allowed itself to be put
+                    in Mr. Franklin’s shoes, and that it must really represent the outside point of
+                    view, as it had been invited to do in the first place. The thought was expressed
+                    that the Committee should bay at the moon but keep its feet on the ground. There
+                    was always a certain unpredictability about the budget.</p>
+                <p>Mr. Berdahl then asked if there had been any follow-up to Mr. Rusk’s idea last
+                    year of appointing interns. Mr. Franklin said that he had several telephone
+                    talks with people in Personnel and at the Civil Service Commission but that no
+                    one had any good answers. We would be glad to have qualified interns (probably
+                    Ph.D. candidates), but the problem of security clearance is very difficult.
+                    Graduate students can’t usually afford to wait the many months required for
+                    clearance. Summer interns aren’t here long enough. Mr. Wilson then asked if P/HO
+                    could pay enough in competition with colleges today. Mr. Franklin continued that
+                    the salary scale is probably attractive enough at present (new Ph.D.’s may be
+                    appointed at grade GS-11, for which the beginning salary will be $8410 after
+                    January, and graduate students could be appointed at GS-7 or GS-9 at $5795 or
+                    $7030. Mr. Perkins said that there had once been a dollar-a-year man on the
+                    staff, Jack Foley, who had a Yale fellowship to study in Germany in 1939 or
+                    1940. Mr. Franklin said we would be glad to look into the possibilities for
+                    foundation support, but that the amounts involved were too great for a
+                    continuing program.</p>
+                <p>A further complication is the absence of a Historian register at the Civil
+                    Service Commission. The old one was not particularly useful, but it did mean
+                    that members of the staff could in due course attain Civil Service status
+                    instead of being covered by social security. One could not attract good
+                    historians by offering only social security retirement terms. The matter is
+                    still under consideration, and Mr. Franklin may ask for the Committee’s views at
+                    some later stage.</p>
+                <p>Mr. Berdahl said that the Committee’s report would refer to clearance problems
+                    and the new editorial procedures and would commend Mr. Manning’s memorandum to
+                    the other assistant secretaries as well as the budgetary and administrative
+                    officers for supporting the request for additional printing and binding money.
+                    Mr. Franklin noted that it was easier to get program money than new positions,
+                    and that in fact it might not be possible to fill the job number to be vacated
+                    on Mr. Perkins’ retirement. In recent years the <hi rend="italic">Foreign
+                        Relations</hi> professional staff has decreased from 16 in 1947 to 12 now
+                    even while the workload has increased. In addition, we have always had about 2
+                    vacancies.</p>
+                <p>Mr. Berdahl raised the question of a cumulative index for the series. The last
+                    one goes only to 1918 and does not include the war supplements. There was
+                    general agreement that the budgetary situation offered no immediate prospect for
+                    a general index.</p>
+                <p>Messrs. Wilson and Berdahl expressed their appreciation for the Department’s
+                    cooperation in the work of the Committee. Mr. Leopold suggested that there
+                    was room for an alumni association, and Mr. Franklin welcomed the idea. Mr.
+                    Leopold thought that the great investment in time and specialized knowledge
+                    should not go to waste.</p>
+                <p>The meeting adjourned shortly after 12 noon.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

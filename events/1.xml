@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+    <id>1</id>
+    <title>Panel on FRUS and National Security at American Historical Association (AHA) 2011 Annual
+    Meeting</title>
+    <created>2011-01-01</created>
+    <icon>
+        <width>150px</width>
+        <height>101px</height>
+        <url>http://static.history.state.gov/frus150/aha-cspan.jpg</url>
+        <alttext>Still image of AHA CSPAN Event</alttext>
+    </icon>
+    <link/>
+    <link-alttext/>
+    <event-type>Public Presentation</event-type>
+    <event-date>2011-01-09</event-date>
+    <teaser>
+        <div xmlns="http://www.w3.org/1999/xhtml"> “Open Secrets: The Foreign Relations of the
+            United States Series, Democracy’s ‘Need to Know,’ and National Security”<br/> (<a href="http://www.c-spanvideo.org/program/GovernmentSecret">CSPAN video</a> and
+            <a href="http://www.youtube.com/user/historiansorg#p/u/46/ILtmVGTz554">Youtube
+                video</a> of a panel at the American Historical Association Annual
+            Meeting)</div>
+    </teaser>
+    <full-description>
+        <div xmlns="http://www.w3.org/1999/xhtml" id="aha-open-secrets">
+            <a style="float:right" class="not-external" href="http://www.c-spanvideo.org/program/GovernmentSecret/" title="Link to CSPAN Video of the AHA Event">
+                <img width="150px" height="101px" style="border:1px black solid" src="http://static.history.state.gov/frus150/aha-cspan.jpg" alt="Still image of AHA CSPAN Event"/>
+            </a>
+            <h3>
+                <a href="http://www.c-spanvideo.org/program/GovernmentSecret">“Open Secrets: The Foreign Relations of the
+                    United States Series, Democracy’s ‘Need to Know,’ and National Security”</a>
+            </h3>
+            <p style="font-size: 0.825em; text-transform: uppercase;"> American Historical Association Annual
+                Meeting<br/>January 9, 2011 </p>
+            <p>Two historians from the Office of the Historians participated in a panel at the American Historical Association (AHA) 2011 Annual
+                Meeting, entitled “Open Secrets: The Foreign Relations of the
+        United States Series, Democracy’s ‘Need to Know,’ and National Security”.  Video of the event is available via <a href="http://www.c-spanvideo.org/program/GovernmentSecret">CSPAN video</a> and
+        <a href="http://www.youtube.com/user/historiansorg#p/u/46/ILtmVGTz554">Youtube
+            video</a>.</p>
+        </div>
+    </full-description>
+</event>

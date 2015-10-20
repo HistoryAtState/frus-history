@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Letter From Gale Allen to David Baehler, October 1979</title>
+                <title type="short">Allen to Baehler, 1979</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-01-22">January 22, 2014</date>
+                <date type="created" when="1979-10-28">October 28, 1979</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1979-10-28-allen-to-baylor.pdf">PDF</ref>, 170 KB, 5pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: National Archives and Records Administration, Record Group
+                    59, Entry UD-WW-9: Bureau of Public Affairs, Office of the Historian, Arthur
+                    Kogan Files, 1945-1980 (83 D 230), Box 2, Declassification Denials &amp;
+                    Challenges. Secret. Allen’s signature was present, but not declassified for
+                    release. David Baehler’s last name (corrected here) was misspelled “Baylor” in
+                    the original document.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 9, <ref
+                    target="../chapter-9#fn16">Footnote 16</ref></p>
+            <div type="document">
+                <head>Letter From Gale W. Allen (Chief of the Classification Review Division at the
+                    Central Intelligence Agency) to David Baehler (Adviser on Declassification at
+                    the Historian’s Office)</head>
+                <dateline>October 28, 1979</dateline>
+                <p>Dear Dave:</p>
+                <p>This letter is in response to two letters dated September 27, 1979 from Mr. John
+                    Glennon concerning several Agency deletions from Volumes XIII, “Indochina,” and
+                    XV, “Korea,” of the <hi rend="italic">Foreign Relations of the United
+                        States</hi> series. The points in Mr. Glennon’s letters were discussed with
+                    the Directorate of Operations which has the greatest direct Agency interest in
+                    this material. We would like to pass the results of these discussions to you and
+                    your associate historians concerned with the various area volumes of the FRUS
+                    because in the main, the Agency rationale for handling a particular subject
+                    matter will apply uniformly:</p>
+                <p>1. <hi rend="underline">Official Disclosure</hi>. The attachment to your letter
+                    concerning Volume XV equates references from open literature to authorized
+                    executive disclosure of previously classified information. We cannot accept that
+                    equation as valid. Such citations of the open literature may be useful in
+                    alerting us to public treatment of a topic on which there are classified
+                    holdings, but they do not oblige us to make executive disclosure of the same or
+                    comparable material. The fact of publication of numerous unofficial works places
+                    no obligation on this Agency to make authorized executive disclosure of
+                    statements made in those unofficial works. To reason otherwise would, in the
+                    face of the First Amendment entitlement of most Americans and aliens legally
+                    resident in the United States and the weakness of our statutes with respect to
+                    the protection of official secrets, place us in an untenable position. Such
+                    rationale would leave us vulnerable to the Ellsbergs and Agees of this world
+                    who, having purloined official classified material and had it published, could
+                    then point to the fact of publication as a basis for requiring the Agency to
+                    make official confirmation.</p>
+                <p>Publications such as the Rozitske, Colby and Cline books are sometimes referred
+                    to as “semi-official memoirs.” The fact of the authors’ prior association with
+                    CIA and even (in two cases) of review of the manuscripts by Agency personnel
+                    does not give these books status as authorized executive disclosure.</p>
+                <p>The Church Committee’s “Final Report” is, of course, legislative and not
+                    executive disclosure. The rule that we have followed with regard to that
+                    particular publication and others like it is this: If the publication quotes
+                    from a document which was supplied officially by CIA to the Congress, we
+                    generally acknowledge the existence of the document if Congress chooses to
+                    reveal its existence, and generally, we disclose the quoted segment, but only
+                    that. Of course, if additional executive disclosure was made subsequent to the
+                    legislative disclosure of portions of a CIA document, we must take that
+                    executive disclosure into account.</p>
+                <p>Concerning another aspect of the same problem, the disclosure of the Agency’s
+                    classified material by another component of the Executive Branch does not
+                    constitute <hi rend="underline">authorized</hi> executive disclosure <hi
+                        rend="underline">by this Agency</hi> unless competent authority of this
+                    Agency, and more particularly in the case of Directorate of Operation’s
+                    information, of the Directorate of Operations, has concurred. This is pertinent
+                    with reference to the citation of “The Pentagon Papers” in the DOD version. It
+                    is even more pertinent to memoirs such as those by Edward G. Lansdale, written
+                    and published without Agency acknowledgment that they constitute authorized
+                    executive disclosure. (Mere review of a manuscript by the Agency does not
+                    constitute authorized executive disclosure.)</p>
+                <p>2. <hi rend="underline">CIA Presence</hi>. Objection has been raised to our
+                    denial of the letters “CAS” when “mere mention of CIA presence” is at issue. Our
+                    standard Agency practice, in compliance with Section 6 of the CIA Act of 1949,
+                    is not to disclose CIA locations abroad. “Mere mention of CIA presence” is
+                    clearly disclosure if authorized release is made. That information is
+                    classifiable under Section 1-301, E.O. 12065.</p>
+                <p>Recognizing that certain distinctions could be made with regard to Vietnam and
+                    Laos, the DCI did, on 4 May 1979, determine that disclosure of CIA stations and
+                    bases in those countries would be made in connection with the Agency’s response
+                    to Freedom of Information Act requests for MIA reports. Of course, authorized
+                    executive disclosure made in one context is also applicable to other contexts
+                    and generally cannot be withdrawn. It is in recognition of that fact that the
+                    Directorate of Operations practice with regard to disclosures concerning certain
+                    CIA stations and bases in Vietnam and Laos must be limited as follows:</p>
+                <list>
+                    <item>a. Laos, Vientiane Station - 17 July 1966 through 16 November 1968;</item>
+                    <item>b. Vietnam, Saigon Station - 17 November 1968 through 30 April
+                        1975;</item>
+                    <item>c. Vietnam, Hue - 22 October 1967 only;</item>
+                    <item>d. Vietnam, Can Tho - 17 June 1967 through 26 March 1974;</item>
+                    <item>e. Vietnam, Nha Trang - 5 December 1969 through 12 June 1972.</item>
+                </list>
+                <p>It will be immediately apparent to the knowledgeable that certain CIA locations
+                    in Laos and Vietnam are not included in the disclosable list. The decision is
+                    interpreted to mean that unlisted locations should <hi rend="underline">not</hi>
+                    be disclosed. Furthermore, disclosure of the presence of the <hi
+                        rend="underline">listed</hi> locations during the specified periods does not
+                    obligate disclosure of the same stations or bases for prior or subsequent
+                    periods if, indeed, they existed at those earlier or later periods.</p>
+                <p>You will note that, whereas the period covered by the DCI’s decision to disclose
+                    varies for different locations, that time-frame is later than that which applies
+                    to the documents in question. Therefore, to the extent that documents either are
+                    dated or refer to periods other than those for which disclosure has been
+                    authorized, “mere mention of CIA presence” must continue to be denied.</p>
+                <p>3. <hi rend="underline">Foreign Liaison</hi>. Another point that bears mention is
+                    our obligation, by statute, not to reveal the fact of or details concerning
+                    intelligence liaison relationships between CIA and foreign intelligence and
+                    security services. If disclosed, “mere mention” of the receipt of reports from a
+                    foreign intelligence service carries with it revelation of the existence of a
+                    relationship, particularly when the text makes clear that the reference is to a
+                    relationship that involves CIA. As you are aware, we do not make that type
+                    revelation in authorized executive disclosures, and cannot do so for the sake of
+                    the <hi rend="italic">Foreign Relations of the United States</hi> series which
+                    epitomizes authorized executive disclosure.</p>
+                <p>4. <hi rend="underline">CIA Internal Documents</hi>. One item (458 JAN) relates
+                    to what we refer to as an appraisal of the situation, a specific type of CIA
+                    field station report that is defined in CIA regulatory issuances. Those
+                    issuances make the point that the appraisal of situation is intended primarily
+                    for internal (CIA) use as a guide to the operational environment existing at
+                    that time and place. It is not a vehicle for making policy recommendations
+                    regarding future action of the U.S. Government, and such recommendations must
+                    not be included in the appraisal of situation reports. Of course, such
+                    appraisals may be disseminated to other U.S. officials by CIA Headquarters, but
+                    a specific authentication statement is mandatory. That statement includes (and
+                    included in the past a comparable reminder) as follows: “Prepared primarily for
+                    internal Agency use, it is disseminated in the belief that it may be useful to
+                    others in their own assessment of the situation.” Your opinion of the document
+                    in question (458 JAN) as “a perceptive analysis by the unnamed senior CIA
+                    representative [<hi rend="italic">text not declassified</hi>] does not reduce
+                    our responsibility to respect the controls that were applied when dissemination
+                    was made, if 458 JAN was, indeed, an appraisal of the situation as contrasted to
+                    a situation report. The accompanying statement that “we are unable to see how
+                    intelligence sources and methods would be compromised by declassification of
+                    this document” is presumably true. That is, however, but one aspect of our
+                    responsibilities under Section 6 of the CIA Act of 1949. We do not release
+                    appraisals of the situation for these <hi rend="underline">additional</hi>
+                    reasons:</p>
+                <list>
+                    <item>a. Disclosure would confirm the presence of a CIA station (at a time not
+                        covered by the DCI’s decision of 4 May 1979);</item>
+                    <item>b. Disclosure would facilitate external analysis of CIA’s capacity to
+                        judge the operational environment under a particular set of
+                        circumstances;</item>
+                    <item>c. Enhancement of external analysis increases the capacity of hostile
+                        elements to disrupt, penetrate, or thwart current efforts in the same or
+                        similar location.</item>
+                </list>
+                <p>Obviously, our most important reasons relate to the protection of sources and
+                    methods. Were the specific report to be reconsidered, in disregard of
+                    established practice with respect to this type of report, we still would have to
+                    go back to the sourcing of the individual paragraphs of the report to determine
+                    sourcing. In sum, our entitlement to the denial of disclosure of appraisals of
+                    the situation is, in our view, greater on numerous counts than the finding that
+                    a given document “deserves to be part of the official record.”</p>
+                <p>5. <hi rend="underline">Foreign Relations</hi>: With regard to the item appearing
+                    in documents 62-63 CHI concerning the status of the U.S. Consulate in Hanoi
+                    after the armistice, one factor we -- with at least some judicial sanction --
+                    must take into account to determine identifiable damage to the national security
+                    is the <hi rend="underline">present day</hi> impact of disclosure. The fact that
+                    an issue was an important foreign policy matter is not sufficient justification
+                    for us to ignore the possible present day difficulties that could result from
+                    disclosure. We believe that your Area Desks share our concern in this
+                    regard.</p>
+                <p>[<hi rend="underline">Text not declassified.</hi>]</p>
+                <p>The remainder of the text under “Discussion” and the text under “Recommendation”
+                    simply reiterates some of the key points noted above and remains classified for
+                    the applicable reasons identified above. Summarizing the individual points
+                    listed, the CIA and Directorate of Operations particularly are well-advised not
+                    to release official information that makes clear to host country authorities
+                    that CIA has or had a station in the country, or that CIA has or had an
+                    intelligence liaison relationship with intelligence services of the host
+                    country. I might recall one recent event for its value as an analogy. You will
+                    recall the furor in the United States that followed disclosure by <hi
+                        rend="italic">The Washington Post</hi> of classified information in a 9
+                    August 1979 article headlined “Foreign Spy Activity Found Rampant In U.S...” A
+                    comparable or worse reaction must be anticipated in certain countries when the
+                    situation is reversed. [<hi rend="italic">Text not declassified.</hi>] Our
+                    concern is not that disclosure of this sort is embarrassing but that it has a
+                    definite impact on current or future diplomatic and operational environments in
+                    which CIA must carry out intelligence activities. Briefly stated, then, this is
+                    the identifiable damage to the national security that in our view unauthorized
+                    disclosure reasonably could be expected to cause.</p>
+                <p>7. I want to reiterate that the above represent the position of the Directorate
+                    of Operations but also is essentially the Agency position on these matters. I am
+                    forwarding them to you in the hope it will aid you and your staff in appraising
+                    what information in these categories we would consider classified and want to
+                    protect from disclosure.</p>
+                <p>Gale W. Allen</p>
+            </div>
+        </body>
+    </text>
+</TEI>

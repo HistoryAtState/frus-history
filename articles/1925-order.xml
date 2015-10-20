@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Secretary Kellogg’s “Principles to Guide the Editing of
+                    ‘Foreign Relations’” and Cover Memoranda</title>
+                <title type="short">“Principles to Guide the Editing of ‘Foreign Relations’”</title>
+            </titleStmt>
+            <publicationStmt>
+                <date when="2011-10-27">October 27, 2011</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>This document was released in conjunction with <ref
+                    target="/historicaldocuments/frus-history/research/eureka-the-1925-frus-order">“Eureka!: The 1925 <hi
+                    rend="italic">FRUS</hi> Order (and Why You Should Be Nice to Archivists).”</ref>
+                    A scan of the original text is available for download (<ref
+                    target="http://static.history.state.gov/frus150/1925-order.pdf">PDF</ref>, 499
+                    KB, 8 pp.).</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="document" xml:id="memo1">
+                <head>Memorandum from Tyler Dennett to the Secretary of State<note n="1">Source:
+                    Folder 55D606 OSS/PB-1, Box 35, Miscellaneous Office Files, 1910-1944, Record
+                    Group 59, Archives II</note></head>
+                <dateline><date when="1925-03-26">March 26, 1925</date>.</dateline>
+                <p>Dear Mr. Secretary:</p>
+                <p>The attached memorandum addressed to yourself together with the appended
+                    statement of the principles to guide the editing of “Foreign Relations” is
+                    designed in such a way that it can, if it meets with your approval, be
+                    mimeographed and used in answering inquiries from historical students as to the
+                    principles which now govern the editing of diplomatic correspondence in the
+                    Department.</p>
+                <p>You may, therefore, wish to scrutinize the memorandum and draft with a view to
+                    its possible circulation outside of the Department. It is an attempt to define
+                    some of the aspects of the necessary limitations upon “open diplomacy”.</p>
+                <p>TD</p>
+                <p>I see no objection</p>
+                <p>Kellogg</p>
+                <p>Noted.-</p>
+                <p>MacM.<note n="2">Handwritten initials “TD” added by Dr. Tyler Dennett, head of
+                    the Division of Publications. Handwritten “I see no objection” and “Kellogg”
+                    added by Frank Kellogg, Secretary of State. Handwritten “Noted.-" and “MacM."
+                    added by John Van Antwerp MacMurray, Assistant Secretary of State.</note></p>
+            </div>
+            <milestone unit="section" rend="hr"/>
+            <div type="document" xml:id="memo2">
+                <head>Attached Memorandum</head>
+                <dateline> <date when="1925-03-26">March 26, 1925</date>.</dateline>
+                <p>Dear Mr. Secretary:</p>
+                <p>At a recent conference of the Solicitor and the Chiefs of the geographical
+                    divisions, called by Mr. MacMurray and held in his office, there was a thorough
+                    discussion of the principles which ought to guide the editing of ‘Foreign
+                    Relations”. As a result of this conference, the Chief of the Division of
+                    Publications was requested to formulate the principles upon which those present
+                    were agreed and to present them to the Secretary for his formal approval.</p>
+                <p>I beg to call your attention to the fact that in the attached outline two
+                    innovations are proposed. It is believed that “Foreign Relations” is the proper
+                    place in which to publish the decisions of the Department on subjects of
+                    international law which are of peculiar interest to students. Hitherto, material
+                    of this nature has usually not been available for study. Also, the publication
+                    of important documents concerning treaty negotiations ought greatly to increase
+                    the value of “Foreign Relations” as a source-book of American history. This
+                    proposed new material ought to contribute to the promotion of interest in
+                    questions of foreign policy and <pb n="2"/> in turn assist in the maintenance of
+                    an intelligent public opinion. The attached outline otherwise is important not
+                    so much for new principles as because it sets up a uniform standard for the
+                    guidance of the many officers of the Department who are related to the editing
+                    of diplomatic correspondence.</p>
+                <p>If this statement commends itself to your judgment, I shall he glad to have for
+                    it your formal approval.</p>
+                <p>Tyler Dennett</p>
+                <p>A-M MacM. U J.C.G.<note n="3">Dennett’s signature is handwritten. MacMurray and
+                    Joseph Grew, Undersecretary of State, initialed the document.</note> </p>
+            </div>
+            <milestone unit="section" rend="hr"/>
+            <div type="document" xml:id="memo3">
+                <head>Appended Statement of Principles</head>
+                <p rend="center">Principles to Guide the Editing of “Foreign Relations”.</p>
+                <p>Although the Secretary of State is not by law required to make an annual report,
+                    it is recognized that a well-informed and intelligent public opinion is of the
+                    utmost importance for the conduct of foreign relations.</p>
+                <p>The publication of diplomatic correspondence relating to matters which are still
+                    current often presents an insuperable obstacle to effective negotiation, but it
+                    is obvious that after the completion of the business in hand as much of the
+                    correspondence as is practicable ought to be made public. This object is
+                    attained by the publication of “Foreign Relations” which presents, in a form
+                    economical, compact, and easily, accessible, the documentary history of the
+                    foreign relations of the United States. The editing of “Foreign Relations” must,
+                    therefore, be recognized as an important part of the duties of the Department of
+                    State.</p>
+                <pb n="2"/>
+                <p>The Chief of the Division of Publications is charged with the preparation for
+                    this purpose, as soon as practicable after the close of each year, of the
+                    correspondence relating to all major policies and decisions of the Department in
+                    the matter of foreign relations, together with the events which contributed to
+                    the formulation of each decision or policy, and the facts incident to the
+                    application of it. It is expected that the material thus assembled, aside from
+                    the omission of trivial and inconsequential details, will be substantially
+                    complete as regards the files of the Department.</p>
+                <p>The development of the science of international law has become a matter of such
+                    weight and general concern that it is recommended that the Chief of the Division
+                    of Publications, with the help and counsel of the Solicitor, should <del
+                    rend="strikethrough">be</del> give<del rend="strikethrough">n</del> special
+                    attention to the publication of all important decisions made by the Department
+                    relating to international law, with a view to making available for general study
+                    and use, the annual contributions of the Department to this important branch of
+                    jurisprudence. It is likewise believed that the Department may profitably
+                    inaugurate the <pb n="3"/> practice of printing a record of treaty negotiations,
+                    and it is, therefore, suggested that such material be added, beginning with
+                    “Foreign Relations 1918”, which is now in the process of editing.</p>
+                <p>When the documents on a given subject have been assembled in the Division of
+                    Publications, they should be submitted to the Solicitor or to the Chief of the
+                    appropriate division which has had immediate supervision of the topic. The
+                    Solicitor, or the heads of these divisions, respectively, are charged with the
+                    duty of reviewing the material thus assembled and indicating any omissions which
+                    appear to be required. Omissions of the following kind are recognized as
+                    legitimate and necessary:</p>
+                <list>
+                    <item> <label>(a)</label> matters which if published at the time would tend to
+                        embarrass negotiations or other business;</item>
+                    <item> <label>(b)</label> to condense the record and avoid needless
+                        details;</item>
+                    <item> <label>(c)</label> to preserve the confidence reposed in the Department
+                        by other governments and by individuals;</item>
+                    <item> <label>(d)</label> to avoid needless offense to other nationalities or
+                        individuals by excising invidious comments not relevant or essential to the
+                        subject; and,</item>
+                    <pb n="4"/>
+                    <item> <label>(e)</label> to suppress personal opinions presented in despatches
+                        and not adopted by the Department. To this there is one qualification,
+                        namely, that in major decisions it is desirable, where possible, to show the
+                        choices presented to the Department when the decision was made.</item>
+                </list>
+                <p>On the other hand, there must be no alteration of the text, no deletions without
+                    indicating the place in the text where the deletion is made, and no omission of
+                    facts which were of major importance in reaching a decision. Nothing should be
+                    omitted with a view to concealing or glossing over what might be regarded by
+                    some as a defect of a policy.</p>
+                <p>Where a document refers to two or more subjects, provided there are no other
+                    objections, it should be printed in its entirety, and not divided for purposes
+                    of more exact classification in editing. Great care must be taken to avoid the
+                    mutilation of documents. On the other hand, when a foreign government, in giving
+                    permission to use a communication, requests the deletion of any part of it, it
+                    is usually preferable to publish the document in part rather than to omit it
+                    entirely. A similar principle may be applied with reference to documents
+                    originating with the American Government.</p>
+                <pb n="5"/>
+                <p>The chief of the Division of Publications is expected to initiate, through the
+                    appropriate channels, the correspondence necessary to secure from a foreign
+                    government permission to publish any document received from it and which it is
+                    desired to publish as a part of the diplomatic correspondence of the United
+                    States. Without such permission, the document in question must not be used. The
+                    offices and divisions concerned in this process of editing may be expected to
+                    cooperate heartily with a view to the preparation of an adequate and honest
+                    record.</p>
+                <p>Approved</p>
+                <p>Frank B. Kellogg</p>
+                <p>Approved FBK</p>
+                <p>A-M MacM. E.E. E.E.Y. F.E. F.P.L. L.A. F.W. M.E. F.M.G. N.E. A.W.D.</p>
+                <p>W.E. So. C.C.H. U. J.C.G.<note n="4">Kellogg’s approval and signature are
+                    handwritten. An unidentified person added the “Approved” and “FBK” initials
+                    beneath Kellogg’s signature. MacMurray, Evan E. Young (Chief of the Division of
+                    Eastern European Affairs), Frank P. Lockhart (Acting Chief of the Division of
+                    Far Eastern Affairs), Francis White (Chief of the Division of Latin-American
+                    Affairs), Franklin Mott Gunther (Chief of the Division of Mexican Affairs),
+                    Allen W. Dulles (Chief of the Division of Near Eastern Affairs), Charles C. Hyde
+                    (Solicitor), and Grew initialed the document. No initials appeared next to
+                    “W.E." (Division of Western European Affairs).</note></p>
+            </div>
+        </body>
+    </text>
+</TEI>

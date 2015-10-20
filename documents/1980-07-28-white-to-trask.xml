@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Letter From Thomas White to David Trask, July 1980</title>
+                <title type="short">White to Trask, 1980</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-01-22">January 22, 2014</date>
+                <date type="created" when="1980-07-28">July 28, 1980</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1980-07-28-white-to-trask.pdf">PDF</ref>, 176 KB, 3pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Administration, Office of
+                    Freedom of Information, Privacy, and Classification, Historical Documents Review
+                    Office Record Files, 1950-1993 (Lot File 95 D 113), Box 1, CIA General. This
+                    copy bears a stamped signature for Thomas H. White. A copy of the letter was
+                    also sent to [name not declassified].</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 9, <ref
+                    target="../chapter-9#fn17">Footnote 17</ref></p>
+            <div type="document">
+                <head>Letter From Thomas H. White (Chief of the Information Services Staff at the
+                    Central Intelligence Agency) to David F. Trask (Director of the Historian’s
+                    Office)</head>
+                <dateline>July 28, 1980</dateline>
+                <p>Dear Mr. Trask:</p>
+                <p>This is in response to your letter of 6 February 1980 to Mr. Gale Allen
+                    concerning our policies with respect to classification decisions made on
+                    material requested for publication in the <hi rend="italic">Foreign Relations of
+                        the United States</hi> (FRUS) series. I apologize for the delay in
+                    responding but I hasten to point out that it is incumbent upon all of us to
+                    insure the full exploration of matters such as these before making decisions the
+                    effect of which might have long lasting and unforeseen repercussions. Thus, you
+                    can be assured that this response is being made only after lengthy, in-depth
+                    discussions here at CIA.</p>
+                <p>I also want to assure you that we consider the FRUS series extremely important
+                    and have and will cooperate with the Department of State in its publication to
+                    the fullest extent possible consistent with the responsibilities to protect
+                    intelligence sources, methods and activities levied upon the Director of Central
+                    Intelligence by statute, Executive order and other directives.</p>
+                <p>At the outset, I want to state that in order to be able to freely contribute to
+                    FRUS, all final decisions with respect to the declassification or the continued
+                    classification of information concerning CIA and its activities, whether
+                    contained in CIA originated documents or documents of other Government
+                    department and agencies, must be made by officials of this Agency who have been
+                    delegated such authority by the Director of Central Intelligence. The
+                    intelligence business is unique and such decisions can only be made, if we are
+                    to avoid damage to national security, by persons fully knowledgeable of all
+                    relevant facts in any given instance. We will of course be willing to discuss
+                    the reasoning behind any of our decisions which you are not happy with, but the
+                    final decision must be based on what we feel is necessary to fulfill our
+                    responsibilities. This rationale is recognized in law and especially throughout
+                    Executive Order 12065, particularly Section 3 thereof. Your [<hi rend="italic"
+                        >text not declassified</hi>].</p>
+                <p>Having said the above, I want now to state our views regarding the points you
+                    raise in your letter. We are aware of the mandated role of the FRUS and its
+                    importance as the official history of United States foreign policy. It is this
+                    role however which causes us particular concern since anything appearing in the
+                    FRUS is official Executive disclosure of United States Government information.
+                    As such, it leaves no doubt as to its veracity. Hence, we must be extremely
+                    careful that information regarding CIA appearing therein not be such as to
+                    damage the national security of the United States. As pointed out in your
+                    letter, information may become desensitized with the passage of time. While that
+                    proposition may often be valid, it is much less so in the case of information
+                    concerning intelligence agencies and their activities. Individuals may serve as
+                    intelligence sources for many years. They have the right to expect that their
+                    clandestine relationship with the United States Government will not redound
+                    against them or their families. The period of potential repercussion will
+                    normally last many years beyond their active association with the intelligence
+                    process. The premature release of information regarding intelligence sources
+                    creates the impression that such sources will not be protected and deters others
+                    from serving in an intelligence capacity. Indeed, changes in the world situation
+                    over time may in fact increase the degree of damage which could be done even
+                    when all of the actors have long since departed the scene.</p>
+                <p>We cannot accept your position that <hi rend="underline">any</hi> information
+                    already in the public domain has lost its sensitivity and that its omission from
+                    the series would weaken the credibility thereof. Such matters must be explored
+                    on a case-by-case basis. However, unless information in the public domain has
+                    been placed there through official release, as a general rule we will not permit
+                    its re-release based on that principle alone. To do so would be to recognize the
+                    validity of everything that has been published regarding the intelligence
+                    process over the years whether right or wrong, sensitive or not, and we simply
+                    cannot take this position.</p>
+                <p>Finally, with respect to your penultimate paragraph, we cannot accept your
+                    interpretation of the meaning of “intelligence sources and methods.” Your
+                    statement that the location of Agency facilities, general Agency activities,
+                    foreign liaison relationships and intelligence reports are not included under
+                    the term “intelligence sources and methods” is so narrow that were it true we
+                    would be unable under our charter to protect a vast area that is vital to our
+                    objectives and without which we would be rendered useless to a great extent.
+                    Even if we could accept your interpretation, the final sentence of that
+                    paragraph sets forth additional reasons which would justify the withholding of
+                    the kind of information mentioned in the paragraph. And the decision as to
+                    whether identifiable damage may result from any particular release can only be
+                    made by officers of this Agency authorized to do so based on knowledge of the
+                    damage that would occur as a result of such release.</p>
+                <p>I will be happy to discuss this matter with you further. If you so desire, let me
+                    know and I will arrange to meet with you at your convenience.</p>
+                <p>Sincerely,<lb/>Thomas H. White</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">The Proper Selection of Dispatches</title>
+                <title type="short">The Proper Selection of Dispatches</title>
+                <author>Peter Cozzens</author>
+                <sponsor>Office of the Historian, U.S. Department of State</sponsor>
+            </titleStmt>
+            <publicationStmt>
+                <date when="2011-10-12">October 12, 2011</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>In my last post, <ref target="/historicaldocuments/frus-history/research/real-opinions">“Our Ministers Do
+                    Not Express Their Real Opinions,”</ref> I said that I intended to devote this
+                    post to a discussion of how the State Department’s reaction to complaints from
+                    ministers (ambassadors) that their sensitive dispatches might appear in <hi
+                    rend="italic">Foreign Relations of the United States (FRUS)</hi> volumes
+                    dampened candor in their reporting. The nature of historical research being what
+                    it often is, you think you know what you need, where to find it, and when to
+                    wrap up the research—only to come across something that challenges your
+                    assumptions. For this post, I find myself writing on something unexpected.</p>
+                <p>My research had led me to conclude that the Department never solicited the input
+                    of ministers before submitting diplomatic correspondence to Congress for
+                    publication as an annual <hi rend="italic">FRUS</hi> volume. That is, until I
+                    came across in the State Department records at the National Archives an October
+                    1874 letter from U.S. Minister to China S. Wells Williams to Secretary of State
+                    <ref target="/departmenthistory/people/fish-hamilton">Hamilton Fish</ref>, in
+                    which Williams acknowledged a letter of instruction from Fish soliciting
+                    ministerial comments on proposed <hi rend="italic">FRUS</hi> content and offered
+                    his recommendations as to which dispatches from Peking were appropriate for
+                    publication in <hi rend="italic">FRUS.</hi> <note n="1">S. Wells Williams to
+                    Hamilton Fish, October 17, 1874, Roll 43, Despatches from U.S. Ministers to
+                    China (hereafter DUSMC), Roll 43, M92, RG 59, NA.</note> </p>
+                <p>Intrigued and perplexed, I dug further and found that Fish sent a similar letter
+                    to all ministers. The circular letter covered a list of the legation dispatches
+                    and asked ministers to advise him if they objected to the publication of any
+                    items, in whole or in part.<note n="2">See for example Hamilton Fish to <ref
+                    target="/departmenthistory/people/osborn-thomas-ogden">Thomas O. Osborn</ref>,
+                    September 16, 1874, Instructions of the Department of State – Argentine
+                    Republic, Roll 115, M77, NA.</note> Fish regularized the consultative process in
+                    1875 and 1876, sending his request for input in April, with an October
+                    deadline.</p>
+                <p>I have been unable to determine why Fish decided to involve ministers in the <hi
+                    rend="italic">FRUS</hi> selection process. The ministers to China and Japan both
+                    had complained that the local British-owned press habitually used correspondence
+                    from <hi rend="italic">FRUS</hi> to skewer them personally and condemn U.S.
+                    policy. And then there was the bitter aftertaste of <ref
+                        target="/historicaldocuments/frus-history/research/real-opinions">the Marsh episode</ref>. Perhaps Fish
+                    concluded that enhancing ministers’ stake in <hi rend="italic">FRUS</hi> would
+                    both spare them future embarrassment and minimize their complaints about the
+                    series.</p>
+                <p>In any event, in 1875 and 1876, a third of America’s thirty-seven ministers
+                    submitted their recommendations of dispatches for publication. Either the first
+                    <ref target="/departmenthistory/people/principalofficers/assistant-secretary"
+                    >Assistant Secretary of State</ref> (today’s Deputy Secretary) or more often
+                    <ref
+                    target="/departmenthistory/people/principalofficers/second-assistant-secretary"
+                    >Second Assistant Secretary</ref> <ref
+                    target="/departmenthistory/people/hunter-william">William Hunter</ref>—a career
+                    official—made the final call on <hi rend="italic">FRUS</hi> content.</p>
+                <p>Ministers also often asked that dispatches containing disparaging comments about
+                    foreign officials or reporting on tendentious and unresolved issues either be
+                    omitted from the annual submission to Congress and <hi rend="italic">FRUS</hi>,
+                    or that sensitive portions be excised. Several also requested that their
+                    dealings with other foreign missions also be kept confidential.</p>
+                <p> <figure rend="smallfloatinline">
+                    <graphic url="boker-george-h.jpg"/>
+                    <head>Minister to Turkey George H. Boker. Poet, sonnet writer, boxer, attorney,
+                        and Republican stalwart, Boker proved a talented diplomat. In spite of his
+                        ignorance of Turkish and distrust of interpreters, Boker nonetheless
+                        cultivated a wide array of close personal contacts within the Ottoman
+                        elite.</head>
+                    </figure> By way of example, in 1874 U.S. Minister to Turkey <ref
+                    target="/departmenthistory/people/boker-george-henry">George H. Boker</ref>
+                    asked the Department to withhold two despatches that his predecessor had
+                    written. The first conveyed the “designs and diplomatic character of the Russian
+                    ambassador, which would not be very acceptable reading to my distinguished
+                    colleague.” The second contained unflattering remarks about a prominent figure
+                    in the Ottoman Empire, publication of which, Boker said, could cause
+                    difficulties “if he were in quest of contemporary opinion as to himself, and he
+                    should unfortunately stumble upon the short but all sufficing characterization
+                    of his public qualities.” Assistant Secretary William Hunter accordingly
+                    instructed the Diplomatic Bureau, which assembled <hi rend="italic">FRUS</hi>,
+                    to omit the offensive material from the 1874 volume.<note n="3">George H. Boker
+                    to Fish, October 15, 1874, Despatches from U.S. Ministers to Turkey (hereafter
+                    DUSMT), Roll 27, M46, RG 59, NA.</note> </p>
+                <p>Senior Department officials generally accepted recommendations from the field,
+                    but there were numerous cases in which they overruled ministers. Hunter directed
+                    that four dispatches the Minister to Chile recommended for publication not be
+                    released, one of which was a lengthy, self-congratulatory report from the
+                    minister about his success in uncovering pervasive malfeasance at the Valparaiso
+                    consulate.<note n="4">See notation in Hunter’s hand on <ref
+                    target="/departmenthistory/people/logan-cornelius-ambrose">C. A. Logan</ref> to
+                    Hamilton Fish, July 27, 1875, Despatches from U.S. Ministers to Chile, Roll T20,
+                    M10, RG 59, NA.</note> Despite Minister to Turkey <ref
+                    target="/departmenthistory/people/maynard-horace">Horace Maynard</ref>’s request
+                    that none of his reports on “Affair of Tripoli” appear in <ref
+                    target="/historicaldocuments/frus1875v02"><hi rend="italic">FRUS</hi>
+                    1875</ref>, the Department published every one of consequence.<note n="5">The
+                    so-called Affair of Tripoli refers to the dispatching of an American warship to
+                    that city after some locals had “insulted” the U.S. consul and his wife. Horace
+                    Maynard to Hamilton Fish, September 18, 1875, Roll 29, DUSMT. Maynard had
+                    suggested that “the more important dispatches relating to... the affair of
+                    Tripoli you will probably not think best to make public until results should
+                    have been reached. Because both British press and local press had reported on
+                    the affair, the Department probably felt compelled to put something on record.
+                    For press coverage of the affair see especially the <hi rend="italic">Daily
+                    Levant Herald</hi>, September 20 and 24, 1875.</note> </p>
+                <p>Minister to China <ref target="/departmenthistory/people/seward-george-frederick"
+                    >George F. Seward</ref> also saw himself overruled. He strongly urged that
+                    nothing on Chinese immigration be published, “as the subject is one of a
+                    specifically delicate nature.” The Department saw the matter otherwise. No doubt
+                    to put its position on record with California Congressmen, for whom the issue
+                    was an explosive one, the Department published several long despatches on the
+                    topic, including a “long and frank” discussion between Seward and the Chinese
+                    Foreign Minister.<note n="6">George F. Seward to Hamilton Fish, September 7,
+                    1876, Roll 43, DUSMC. See for example Seward to Fish, June 29, 1876, in <ref
+                    target="/historicaldocuments/frus1876v01"> <hi rend="italic">Foreign
+                    Relations</hi> 1876</ref>, 57-58.</note> </p>
+                <p>The experiment in soliciting legation input to <hi rend="italic">Foreign
+                    Relations</hi> died with the Grant administration. No protest arose from the
+                    field. Only two ministers took it upon themselves to submit recommendations.
+                    <figure rend="smallfloatinline">
+                    <graphic url="foster-john-w.jpg"/>
+                    <head>Minister to Mexico John W. Foster. A respected attorney and diplomat,
+                        Foster had been a brevet brigadier general in the Civil War. He became
+                        secretary of state in the Benjamin Harrison administration and was the
+                        grandfather of Secretary of State <ref
+                        target="/departmenthistory/people/dulles-john-foster">John Foster
+                        Dulles</ref>.</head>
+                    </figure> Anticipating a forthcoming special session of Congress in October 1877
+                    to review President Rutherford B. Hayes’ refusal to recognize the new Mexican
+                    government of Porfirio Diaz, U.S. Minister to Mexico <ref
+                    target="/departmenthistory/people/foster-john-watson">John W. Foster</ref>
+                    offered his unsolicited advice as to such despatches as “may be desirable to
+                    transmit” to Congress. Acting Secretary of State <ref
+                    target="/departmenthistory/people/seward-frederick-william">Frederick W.
+                    Seward</ref> declined to provide the hostile, Democrat-controlled Congress any
+                    of these documents before or during the special session, and only fourteen of
+                    forty-eight despatches that Foster had identified as “of a political and
+                    historical character suitable for publication” found their way into <ref
+                    target="/historicaldocuments/frus1877"> <hi rend="italic">Foreign Relations</hi>
+                    1877</ref>.<note n="7">John W. Foster to Frederick W. Seward, June 27, 1877,
+                    Roll 56, M97, RG 59, NA.</note> </p>
+                <p>Writing from his home in Galena, Illinois, recently retired Minister to France
+                    <ref target="/departmenthistory/people/washburne-elihu-benjamin">Elihu B.
+                    Washburne</ref> made known his publication preferences. The Department obliged
+                    him.<note n="8">Elihu B. Washburne to William Evarts, October 16, 1877,
+                    Despatches from U.S. Ministers to France, M34, Roll T85, RG 59, NA.</note> The
+                    next year only the newly arrived Minister to Germany made known his views on <hi
+                    rend="italic">FRUS</hi>. Seemingly unaware of the unwritten change in policy,
+                    Minister <ref target="/departmenthistory/people/taylor-bayard">Bayard
+                    Taylor</ref> wrote Secretary <ref
+                    target="/departmenthistory/people/evarts-william-maxwell">William M.
+                    Evarts</ref> that his staff had informed him “that it is customary at this time
+                    of the year, when certain portions of the diplomatic correspondence are selected
+                    for publication, for the representatives of the government to indicate such
+                    despatches as they may desire for special reasons to be either withheld or given
+                    to the public,” and accordingly he drew up a list. The Department compiler
+                    accepted his recommendations, the last they received from the field. From 1878
+                    onward, ministers confined themselves to grumbling over unwelcome <hi
+                    rend="italic">Foreign Relations</hi> content after its publication.<note n="9"
+                    >Bayard Taylor to William M. Evarts, September 2, 1878, Despatches from U.S.
+                    Ministers to Germany.</note> </p>
+                <p>What can we learn about nineteenth-century <hi rend="italic">FRUS</hi> from
+                    Fish’s short-lived initiative? At a minimum, it offers further evidence that <hi
+                    rend="italic">FRUS</hi> content was reviewed at the highest levels of the
+                    Department. It also illustrates the absence of clearly articulated criteria for
+                    selecting correspondence for submission to Congress and subsequent publication,
+                    as ministers seem not to have been informed of the reasons for Department
+                    actions upon their recommendations. Finally, the response to Fish’s calls
+                    demonstrates that some ministers understood both the benefits and potential
+                    pitfalls of transparency in government.</p>
+                <p>Fish’s initiative also ended up providing a useful lesson about the practice of
+                    history, namely that there’s no substitute to thorough research for fleshing out
+                    the full story behind even the things that you think you already know.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,33 @@
+<event>
+    <id>8</id>
+    <title>Public Presentation on <em>FRUS</em> at President Lincoln’s Cottage</title>
+    <created>2011-11-07</created>
+    <icon>
+        <width>150px</width>
+        <height>61px</height>
+        <url>http://static.history.state.gov/frus150/lincoln-cottage-logo.png</url>
+        <alttext>President Lincoln’s Cottage Logo</alttext>
+    </icon>
+    <link>/historicaldocuments/frus-history/events#lincoln-cottage</link>
+    <link-alttext>More information about this event</link-alttext>
+    <event-type>Public Presentation</event-type>
+    <event-date>2011-12-01</event-date>
+    <teaser>
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <a href="/historicaldocuments/frus-history/events#lincoln-cottage">“Celebrating 150 Years of <em>FRUS</em> at Lincoln’s Cottage”</a>
+            <br/> (Presentation at President Lincoln’s Cottage) </div>
+    </teaser>
+    <full-description>
+        <div xmlns="http://www.w3.org/1999/xhtml" id="lincoln-cottage">
+            <a style="float:right" class="not-external" href="http://www.lincolncottage.org/news/programs.htm" title="Link to President Lincoln’s Cottage event info">
+                <img width="150px" height="61px" style="border:1px black solid" src="http://static.history.state.gov/frus150/lincoln-cottage-logo.png" alt="Lincoln Cottage Logo"/>
+            </a>
+            <h3>
+                <a href="http://www.lincolncottage.org/news/programs.htm">“Celebrating 150 Years of <em>FRUS</em> at Lincoln’s Cottage”</a>
+            </h3>
+            <p style="font-size: 0.825em; text-transform: uppercase;"> A presentation at President Lincoln’s Cottage<br/>December 1, 2011, 6:30-7:30 p.m.</p>
+            <p>President Lincoln’s Cottage and the Office of the Historian of the U.S. Department of State are hosting a public program to commemorate the 150th anniversary of <em>Foreign Relations of the United States</em> (<em>FRUS</em>), the flagship publication of the Department’s Office of the Historian.  Join Burrus Carnahan, noted Civil War and Lincoln author and scholar, as he interviews Dr. Aaron Marrs, Civil War researcher with the Office of the Historian, on Marrs’ new research that sheds light on foreign relations in the context of the Civil War.</p>
+            <p><span style="color: #911625; text-transform: uppercase;">Update</span>: Video of the event is now available on YouTube: <a href="http://www.youtube.com/watch?v=IrZGQVXc6KM">Part I</a> and <a href="http://www.youtube.com/watch?v=qpnx6JDxE-c">Part II</a>.</p>
+        </div>
+    </full-description>
+</event>

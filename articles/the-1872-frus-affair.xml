@@ -1,0 +1,349 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">“A Surprising Manifestation of Backbone”: The 1872 <hi rend="italic">Foreign Relations</hi> Affair</title>
+                <title type="short">“A Surprising Manifestation of Backbone”</title>
+                <author>Peter Cozzens</author>
+                <sponsor>Office of the Historian, U.S. Department of State</sponsor>
+            </titleStmt>
+            <publicationStmt>
+                <date when="2011-06-21">June 21, 2011</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>In 1895, the Chicago <hi rend="italic">Inter Ocean</hi> gleefully greeted the
+                    annual <hi rend="italic">Foreign Relations of the United States</hi> (<hi rend="italic">FRUS</hi>) volume, which contained a hefty sampling of the
+                    year’s correspondence between the Secretary of State and his ministers abroad.
+                    “As it is made up of dispatches which have passed between [American] foreign
+                    representatives and the government, and as they are deferred so long that they
+                    are of the quality of last year’s bird’s nests, it is possible the reading
+                    public fancies the book must be dry and musty.”</p>
+                <p>Quite the contrary, said the <hi rend="italic">Inter Ocean</hi>. In order to
+                    convince the reading public to secure a copy of <hi rend="italic">FRUS</hi>
+                    “either for perusal at home or as a charming volume for summer outings,” the <hi rend="italic">Inter Ocean</hi> quoted several hyperbolic statements and
+                    malapropisms of U.S. diplomats. Among them was this gem from the U.S. minister
+                    in Nicaragua, who said that Managua’s forfeiture of the interoceanic canal
+                    concession was “the most ghastly stab under the fifth rib of the credit of your
+                    own government which could be inflicted by the keenest Damascus blade.” In a
+                    more serious vein, the <hi rend="italic">Inter Ocean</hi> added that <hi rend="italic">FRUS</hi> illustrated “the folly of our whole diplomatic
+                    system and the following of making appointments helter-skelter or using
+                    diplomatic and consular offices as part of the national spoils.”</p>
+                <p>Perhaps so. But on occasion, there was a more sinister relationship between <hi rend="italic">FRUS</hi> and the spoils system—that is to say, Secretaries of
+                    State manipulated the contents of volumes for partisan political purposes. I
+                    will be writing on this aspect of the 19th Century <hi rend="italic">FRUS</hi>
+                    at a later date. In this article I will present an episode that reflects the use
+                    of <hi rend="italic">FRUS</hi> as a public affairs and public diplomacy tool
+                    during a delicate and dangerous diplomatic dispute.</p>
+                <p>Before doing so, I want to offer some conclusions that I have drawn from my
+                    research into the <hi rend="italic">Foreign Relations</hi> series during the
+                    Gilded Age—conclusions that challenge conventional assumptions about the series,
+                    and that perhaps will provide fodder for further discussion.</p>
+                <p>The premise guiding my research has been this: We must expand our definition of
+                    the <hi rend="italic">Foreign Relations</hi> series for the period 1870–1897 to
+                    include the many Senate and House Executive Documents consisting of collected
+                    State Department correspondence that appeared during the era in response to
+                    Congressional requests. They should be considered as unacknowledged <hi rend="italic">FRUS</hi> supplemental volumes. As with the normal <hi rend="italic">FRUS</hi> volumes, which derived from select State Department
+                    diplomatic correspondence of the current year (and occasionally prior years)
+                    appended to the president’s annual message to Congress, the president also
+                    submitted the documents in response to the Congressional resolutions over a
+                    covering letter from the secretary attesting to their completeness.</p>
+                <p>Many of the resultant Congressional executive documents ran into the hundreds of
+                    pages. My expanded definition of the <hi rend="italic">Foreign Relations</hi>
+                    series is supported by the 1894 volume, which was published with seven
+                    supplemental volumes containing the State Department submissions that appeared
+                    as Congressional Executive Documents for that year, or on issues for which
+                    Congress had requested documents, but with which the Department had not yet
+                    complied.</p>
+                <p>In years that Congressional requests were numerous and yielded large executive
+                    documents, the <hi rend="italic">FRUS</hi> volumes normally were noticeably
+                    thinner. The Department had no cause to republish the material, as the audience
+                    in both cases was Congress.</p>
+                <p>The choice of documents for annual submissions to Congress (that is to say, <hi rend="italic">Foreign Relations</hi> volumes) appears to have been guided by
+                    an intent to include material that clarified or provided justification for the
+                    president’s foreign policy priorities and issues that he emphasized or even
+                    tangentially referred to in his annual address to Congress. Many of those issues
+                    might seem trivial today, but we must judge the contents of <hi rend="italic">FRUS</hi> in the context if its day.</p>
+                <p>This expanded definition of <hi rend="italic">FRUS</hi> suggests that the
+                    contents of the series during the Gilded Age was more complete than many assume
+                    them to have been. This is not to say that they were comprehensive. They did not
+                    provide the window into Washington decision-making that <hi rend="italic">FRUS</hi> does today. Only correspondence between the Secretary of State or
+                    his deputy and U.S. ministers and consuls was included in <hi rend="italic">FRUS</hi>.</p>
+                <p>We often speak of the <hi rend="italic">Foreign Relations</hi> series in the
+                    context of the issue of transparency in government. But in the 19th Century,
+                    transparency in government was seldom cited in public discussion as an argument
+                    for <hi rend="italic">FRUS</hi>. On the contrary, when documents appearing
+                    either in <hi rend="italic">FRUS</hi> or Congressional Executive Reports created
+                    difficulties with foreign governments or for U.S. representatives abroad, most
+                    newspapers condemned the Department for releasing the offending documents and
+                    advocated greater secrecy.</p>
+                <p>And now, to the episode that is the subject of my essay, which deals with the
+                    high-stakes use of <hi rend="italic">FRUS</hi> as a public diplomacy and public
+                    affairs tool.</p>
+                <milestone unit="line" rend="centered-asterisks"/>
+                <p>Hamilton Fish entered office as Secretary of State in March 1869 determined to
+                    kill the <hi rend="italic">Foreign Relations of the United States</hi> series.
+                    Congress had slashed the State Department staff by 40%, from 48 clerks to 31.
+                        <figure rend="smallfloatinline">
+                        <graphic url="hamilton-fish.jpg"/>
+                        <head>Secretary of State Hamilton Fish. (Library of Congress, Prints and
+                            Photographs Division cph.3a37879)</head>
+                    </figure> “With such a large reduction,” Fish wrote the Speaker of the House on
+                    December 3, 1869, “the business of the Department is already seriously
+                    embarrassed.” The date of Fish’s letter was not random; that very day, President
+                    Ulysses S. Grant transmitted his annual message to Congress. For the preceding
+                    eight years, the collection of selected annual diplomatic correspondence that
+                    the GPO published as <hi rend="italic">Papers Relating to the Foreign Relations
+                        of the United States</hi> (<hi rend="italic">FRUS</hi>) accompanied the
+                    president’s message. But not in 1869. Congressional parsimony came at a cost—no
+                    money, no <hi rend="italic">FRUS</hi>, reasoned Fish.</p>
+                <p>Fish’s decision would only hurt Congress, which during the Nineteenth Century was
+                    the intended audience for <hi rend="italic">FRUS</hi>. Although mandated by an
+                    act of Congress in 1861 in order to compel the Lincoln administration to reveal
+                    its diplomatic correspondence, neither the series nor its utility ended after
+                    the Civil War. The State Department continued to select material for <hi rend="italic">FRUS</hi> in order to explain and justify the president’s
+                    foreign-policy priorities. <hi rend="italic">FRUS</hi>, in turn gave Congress a
+                    framework for debating policy and holding the executive branch accountable. As
+                    Fish was to discover, Congress was not about to relinquish this prerogative.</p>
+                <p>Budget cuts aside, Fish had no love for the 41st Congress. “The Senate, in fact
+                    Congress, but especially the Senate, has encroached largely beyond the former
+                    line of demarcation between their powers and those of the Executive,” he
+                    complained privately of the chamber dominated by fellow Republicans. “They wish,
+                    practically, to dictate nominations [of ministers], not merely to ‘advise and
+                    consent’ and consult. The constitutional power of the Senate is limited to yea
+                    or nay upon the names submitted to them.”</p>
+                <p>And they were lucky to get names. President Grant and Fish were at loggerheads
+                    with the Senate Foreign Relations Committee Chairman Charles Sumner. Senator
+                    Sumner, for his part, was offended that Grant had not consulted him on
+                    diplomatic appointments, and he made Grant pay in Latin America. Grant wanted to
+                    buy Samana Bay from Santo Domingo to build a naval base. Sumner pretended to go
+                    along with the plan, but at the same time he quietly subverted it in the
+                    Senate.</p>
+                <figure>
+                    <graphic url="insurrection.jpg"/>
+                    <head>As the American Public Saw the Cuban Insurrection (Harper’s Weekly,
+                        September 11, 1869)</head>
+                </figure>
+                <p>The Cuban insurrection was a second wedge between the two branches of government.
+                    A growing number of influential Americans, including many of both parties in
+                    Congress, wanted the insurgents accorded belligerent status. Fish, on the other
+                    hand, considered the rebels to be a feeble and poorly organized force, hardly
+                    worth jeopardizing relations with Spain. But Spanish brutality troubled Fish.
+                    “The present state cannot be indefinitely prolonged,” Fish warned the Spanish
+                    minister. The Grant Administration, he added ominously, “reserved the right of
+                    future action.”</p>
+                <p>Fish’s refusal to provide Congress with the diplomatic correspondence that was
+                    grist for the annual <hi rend="italic">FRUS</hi> backfired. The New York <hi rend="italic">Herald-Tribune</hi>, a pro-administration newspaper, insisted
+                    he produce the Cuba correspondence, and warned Congress against taking “any
+                    steps in the dark regarding our foreign relations.”</p>
+                <p>Congress agreed. Five days after receiving the president’s annual message, the
+                    Senate requested that Fish provide it with all correspondence pertaining to the
+                    Cuban revolution. On December 17, Sumner demanded the dispatches of the U.S.
+                    minister to Spain. And on January 7, 1870, the House passed a second resolution
+                    soliciting the Cuba correspondence.</p>
+                <p>Fish yielded. But his compliance with the Congressional resolutions on Cuba did
+                    not reflect an intent to resume <hi rend="italic">FRUS</hi>. On the contrary, in
+                    January 1870 he assured a U.S. minister embarrassed over the leak of certain
+                    compromising letters that “The publication of the Diplomatic Correspondence has
+                    been discontinued.”</p>
+                <p>But as the year wore on, it became clear to Fish that killing the series would
+                    neither be easy nor wise. The drumbeat of Congressional resolutions continued,
+                    and Fish found himself transmitting to Congress enough correspondence to fill a
+                        <hi rend="italic">FRUS</hi> volume.</p>
+                <p>Undoubtedly concluding it better to preempt demands whenever possible, Fish
+                    resumed <hi rend="italic">FRUS</hi> in December 1870.</p>
+                <p>Two years later, Fish was glad he had. The Cuban insurrection was in its fourth
+                    year, with no end in sight. Spain not only had failed to deliver on its pledge
+                    to emancipate slaves in Cuba and Puerto Rico and undertake municipal reforms and
+                    other liberal measures that the Grant administration had urged, but the colonial
+                    government in Havana also imposed high tariffs on American imports and began
+                    expropriating American estates. Pressure for Grant to act escalated. To inflame
+                    public opinion, in July 1872 the New York <hi rend="italic">Herald</hi>
+                    correspondent in Cuba provoked the Spaniards into arresting him. Fish also
+                    learned that Cuban sympathizers in New York were secretly arranging to send
+                    provocateurs to the island. <hi rend="italic">Herald</hi> editors accused Fish
+                    of “blundering mismanagement” of Cuban affairs, and House leaders promised to
+                    demand a hard policy on Cuba when Congress reconvened in December 1872.</p>
+                <p>Fish had to do something before Congress legislated real trouble. Without
+                    consulting Grant, on October 29 Fish told United States Minister in Madrid
+                    Daniel Sickles to advise Spain that Administration forbearance had its limits.
+                        <figure rend="smallfloatinline">
+                        <graphic url="daniel-edgar-sickles.jpg"/>
+                        <head>U.S. Minister to Spain Daniel E. Sickles, in the uniform of a major
+                            general during the Civil War (Library of Congress, Prints and
+                            Photographs Division, Civil War Photographs Collection,
+                            LC-DIG-cwpb-05563)</head>
+                    </figure> Entered into the records as Letter of Instruction No. 270, it was, as
+                    Fish biographer Alan Nevins said, “The most menacing document…from the State
+                    Department during the Grant Administration.”</p>
+                <p>Fish recapitulated both the resistance of the colonial government in Cuba to
+                    reforms Madrid had mandated and Spain’s inability to prevent the “causeless
+                    seizure” of American estates, asking Sickles rhetorically, “If Spain permits her
+                    authority to be virtually and practically defied in that island by a refusal or
+                    neglect to carry into effect acts of the home government of a humane tendency,
+                    is not this tantamount to an acknowledgment of inability to control?”</p>
+                <p>The Administration had repeatedly prevented “reckless adventurers…and other
+                    partisans of the insurgents” from using U.S. soil to launch “hostile
+                    expeditions” against the colonial government. In “discharging those duties…we
+                    are conscious of no neglect,” said Fish, “but the trial to our impartiality by
+                    the want of success on the part of Spain in suppressing the revolt is
+                    necessarily so severe that unless she shall soon be more successful it will
+                    force upon this Government the consideration of the question, whether duty to
+                    itself and to the commercial interests of its citizens may not demand some
+                    change in the line of action it has thus far pursued.”</p>
+                <p>Then the menacing instruction:</p>
+                <q rend="blockquote">It is hoped that you will present the views above set forth,
+                    and the present grievances of which this Government so justly complains… in a
+                    way which, without giving offence, will leave a conviction that we are in
+                    earnest in the expression of those views, and that we expect redress, and that
+                    if it should not soon be afforded Spain must not be surprised to find, as the
+                    inevitable result of delay, a marked change in the feeling and in the temper of
+                    the people and of the Government of the United States.</q>
+                <p>Sickles received his instructions on November 23 (mail was slow by sea). The day
+                    before, Spanish Minister of State Cristino Martos y Balbi had given Sickles a
+                    copy of a confidential cabinet agreement to abolish slavery and institute
+                    sweeping reforms in Puerto Rico by executive decree. But the cabinet abjured any
+                    change of policy in Cuba until the insurgents surrendered.</p>
+                <p>Sickles delivered his instructions orally to Martos. After a gathering of the
+                    diplomatic corps five days later, he read them again to Martos, who copied the
+                    threatening paragraph.</p>
+                <p>It was a delicate moment. Anticipating President Grant’s December message to
+                    Congress, Martos feared that “anything like a hostile demonstration coming from
+                    the United States would greatly embarrass Spain by depriving her concession of
+                    that spontaneous character so essential to her independence and dignity.” But,
+                    Martos reiterated, the Spanish government could not inaugurate reforms in Cuba
+                    until it had pacified the island.</p>
+                <p>When he learned that No. 270 had failed, Fish decided to apply more tangible
+                    pressure. He persuaded Grant to send with his annual message to Congress a
+                    recommendation for high discriminatory duties upon goods from Cuba and Puerto
+                    Rico. Fish hoped this would satisfy congressmen sympathetic to the Cuban
+                    insurrectionists without exciting jingoism. It also would ruin the powerful
+                    Spanish sugar growers, who were the slave holders and opponents of reform.</p>
+                <p>Fish advised the Spanish minister of Grant’s impending message, and Spain in turn
+                    promised to order emancipation in Cuba.</p>
+                <p>Doubting Spain’s sincerity, Fish opted for a middle course. He removed the tariff
+                    threat from Grant’s draft message as too menacing. Instead, to show Congress
+                    that the Grant Administration nonetheless was serious about Cuba, he inserted
+                    Instruction No. 270 into the diplomatic correspondence for publication in <hi rend="italic">FRUS.</hi>
+                </p>
+                <p>Fish was right to doubt Madrid. A bill calling for immediate emancipation in
+                    Puerto Rico sailed through the Spanish Senate in late December, but the Spanish
+                    government retracted its pledge on Cuba. Meanwhile, in the U.S. Congress,
+                    Republican Senator Frank P. Blair introduced a resolution anticipating a joint
+                    U.S.-Latin American demarche to Spain for Cuban independence. In the House,
+                    Foreign Affairs Chairman Nathaniel P. Banks was drafting a resolution demanding
+                    Grant take firm action to protect American interests in Cuba.</p>
+                <p> The 1872 <hi rend="italic">Foreign Relations</hi> volume was published on
+                    January 8, 1873. The American press greeted Instruction No. 270 with a mix of
+                    wonder, admiration, skepticism, and fear. The New York <hi rend="italic">Herald
+                        Tribune</hi> was delighted; this “surprising manifestation of backbone on
+                    the part of [Secretary Fish] was “a plain hint that a new line of action will be
+                    adopted.”</p>
+                <p>But the always hostile New York <hi rend="italic">Herald</hi> remained skeptical.
+                    “Since [No. 270] was written, the State department appears to have relapsed into
+                    a state of indifference, being satisfied, we suppose, with having made the usual
+                    red-tape demonstration.” The Cincinnati <hi rend="italic">Commercial
+                        Tribune</hi> worried that Fish’s “ominous” dispatch might lead to war. “We
+                    cannot help thinking that the language of Secretary Fish must have amazed the
+                    Spanish government. It is not often that such language is used in diplomatic
+                    dispatches unless it be meant as a prelude to hostilities.”</p>
+                <p>Praise of Fish turned to mockery when Spain announced it had not seen No. 270.
+                    The <hi rend="italic">Herald</hi> wondered, “In whose mouth lives the diplomatic
+                    lie?” The <hi rend="italic">Herald Tribune</hi> withdrew its endorsement of
+                    Fish’s course. The Spanish denial, it said, was a “dilemma [with] no favorable
+                    horn. If Mr. Fish knew his instructions had not been carried out in Madrid,
+                    there is an apparent disingenuousness in printing this note…. If he did not know
+                    this, the discipline of the Department is extraordinarily lax, and the
+                    publication was a piece of reckless thoughtlessness. In any event, the effect of
+                    the incident cannot but be unfortunate. But the whole country read yesterday the
+                    words in which [Spain] indirectly accuses our government of a deception
+                    practiced upon our own people. It is highly desirable that this should be
+                    explained.”</p>
+                <p>The Spanish Senate (upper chamber of the legislative branch, or Cortes) also
+                    demanded an explanation. Brandishing a copy of <hi rend="italic">FRUS</hi>, on
+                    January 16, 1873, the Conservative opposition called upon the government to
+                    follow the American example and provide the <hi rend="italic">Cortes</hi> with
+                    its diplomatic correspondence on Cuba. He dismissed the government’s claim not
+                    to have received No. 270, and accused it of having granted emancipation in
+                    Puerto Rico in a “cowardly attempt to conciliate America,” an act that “could
+                    only strengthen the hands of the rebels in Cuba.” Several days of acrimonious
+                    debate ensued between Conservatives and government ministers, who reiterated
+                    their denial.</p>
+                <p>The London <hi rend="italic">Times</hi> entered the fray on behalf of the United
+                    States, reminding its readers that for two years both the Grant Administration
+                    and Her Majesty’s Government had exercised a “gentle pressure” on behalf of
+                    Puerto Rican independence, and that the Spanish government “have all along been
+                    pledged to emancipation in Puerto Rico instantly, and in Cuba as soon as peace
+                    may be restored.”</p>
+                <p>Meanwhile, Secretary Fish was trying to limit the damage domestically and bring
+                    Spain into line. He told the press that the Spanish government had not, strictly
+                    speaking, received his note because he had written it to Sickles, and Sickles
+                    had read it to the minister of state. “No copy would be furnished unless asked
+                    for, and none was asked for,” averred Fish, “so that, diplomatically speaking,
+                    the government has received no such communication; but the Spanish government
+                    has full knowledge of the latest views of this government on the subject of
+                    slavery in the Spanish West Indian possessions, whatever they may say in the <hi rend="italic">Cortes</hi>.”</p>
+                <p>Fish’s explanation left the New York <hi rend="italic">Herald Tribune</hi> cold.
+                    “We would suggest that the American people had quite sufficient of this
+                    diplomatic humbug…and they would like now a little plain, intelligible language.
+                    Let us know where the responsibility rests.”</p>
+                <p>Privately, Fish told the Spanish minister to the United States that he had done
+                    Spain a favor in publishing No. 270 and related correspondence. Fish noted in
+                    his diary that he had told the Spanish minister that the “publication of the
+                    letters submitted with the president’s December 2 message to Congress was
+                    necessary to satisfy Congress that the administration had the subject in
+                    hand—that the danger has been and is one of the question of Congressional
+                    debate, which would give occasion to the utterance of many hard things and would
+                    agitate the public mind.” Fish begged the minister to ask Madrid to desist from
+                    further denials or controversial statements on the matter.</p>
+                <p>Whatever Fish’s original intent, he clearly did not have “the subject in hand.”
+                    American opinion was hardening in favor of intervention in Cuba. The press
+                    expected Grant to take a firm stand in his March 4 inaugural address. On
+                    February 3, the House Foreign Affairs Committee reported out a resolution asking
+                    Grant to talk informally with European governments about joint measures to
+                    protect non-combatants in Cuba, hasten emancipation, and promote peace.</p>
+                <figure>
+                    <graphic url="cortes.jpg"/>
+                    <head>A Convenient Intervention: Proclaiming the New Republic in the Spanish
+                        Cortes, February 1873. The creation of a Republican government in Spain
+                        diffused the diplomatic crisis between the United States and Spain caused by
+                        the Cuban insurrection. (London <hi rend="italic">Graphic</hi>, March 8,
+                        1873)</head>
+                </figure>
+                <p>But Providence smiled on Fish. On February 9, Spain declared for a republic. The
+                    well-meaning but ineffectual King Amadeus abdicated. The two chambers of the <hi rend="italic">Cortes</hi> coalesced into a National Assembly. Fish
+                    telegraphed Sickles to recognize the republican government “as soon as it was
+                    fully established.” Sickles apparently exceeded his instructions and announced
+                    that the United States had “determined to cooperate as far as it depends upon
+                    them in bringing the insurrection in Cuba to an end.” Not even the
+                    interventionists objected. All America rejoiced at the birth of a new republic
+                    in the monarchical Old World.</p>
+                <p>Although history has forgotten the No. 270 affair, the fundamental question it
+                    posed returned as the core American argument during the 1895 rebellion: that
+                    Spanish authority in Cuba had collapsed in Cuba. Unfortunately, <hi rend="italic">FRUS</hi> could not help the U.S. and Spain find a <hi rend="italic">modus vivendi</hi> in the 1890s.</p>
+                <p>The <hi rend="italic">FRUS</hi> that Fish disdained in 1869 turned out to be a
+                    useful tool for the Secretary’s public diplomacy in 1873.</p>
+                <p>What more does this episode tell us about post-bellum 19th Century <hi rend="italic">FRUS</hi> using our expanded definition? First, that it could
+                    have an impact on policy. Second, that the volumes received high-level scrutiny
+                    in the Department; this was not an isolated case of a Secretary reviewing a <hi rend="italic">FRUS</hi> volume. Third, it could serve as a public diplomacy
+                    and public affairs tool. Fourth, that it was integral to the foreign policy
+                    debate between the Executive and legislative branches. And lastly, as the 1872
+                    volume did for Dan Sickles, correspondence in <hi rend="italic">FRUS</hi>
+                    volumes sometimes put ministers in embarrassing predicaments and had a chilling
+                    effect on candor in reporting.</p>
+                <p>Most 19th Century <hi rend="italic">FRUS</hi> volumes were noncontroversial, and
+                    their publication went largely unnoticed. But incidents such the No. 270 affair,
+                    which arose from the engagement of the highest levels of the Department in its
+                    composition and the immediacy of its contents, leave little doubt that <hi rend="italic">FRUS</hi> then lay far closer to the heart of U.S.
+                    policy-making than does its comparatively tardy 20th and 21st Century
+                    descendents.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

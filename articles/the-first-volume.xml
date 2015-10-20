@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Exploring the History of the First <hi rend="italic">Foreign
+                    Relations</hi> Volume</title>
+                <title type="short">The First <hi rend="italic">Foreign Relations</hi>
+                    Volume</title>
+                <author>Aaron W. Marrs</author>
+                <sponsor>Office of the Historian, U.S. Department of State</sponsor>
+            </titleStmt>
+            <publicationStmt>
+                <date when="2011-06-13">June 13, 2011</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>In 2011, the Department of State celebrates the 150th anniversary of its official
+                    documentary history publication, <ref target="/historicaldocuments">
+                        <hi rend="italic">Foreign Relations of the United States</hi>
+                    </ref> (<hi rend="italic">FRUS</hi>). Ironically for a project staffed by
+                    historians, much of <hi rend="italic">FRUS</hi>’s own history is shrouded in
+                    mystery. I am part of a team within the Office of the Historian which has been
+                    doing some research to learn more about the series’ past and the context in
+                    which it was created. During the year we’ll be highlighting notable and
+                    controversial moments in the series’ history here on this website. My own work
+                    has focused on the first volume, published in December 1861. <ref target="frus1861">The volume</ref> includes over 400 pages of
+                    correspondence between U.S. diplomats abroad and Secretary of State William
+                    Seward, and was released as part of President Abraham Lincoln’s annual message
+                    to Congress.</p>
+                <figure rend="smallfloatinline">
+                    <graphic url="cox-samuel-sullivan.jpg"/>
+                    <head>Samuel Sullivan Cox, Democrat from Ohio</head>
+                </figure>
+                <p>Historians usually start their research with a particular question about the past
+                    that they want to answer. The question may be interesting in its own right, or
+                    it may help illuminate a contemporary issue. In the case of the first volume of
+                    <hi rend="italic">FRUS</hi>, we had two main questions: (1) Was the release
+                    of this publication a unique event in the Department’s history? (2) Who made the
+                    decision to release the volume? In this blog post, I’ll try to answer these
+                    questions as best as our present research allows.</p>
+                <p>First, a bit of context: the argument over slavery in the United States had
+                    reached a point in 1860 where it could no longer be contained by the country’s
+                    political structure. South Carolina seceded from the United States after the
+                    election of Abraham Lincoln, and other southern states soon followed. A key
+                    diplomatic challenge faced by the United States in 1861 was to prevent the
+                    fledgling Confederacy from gaining recognition from foreign powers. In December
+                    1861, Lincoln published diplomatic correspondence with 24 countries, most of
+                    which focused on this very issue.</p>
+                <p>
+                    <hi rend="italic">Was the release of this publication a unique event in the
+                        Department’s history?</hi> One of the first things we learned was that the
+                    United States has a long history of releasing diplomatic documentation to the
+                    public, and the tradition predates the release of this volume in 1861. <ref target="http://books.google.com/books?id=unMFAAAAQAAJ&amp;dq=Message%20of%20the%20President%20of%20the%20United%20States%20to%20Congress%20Relative%20to%20France%20and%20Great-Britain.%20Delivered%20December%205%2C%201793&amp;pg=PA1#v=onepage&amp;q&amp;f=false">In 1793, for example,</ref> President George Washington submitted to
+                    Congress documentation relative to relations with France and Great Britain. In
+                    his introductory statement, Washington noted that the “present situation of the
+                    several nations of Europe” would be a “matter of interesting inquiry to the
+                    legislature, and may indeed give rise to deliberations, to which they alone are
+                    competent.” Therefore, Washington felt it was his “duty to communicate to them,
+                    certain correspondences, which have taken place.” Dozens of pages of
+                    correspondence followed, including letters between Secretary of State Thomas
+                    Jefferson and Citizen Genet, Minister from France. Washington sent the materials
+                    to Congress, and Congress published them for public consumption. In the decades
+                    leading up to the Civil War, Congress consistently requested—and successive
+                    Presidents delivered—documentation relating to foreign relations, usually with
+                    the caveat that they would only release what was in the “public interest.” These
+                    documents would then be published in the <ref target="http://memory.loc.gov/ammem/amlaw/lwss.html">U.S. Serial Set</ref>.
+                    Thus, the correspondence released in 1861 was not unique in that correspondence
+                    had been released before. However, the 1861 volume did represent an important
+                    evolution, if not a revolution. Prior to 1861, document releases were on an ad
+                    hoc basis and tended to be about one issue (relations with one country or the
+                    negotiation of a single treaty). The 1861 volume is much more comprehensive and
+                    discusses relations around the world under a single cover. It also sparked the
+                    regular, annual publication of correspondence.</p>
+                <p>
+                    <hi rend="italic">Who made the decision to release the volume?</hi> The request
+                    for correspondence came directly from Congress. On July 13, 1861, Samuel
+                    Sullivan Cox (Democrat from Ohio) submitted <ref target="http://memory.loc.gov/ll/llcg/057/0100/01350117.tif">a
+                        resolution</ref> to the House of Representatives, to which he “presume[d],
+                    there will be no objection.” The resolution was promptly “read, considered, and
+                    agreed to,” and it stated “<hi rend="italic">Resolved</hi>, That the President
+                    of the United States, at the beginning of the next session of Congress, or at
+                    this session, if compatible with the public service, communicate to this House
+                    all correspondence with the English, French, Spanish, and other Governments with
+                    reference to the right of blockade, privateering, and the recognition of the
+                    so-called confederate States.” Another resolution to the same effect passed in
+                    the House two days later, and shortly thereafter the Senate passed its own
+                    resolution. Although Congress did not get its wish until the end of the year, it
+                    is clear that the impetus for the release came from Congress. This Congressional
+                    request, combined with what we know about previous releases of documentation,
+                    helps us see <hi rend="italic">FRUS</hi> from a slightly different angle.
+                    Although released by the Department of State, it was not a simple creation of
+                    the executive branch. Rather, it was a response to the demands of the
+                    legislative branch. Thus, <hi rend="italic">FRUS</hi> is an excellent example of
+                    the separation of powers in our government: one branch executes foreign policy,
+                    another branch keeps a watchful eye on activities by requesting documentation
+                    showing how the policies are carried out.</p>
+                <p>To sum up, our office’s research into the early history of <hi rend="italic">FRUS</hi> has taught us some important things. First, our government has a
+                    history of releasing foreign relations-related documents that stretches back to
+                    the beginning of the republic. Second, the releases represent the balance of
+                    powers between two branches of government. Today, the Office of the Historian
+                    continues to publish important documents relating to foreign relations. And we
+                    continue to do so under a Congressional mandate; the series is currently
+                    governed by a law passed by Congress in 1991. In this case, the historical
+                    questions we began with illuminate the past and help show some links to the
+                    present day. In future posts, my colleagues from the Office will be discussing
+                    other lessons we can learn from the 150 years of foreign relations
+                    documentation. Stay tuned!</p>
+            </div>
+        </body>
+    </text>
+</TEI>

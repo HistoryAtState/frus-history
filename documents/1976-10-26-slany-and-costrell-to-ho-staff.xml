@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Memorandum From William Slany and Edwin Costrell to PA/HO
+                    Staff, October 1976</title>
+                <title type="short">Slany and Costrell to HO Staff, 1976</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-01-27">January 27, 2014</date>
+                <date type="created" when="1976-10-26">October 26, 1976</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1976-10-26-slany-and-costrell-to-ho-staff.pdf">PDF</ref>, 385 KB, 1p.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: National Archives and Records Administration, Record Group
+                    59, Entry UD-WW-9: Bureau of Public Affairs, Office of the Historian, Arthur
+                    Kogan Files, 1945-1980 (83 D 230), Box 2, Foreign Classified Documents General.
+                    Drafted by William Slany. Copies sent to David Stauffer, Frederick Aandahl, and
+                    Edwin Costrell (PA/HO). The attached Confidential airgram (A-678) was found in
+                    the Foreign Gov. Inf: Great Britain folder in the same archival collection and
+                    box, but is not posted. Posted from an uninitialed copy of the
+                memorandum.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 8, <ref
+                    target="../chapter-8#fn88">Footnote 88</ref></p>
+            <div type="document">
+                <head>Memorandum From William Z. Slany (Associate Historian for Western Hemisphere
+                    and Europe) and Edwin S. Costrell (Associate Historian for Asia, Africa, and the
+                    Pacific) to PA/HO Staff</head>
+                <dateline>October 26, 1976</dateline>
+                <p>Subject: Limitations on the Inclusion in the <hi rend="italic">Foreign
+                        Relations</hi> manuscripts of British and other foreign-originated
+                    documents</p>
+                <p>Over the past several years the experience of this Office with respect to the
+                    clearance for publication by the British Foreign Office of texts of
+                    British-originated documents has been uniformly disappointing. General1y
+                    speaking the Foreign Office has been unwilling to concur in the publication in
+                    our <hi rend="italic">Foreign Relations</hi> series of any British document save
+                    for certain innocuous, high-level, courtesy correspondence. Some greater success
+                    has been experienced in securing British concurrence to the publication of
+                    multilateral documents.</p>
+                <p>In a communication of September 20 of this year to the Embassy in London (a copy
+                    of which is attached), the Foreign Office has again reiterated its
+                    disinclination to agree to the publication of British documents in the <hi
+                        rend="italic">Foreign Relations</hi> series.</p>
+                <p>In view of the continuing unlikelihood of Foreign Office cooperation in the
+                    matter of clearance of British documents, we must more consciously design our
+                    selections of documents for the series with an eye to avoiding the inclusion of
+                    British-originated documents except those which appear to be absolutely
+                    critically important. We probably can continue to seek to print those of a
+                    multi-lateral nature which we might reasonably expect to be cleared.</p>
+                <p>The experience with the Foreign Office is by no means unique. The self-denying
+                    ordinance applied to British documents should probably also be applied to the
+                    documents of other friendly governments.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="complete">Memorandum From Ronald Spiers to Charles Redman, November
+               1988</title>
+            <title type="short">Spiers to Redman, 1988</title>
+         </titleStmt>
+         <publicationStmt>
+            <date type="posted" when="2013-12-09">December 9, 2013</date>
+             <date type="created" when="1988-11-10">November 10, 1988</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>A scan of the original document is available for download (<ref
+                  target="1988-11-10-spiers-to-redman.pdf">PDF</ref>, 138 KB, 1p.)</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><hi rend="italic">Source: Department of State, Central Foreign Policy Files, 1989
+               P-Reels, P890058-1591.</hi></p>
+         <p>Cited in <hi rend="italic">Toward “Thorough,
+                  Accurate, and Reliable”: A History of the Foreign Relations of the United States
+                  Series</hi>, Chapter 10, <ref target="../chapter-10#fn58">Footnote 58</ref></p>
+         <div type="document">
+            <head>Memorandum From Ronald Spiers (Under Secretary of State for Management) to Charles
+               Redman (Assistant Secretary of State for Public Affairs)</head>
+            <dateline>November 10, 1988</dateline>
+            <p>Subject: PA Management of the Historical Advisory Committee</p>
+            <p>Thank you for your memorandum of November 2 regarding the Historical Advisory
+               Committee (HAC).</p>
+            <p>I have accepted your recommendation for the renewal of the HAC charter for two years.
+               My action is based on your undertaking to manage the Committee with more purpose and
+               persistence than has perhaps always been the case in the past. The intemperate and
+               unbalanced report issued by the Committee this year provides ample evidence that the
+                  <hi rend="underline">status quo</hi> is unsatisfactory. I will look to your
+               leadership to ensure that the proposed agenda for the December meeting produces a
+               session, and subsequent report, which adequately addresses the subjects on which PA
+               looks to the Committee for advice. I understand that the Committee's February report
+               asked the Historian to prepare a paper for the next meeting describing the problems
+               he faces in shaping the future of the FRUS series; this would appear to provide an
+               excellent opportunity for PA and the Historian to tell the Committee exactly what you
+               want from it.</p>
+            <p>I have asked M/MP to continue to monitor your progress with the Committee and to keep
+               me informed. I am prepared to revoke the Committee's charter at any time should its
+               activities pose a burden for the Department as a whole which can no longer be
+               justified by the benefits PA receives from its continued existence.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

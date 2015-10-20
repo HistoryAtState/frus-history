@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Memorandum From N. Stephen Kane Through Paul Claussen and
+                    William Slany to David Trask, March 1981</title>
+                <title type="short">Kane to Trask, 1981</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2013-12-09">December 9, 2013</date>
+                <date type="created" when="1981-03-18">March 18, 1981</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1981-03-18-kane-guatemala-appeal.pdf">PDF</ref>, 125 KB, 3pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, FRUS Clearance Files, 1961-1963 (Lot File 04 D 114), Box 3,
+                    1952-1954, Vol. IV, American Republics Clearance Folder. Extra copies were sent
+                    to John Glennon and Charles Sampson.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 9, <ref
+                    target="../chapter-9#fn91">Footnote 91</ref></p>
+            <div type="document">
+                <head>Memorandum From N. Stephen Kane (<hi rend="italic">FRUS</hi> Compiler) Through
+                    Paul Claussen (Chief of the Western Hemisphere, African, and Middle Eastern
+                    Division) and William Slany (General Editor of <hi rend="italic">FRUS</hi>) to
+                    David Trask (Director of the Historian's Office)</head>
+                <dateline>March 18, 1981</dateline>
+                <p>Subject: “Fast track” publication of <hi rend="italic">Foreign Relations</hi>,
+                    1952-1954, IV (“The American Republics”)</p>
+                <p>Issue</p>
+                <p>Should HO go forward with publication of the subject volume before 1) receiving
+                    a written response from the CIA regarding declassification of a supplementary
+                    package of editorial notes based on CIA cables, and 2) appealing NSC deletions
+                    of material which has already appeared almost verbatim in previously published
+                    volumes?</p>
+                <p>Discussion</p>
+                <p>The recent decision to go forward with “fast track” publication of the subject
+                    volume raises a number of important questions relating to the future of the <hi
+                        rend="italic">Foreign Relations</hi> series. <hi rend="italic">Foreign
+                        Relations</hi> is the preeminent publication of its kind anywhere in the
+                    world. It vividly demonstrates the United States Government's commitment to the
+                    principle that an informed public is essential to the democratic process. Its
+                    credibility as an accurate historical record of United States foreign relations
+                    is widely accepted, and its objectivity is praised by scholars and practitioners
+                    alike. The status accorded to <hi rend="italic">Foreign Relations</hi> is the
+                    result of the traditionally conscientious efforts of those who compile the
+                    series to document all significant aspects of United States relations with other
+                    countries. In the 1970's, these efforts extended to well-known covert episodes,
+                    in spite of the enormous difficulties encountered by HO historians in securing
+                    access to and declassification of the necessary papers. In the absence of a
+                    high-level policy decision prohibiting coverage of covert activities, HO has an
+                    obligation, consonant with its original mandate, to make the effort, and to
+                    account for its failure, if necessary. If HO permits silence to substitute for
+                    substance, and gaps in the record for accountability, the series' reputation as
+                    a credible and objective official documentary publication will not endure.</p>
+                <p>In any declassification controversy, there is a point at which HO must opt to cut
+                    its losses, but I regard the decision to go forward with publication in this
+                    case as premature for the following reasons:</p>
+                <list rend="bulleted">
+                    <item>it puts the onus for failure to publish the record of, or to account for,
+                        a well-known covert episode squarely on the Department of State and the
+                        Office of the Historian, thereby seriously eroding the credibility of the
+                        series;</item>
+                    <item>it radically changes the nature of HO's mission, in spite of its current
+                        mandate, without the sanction of higher levels in the Department of State or
+                        the Advisory Committee on Historical Diplomatic Documentation;</item>
+                    <item>it imposes a form of self-censorship on the series, and suggests that
+                        there is compelling logic to move the threshold of self-censorship from the
+                        declassification to the collection phase of the production process;</item>
+                    <item>it eliminates the possibility of testing the CIA's claim that there is a
+                        distinction between policy and operations, and that the former may be
+                        releasable;</item>
+                    <item>it forecloses an appeal to the NSC on deletions of materials appearing
+                        almost verbatim in previously published volumes, thereby encouraging the NSC
+                        to widen this practice;</item>
+                    <item>it establishes a strong negative precedent for other <hi rend="italic"
+                            >Foreign Relations</hi> volumes in progress, thereby jeopardizing a
+                        substantial aggregate of documentation; and,</item>
+                    <item>it weakens the position of the Department of State in dealing with the
+                        anticipated negative reaction of the consuming public.</item>
+                </list>
+                <p>Recommendation</p>
+                <p>In view of the foregoing, I recommend that we reconsider the decision to publish
+                    the subject volume at this time, and instead adopt the following series of
+                    steps:</p>
+                <p>1) defer publication until we receive a definitive written decision from the CIA
+                    on the supplementary editorial notes at issue and have an opportunity to appeal
+                    certain NSC deletions, or until the volume is thirty years old, whichever comes
+                    first;</p>
+                <p>2) select another volume for rapid processing in its place, one free of major
+                    declassification problems, possibly <hi rend="italic">Foreign Relations</hi>,
+                    1955-1957, III (“The American Republics”);</p>
+                <p>3) if the CIA decision on the editorial notes is negative, insert a meaningful
+                    disclaimer at the front of the Guatemala compilation to account for the lack of
+                    coverage, as a countervailing precedent against further loss of similar
+                    materials in other volumes; and,</p>
+                <p>4) initiate the appropriate process at higher levels in the Department to
+                    redefine the official mandate of the <hi rend="italic">Foreign Relations</hi>
+                    series and the principles guiding its compilation in accordance with current
+                    realities.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

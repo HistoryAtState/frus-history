@@ -1,0 +1,402 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Publicizing Foreign Relations in Time of War: The Foundation
+                    of the <hi rend="italic">Foreign Relations of the United States</hi>
+                    Series</title>
+                <title type="short">The Foundation of the <hi rend="italic">Foreign Relations of the
+                        United States</hi> Series</title>
+                <author>Aaron W. Marrs</author>
+                <sponsor>Office of the Historian, U.S. Department of State</sponsor>
+            </titleStmt>
+            <publicationStmt>
+                <date when="2011-06-24">June 24, 2011</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>After the start of the Civil War, the Union faced a series of challenges related
+                    to foreign relations. One immediate challenge was to prevent the fledgling
+                    Confederate government from gaining recognition from foreign powers. In the
+                    summer of 1861, the Lincoln government received calls from Congress to
+                    demonstrate and explain the steps being taken to prevent such recognition from
+                    taking place. Thus, in addition to the challenge overseas, the administration
+                    had to respond to domestic demands for information about foreign policy. The
+                    administration responded to these demands by releasing several hundred pages of
+                    foreign affairs-related documentation with the President’s annual message in
+                    December 1861. Although the documents were released in direct response to a
+                    Congressional demand, they also served a public relations function. This paper
+                    will explore the creation of the first volume of the <hi rend="italic">Foreign
+                        Relations</hi> series and suggest some general conclusions about the
+                    significance of this volume.</p>
+                <p>Unfortunately, many of the circumstances surrounding the creation of the first
+                    volume are shrouded in mystery. There are few relevant Department records from
+                    the era, and Lincoln’s and Seward’s personal papers contain nothing pertinent to
+                    the topic. Early histories of <hi rend="italic">FRUS</hi> also shed precious
+                    little light on the history of the series.<note n="1">See, for example, Clarence
+                        E. Carter, “The United States and Documentary Historical Publication,” <hi
+                            rend="italic">Mississippi Valley Historical Review</hi> 25 (June 1938):
+                        3-24; E. R. Perkins, “ ‘Foreign Relations of the United States’: 91 Years of
+                        American Foreign Policy,” Department of State <hi rend="italic">Bulletin
+                        </hi>(December 22, 1952): 1002-1006; Robert Wilson, “A Hundred Years of
+                        ‘Foreign Relations,’ ” <hi rend="italic">American Journal of International
+                            Law</hi> 55 (October 1961): 947-950; Richard W. Leopold, “The <hi
+                            rend="italic">Foreign Relations</hi> Series: A Centennial Estimate,” <hi
+                            rend="italic">Mississippi Valley Historical Review</hi> 49 (March 1963):
+                        595-612; William M. Franklin, “The Future of the ‘Foreign Relations’
+                        Series,” Department of State <hi rend="italic">Bulletin</hi> (September 15,
+                        1969): 247-251. One exception to this trend is Rick Moss’s useful, “Public
+                        Diplomacy and the First <hi rend="italic">FRUS</hi>: The Origins of the <hi
+                            rend="italic">Foreign Relations of the United States</hi> Series,” fall
+                        2001, unpublished paper in author’s possession. Moss uncovered the
+                        resolutions in the House of Representatives which sparked the 1861 volume
+                        and also developed the idea of <hi rend="italic">FRUS</hi> representing
+                        checks and balances.</note>
+                </p>
+                <p>Although it is difficult to know with any certainty how deeply Lincoln and Seward
+                    were involved in the decision to publish this volume, it is equally difficult to
+                    imagine documents of this importance being released without Seward’s
+                    concurrence. What we can learn from existing evidence is the degree to which
+                    Congress was responsible for the publication. The impetus for the volume came
+                    from a request from Congress. Thus, <hi rend="italic">FRUS</hi> represents an
+                    example of the checks and balances of federal government: the executive branch
+                    carried out foreign policy, but the legislative branch demanded the right to
+                    monitor that policy via these requests for documentation. In the summer of 1861,
+                    resolutions in Congress included the following: “<hi rend="italic"
+                    >Resolved</hi>, That the President be requested, if not, in his opinion,
+                    incompatible with the public interest, to submit to this House all
+                    correspondence between this Government and foreign Powers on the subject of the
+                    existing insurrection in the United States.”<note n="2">
+                        <hi rend="italic">Congressional Globe</hi>, 37th Congress, 1st Session,
+                        129.</note> The House resolutions came from Democrats and the Senate
+                    resolution from a Republican, suggesting bipartisan interest in this issue.</p>
+                <p>Congress had to wait until December for satisfaction. When the volume was
+                    released, it displayed for the public the administration’s actions in the first
+                    months of the war. Staving off Confederate agents was key. To the minister to
+                    Spain, Carl Schurz, Seward wrote that preventing the Confederacy from gaining
+                    recognition was “your chief duty, and no more important one was ever devolved by
+                    the United States upon any representative whom they have sent abroad.”<note
+                        n="3">Letter from Seward to Schurz, April 27, 1861, <hi rend="italic"
+                            >Message of the President of the United States to the Two Houses of
+                            Congress at the Commencement of the Second Session of the Thirty-Seventh
+                            Congress</hi> (Washington: Government Printing Office, 1861) [hereafter
+                            <hi rend="italic">Message</hi>], 257.</note> Even in countries of lesser
+                    import, ministers were urged to be on the watch. Although Seward did not believe
+                    that the Confederates would attempt to gain recognition immediately from
+                    Denmark, he wrote to our representative there that “political action even of the
+                    more commanding or more active States is influenced by a general opinion that is
+                    formed imperceptibly in all parts of the Eastern continent. Every representative
+                    of the United States in Europe has, therefore, a responsibility to see that no
+                    effort on his part is wanting to make that opinion just, so far as the true
+                    position of affairs is in his own country is concerned.”<note n="4">Letter from
+                        Seward to Wood, May 1, 1861, <hi rend="italic">Message</hi>, 311.</note>
+                    Likewise to the minister to Switzerland: “You are in a region where men of
+                    inquiring mind and active habit seek a temporary respite from severe studies and
+                    exhausting labors. The world’s affairs are discussed freely, and the sentiments
+                    and opinions which influence the conduct and affect the prospects of nations are
+                    very often formed in the mountains and dells of Switzerland.”<note n="5">Letter
+                        from Seward to Fogg, May 15, 1861, <hi rend="italic">Message</hi>,
+                        329.</note>
+                </p>
+                <p>The letters encouraged ministers to not let discouraging news from America cloud
+                    foreigners’ perceptions of the war effort. “You will hear of a reverse of our
+                    arms in Virginia,” Seward wrote to Charles Francis Adams in London after the
+                    Battle of Bull Run. He encouraged the minister to think little of it: “The vigor
+                    of the government will be increased, and the ultimate result will be a triumph
+                    of the Constitution. Do not be misled by panic reports of danger apprehended for
+                    the capital.”<note n="6">Letter from Seward to Adams, July 29, 1861, <hi
+                            rend="italic">Message</hi>, 124.</note> He likewise wrote to William
+                    Lewis Dayton in France: “Treason was emboldened by its partial success at
+                    Manassas, but the Union now grows manifestly stronger every day.”<note n="7"
+                        >Letter from Seward to Dayton, August 17, 1861, <hi rend="italic"
+                            >Message</hi>, 240.</note> Foreigners could get their news from any
+                    number of sources, and ministers had to stand ready to put a positive spin on
+                    events.</p>
+                <p>The volume also printed letters from ministers abroad. Some shared good news of
+                    the response from foreign governments. From Belgium, Henry Shelton Sanford
+                    reported that the Confederate government would “receive no sanction by any act
+                    of Belgium” because it would violate the Belgian policy of “strict
+                        neutrality.”<note n="8">Letter from Sanford to Seward, May 26, 1861, <hi
+                            rend="italic">Message</hi>, 55-56.</note> From Great Britain, George
+                    Mifflin Dallas reported that “there was not the slightest disposition in the
+                    British government to grasp at any advantage which might be supposed to arise
+                    from unpleasant domestic differences in the United States.”<note n="9">Letter
+                        from Dallas to Seward, April 9, 1861, <hi rend="italic">Message</hi>, 81.
+                        Seward found the British response inadequate, see letter from Seward to
+                        Adams, April 27, 1861, <hi rend="italic">Message</hi>, 83.</note> From
+                    Austria, Jehu Glancy Jones noted that the country “hoped to see us re-united”
+                    and “was not inclined to recognize <hi rend="italic">de facto</hi> governments
+                        anywhere.”<note n="10">Letter from Jones to Seward, April 15, 1861, <hi
+                            rend="italic">Message</hi>, 188.</note> In Turkey, the minister of
+                    foreign affairs assured the American representative of “the most friendly
+                    sentiments towards the government of the United States, and expressions of warm
+                    sympathy” for the country.<note n="11">Letter from Brown to Seward, June 11,
+                        1861, <hi rend="italic">Message</hi>, 389.</note> Some of the initial
+                    reports, then, were positive.</p>
+                <p>Other countries had to hedge. Mexico occupied a unique position since the nascent
+                    Confederacy was a potential neighbor. Thomas Corwin reported that the government
+                    was “well affected towards us in our present difficulties” but would be
+                    “unwilling to enter into any engagement which might produce war with the south,
+                    unless protected by promise of aid from the United States.”<note n="12">Letter
+                        from Corwin to Seward, May 29, 1861, <hi rend="italic">Message</hi>,
+                        70.</note> From France, Dayton reported that while the French government was
+                    “not in the habit of acting hastily upon such questions” as recognizing <hi
+                        rend="italic">de facto</hi> governments such as the Confederacy claimed to
+                    be, the French representative was “equally bound to say that the practice and
+                    usage of the present century had fully established the right of <hi
+                        rend="italic">de facto</hi> governments to recognition when a proper case
+                    was made out for the decision of foreign powers.”<note n="13">Letter from
+                        Faulkner to Seward, April 15, 1861, <hi rend="italic">Message</hi>,
+                        205.</note> In Venezuela, Edward A. Turpin was only able to convince the
+                    President that Confederate ships should not be allowed in Venezuela in any case
+                    other than distress; “I could not obtain from him their complete denunciation as
+                    pirates,” he wrote.<note n="14">Letter from Turpin to Seward, July 27, 1861, <hi
+                            rend="italic">Message</hi>, 427.</note>
+                </p>
+                <p>Other ministers shared news from the foreign public or other statesmen. In
+                    Berlin, Joseph Albert White reported that he was “in the receipt of hundreds of
+                    letters and personal calls seeking positions in the American army, and asking
+                    for means of conveyance to our shores. So numerous, indeed, are the
+                    applications, that I have been compelled to place on the doors of the legation a
+                    notice to the purport that ‘This is the legation of the United States, and not a
+                    recruiting office.’ ”<note n="15">Letter from Wright to Seward, May 26, 1861,
+                            <hi rend="italic">Message</hi>, 40.</note> Dallas forwarded newspaper
+                    clippings from the London press featuring debates on the war.<note n="16">Letter
+                        from Dallas to Seward, May 2, 1861, <hi rend="italic">Message</hi>,
+                        83-85.</note> From Sweden, Benjamin Franklin Angel noted that “so far as my
+                    reading and observations extend, the better informed European statesmen express
+                    the opinion that those charged with the administration of public affairs have
+                    acted with the greatest moderation” and that the Union “will have the sympathy
+                    and best wishes of all conservatives on this side the Atlantic.”<note n="17"
+                        >Letter from Angel to Seward, June 10, 1861, <hi rend="italic">Message</hi>,
+                        396.</note> One month later, James Samils Haldeman noted that “quite a
+                    change is visible in diplomatic circles,” and that diplomats in Sweden “speak
+                    out openly that the government of the United States should act vigorously and
+                    efficiently” and that the “rebellion should be annihilated by force and not by
+                        compromise.”<note n="18">Letter from Haldeman to Seward, July 28, 1861, <hi
+                            rend="italic">Message</hi>, 399.</note>
+                </p>
+                <p>The volume also outlined to the frustration the Union felt over Britain’s
+                    willingness to treat the Confederates as belligerent powers (and thus with the
+                    attendant rights, even if it fell short of full recognition).<note n="19"
+                        >According to Howard Jones, the British “adhered to international law in
+                        equating a civil war with a war between nations and then assuming a position
+                        of neutrality.” Through belligerent status, the Confederates gained
+                        “credibility,” their raids on Union ships were not considered piracy by the
+                        British, and Confederates could do business with British merchants. Jones,
+                            <hi rend="italic">Blue and Gray Diplomacy: A History of Union and
+                            Confederate Foreign Relations</hi> (Chapel Hill: University of North
+                        Carolina Press, 2010), 51-52.</note> Such documents exposed British actions
+                    to American citizens. Adams reported to the British that the Americans were
+                    “irritated” by the Queen’s proclamation which was seen as “designed to aid the
+                    insurgents by raising them to the rank of a belligerent state.” Although Adams
+                    demurred that he himself did not feel that this was British intent, he went on
+                    to point out that the presence of “pseudo commissioners” from the Confederates
+                    was a continued aggravation. The British responded that “it had been the custom
+                    both in France and here to receive such persons unofficially for a long time
+                    back. Poles, Hungarians, Italians, &amp;c., &amp;c., had been allowed
+                    interviews, to hear what they had to say. But this did not imply recognition in
+                    their case any more than in ours.”<note n="20">Letter from Adams to Seward, June
+                        14, 1861, <hi rend="italic">Message</hi>, 104.</note> Publishing this
+                    exchange demonstrated to Americans the dangerous position Great Britain was
+                    taking.</p>
+                <p>As the above quotations demonstrate, there was a great deal in the volume for a
+                    domestic audience. The volume serves as a good representative of what the
+                    Lincoln administration wanted the public to know about its foreign relations
+                    efforts during the first months of the war. In that effect, the volume tells
+                    some clear stories. Seward immediately wrote to representatives abroad and
+                    instructed them on no uncertain terms to resist the efforts of Confederate
+                    agents to secure recognition and demand that countries refuse Confederate ships
+                    succor at their ports. Readers of the correspondence were treated to a range of
+                    responses from around the globe: some declared their support for the Union,
+                    others pledged a neutrality which partially legitimized the Confederates. The
+                    documentation from the ministers illustrated the arguments used to sway foreign
+                    governments.</p>
+                <p>The Department clearly felt that the volumes had some value for telling the
+                    government’s story, because they ordered two thousand copies for their own use.
+                    The Department ordered 1,000 copies on November 29, and then an additional 1,000
+                    copies on December 12. This is far in excess of the number of foreign posts
+                    maintained by the United States, so it is unclear what use was made of these
+                        volumes.<note n="21">Letter from William Seward to John D. Defrees, November
+                        29, 1861, page 520, volume 55, reel 52, microfilm publication M40 (Domestic
+                        Letters, 1784-1906), RG 59, National Archives; letter from Frederic Seward
+                        to John D. Defrees, December 12, 1861, page 22, volume 56, reel 53,
+                        microfilm publication M40 (Domestic Letters, 1784-1906), RG 59, National
+                        Archives.</note> Perhaps copies were distributed to Congressmen, since they
+                    requested the documents. But we know for certain that copies found their way
+                    into the hands of journalists. It was surely through wide distribution through
+                    newspapers that most Americans learned about the documentation and the work the
+                    Department was doing to shore up U.S. interests abroad.</p>
+                <p>Prior to the publication of the annual message, newspapers speculated about the
+                    coverage of foreign affairs to be included in the message; both the <hi
+                        rend="italic">New York Herald</hi> and the <hi rend="italic">New York
+                        Times</hi> anticipated that the message would include material on the <hi
+                        rend="italic">Trent</hi> affair.<note n="22">
+                        <hi rend="italic">New York</hi>
+                        <hi rend="italic">Herald</hi>, December 2, 1861; <hi rend="italic">New York
+                            Times</hi>, December 4, 1861. On November 8, 1861, the USS <hi
+                            rend="italic">San Jacinto</hi> seized Confederate ministers James Mason
+                        and John Slidell from the British ship HMS <hi rend="italic">Trent</hi>,
+                        violating British neutrality (Jones, <hi rend="italic">Blue and Gray</hi>,
+                        chap. 3).</note> In this hope they would be disappointed, but newspapers
+                    along the Eastern seaboard published accounts of the correspondence just a few
+                    days after the message and documents were released to the public. On December 6,
+                    three New York newspapers (the <hi rend="italic">Times</hi>, <hi rend="italic"
+                        >Commercial Advertiser</hi>, and <hi rend="italic">Herald Tribune</hi>),
+                    three Philadelphia newspapers (the <hi rend="italic">Public Ledger</hi>, <hi
+                        rend="italic">North American</hi>, and <hi rend="italic">Inquirer</hi>) and
+                    the Baltimore <hi rend="italic">Sun</hi> published essentially similar accounts,
+                    each reporting on the number pages of documentation released and highlighting
+                    some of the documentation. The next day, the <hi rend="italic">Albany Evening
+                        Journal</hi> and <hi rend="italic">Boston Daily Advertiser</hi> printed long
+                    synopses of the papers. In Connecticut, the <hi rend="italic">Norwich Morning
+                        Bulletin</hi> printed a much shorter item, and praised the publication: “The
+                    diplomatic correspondence submitted to Congress by President Lincoln, reveals as
+                    favorable a condition of our relations with foreign Powers as could have been
+                    anticipated. This is doubtless owing in a great degree to the firm and decided
+                    position maintained by Secretary Seward in his official intercourse with these
+                        Governments.”<note n="23">
+                        <hi rend="italic">Albany Evening Journal</hi>, <hi rend="italic">Boston
+                            Daily Advertiser</hi>, <hi rend="italic">Norwich Morning Bulletin</hi>,
+                        all December 7, 1861. On December 9, the <hi rend="italic">Hartford Daily
+                            Courant</hi> published a similar synopsis to the lengthy ones published
+                        on December 6 and 7 by other papers.</note> The publication continued to
+                    make the news in the following weeks.<note n="24">The District of Columbia <hi
+                            rend="italic">Daily National Intelligencer</hi> published a range of
+                        documentation over several days in the end of December, for example.</note>
+                    Newspapers began to publish additional documents, particularly those relative to
+                    relations with France.<note n="25">Correspondence with France was published or
+                        summarized by the <hi rend="italic">New York Times</hi> (December 9, 1861),
+                        the <hi rend="italic">New York Herald</hi>, <hi rend="italic">Hartford Daily
+                            Courant</hi>, Pennsylvania <hi rend="italic">Public Ledger</hi>, <hi
+                            rend="italic">Boston Daily Advertiser</hi> (all December 11), <hi
+                            rend="italic">Boston Daily Advertiser</hi>, Philadelphia <hi
+                            rend="italic">North American</hi>, Keene <hi rend="italic">New Hampshire
+                            Sentinel</hi> (all December 12), and the <hi rend="italic">Cincinnati
+                            Daily Enquirer</hi> (December 14).</note>
+                    <hi rend="bold"/>
+                </p>
+                <p>If it was intended as a public relations measure, the publication of the volume
+                    was a success in Northern newspapers. The Baltimore <hi rend="italic">Sun</hi>
+                    reported on December 9 that the correspondence was “receiving that close
+                    attention from persons skilled in diplomacy and public law which belongs to its
+                    distinguished source and the magnitude of the subject in question.” Papers
+                    praised the publication of the correspondence and the contents of the documents.
+                    The Keene <hi rend="italic">New Hampshire Sentinel</hi> reported that “in the
+                    whole of this correspondence, the Secretary of State exhibits marked ability as
+                    a statesman and diplomatist.”<note n="26">
+                        <hi rend="italic">New Hampshire Sentinel</hi>, December 12, 1861.</note>
+                    Others took heart from the correspondence that Seward would continue to act
+                    appropriately in the future. “The masterly ability which Gov. SEWARD has shown
+                    in his instructions to our Foreign Ministers,” opined the <hi rend="italic"
+                        >Albany Evening Journal</hi>, “induce strong confidence that he will conduct
+                    the correspondence likely to grow out of the MASON and SLIDELL affair, to a
+                    successful and satisfactory issue.”<note n="27">
+                        <hi rend="italic">Albany Evening Journal</hi>, December 18, 1861.</note> By
+                    January 1862, the correspondence had reached the West Coast; the <hi
+                        rend="italic">San Francisco Bulletin</hi> reported that the diplomatic
+                    correspondence was “quite voluminous” and “highly interesting.” Seward again
+                    came in for praise, his “high-toned” and “courteous” messages were “as nearly
+                    perfect models of diplomatic correspondence as are to be found on the pages of
+                    modern history.” The correspondence with Adams and Dayton “have swept to the
+                    winds all the aspersions of those who have accused him of favoring a timid and
+                    wavering policy in dealing with the rebels.”<note n="28">
+                        <hi rend="italic">San Francisco Bulletin</hi>, January 9, 1862. The paper
+                        published additional items on January 10, 13, 14, and 31.</note>
+                </p>
+                <p>Other newspapers hoped that the publication of the correspondence would improve
+                    the standing of the United States abroad. The <hi rend="italic">New York
+                        Herald-Tribune</hi> hoped that British newspapers which had shown Seward in
+                    an unfavorable light “would be surprised if the contents of this volume could be
+                    fairly laid before them. In vain would they turn page after page in eager quest
+                    of the passages whereon the criminations of their favorite journals were based;
+                    they do not appear because they do not exist.” The paper praised Seward for his
+                    “assured and firm” tone and his faith that the country, “reunited, will be
+                    stronger and more prosperous than ever before.”<note n="29">
+                        <hi rend="italic">New York Herald-Tribune</hi>, December 18, 1861.</note>
+                    Among these newspapers, at least, Seward acquitted himself well.<note n="30">For
+                        more praise, see the <hi rend="italic">Trenton State Gazette</hi>, December
+                        20, 1861.</note>
+                </p>
+                <p>The publication of the correspondence even attracted notice in the
+                        Confederacy.<note n="31">See, for example, <hi rend="italic">Macon
+                            Telegraph</hi>, January 7, 1862.</note> The <hi rend="italic"
+                        >Columbus</hi> [Georgia] <hi rend="italic">Daily Enquirer</hi> discussed the
+                    correspondence with France, under the headline “Whom the Gods Wish to Destroy,
+                    They First Make Mad.” Naturally, the paper put a different spin on the
+                    correspondence; rather than noting Seward standing strong in the face of an
+                    unfavorable British and French response, the paper focused on the response
+                    itself: “It will thus be seen that the relations between the United States and
+                    Great Britain and France were far from being securely amicable before the arrest
+                    of Mason and Slidell, that there were issues between them of great irritation
+                    and danger, and that Great Britain and France are united in the policy to be
+                    pursued in reference to political troubles on this continent.”<note n="32">
+                        <hi rend="italic">Columbus Daily Enquirer</hi>, December 23, 1861.</note>
+                    Likewise, the New Orleans <hi rend="italic">Times-Picayune</hi> sneered at the
+                    correspondence with France from June 1861, noting that it came from a time when
+                    “arrogant confidence” about a speedy end to the war was “universally felt at the
+                    North,” before “the fervor of the Southern passion for independence” and the
+                    subsequent “holy war” had been fully experienced.<note n="33">New Orleans <hi
+                            rend="italic">Times-Picayune</hi>, December 25, 1861.</note> In these
+                    documents, Southerner saw hope that their cause was not lost in Europe, and that
+                    Union leaders were grasping at straws.</p>
+                <p>The extent of newspaper response illustrates the important domestic function that
+                        <hi rend="italic">FRUS</hi> served. Newspapers across the country—including
+                    the West Coast—printed the correspondence directly (or analysis of it), and many
+                    papers praised Seward, the decision to publish the correspondence, and the
+                    contents of the publication. The volume was created in response to a request
+                    from Congress, and it retained its domestic character upon release by being
+                    widely debated and discussed in the country. While we cannot know exactly how
+                    many of the complete volumes were distributed across the country or precisely
+                    how it happened, the newspaper distribution serves as a good proxy for studying
+                    how Americans reacted to the publication of this correspondence.</p>
+                <p>This brief investigation of the first volume suggests a few general conclusions.
+                    First, the project was not conceived in the executive branch. Rather, the
+                    process of sharing information represents the checks and balances of the
+                    branches of government: the executive executes foreign policy, and the
+                    legislative ensures that the policy is being honestly carried out.</p>
+                <p>The second broad conclusion is that <hi rend="italic">FRUS</hi> had a significant
+                    domestic audience. It is clear from the correspondence written by the Secretary
+                    of State in 1861 and subsequent debates in Congress over the cost of printing
+                    that the Department intended the volume as a public relations tool in foreign
+                    lands. And yet, there was a definitive domestic audience for the volumes as
+                    well. We know that Congress wanted thousands of copies for its own distribution.
+                    And newspapers across the country also watched with interest when the volumes
+                    came out.</p>
+                <p>This conclusion suggests the third broad conclusion: that even if these volumes
+                    may not tell us everything that <hi rend="italic">we</hi> might wish to know
+                    about foreign relations during the Civil War era, they do give us a good picture
+                    of what the federal <hi rend="italic">government</hi>wanted its citizens to
+                    know. The early volumes are not “scholarly” in the way that today’s <hi
+                        rend="italic">FRUS</hi> volumes are. We do not know anything about the
+                    clerks who compiled them, whereas today’s volumes are produced by trained
+                    historians. Of course, it is anachronistic to castigate the early volumes for
+                    not being scholarly when the historians in America had yet to
+                        professionalize.<note n="34">For example, the American Historical
+                        Association was not founded until 1884, 23 years after publication of the
+                        first volume.</note> Yet the volumes remain valuable for what they tell us
+                    about what the government wanted citizens to know. The picture emerges from the
+                    first volume of Seward firing off long letters around the world, instructing our
+                    ministers abroad to fend off Confederate advances in other lands. The documents
+                    exposed the willingness of England and France to treat the Confederates as
+                    legitimate belligerents. There was a public relations value to exposing this
+                    type of information.</p>
+                <p>Waging war against the Confederacy required not only fighting Confederates on the
+                    battlefields but also combating their envoys in foreign lands. The first volume
+                    of <hi rend="italic">FRUS</hi> was not the first publication of diplomatic
+                    correspondence. Yet it marked an important stage in the evolution of publishing
+                    diplomatic correspondence. The anonymous clerks who created the first volume
+                    probably could not have envisioned the massive undertaking that <hi
+                        rend="italic">FRUS</hi> has become, but hopefully they would be sympathetic
+                    to its shared mission: to create a record of U.S. foreign policy, laid out for
+                    citizens to freely assess the work of their government.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

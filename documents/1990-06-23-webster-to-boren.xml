@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Letter From William Webster to David Boren, June 1990</title>
+                <title type="short">Webster to Boren, 1990</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-01-06">January 6, 2014</date>
+                <date type="created" when="1990-06-23">June 23, 1990</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1990-06-23-webster-to-boren.pdf">PDF</ref>, 350 KB, 2pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Administration, Office of
+                    Freedom of Information, Privacy, and Classification, Historical Documents Review
+                    Office Record Files, 1950-1993 (Lot File 95 D 113), Box 2, FRUS Legislation: PL
+                    102-138. This copy bears a stamped signature for William H. Webster.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 11, <ref
+                    target="../chapter-11#fn21">Footnote 21</ref></p>
+            <div type="document">
+                <head>Letter From William H. Webster (Director of Central Intelligence) to David L.
+                    Boren (Chair of the Senate Select Committee on Intelligence)</head>
+                <dateline>June 23, 1990</dateline>
+                <p>Dear Mr. Chairman:</p>
+                <p>The Senate Committee on Foreign Relations has recently introduced S. 2749, a bill
+                    to provide supplemental authorization of appropriations for Fiscal Year 1991 for
+                    the Department of State. The bill contains a number of provisions that would
+                    govern the writing and publication of the “Foreign Relations of the United
+                    States” historical series. We strongly object to the provisions as currently
+                    drafted, and we request that your Committee assist us in getting the provisions
+                    amended because of their impact on the Intelligence Community.</p>
+                <p>If enacted as drafted, the provisions would require that all departments and
+                    agencies of the U.S. Government provide to the State Office of the Historian and
+                    a “Historians Advisory Committee,” a “full and complete set of the documents and
+                    other materials pertinent to the record of the United States foreign policy
+                    decisions and actions.” The only grounds for withholding any of such documents
+                    from publication would be the compromise of U.S. weapons systems, the disclosure
+                    of technical information relating to military equipment or cryptological
+                    systems, or the names of living persons who provided confidential information to
+                    the· U.S. Government. The bill essentially declassifies everything that does not
+                    fall into those categories.</p>
+                <p>The bill ignores Executive Order 12356 governing classification of national
+                    security information, and in fact narrows greatly the types of information that
+                    could be considered as damaging to the United States if disclosed. The bill also
+                    ignores the Freedom of Information Act, and indeed is inconsistent with the
+                    exemptions of that Act. The “Historians Advisory Committee” may also withhold
+                    other documents from publication on certain additional grounds listed in the
+                    bill, but those grounds are not related to the protection of intelligence
+                    sources or methods. If enacted in its current form, the provision could in
+                    effect declassify every Presidential Finding and National Intelligence Estimate
+                    by mandating their publication in the historical series.</p>
+                <p>At a minimum, we believe that the bill should be amended so that the grounds for
+                    withholding documents and information from publication include all of the
+                    exemptions contained in the Freedom of Information Act, and the decision on what
+                    documents may be provided or published should rest with the departments or
+                    agencies providing the documents.</p>
+                <p>I am sending an identical letter to Vice Chairman Cohen. I seek your support in
+                    amending the bill to meet our serious intelligence concerns.</p>
+                <p>Sincerely,<lb/>William H. Webster</p>
+            </div>
+        </body>
+    </text>
+</TEI>

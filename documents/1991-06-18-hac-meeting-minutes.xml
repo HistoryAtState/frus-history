@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Minutes of Historical Advisory Committee Meeting, June
+                    1991</title>
+                <title type="short">HAC Meeting Minutes, 1991</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-06-02">June 2, 2014</date>
+                <date type="created" when="1991-06-18">June 18, 1991</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1991-06-18-hac-meeting-minutes.pdf">PDF</ref>, 191 KB, 12pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1972-2007 (Lot File 09 D 473), Box 1, June 1991. Secret. Drafted by Elaine
+                    McDevitt. Cleared by William Slany, Rita Baker, and David Herschler. Sent for
+                    clearance to George Kennedy (PA), Frank Machak (IM/IS/FPC), and Richard
+                    Morefield (IM/IS/FPC/HDR) on July 17. No record of their clearance has been
+                    located. Another copy of these minutes, with comments from FPC, is present in
+                    Department of State, CDC Lot File 95 D 113, Box 3, HAC—1991.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 11, <ref
+                    target="../chapter-11#fn71">Footnotes 71</ref> and <ref
+                    target="../chapter-11#fn74">74</ref></p>
+            <div type="document">
+                <head>Minutes of the 1991 Meeting of the Advisory Committee on Historical Diplomatic
+                    Documentation</head>
+                <dateline>June 18, 1991</dateline>
+                <p rend="underline">Committee Members</p>
+                <list>
+                    <item>Warren Kimball, Chairman</item>
+                    <item>Betty Glad</item>
+                    <item>Margaret Hermann</item>
+                    <item>Bradford Perkins</item>
+                    <item>Emily Rosenberg</item>
+                    <item>Anne Van Camp</item>
+                </list>
+                <p rend="underline">Bureau of Public Affairs</p>
+                <list>
+                    <item>George Kennedy, Deputy Assistant Secretary</item>
+                    <item>Susan Povenmire</item>
+                    <item>
+                        <list>
+                            <item>William Z. Slany, The Historian</item>
+                            <item>Rita Baker</item>
+                            <item>Paul Claussen</item>
+                            <item>Evans Gerakas</item>
+                            <item>David Herschler</item>
+                            <item>Edward Keefer</item>
+                            <item>Gabrielle Mallon</item>
+                            <item>Elaine McDevitt</item>
+                            <item>James Miller</item>
+                            <item>Nina Noring</item>
+                            <item>Charles Sampson</item>
+                            <item>William Sanford</item>
+                            <item>Harriet Schwar</item>
+                            <item>Sherrill Wells</item>
+                        </list>
+                    </item>
+                </list>
+                <p rend="underline">Others</p>
+                <list>
+                    <item>Frank Machak, Director, Office of Freedom of Information, Privacy, and
+                        Classification Review</item>
+                    <item>Richard Morefield, Chief, Historical Documents Review, Office of
+                        Information, Privacy, and Classification Review</item>
+                    <item>Susan Tait, Bureau of Finance and Management Policy</item>
+                </list>
+                <p>The Advisory Committee on Historical Diplomatic Documentation met in Room 6800 of
+                    the Department of State from 9:00 a.m. to 4:00 p.m.</p>
+                <p>Dr. Kimball called the meeting to order at 9:00 a.m. He announced that all
+                    members of the Committee with the exception of Ron Spector had received their
+                    security clearances. Margaret Tutwiler and Grace Moe were traveling with the
+                    Secretary in Berlin and were unable to meet with Committee members. Dr. Kimball
+                    had received a letter from Ms. Moe and said he believed the atmosphere in the
+                    Bureau of Public Affairs was good. He told the Committee that he had been in
+                    touch with the Senate and House staffers about the legislation and had tried to
+                    communicate the Committee’s views.</p>
+                <p>The Committee decided to set aside the agenda and begin with a discussion of the
+                    pending legislation. Dr. Kimball stated that the House version of the
+                    legislation had been passed, and it was expected that the Senate would pass its
+                    own bill. The two bills will then go to conference sometime after the Fourth of
+                    July. There will be legislation; the only question is what the final legislation
+                    will be.</p>
+                <p>There was a discussion of the clause in the Senate bill which provides that the
+                    Committee should report to Congress if agencies do not cooperate in the
+                    declassification process. Dr. Kimball considered that since the Committee was a
+                    Department of State committee, it should address its reports to the Secretary of
+                    State. The Committee concluded that it would be preferable if the legislation
+                    provided that the report be sent to the Secretary, with copies to Congress, and
+                    that it should be sent periodically rather than every time there was a
+                    disagreement. Dr. Kimball felt it was important to keep Congress involved from a
+                    practical standpoint; without Congressional pressure, things would not have
+                    evolved to the present stage. Dr. Rosenberg acknowledged that she would prefer
+                    to see an annual report which would serve a variety of purposes; it could be
+                    sent to the Secretary of State and to constituent organizations. Dr. Kimball
+                    cautioned that the annual report was likely to be classified, and Dr. Perkins
+                    suggested that a classified appendix might be attached to the general report.
+                    Dr. Kimball proposed to talk with Frank Sieverts to give him a sense of the
+                    Committee’s understanding of the issues.</p>
+                <p>Deputy Assistant Secretary Kennedy welcomed the Committee. He stated that the
+                    Department wanted to see the Committee continue to function effectively. He
+                    believed it was important to reach an accommodation with the Congress and the
+                    White House.</p>
+                <p>Dr. Kimball advised the members that it seemed the appropriate time to engage the
+                    constituent organizations in support of the legislation.</p>
+                <p>Dr. Glad raised the question of the selection of the Advisory Committee members
+                    under the new legislation. The House bill provides that the Committee be
+                    appointed by the Secretary, with none of the members having to be from the
+                    professional societies. The Senate bill, however, would stipulate that members
+                    be selected from slates of candidates submitted by the professional
+                    associations. Dr. Kimball was of the opinion that the resolution of the
+                    reporting requirement issue would also resolve the appointment question. On
+                    another matter, Dr. Kimball noted that the operations of the Committee, with
+                    respect to declassification questions as well as specifically pertaining to the
+                        <hi rend="italic">Foreign Relations</hi> series, would depend on the quality
+                    of the information provided by the Historian and by the HO staff. Dr. Perkins
+                    noted that an earlier version of the Senate bill had restricted the mandate of
+                    the Advisory Committee to the <hi rend="italic">Foreign Relations</hi> series,
+                    while the new bill includes oversight of records transferred to the National
+                    Archives. Dr. Kimball suggested that the earlier restriction of the Committee’s
+                    mandate was due in large part to the ignorance of the drafters regarding the
+                    total body of information. Dr. Perkins raised the question of CIA documents. Dr.
+                    Kimball recalled that CIA documents are protected under the pending legislation,
+                    which would not require access, but would establish a mechanism for the Office
+                    of the Historian to report a problem to the Secretary of State and to the
+                    Congress.</p>
+                <p>Dr. Hermann asked about systematic declassification. Dr. Kimball noted that the
+                    principle of a 30-year line is in both pieces of legislation, though he believed
+                    that the Senate version would be of more benefit to the Department. Mr. Machak
+                    interjected that the Department did not believe that automatic declassification
+                    at 30 years was possible. The Department, he said, favored the House version of
+                    the legislation because it would give the Department some flexibility to come up
+                    with a plan. The Senate version, it was felt, had a formula application. Mr.
+                    Machak went on to emphasize that, in his opinion, this section of the proposed
+                    legislation had not received satisfactory attention. The law requires
+                    declassification, transfer to NARA, and opening of records to the public within
+                    one year. Some categories of materials are excluded under the legislation. There
+                    is no way to apply the exclusions without looking at every document. This
+                    requirement raises a question of resources.</p>
+                <p>Dr. Kimball thought that some documents should be declassified in bulk. He
+                    believed that the Committee felt strongly that there should be something in the
+                    legislation to pressure the government to open up its documents--requiring
+                    systematic declassification at a 30-year line. Mr. Machak indicated that the
+                    Department was not as concerned about systematic declassification as it was
+                    about automatic declassification. He urged the Committee to educate their
+                    constituencies about the practical problems of implementing a 30-year line. The
+                    perception that legislation would change things overnight was erroneous. Dr.
+                    Kimball asked for suggestions from the Committee and from Mr. Machak for wording
+                    of this section of the legislation.</p>
+                <p>Dr. Slany pointed out that the Senate version would assign the Advisory Committee
+                    a direct advisory role in systematic declassification, rendering the Committee
+                    advisers to the records managers. He questioned whether this might necessitate
+                    the Committee’s becoming heavily involved with records management issues,
+                    perhaps detracting from its role with the <hi rend="italic">Foreign
+                        Relations</hi> series. Dr. Kimball did not regard this responsibility as a
+                    serious problem; the Committee would concern itself only with procedures. If it
+                    became necessary to examine a random sampling of documents, this could be
+                    accomplished with the assistance of the Historian.</p>
+                <p>Ms. Van Camp recalled that at the Committee’s last meeting, the Department had
+                    been opposed to any legislation. She asked for a statement of the Department’s
+                    current position. Mr. Kennedy stated that the Department still thought its plan
+                    was preferable to legislation but now recognized that legislation was
+                    inevitable. Dr. Slany noted that the Administration preferred the language of
+                    the House bill to that of the Senate bill but was willing to be flexible
+                    depending on the resolution of the reporting issue.</p>
+                <p>Mr. Machak added that the NSC was concerned with protecting the President’s
+                    constitutional prerogatives. If the Committee could dictate to the Executive, it
+                    was felt it should be appointed by the Executive.</p>
+                <p>The Committee then recessed for a short break.</p>
+                <p rend="underline">10:45 a.m. session</p>
+                <p>Mr. Richard Morefield, Chief of the Historical Documents Review Division,
+                    distributed to each member of the Committee copies of the Department of State
+                    guidelines for transfer of official records to the National Archives. He
+                    explained that each U.S. Government agency is required to have a records
+                    management system and a records disposition schedule. The Department’s Records
+                    Management Handbook contains a disposition schedule for every permanent file in
+                    the Department. Mr. Morefield indicated that the Handbook was divided into three
+                    sections, covering files of the Washington D.C. offices, overseas posts, and
+                    field offices. He then outlined a series of definitions: permanent and temporary
+                    files; central files; chron files; subject files; reference files; working files
+                    and personal papers.</p>
+                <p>Next he elaborated on the requirements for having the declassification
+                    guidelines. When the Department of State transfers records to the National
+                    Archives, it may first do a systematic review to downgrade or declassify as much
+                    material as possible, or it may give guidelines for this review to NARA. The
+                    guidelines are used in the preliminary review of files. The purpose of the
+                    guidelines is to identify topics which a knowledgeable generalist could
+                    declassify on his or her own. The Department pays a portion of the salary of the
+                    reviewers at the National Archives charged with screening Department documents
+                    for declassification. If problems arise concerning specific documents, we send a
+                    Department declassifier to the Archives to render assistance. The National
+                    Archives has no authority to declassify materials until they have been
+                    accessioned.</p>
+                <p>Dr. Kimball then raised the question of classification of information obtained
+                    from foreign governments. He was concerned that a conversation between the
+                    Secretary of State and the British Foreign Minister would remain classified
+                    under this guideline. Mr. Morefield assured Dr. Kimball that this guideline was
+                    intended to refer to situations when information from a foreign government was
+                    given to the U.S. in confidence, for example, a position paper prepared by the
+                    United Kingdom.</p>
+                <p>The Committee then recessed to study the guidelines in more detail.</p>
+                <p rend="underline">Luncheon Session</p>
+                <p>During the lunch hour, the Advisory Committee discussed the updated <hi
+                        rend="italic">Foreign Relations</hi> Status and Projections Charts, in
+                    addition to a written status report and summary of volumes ahead of and behind
+                    schedule. There was a firm consensus that these reports were very useful. In
+                    particular, the summary of volumes ahead of schedule and behind schedule made it
+                    possible for the Committee to get a quick picture of the status of the series.
+                    After a brief discussion it was agreed that copies of all three reports would be
+                    updated and provided to the Advisory Committee on a quarterly basis. An
+                    appropriate time would be prior to each Advisory Committee meeting (assuming
+                    Committee meetings are to be held four times a year in accordance with the
+                    pending legislation).</p>
+                <p rend="underline">Afternoon Session</p>
+                <p>Dr. Kimball reconvened the meeting at 1:50 p.m. to discuss briefly the issue
+                    raised by a letter from Gary Hess to Secretary Baker regarding closed lot files
+                    at the National Archives for the period of World War II.</p>
+                <p><hi rend="underline">Mr. Machak</hi> said that there had been an ISOO-Archives
+                    meeting on this issue on December 3, at which the State Department had not been
+                    represented. Although he had not received a copy of the Hess letter, he
+                    understood that it claimed that there was no guidance for the National Archives
+                    on this issue. Jim Hastings at NARA had told him that NARA did have guidance and
+                    had already acted on 700 of the 2600 feet of material involved. Mr. Machak
+                    planned to recruit an employee from NARA to work on lot files at the Department
+                    so that this problem would not recur. Dr. Kimball asked Dr. Rosenberg to inform
+                    Mr. Hess about the outcome.</p>
+                <p>The Committee then passed to the next item on the agenda: review of the still-
+                    classified manuscript of selected <hi rend="italic">Foreign Relations</hi>
+                    volumes.</p>
+                <p>Mr. Morefield informed the Committee that they were seeing manuscript of
+                    classified documents denied publication in the volume. The package did not
+                    include Presidential documents which the National Security Council refused to
+                    release to the Committee or documents on Japan which the Department of State’s
+                    Japan desk refused to allow the Committee to see.</p>
+                <p>Dr. Kimball reminded the group that the Secretary of State had authorized the
+                    Committee to see denied Department documents. Mr. Morefield said the Secretary’s
+                    authority was delegated to the Bureau, which had determined that the Committee’s
+                    “need to know” was insufficient. The Bureau had had 72 hours to act, and there
+                    was no time to appeal its decision. Dr. Perkins asked about the NSC
+                    deletions--whether they were critical to the compilation. Mr. Morefield said
+                    that they included NSC minutes, memcons of the President with foreign government
+                    leaders, and national intelligence estimates.</p>
+                <p>Dr. Kimball said that the Bureau had not followed the ruling of the Secretary of
+                    State granting the Committee access to denied Department documents. He suggested
+                    sending a letter to the Secretary outlining the problem of the Committee’s
+                    access. Mr. Morefield thought that the issue for the Bureau was insufficient
+                    time and was prepared to reopen the matter with the Bureau if the Committee so
+                    wished. Dr. Rosenberg suggested that the Committee postpone sending a letter of
+                    protest until its next meeting when there would be no problem of a 72-hour time
+                    limit. Ms. Van Camp and Dr. Perkins concurred.</p>
+                <p>Dr. Rosenberg asked to hear from the compilers about the relative importance of
+                    the denied documents. Dr. Slany said that 20 percent of the documents on Italy
+                    in the Western Europe volume for 1955-1957 were denied publication. Dr. Miller
+                    said that although he was not the compiler of the section of the volume on
+                    Italy, he had reviewed the volume, and he believed that the Italy compilation
+                    was unsuitable for publication. The information in the denied documents
+                    concerning U.S. views on the opening to the Italian left to participate in the
+                    government had been published elsewhere. Policy on the opening to the left, on
+                    U.S. attitudes toward Italian communism, on the relationship between Ambassador
+                    Luce and President Gronchi, as well as other critical matters, had been excised
+                    from the text.</p>
+                <p>Mr. Morefield informed the Committee that any appeal for release of denied
+                    documents must be directed to the responsible Bureau. Dr. Miller stated that he
+                    had attempted to meet with the Department’s declassifier several times to
+                    discuss the matter but had been unable to do so.</p>
+                <p>Dr. Miller pointed to a denied document before the Committee, a memorandum from
+                    Ambassador Luce to Elbridge Durbrow which discussed Roman Catholic Church views
+                    on communism. He did not believe that this document was relevant to American
+                    foreign policy and he did not understand why it had been denied.</p>
+                <p>Dr. Slany reminded the group that the purpose of the meeting was to look at what
+                    had been eliminated from the volume. The Historical Documents Review Division
+                    had not been asked to prepare a case to explain why certain documents had been
+                    denied. Ideally, a volume should be looked at in its entirety.</p>
+                <p>Mr. Morefield explained further that controversial matters were referred to the
+                    appropriate Bureau for a decision. The “HO1” memo was a preliminary memo sent by
+                    HDR to the Office of the Historian.</p>
+                <p>Dr. Kimball asked if all denied documents were reviewed on a regular basis by the
+                    regional Bureau. Mr. Morefield replied that this practice was not followed
+                    unless the Office of the Historian appealed a decision of the Historical
+                    Documents Review Division.</p>
+                <p>Dr. Miller referred to denial of a “Dear Foster” letter from Ambassador Luce to
+                    Secretary of State Dulles. Mr. Morefield said that it looked like a low-level
+                    cut-and-paste job which might be published as an “unedited letter.” Dr. Miller
+                    said that a historian should make this decision. Dr. Kimball said that the
+                    purpose at hand was not to review the volume, but to discuss clearance
+                    procedures.</p>
+                <p>Dr. Herschler drew the Committee’s attention to portions of draft prefaces which
+                    contained references to deleted material. Mr. Morefield suggested that the
+                    proposed language for the preface to the Japan volume would be hard to
+                    clear.</p>
+                <p>Dr. Rosenberg said that when the preface deals with major lines of policy and
+                    indicates that a large quantity of relevant information has been denied,
+                    publication of the volume should be withheld.</p>
+                <p>Dr. Kimball suggested that the Committee was dealing with two issues: whether to
+                    have prefaces which would elucidate what material was deleted, and how to be
+                    certain that declassification decisions are made wisely.</p>
+                <p>Dr. Rosenberg remarked that in the case of a problem such as the Italian volume,
+                    for which the preface would be long, the Committee should go back and request
+                    changes in the compilation.</p>
+                <p>Mr. Morefield reminded the members that they were seeing the difficult cases, the
+                    volumes where there was something to point out to the reader.</p>
+                <p>At the request of Dr. Kimball, Dr. Keefer discussed the 1958-1960 Indonesia
+                    compilation. [<hi rend="italic">Remainder of paragraph not
+                    declassified.</hi>]</p>
+                <p>Also denied were NATO discussions about the sale of arms to Indonesia. Mr.
+                    Morefield pointed out that the problem was that these were NATO documents and
+                    involved multiple clearances. The Office should try to get alternative documents
+                    containing the same information. [<hi rend="italic">Remainder of paragraph not
+                        declassified.</hi>]</p>
+                <p>Dr. Glad asked what the law was on covert operations, and Mr. Morefield replied
+                    that the CIA claimed that release would endanger [<hi rend="italic">text not
+                        declassified.</hi>] He believed they were stretching things, but asserted
+                    that it was their call. Dr. Glad questioned what the impact of the new
+                    guidelines on the CIA would be, and Mr. Morefield responded that it was within
+                    their competence to turn down our requests. He was asked whether CIA would clear
+                    the preface, and he replied that something along this line could be worked
+                    out.</p>
+                <p>Dr. Hermann remarked that constituents didn’t seem to focus on the fact that this
+                    was a Department of State publication, and suggested perhaps there could be a
+                    stronger statement to that effect in the preface. Dr. Hermann said she had read
+                    the newer prefaces, but that this point was still not clear to her. Dr. Keefer
+                    agreed with Dr. Hermann’s point, that it was important to make clear that
+                    Department historians did not have complete access.</p>
+                <p>In response to a question from Dr. Kimball as to whether he believed that the
+                    omissions would damage the volume, Dr. Keefer replied that, although we had
+                    evidence that the Eisenhower Administration disliked Sukarno and wanted him out
+                    of the way, there was nothing in the compilation on U.S. actions. Dr. Hermann
+                    believed that readers would put two and two together. Mr. Morefield then
+                    commented that HO had identified 21 passages to be restored which did not
+                    discuss [<hi rend="italic">text not declassified</hi>] but that the effort to
+                    include these also had failed. Dr. Kimball suggested that members needed to come
+                    early to look at the volumes, talk with the compiler, and make recommendations.
+                    What the Committee needed was a review procedure. Dr. Keefer noted that this
+                    would not have to be done with every volume. Dr. Hermann suggested that the
+                    Indonesia compilation was similar to the Iran volume, and the Committee must
+                    decide whether there was a pattern that required a special preface.</p>
+                <p>Ms. Van Camp noted that we were reaching a point where the Committee could play a
+                    useful role, but also risked coming up against a problem if it decided a volume
+                    should not be published. Dr. Kimball suggested the preface might state that the
+                    Committee advised against publication because of extensive deletions. Dr. Glad
+                    said the Committee needed to look at what had been included in the Indonesia
+                    compilation to judge its value. Dr. Kimball then proposed that the Committee
+                    recommend that the compilation on Italy not be published until after members had
+                    had time to review it. In the future, the Committee would ask the Historian’s
+                    Office to identify, for instance, six volumes that were troublesome; the
+                    Committee would review these volumes. While the Committee did not want to appear
+                    obstructive, its recommendation was that these compilations not be published as
+                    they were, but only after they had been reviewed by Committee members. Several
+                    members indicated a willingness to come to the Department as needed to help with
+                    this task.</p>
+                <p>Dr. Glad urged that the historians continue to try to negotiate to resolve the
+                    differences with the declassifiers.</p>
+                <p>Dr. Rosenberg wondered whether since the volume on Western Europe was already in
+                    the page proofs, it was still possible to delay publication. Dr. Slany replied
+                    that this was possible. Dr. Kimball suggested that the Committee not recommend
+                    against publication but advise declassifiers that the Committee was not
+                    satisfied.</p>
+                <p>Dr. Kimball voiced concern about the omission of any reference to an “opening to
+                    the left” in the volume on Western Europe which included a section on Italy and
+                    what he termed a “gross distortion of foreign policy.” He asked Dr. Slany
+                    whether he wanted a formal document stating that the volume is unacceptable. Dr.
+                    Rosenberg expressed her concern that this approach to the volume could leave an
+                    impression that the Advisory Committee would be withholding every volume.
+                    Perhaps the Committee could link this protest of the Western Europe volume to a
+                    more general statement regarding the success of other volumes, so as not to be
+                    confrontational.</p>
+                <p>While Dr. Kimball admitted this could be a problem, he strongly believed that for
+                    the present, publication would be unwise. Dr. Perkins asked how this could hurt
+                    foreign policy. Mr. Morefield replied that there would be a problem of physical
+                    security for U.S. companies in Italy if their actions became known. Dr.
+                    Rosenberg suggested omitting the names of the companies, and asked about the
+                    status of the volume on Indonesia. Mr. Morefield replied that it was still being
+                    reviewed at the other agencies. Dr. Glad then proposed having a Committee member
+                    come in early to look at the Indonesia volume.</p>
+                <p>Dr. Perkins asked what would be done about the Japan 1958-1960 volume. Could it
+                    ever be published? Mr. Morefield indicated that the Japan desk was concerned
+                    about mentioning the topics of nuclear weapons and status of forces. Dr. Perkins
+                    replied that this type of information had been legitimately withheld and would
+                    never be released. Dr. Slany said it was a balancing test, the right of the
+                    people to know versus security concerns. The criteria for withholding documents
+                    from the Japan volume was that they could damage current relations.
+                    Periodically, there would be documents of importance that could legitimately be
+                    withheld, but the omission of these would alter the record. Mr. Morefield stated
+                    that the Department would not be able to print this volume for the foreseeable
+                    future. Dr. Glad declared that the Committee did want to see the denied
+                    materials next time.</p>
+                <p>Dr. Slany stated that he hoped the Advisory Committee would not put itself in the
+                    position of vetoing a volume every time a staff member complained. Dr. Glad
+                    replied that she didn’t think it would come to that, but emphasized that she was
+                    concerned about the national security standards. Dr. Slany then stated that the
+                    issue was history versus secrecy. Would the withholding of information lead to a
+                    faulty volume? Mr. Morefield emphasized that declassification standards should
+                    remain constant over time. The same justification should be given today as was
+                    given 20 years ago. Dr. Perkins then questioned the omission of the information
+                    on U.S.-Italian relations, and Mr. Morefield’s reply was that, although we
+                    intervened in the internal politics there, this was not something we should
+                    comment on, even though it was in Clare Boothe Luce’s memoir.</p>
+                <p>Dr. Sampson pointed out that with regard to the compilation on France 1955-1957,
+                    he believed that the documents which were omitted from the volume did not affect
+                    the overall presentation of the policy to the degree that the volume should be
+                    withheld. How far one went back to show the roots of something that later turned
+                    out to be important became a tactical maneuver. Dr. Glad stated that on the
+                    basis of the preliminary data, she believed the European volume should be
+                    withheld.</p>
+                <p>Dr. Sampson indicated that certain European discussions of nuclear questions had
+                    been denied to us since 1951. The Canada problem was similar to Japan but was
+                    not as serious, and there was a disclaimer in the volume. Dr. Kimball felt that
+                    it was not a distortion of the record to withhold details of where weapons were
+                    stored. He asked whether <hi rend="italic">Foreign Relations</hi> volumes
+                    currently contained surveys of memoir literature as had been done for the World
+                    War II conferences in World War II volumes. Dr. Slany indicated that this was
+                    not being done now. Dr. Sampson pointed out that it was difficult to get an
+                    understanding of the nuclear question from Macmillan’s memoirs. Dr. Rosenberg
+                    then asked about British financial problems, which the draft preface identified
+                    as an area for deletions.</p>
+                <p>Finally, Dr. Kimball raised the issue of procedures the Committee should follow
+                    with regard to certain issues, such as whether HO should make an effort to
+                    publish a supplement to the Iran volume. He mentioned that Dr. Slany had said
+                    that there were signs that the CIA might be willing to release certain documents
+                    which previously had been denied. The Committee agreed that it should include in
+                    its report to the Department a recommendation to pursue with the other agencies
+                    concerned the documents that were omitted from the Iran volume with a view to
+                    publishing them.</p>
+                <p>The Committee adjourned at 4:00 p.m.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Visualizing Responsible Transparency: Annual <hi
+                        rend="italic">FRUS</hi> Production and Timeliness</title>
+                <title type="short">Annual <hi rend="italic">FRUS</hi> Production and
+                    Timeliness</title>
+                <author>Joshua Botts</author>
+                <sponsor>Office of the Historian, U.S. Department of State</sponsor>
+            </titleStmt>
+            <publicationStmt>
+                <date when="2013-12-24">December 24, 2013</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="JDB" role="editor">
+                        <persName>Joshua Botts</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#JDB" when="2013-12-18">Drafted text.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Visualizing Responsible Transparency: Annual <hi rend="italic">FRUS</hi>
+                    Production and Timeliness</head>
+                <p>The size and the timeliness of the <hi rend="italic">Foreign Relations</hi>
+                    documentary history series have changed dramatically over the years since the
+                    foundation of the series in 1861. While these metrics may seem like a parade of
+                    numbers devoid of much drama, they reflect over 150 years of struggles within
+                    the U.S. Government over how to balance protecting security with practicing
+                    openness and accountability. The outcomes of these debates are readily
+                    discernable in the pages of individual <hi rend="italic">FRUS</hi> volumes as
+                    readers encounter sensitive documents—including, eventually, many from the
+                    holdings of agencies other than the Department of State—published by the U.S.
+                    Government as well as excisions where even decades-old information remains too
+                    sensitive to release. Each of the hundreds of thousands of pages of documents
+                    published in the <hi rend="italic">Foreign Relations</hi> series is not only a
+                    record of U.S. foreign policy, but also of subsequent decisions about
+                    transparency.</p>
+                <p>But focusing on individual documents and excisions can obscure the larger context
+                    of transparency norms and practices. We can see results of a different magnitude
+                    if we look at <hi rend="italic">FRUS</hi> more broadly, as an ongoing indicator
+                    of the balance of transparency and security over time. The <ref
+                        target="/historicaldocuments/frus-history/appendix-a"><hi rend="italic">FRUS</hi> production and timeliness
+                        chart</ref> shows aggregated data for the documents released each year in
+                    published <hi rend="italic">Foreign Relations</hi> volumes. The production
+                    dataset reveals short-term volatility but long-term progress in publishing more
+                    volumes containing more documents. The lag datasets illustrate the decades of
+                    nearly-contemporaneous publication in the 19th century, the lurching delays of
+                    the early 20th century, a new period of relative stability in the 1930s and
+                    1940s, a steady worsening of the lag from the 1950s to the 1980s, and a
+                    slow-down in the growth of the lag since the 1991 <hi rend="italic">FRUS</hi>
+                    statute.</p>
+                <p>All of these trends have rich stories behind them. To learn these stories,
+                    explore the history of <hi rend="italic">FRUS</hi> in <ref target="/historicaldocuments/frus-history"><hi
+                            rend="italic">Toward “Thorough, Accurate, and Reliable”</hi></ref>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

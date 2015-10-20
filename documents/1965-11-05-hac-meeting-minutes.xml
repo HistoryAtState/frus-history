@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Minutes of Historical Advisory Committee Meeting, November
+                    1965</title>
+                <title type="short">HAC Meeting Minutes, 1965</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-04-08">April 8, 2014</date>
+                <date type="created" when="1965-11-05">November 5-6, 1965</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1965-11-05-hac-meeting-minutes.pdf">PDF</ref>, 1.6 MB, 23pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 2, 1965—Minutes. Limited Official
+                Use.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 8, <ref
+                    target="../chapter-8#fn52">Footnote 52</ref></p>
+            <div type="document">
+                <head>Minutes of the 1965 Meeting of the Advisory Committee on <hi rend="italic"
+                        >Foreign Relations of the United States</hi></head>
+                <dateline>November 5-6, 1965</dateline>
+                <p>The morning session on Friday, November 5, began at 9:15 a.m. in Room 1105, New
+                    State.</p>
+                <p>Present:</p>
+                <list>
+                    <item>The Advisory Committee:<list>
+                            <item>Philip E. Mosely, Chairman</item>
+                            <item>Robert H. Ferrell</item>
+                            <item>Stanley D. Metzger</item>
+                            <item>Robert E. Osgood</item>
+                            <item>Robert B. Stewart</item>
+                            <item>Robert R. Wilson</item>
+                        </list></item>
+                    <item>The Historical Office:<list>
+                            <item>William M. Franklin, Director</item>
+                            <item>Richardson Dougall</item>
+                            <item>S. Everett Gleason</item>
+                            <item>E. Taylor Parks</item>
+                            <item>Edwin S. Costrell</item>
+                            <item>Fredrick Aandahl</item>
+                            <item>Velma H. Cassidy</item>
+                            <item>Rogers P. Churchill</item>
+                            <item>Herbert A. Fine</item>
+                            <item>John P. Glennon</item>
+                            <item>Ralph R. Goodwin</item>
+                            <item>George O. Kent</item>
+                            <item>Marvin W. Kranz</item>
+                            <item>Neal H. Petersen</item>
+                            <item>John J. Reed</item>
+                            <item>John G. Reid</item>
+                            <item>William Slany</item>
+                            <item>Howard M. Smyth</item>
+                        </list></item>
+                </list>
+                <p rend="underline">AGENDA ITEM 1: Opening Remarks:</p>
+                <p>Mr. Franklin welcomed the Committee and especially its new member, Mr. Metzger.
+                    He expressed regret that Messrs. William W. Bishop, Jr., and J. E. Wallace
+                    Sterling were unable to be present and thanked Mr. Wilson for substituting for
+                    Mr. Bishop.</p>
+                <p>Assistant Secretary of State for Public Affairs James L. Greenfield joined the
+                    group at 9:20. He welcomed the Committee and suggested that it might wish to
+                    recess its meeting at 10:30 to attend the Secretary’s press conference. He noted
+                    that the earmarking of large sums of money for printing and binding <hi
+                        rend="italic">Foreign Relations</hi> was a fact worth noticing and he gave
+                    credit for this development to Mr. Crockett (with whom the Committee had a
+                    luncheon engagement) and to Congressman Rooney. Mr. Greenfield noted that the
+                    large sum earmarked for printing and binding was a good precedent and he hoped
+                    it would continue.</p>
+                <p>Mr. Greenfield observed, as far as the Bureau of Public Affairs (P) was
+                    concerned, that “they” lobbed grenades into our trenches and all through the
+                    year P was busy throwing the grenades out. As a result, by the time a year came
+                    to an end, it seemed, regretfully, as if P might not have a great deal of
+                    permanent value to show for its activity. The <hi rend="italic">Foreign
+                        Relations</hi> series was the chief product of lasting and constructive
+                    value that came out of the Bureau. The series had attained an even greater
+                    importance to the Department and the academic community because of increased
+                    interest in and argumentation about foreign affairs. It was a complete and
+                    honest review of what the Department of State had done and it contributed toward
+                    the credibility of P and the Department. He concluded by thanking the Committee
+                    for its contributions to the success of the series.</p>
+                <p>After Mr. Greenfield’s departure Mr. Franklin reviewed changes in the Historical
+                    Office since the last meeting, including the elevation of Mr. Dougall to the
+                    position of Deputy Director and of Mr. Costrell to that of Chief of the
+                    Historical Studies Division. He noted also changes in two of the three <hi
+                        rend="italic">Foreign Relations</hi> branches, Mr. Aandahl taking the place
+                    of the retired Owen Sappington as Chief of the Western Branch and Mr. Goodwin
+                    taking Mr. Aandahl’s former position as Chief of the General Branch, with Mr.
+                    Churchill remaining as Chief of the Eastern Branch. In addition to losing the
+                    services of Mr. Sappington, <hi rend="italic">Foreign Relations</hi> had been
+                    hurt by the transfer of Mr. Glennon to duties as editor of the <hi rend="italic"
+                        >Current Documents</hi> series. To counterbalance these departures, <hi
+                        rend="italic">Foreign Relations</hi> had acquired the services of Marvin
+                    Kranz and John J. Reed.</p>
+                <p>Mr. Franklin stressed the drive to get the <hi rend="italic">Current
+                        Documents</hi> series up to date. The 1961 volume had already been released.
+                    With part-time assistance from the Historical Studies Division, it was hoped to
+                    publish the volumes for 1962 and 1963 within the next twelve months and those
+                    for 1964 and 1965 within the twelve months thereafter. As a result, the series
+                    would soon be within one year of currency and would be held at that point.</p>
+                <p rend="underline">AGENDA ITEM 2: Report on Status of Series and Publication
+                    Plans:</p>
+                <p>Mr. Aandahl distributed a chart describing the status of the <hi rend="italic"
+                        >Foreign Relations</hi> series. He noted that the moving of the volumes
+                    through the pipelines toward publication was a grim business but that we had
+                    made progress. All the galleys for the Washington and Casablanca Conferences,
+                    1941-1943, had been sent to Defense for clearance. The dialogue with Defense
+                    usually took about one year but their criticisms and observations had often
+                    helped to improve the volumes.</p>
+                <p>Volumes III and V for 1944 had been released during the past year; four
+                    additional volumes had been cleared and had been sent to the Publishing and
+                    Reproduction Services Division (PBR) for putting into page proof and indexing.
+                    The China volume provided a special problem, as usual, but of the others for
+                    1944 only the one on the American Republics had been unduly delayed. Clearance
+                    activities in the Bureau of Inter-American Affairs (ARA) had ceased with the
+                    crisis in the Dominican Republic.</p>
+                <p>Volumes I and II for 1945 been cleared and were ready for paging. The remaining
+                    volumes were in clearance or at PBR. Mr. Aandahl noted that the British
+                    Government acted speedily on clearance requests, usually within a month or
+                    so.</p>
+                <p>All the 1946 volumes have taken shape but in larger numbers than estimated last
+                    year, primarily because the Paris Peace Conference material required two
+                    volumes. The material for 1947 was well advanced but could not be organized into
+                    specific volumes as yet.</p>
+                <p>At 9:40, the Committee adjourned for ten minutes to have photographs taken in the
+                    lobby of the Diplomatic Entrance.</p>
+                <p>Mr. Stewart then raised the question as to how British clearance jibed with the
+                    policy of the British Government regarding publication of its own papers. Mr.
+                    Gleason observed that British complaints regarding clearance were few and were
+                    based primarily on the volume of the material presented for clearance, not on
+                    its sensitivity. The number of documents sent to London for clearance had soared
+                    because Defense insisted that we send not only British documents but even those
+                    American documents that reflected activities of the Combined Chiefs of Staff. He
+                    said he would be very happy if clearance problems within the Department were as
+                    easy of solution as those with the British. He then noted that there was a great
+                    deal of sentiment in Britain to advance access to British documents to a period
+                    of 35-40 years from currency. He noted the complaint of British scholars that
+                    they were obliged to use American publications rather than their own because the
+                    former were closer to currency.</p>
+                <p>Mr. Stewart then queried whether a reduction of the British time lag for access
+                    would be of value to <hi rend="italic">Foreign Relations</hi>. Mr. Franklin
+                    stated that any shortening of the British 50-year rule would be helpful to us.
+                    Secretary Rusk has implied that we could not hope to reduce our 20-year lag when
+                    all other nations were so far behind us, inquiring “aren’t we way ahead of the
+                    others?”. Mr. Metzger asked whether Clive Parry, who is doing a job for the
+                    British along the lines of Hackworth and Whiteman, was getting access to more
+                    recent documentation. When Mr. Dougall stated that Mr. Parry would presumably
+                    have access to such documentation, as did compilers of other British official
+                    and semi-official publications, Mr. Metzger observed that these examples might
+                    be cited as an answer to queries of the Rusk type. Mr. Franklin stated that
+                    there was strong sentiment for Parliament to set the limits on access to British
+                    documents by law rather than to allow the British Foreign Office to set
+                    them.</p>
+                <p rend="underline">AGENDA ITEM 3: Report on Wartime Conference Volumes:</p>
+                <p>Mr. Franklin reported that the galleys for the volume on the three Washington
+                    Conferences and the Casablanca Conference had been sent to Defense for
+                    clearance. We were getting priority from Defense but there would also be many
+                    wearying months within the Department. At one time we had made progress toward a
+                    three-month clearance rule but we had retrogressed. Mr. Ferrell expressed
+                    special interest in speedy publication of the documentation on the Casablanca
+                    Conference. Mr. Franklin stated that he hoped the high public interest in this
+                    volume would stimulate faster action. The basic problem was that clearing
+                    galleys was added to the other duties of Desk officers; that was why it took so
+                    long. Mr. Ferrell said that it seemed that Desk officers placed galleys in their
+                    file cabinet and left them untouched for long periods of time.</p>
+                <p>Mr. Metzger inquired whether we had experiences in which the Desks had prevented
+                    publication because of high sensitivity of material which HO itself had not
+                    spotted as critical. Mr. Franklin acknowledged that this had sometimes happened,
+                    and Mr. Gleason stated that an example of this sort of thing would be shown to
+                    the Committee later. On the other hand Mr. Franklin felt that publication of a
+                    sensitive passage often might produce merely a ripple in the press for a couple
+                    of days which would then pass away. He concluded that we defined the areas of
+                    real sensitivity in a much smaller compass than did the geographic Desks.</p>
+                <p>Mr. Stewart raised the question of expediting the clearance process. He
+                    speculated whether <hi rend="italic">Foreign Relations</hi> branch chiefs might
+                    not volunteer to review compilations with Desk officers and to point out the
+                    sensitive portions. These would have the effect, at least, of getting galleys
+                    out of file cabinets and reducing the amount of material the Desk officers would
+                    have to look at with a critical eye. In the ensuing discussion it was brought
+                    out that we had sometimes marked sensitive passages, although Mr. Perkins (Mr.
+                    Gleason’s predecessor) had opposed this practice. It was his attitude that it
+                    was the business of the Desks to find the sensitive areas and not for us to
+                    supply them with data which they might use against us. Mr. Franklin stated that
+                    he had taken the opposite point of view at first, particularly in connection
+                    with clearing the Yalta volume where he had marked the sensitive passages. On
+                    the return of the galleys, Mr. Franklin observed that the Desks had requested
+                    deletion of all the marked items as well as many others they regarded as too
+                    sensitive for publication. Mr. Gleason noted that the experiment, especially in
+                    connection with Defense, had not attained its objectives and that we no longer
+                    marked sensitive passages. Mr. Churchill stated this procedure had failed and
+                    had resulted merely in more work for the staff.</p>
+                <p>In connection with clearance by Defense, Mr. Franklin stated that there was a
+                    tendency to attribute our difficulties to Mr. Winnacker, the Historian of the
+                    Office of the Secretary of Defense. In justice to Mr. Winnacker it had to be
+                    said that he parceled out our galleys to the various services and that he had a
+                    hard time with them. He and the historians of the Joint Chiefs of Staff, Army,
+                    and Navy have often been helpful in supplying identifications and completing
+                    information given in our documents. We have sometimes been in accord with their
+                    suggestions and felt our volumes were better products as a result. So some of
+                    the time spent in review by Defense was useful to us.</p>
+                <p>In response to a question from Mr. Wilson, Mr. Franklin said that as a result of
+                    the Committee’s lively interest, we had been able to pry certain volumes (1943,
+                    China, and 1941, vol. V, Far East) out of the deep-freeze of the Bureau of Ear
+                    Eastern Affairs (FE). Mr. Churchill added that FE had promised to consider
+                    sympathetically the release of “China 1944”.</p>
+                <p>Mr. Franklin then returned to a discussion of the proposed volume on the Quebec
+                    Conferences of 1943 and 1944. Mr. Dougall was working on the first Quebec
+                    Conference. The work on the second conference was in abeyance, awaiting the
+                    completion, before long, of Mr. Kogan’s work on the Berlin problem. Mr. Franklin
+                    noted that we have had the basic documentation on these conferences for a decade
+                    and a half and that the compilations were substantially complete. Filling in the
+                    final gaps, however, always required an extraordinary amount of time, which we
+                    felt was necessary for the conference volumes.</p>
+                <p>Mr. Dougall then discussed some of the difficult problems facing the compilers of
+                    the Quebec Conferences. The Conferences were peripatetic, moving between Quebec,
+                    Washington, and Hyde Park. A difficult problem was the question of inclusion of
+                    material in between these stages. There were also many special collections of
+                    papers that required searching because of the large number of persons present.
+                    Then too, the number of high-level politico-military subjects discussed at these
+                    Conferences was high.</p>
+                <p>Mr. Dougall observed that for the First Quebec Conference there would be a
+                    section on arrangements but that the only substantive subject that would need to
+                    be treated in the pre-conference chapter was atomic energy. The remaining
+                    subjects would be treated more sparingly since they were treated in detail in
+                    the annual volumes.</p>
+                <p>The meeting adjourned at 10:15 for coffee, after which the Committee and the
+                    staff attended Secretary Rusk’s press conference. The meeting reconvened at
+                    11:20.</p>
+                <p>Mr. Franklin returned to a discussion of the conference volumes. He stated that
+                    the slowness and difficulty of compiling such volumes were due to the high
+                    saturation of military matters as well as other problems dealt with outside of
+                    State Department channels, particularly by the President. Because the Yalta and
+                    Potsdam volumes were prepared well in advance of the rest of the series, there
+                    was not adequate background in the annual volumes to cite to in the conference
+                    volumes. Atomic energy discussions, for example, had been held on the
+                    Presidential level, and many of the basic papers were not in the Department’s
+                    records.</p>
+                <p>Mr. Dougall pointed out that very few memoranda and minutes of conversations
+                    exist for Roosevelt-Churchill conversations in the White House and at Hyde Park.
+                    Thus the compilers must piece together items gleaned from a host of memoirs and
+                    diverse sources.</p>
+                <p rend="underline">AGENDA ITEM 4: Report on Annual Volumes for 1947:</p>
+                <p>Mr. Gleason prefaced his remarks by looking back at our experience with the
+                    volumes for 1946. Last year he had expressed to the Committee his hopes to
+                    restrict the number of 1946 volumes to eight, in addition to the China volumes,
+                    and the size of each volume to 1,000 pages. Neither of these hopes seemed likely
+                    to be realized. We now estimated that three or four volumes could be required to
+                    give comprehensive coverage to such of our multilateral policies as the United
+                    Nations, foreign economic policy, atomic energy, disarmament, the two sessions
+                    of the Council of Foreign Ministers and the Paris Peace Conference. Five other
+                    volumes would be required for the traditional area divisions. Two volumes on
+                    China would make a total of 11 volumes. The great expansion had been concerned
+                    with various aspects of our multilateral diplomacy in the post-war world, which
+                    would be covered in our General volumes.</p>
+                <p>Last year, Mr. Goodwin had reported to the Committee on our plans for coping with
+                    the massive problem of documenting United States participation in United Nations
+                    affairs. As a result of his work, this documentation had been kept within
+                    reasonable limits by establishing an austere frame of reference and by
+                    refraining from printing documents already available in U.N. official records.
+                    This approach has necessitated unusually heavy annotation to guide the reader
+                    through the maze of the official U.N. records. Even so, we anticipated that a
+                    volume of 1400 pages would emerge from Mr. Goodwin’s work for 1946.</p>
+                <p>The difficulties of the U.N. compilations we were well aware of last year. We
+                    were less aware of the magnitude of the documentation on the CFM meetings and on
+                    the Paris Peace Conference. The latter, which was being prepared by a very
+                    valuable new member of the staff, Mr. Petersen, would probably run to two
+                    good-sized volumes. Unhappily, there existed for the Peace Treaties no easily
+                    available official documentation such as appeared in the U.N. record. This had
+                    necessitated extensive reprinting of documents actually in print, and ponderous
+                    annotation.</p>
+                <p>Mr. Gleason then moved to consideration of the volumes for 1947. He reported Mr.
+                    Goodwin’s estimate that the documentation for the General Branch would he
+                    restricted to two volumes, one of some 1100 pages dealing with the United
+                    Nations and other general subjects and one of about 1300 pages covering the two
+                    sessions of the Council of Foreign Ministers. He cautioned the Committee to
+                    regard these predictions with more than usual scepticism because of past
+                    experience and because little compilation was actually under way.</p>
+                <p>Mr. Gleason then made the following projections: The American Republics volume
+                    should be completed by April 1966 in about 1100 pages; the British Commonwealth
+                    and Western Europe should be completed by the late fall of 1966 in at least 1100
+                    pages; the Near East and Africa volume should be completed by late spring of
+                    1966 in under 1000 pages; the Far East should be completed by March 1966 in
+                    slightly over 1000 pages.</p>
+                <p>The uneven rate of progress in compiling the 1947 volumes was a reflection of
+                    insufficient personnel complicated by retirements and staff changes. Mr. Gleason
+                    expected to cope with this problem by greater staff flexibility, i.e., by
+                    reassigning personnel to fields other than their specialities and by deferring
+                    work on 1948 until 1947 was completed.</p>
+                <p>Mr. Mosely inquired whether it was necessary to reprint published documents
+                    relating to the Paris Peace Conference in our 1946 compilation. He was advised
+                    that the volume of Selected Documents compiled by Mrs. Cassidy and released by
+                    the Department in 1947 was out of print. The four-volume collection released by
+                    the French Government was also out of print. These publications were released in
+                    relatively small printings and neither seems to be generally available, even in
+                    libraries of large universities. Mr. Mosely suggested the possibility of
+                    reprinting the Cassidy volume through photo-offset reproduction to reduce the
+                    number of documents to be published in <hi rend="italic">Foreign Relations</hi>.
+                    Mr. Franklin felt this was not feasible because the Cassidy volume was
+                    originally printed by photo-offset method and would not lend itself readily to
+                    further reproduction. Mr. Gleason said the problem had been wrestled with for
+                    months and that he was impressed with the advantages of covering fully the Paris
+                    Peace Conference in <hi rend="italic">Foreign Relations</hi>.</p>
+                <p>Mr. Franklin then pointed out that there might be particular clearance
+                    difficulties with the Council of Foreign Ministers compilation, particularly
+                    since the French had been nearly as difficult as the Soviets at the London
+                    meeting. Mr. Gleason noted, parenthetically, one ray of sunshine regarding the
+                    French -- that the Office of Western European Affairs (WE) no longer believed
+                    that the setting forth in <hi rend="italic">Foreign Relations</hi> of our views
+                    on De Gaulle would seriously affect our relations with France.</p>
+                <p>Mr. Ferrell inquired why there was only one China volume for 1947, since 1947 was
+                    an implementing year and 1946 a policy year. Mr. Gleason explained that we had
+                    had two China volumes for 1946 because of our exceedingly intensive treatment of
+                    the Marshall Mission.</p>
+                <p>Mr. Stewart requested information about the “ban” on publishing the China
+                    volumes. Mr. Franklin stated that HO had at first given strong priority to these
+                    volumes and they had been prepared far ahead of the other volumes in the series.
+                    After the first volume in the series -- that for 1942 -- had been released,
+                    Secretary Dulles and Assistant Secretary Robertson of the Bureau of Far Eastern
+                    Affairs (FE) had put a ban on releasing any other China volumes until further
+                    notice. The Committee, with assistance from Arthur Schlesinger, Jr., had helped
+                    us to get the 1943 volume released. The Committee had since advocated orderly
+                    publication of the China volumes and, after discussions with Secretary Rusk, it
+                    has been agreed to bring them out in such fashion, no volumes to be released
+                    ahead of other annual volumes for the same year nor any to be held back unduly.
+                    The 1944 China volume had recently been sent to FE for approval to release along
+                    with the other 1944 volumes. If this could be done, it would be made as obvious
+                    as possible that the volume was being issued automatically as a part of a
+                    historical series and not as an <hi rend="underline">ad hoc</hi> political
+                    weapon.</p>
+                <p>Mr. Franklin observed that the intention of the original Congressional sponsors
+                    of the China series had been to show who had “sold out” China. The 1942 and 1943
+                    volumes had not borne out their expectations and had contained much criticism of
+                    the Chiang Kai-shek regime. Thus the Government of the Republic of China had
+                    joined the group which opposed the release of further volumes. In our press
+                    release issued for 1944, volume V, we had included an incautious sentence
+                    stating that documentation on American policy toward China would appear in a
+                    subsequent volume in the series. The very next day the Chinese Embassy sent an
+                    officer to FE to find out when the next “bombshell” against his Government would
+                    be dropped. FE had informed him that the volume was not coming out immediately
+                    but would be published as part of a historical series at an appropriate future
+                    date.</p>
+                <p>Mr. Ferrell inquired whether reducing the number of volumes published would
+                    enable us to reduce our time lag to 20 years. Some HO members stated that it
+                    would take more time to compile <hi rend="italic">Foreign Relations</hi> in
+                    fewer volumes. Mr. Ferrell then suggested that if this were so perhaps we should
+                        <hi rend="underline">increase</hi> the number of volumes per year to attain
+                    the 20-year line. It was pointed out that this would increase the time spent in
+                    technical editing by PBR, already a prime bottleneck in the pipeline.</p>
+                <p>Mr. Ferrell queried whether a lowering of the standards used in compiling <hi
+                        rend="italic">Foreign Relations</hi> would permit us to attain our 20-year
+                    goal. Mr. Gleason stated that this suggestion would not be helpful toward that
+                    end. A lowering of standards entailed less selectivity end therefore a larger
+                    number of volumes, and this in turn would make the series less usable and
+                    useful. He suggested that falling further behind currency might make clearance
+                    easier. He observed that there were many in the Department who would be willing
+                    to abolish <hi rend="italic">Foreign Relations</hi> or to let it fall 50 years
+                    behind. Few were sympathetic to a 20-year gap or to publication within the
+                    lifetime of the persons covered. Antibiotics, he noted, were making for greater
+                    longevity. If it become apparent that we were not going to get relief in the way
+                    of additional personnel and if the series fell further and further behind, to
+                    say 25 years, it might be possible, Mr. Gleason speculated, to strike a bargain
+                    with Department officials for a genuine agreement to clear within three
+                    months.</p>
+                <p>Mr. Metzger asked if the problem of clearance was the sole problem slowing down
+                    publication of the series. If not, he saw no reason to strike such a bargain. He
+                    would continue to press for more personnel. To the extent that clearance was a
+                    major problem, he thought that top-level representatives from each area should
+                    come to HO and read the galleys and take appropriate action. In this way the
+                    process might be completed within one week. Had this been attempted?</p>
+                <p>Mr. Franklin stated that everything had been attempted. He cited as an example
+                    that his predecessor, Mr. Noble, had attended a staff meeting in ARA some 10
+                    years ago and as a result a high-level officer in ARA had been designated to
+                    take care of our problems with that Bureau. All bureaus divided their work among
+                    their Desk officers and ARA gave its Desk men greater responsibility than most
+                    bureaus. ARA therefore had no one at a high level competent to pass on clearance
+                    and insisted that only its Desk men were acquainted with such details as whether
+                    Mr. X were still the power behind the junta, were an important editor, etc. Thus
+                    the arrangement made by Mr. Noble had not succeeded in speeding clearance.</p>
+                <p>Mr. Dougall noted that enough was being cleared under existing conditions to fill
+                    the pipelines at PBR and that if the clearance problem disappeared, PBR would be
+                    unable to handle the extra volume of material. In other words, clearance was not
+                    the heart of the problem.</p>
+                <p>Mr. Franklin recalled that years ago he had felt that if we would let our 15-year
+                    lag slip to 20 years, the clearance problem would be simplified. Time had showed
+                    that the clearance problem had not become easier even with a lag of more than 20
+                    years. Mr. Metzger thought that even falling back to a 30-year lag would not
+                    help the clearance problem.</p>
+                <p>Mr. Franklin noted, as an item of incidental interest, that Professor Mario
+                    Toscano, Historical Adviser in the Italian Foreign Office and editor of the
+                    Italian diplomatic papers, did not have to clear his work in the Foreign
+                    Office.</p>
+                <p>Mr. Gleason emphasized the bottlenecks other than clearance -- compiling and
+                    technical editing. He noted that even should the first bottleneck disappear, the
+                    technical-editing bottleneck would clog the pipelines. Mr. Ferrell suggested
+                    reducing the number of volumes to meet this problem. Mr. Gleason replied that we
+                    have already became extremely selective and that we cannot reduce further the
+                    number of volumes and still have a worthwhile product. He also noted with dismay
+                    that in compiling for the years after 1947 we would have to take into account
+                    the fact that the National Security Council and other government agencies
+                    participated increasingly in the formulation of United States foreign policy.
+                    The State Department, after that year, would merely be the first among peers in
+                    the realm of foreign policy.</p>
+                <p>Mr. Costrell suggested the possibility of an approach to the planning and
+                    management staff to reduce our clearance problems. He observed that Mr.
+                    Crockett, in sponsoring studies by that staff, had complained that there were
+                    too many initials on State Department papers. Mr. Franklin observed that he had
+                    mentioned Mr. Crockett’s idea at a P staff meeting in this very connection, but
+                    no one had thought that it could seriously be used to expedite clearance of <hi
+                        rend="italic">Foreign Relations</hi>. He did not feel that the management
+                    staff in the Department could give us an exemption from the area people. The
+                    core of the difficulty was that overlapping of responsibilities in the
+                    Department could not be eliminated and that <hi rend="italic">Foreign
+                        Relations</hi> was a prime example of such overlap. <hi rend="italic"
+                        >Foreign Relations</hi> could not be divorced from current operations.</p>
+                <p>Mr. Churchill noted that in almost all instances we heard from the clearance
+                    people for the first time by memorandum after they had reviewed the galleys and
+                    that preliminary discussions with them were unusual. He noted an example of such
+                    discussion with GTI on Iranian questions, and he suggested that more of this
+                    informal consultation would be desirable.</p>
+                <p>Mr. Ferrell inquired whether there had been any major adverse reaction in the
+                    last 10 years to our published volumes, except for China. Mr. Gleason noted that
+                    the French press had reacted adversely to our accounts of remarks by President
+                    Roosevelt and Prime Minister Churchill on De Gaulle and that our Ambassador at
+                    Paris had been disturbed enough by the press accounts to cable the Department.
+                    The press contended that these documents had been issued in June 1964 as revenge
+                    because De Gaulle did not attend the D-day anniversary ceremonies in Normandy.
+                    We talked to WE about it and nothing more had been heard about the matter. Mr.
+                    Gleason also noted critical reaction in the Greek press to our account (in a
+                    document of Prime Minister Churchill) that Papandreou was unable to make up his
+                    mind. The press had regarded the release of our volume last summer as American
+                    intervention in the then acute political Greek crisis. The matter had blown over
+                    quickly when it was pointed out that the accusation against Papandreou had been
+                    published years ago in Churchill’s memoirs.</p>
+                <p> Mr. Franklin pointed out that the French press agency, which had a large
+                    clientele in Latin America, had published an account of a recent American
+                    Republics volume, giving it an anti-American slant (which gets so much play
+                    below the border). Since the volume had not yet reached Colombia, our Ambassador
+                    there sent a frantic cable inquiring about the new “White Paper” issued by the
+                    Department. When our volumes arrived at Bogotá, it became clear that the press
+                    agency had twisted the story, but some damage had been done. Nothing could
+                    prevent this kind of distortion now and then.</p>
+                <p>Mr. Ferrell raised the question whether we should abolish press releases for <hi
+                        rend="italic">Foreign Relations</hi> volumes. Mr. Gleason observed that
+                    these releases had purposely been made so bland as to say virtually nothing. Mr.
+                    Metzger suggested the opposite approach -- to prepare perhaps a three-page
+                    release which would give something in detail to the reporters that they could
+                    use in preparing their stories. Mr. Franklin stated that newspapers treat a
+                    released volume as “hard news” rather than as a subject for a book review.
+                    Consequently the press stories often did not mention the <hi rend="italic"
+                        >Foreign Relations</hi> series but just talked about “documents”. Maybe it
+                    would be better to give up the press releases. Mr. Metzger felt that we ought
+                    either to abolish the press releases or make them meaningful.</p>
+                <p>The morning session adjourned at 12:20, to enable the Committee to get ready for
+                    luncheon at 1 o’clock with Mr. Crockett at the Blair House.</p>
+                <p rend="underline">AGENDA ITEM 7: Problems Relating to Technical Editing:</p>
+                <p>The afternoon session began at 3:05, with Messrs. Metzger and Wilson absent. Mr.
+                    Franklin introduced Peter Smith, supervisor of the editing staff of PBR, who
+                    discussed the problems of speed and staff. Mr. Smith noted that in some cases
+                    the work might be speeded up by borrowing staff from other sections of PBR or by
+                    contracting out certain jobs, such as indexing. Upon being asked whether PBR
+                    could edit five volumes of <hi rend="italic">Foreign Relations</hi> a year, he
+                    answered in the affirmative. He cautioned, however, that with the present staff
+                    and little or no prospect for an increase, he believed that five volumes
+                    represented maximum production. There was some discussion on the question of
+                    inter-Bureau transfers of funds with Mr. Smith commenting that so far this had
+                    been no problem.</p>
+                <p>Mr. Smith then described the kinds of work being done by PBR. Mr. Franklin added
+                    that the technical editors did more than just catch typographical and mechanical
+                    errors; they knew something of the substance of the volumes, and they asked
+                    helpful and penetrating questions and significantly improved the product. Mr,
+                    Stewart expressed his belief that HO and PBR had to be considered a combined
+                    operation. There was some question as to whether the standards of PBR might be
+                    lowered a bit in an effort to speed production. Mr. Franklin stated that he and
+                    Mr. Jerome Perlmutter, Chief of PBR, had already agreed on several short-cuts
+                    which in fact might let a few errors slip through. Risks were involved, however,
+                    and he felt strongly that any further dilution of standards had to be held to
+                    the barest minimum. The real need was for more personnel, not lower
+                    standards.</p>
+                <p>Mr. Osgood inquired how many persons would be required to handle eight volumes a
+                    year instead of the four volumes now being handled. Mr. Smith thought that eight
+                    more persons would actually be needed, but that by some contracting out the
+                    number might be reduced.</p>
+                <p>Mr. Smith said that Miss Elizabeth Vary, Chief of the <hi rend="italic">Foreign
+                        Relations</hi> Editing Branch of PBR, was trying to train more people as
+                    final reviewers. Since these experienced employees catch a host of errors, we
+                    might risk some additional short-cuts in the earlier stages of editing if we
+                    could count on top-notch final review. A number of the more experienced final
+                    reviewers would be retiring over the next several years, and this would pose a
+                    serious problem.</p>
+                <p>In response to a question from Mr. Ferrell, Mr. Smith observed that his staff
+                    spent the greatest amount of its time in proofreading, both oral and silent.
+                    Indexing was then discussed. Mr. Smith indicated that an index for a 1000-page
+                    volume cost about $1500. It was pointed out that indexes to <hi rend="italic"
+                        >Foreign Relations</hi> were complicated to prepare since they covered
+                    analytic concepts rather than merely proper names and key words. Inclusion of
+                    proper names was restricted to persons substantially involved in the events
+                    described.</p>
+                <p>Mr. Ferrell inquired whether time might be saved by a simpler method of making up
+                    a typeface dummy sheet. Mr. Smith replied that this step had been taken two
+                    years ago when GPO was given a generalized dummy to serve as a model for all <hi
+                        rend="italic">Foreign Relations</hi> volumes. He noted several short-cuts
+                    and money-saving devices introduced by Mr. Perlmutter.</p>
+                <p> Mr. Smith was asked whether his editors had ever completed more than five
+                    volumes in a year, and he answered that it had been done only rarely in the
+                    past. He concluded his remarks with an expression of confidence that his staff
+                    would turn out volumes as rapidly as HO provided copy.</p>
+                <p rend="underline">AGENDA ITEM 5: Efforts to Expedite Output:</p>
+                <p>Mr. Gleason remarked that most of the items concerning Item 5 had been covered
+                    but that he wished to devote special attention to clearance problems. He noted
+                    that of all the Desk areas, ARA had been the hardest to please, requesting us to
+                    remove substantial amounts of material and in same instances, like the
+                    Ecuador-Peru boundary dispute, to delete entire stories.</p>
+                <p>These calls for deletion were not always frivolous or unreasonable. He gave as an
+                    example a compilation on the question of United States bases in Iceland. The
+                    Icelandic Government refused permission to print certain of its documents. It
+                    also expressed the view that no documentation whatsoever should be printed
+                    regarding the base negotiations as that would be embarrassing to the Government
+                    and would impair relations with the United States. The American Ambassador
+                    reviewed the compilations and agreed that publication of the material would
+                    embarrass the Icelandic Government and perhaps cause it to fall, with the added
+                    possibility that the United States would lose the bases. The Bureau of European
+                    Affairs (EUR) agreed with the Ambassador. Mr. Gleason said that he had made an
+                    attempt to select documents that might make possible the printing of some
+                    compilation on the subject which would not cause difficulty. This proved
+                    impossible and we had substituted a short editorial note for the documentary
+                    collection.</p>
+                <p>Mr. Gleason asserted that the base story illustrated the dilemma confronting us.
+                    Our charter warns us “to avoid publication of matters which would tend to impede
+                    current diplomatic negotiations or other business”. On the other hand, we were
+                    obliged to insure that “nothing shall be omitted for the purpose of concealing
+                    or glossing over what might be regarded by some as a defect of policy.”</p>
+                <p>Mr. Osgood asked whether it would help HO to differentiate between valid and
+                    frivolous deletion requests if the Advisory Committee issued a policy statement
+                    for consideration by the Secretary of State. Mr. Franklin replied that this
+                    might help by emphasizing the positive value of the series. The trouble was that
+                    only HO was convinced of the positive value of <hi rend="italic">Foreign
+                        Relations</hi>; every one else just looked on it as a possible source of
+                    trouble for him and his “clients”.</p>
+                <p>Mr. Franklin asked Mr. Gleason whether there had been difficulties with other
+                    base stories. The answer was that while there had been little objection thus
+                    far, he anticipated future trouble as our bases became world-wide. Mr. Goodwin
+                    noted that the decision had been made some years ago to handle compilations on
+                    this subject on a bilateral rather than a global basis in order to reduce the
+                    sensational aspect of the subject. Mr. Gleason concluded that the Icelandic
+                    story pointed up the need for review of our work by Desk officers, for HO had
+                    not anticipated any adverse reaction to the story.</p>
+                <p rend="underline">AGENDA ITEM 6: Special Report on Problems Relating to the
+                    Compilations on the Council of Foreign Ministers and the Paris Peace Conference
+                    of 1946</p>
+                <p>Mr. Slany discussed some of the problems relating to the CFM meetings and the
+                    Paris Peace Conference of 1946. He stressed the difficulty of selection, noting
+                    the huge volume of materials. A decision had been made to focus directly on
+                    documentation at the CFM and to exclude indirectly connected materials bearing,
+                    for example, on other negotiations conducted in Paris or New York; these would
+                    instead be documented in bilateral compilations. Because of the possibility of
+                    having too much material even with such a restriction, it was decided to present
+                    a complete account of all CFM meetings in which the Secretary of State
+                    participated and in which major documents were discussed, as well as meetings
+                    of the Secretary with other delegations. It was anticipated that all major
+                    documents would be printed and that the volume would contain an elaborate
+                    editorial apparatus dealing with materials that could not be printed because of
+                    space limitations. In these ways, we hoped to present a comprehensive record of
+                    maximum value to the reader.</p>
+                <p>The problems encountered in producing the compilation on the Paris Peace
+                    Conference were similar. We again encountered a huge mass of documentation in
+                    the form of documents of the meetings, minutes, daily summaries, resolutions,
+                    amendments, etc. In this case, however, much of the material was already in the
+                    public domain. The French Government had published a four-volume work but it was
+                    generally unavailable. The Department’s publication (No. 2868) was not widely
+                    distributed and was not in most university libraries. We faced therefore the
+                    problem of the extent to which we should reproduce this documentation in <hi
+                        rend="italic">Foreign Relations</hi>. We had decided that we had to
+                    duplicate a considerable portion of this documentation and to bring out a
+                    comprehensive story in two volumes. Thus we would be using the American
+                    Delegation’s daily journal, key amendments, certain verbatim records and other
+                    conference documents, all extensively annotated, together with heretofore
+                    classified papers on the negotiations of the U.S. Delegation.</p>
+                <p>Mr. Franklin observed that the earlier State Department publication had been
+                    poorly reproduced and in a small press run. He thought we had learned the lesson
+                    that a work of this sort should be published in permanent form with full
+                    distribution in order to enable <hi rend="italic">Foreign Relations</hi> to cite
+                    to it in the future.</p>
+                <p>Mr. Gleason then commented on the problems presented to us by the Austrian State
+                    Treaty, being worked on by Mr. Kent. The negotiation of the treaty involved
+                    almost 10 years of protracted and repetitious talks and produced a vast
+                    documentation. Mr. Gleason noted that extensive annotation would boil down such
+                    a story considerably. On the other hand, he noted that printing the documents
+                    would have the value of showing continuing Soviet obstructionism. This, however,
+                    needed not to be done time and time again. Mr. Franklin agreed that the
+                    narrative form would be a method of cutting down repetition. Mr. Goodwin noted
+                    that much was being done along these lines in connection with U.N.
+                    compilations.</p>
+                <p>Mr. Ferrell wondered if it were too late to consider the revision downward of the
+                    number of volumes devoted to the CFM and the Peace Conference. Mr. Aandahl noted
+                    that despite the bulk of the volumes, our compilations were only a summary or
+                    skeletal outline of what had taken place. Mr. Ferrell nevertheless questioned,
+                    in view of Soviet obstructionism and the lack of concrete results, whether these
+                    subjects were worth three of the eleven volumes for l946. Mr. Mosely stated that
+                    some things were accomplished at the 1946 meetings. Mr. Franklin suggested that
+                    the Secretary of State thought these meetings were of extreme importance judging
+                    by the amount of time he had devoted to them. Mr, Ferrell agreed but continued
+                    to maintain that the meetings w«re not of earthshaking significance. By 1946
+                    Hungary, Rumania, Bulgaria and Finland were, to all intents and purposes,
+                    already behind the Iron Curtain and whatever happened in connection with them at
+                    the Paris Peace Conference was relatively unimportant, American efforts having
+                    been to no avail.</p>
+                <p>Mr. Mosely argued that American efforts in fashioning the peace treaties with the
+                    satellites, while perhaps not of immediate significance in shaping events in
+                    Eastern Europe, in the long run had confirmed United States interest in
+                    maintaining the independence of these countries and had gradually aided them in
+                    freeing themselves from the complete control of the Soviet Union. It was also
+                    pointed out that Italy had been a major element at the meetings.</p>
+                <p>There fallowed a discussion of the philosophy of inclusion and exclusion as to
+                    the kind of balance that had to be struck between the value of a story in its
+                    time and its value today. Mr. Franklin noted that in the Yalta volume the
+                    activities of Alger Hiss, because of his later notoriety, were documented more
+                    extensively than they would have been otherwise. Mr. Gleason cited as another
+                    example Cuba, where we would pay strong attention to Communist activities, not
+                    seemingly important at the time, because of the later emergence of Castro. On
+                    the other hand, Mr. Aandahl pointed out that certain wartime economic programs
+                    (Safehaven, Proclaimed List and the like) had generated vast amounts of
+                    documentation but that because of diminished interest in such matters we were
+                    giving them relatively brief coverage in the series.</p>
+                <p>Mr. Ferrell then asked about prospects for the volumes for 1947. Mr. Gleason felt
+                    that our plans were too indefinite to make a firm prediction, but pledged his
+                    best efforts to keep down the number of volumes and yet fulfill the injunctions
+                    of our charter.</p>
+                <p>There was general discussion as to the comparative value of the <hi rend="italic"
+                        >Foreign Relations</hi> series, which Mr. Ferrell noted was the most
+                    detailed of any published by any Government in the world. No other series came
+                    even close to ours in inclusiveness. Mr. Dougall noted that the series has had
+                    increasing value in that since 1940 American foreign relations had been global
+                    in scope so that our volumes were as useful for European or Far Eastern as for
+                    American diplomatic history. Mr. Franklin advanced the idea of the theoretical
+                    possibility of changing our publication policy and of printing spot documents
+                    without continuity. This would result in cutting the number of volumes for a
+                    year but it would destroy the look-behind-the-scenes our present volumes
+                    gave.</p>
+                <p>Mr. Ferrell, in expressing appreciation for what had already been done by HO,
+                    hoped it would move vigorously to hold the 20-year line. It was clear that there
+                    was slippage, and that it was getting increasingly difficult to get out a year
+                    of <hi rend="italic">Foreign Relations</hi> in a year. This, however, was what
+                    must be done to hold the line.</p>
+                <p>At 5 p.m., the Committee went into private session in order to consider in detail
+                    the documents regarding the 1945 compilation on Iceland which had been gathered
+                    by Mr. Gleason.</p>
+                <p rend="center">*****</p>
+                <p>The Saturday morning session began at 9 a.m., with Messrs. Mosely, Ferrell,
+                    Osgood, Stewart, Franklin, Dougall, Gleason and Aandahl present.</p>
+                <p rend="underline">AGENDA ITEM 5: Deletions:</p>
+                <p>Mr. Stewart opened the discussion by recapitulating his views on the deletion of
+                    the story on Iceland for 1945, galleys for which the Committee members had read
+                    on Friday afternoon. He felt that the Historical Office and the Committee were
+                    up against a stone wall when both the Government of Iceland and our own
+                    political officers (Ambassador Penfield and EUR) were opposed to publication.
+                    From a practical point of view Mr. Stewart questioned whether there would be any
+                    chance of winning a fight on this subject. Also there did not seem to be much
+                    advantage in delaying the volume, since the problem was not likely to go
+                    away.</p>
+                <p>Mr. Gleason said that he would be willing if necessary to fight the Department of
+                    Defense on the general question of covering overseas bases, but not the
+                    responsible political officers in a particular case such as Iceland, where a
+                    pretty powerful case had been presented.</p>
+                <p>Mr. Osgood asked if bases would become a chronic problem for clearance. Would
+                    there be similar risk in other cases of endangering a friendly government, or
+                    was Iceland a unique case? Mr. Gleason thought that this situation was
+                    practically unique, but that the specific circumstances in Iceland would
+                    presumably continue for many years.</p>
+                <p>Mr. Stewart thought that this case called for a very close decision, and he asked
+                    whether Ambassador Penfield had been outraged by the undue pressure applied in
+                    1945 by the United States against Iceland or was more concerned at the
+                    implications of publishing the record now. Mr. Gleason said that the Ambassador
+                    felt that the story could be used against the United States now.</p>
+                <p>Mr. Osgood noted that while there is usually no demonstrable cause and effect
+                    relationship between publication of a given document or set of documents and
+                    possible trouble in another country, in the present case there seemed to be a
+                    real connection. As a matter of principle we should be free to publish the basic
+                    documents of American foreign policy despite occasional embarrassments and
+                    awkward situations unless there was a clear probability of bad consequences.</p>
+                <p>Mr. Franklin commented that it was hard for the Historical Office to know in
+                    advance which documents or subjects were sensitive. We had not expected so sharp
+                    a reaction from the Icelandic Government or our own officials. There were likely
+                    to be similar sticky situations regarding other bases; if we gave in on all of
+                    them, the total amount of substantive deletion would be serious.</p>
+                <p>Mr. Osgood felt that we could not agree not to tread on any toes. Mr. Franklin
+                    said that if the situation becomes too difficult we might have to state that we
+                    were omitting base negotiations in general and call them a Defense matter
+                    outside the scope of <hi rend="italic">Foreign Relations</hi>.</p>
+                <p>Mr. Gleason pointed out that it should always be remembered that in most base
+                    questions American motives were good and that the bases were intended to support
+                    policies that could themselves be defended, even though the negotiations
+                    themselves were sometimes indelicate.</p>
+                <p>Mr. Osgood then asked if anything could be gained by reopening with EUR the
+                    Iceland question. Mr. Franklin thought it was too soon now, and that little
+                    could be done until there had been a change of officers somewhere. Mr. Gleason
+                    believed that Secretary Rusk would support EUR if the matter came to him now,
+                    and Mr. Osgood commented that if we published the story and all the dire
+                    predictions proved to be correct, we would really be “in the soup”. Mr. Franklin
+                    observed that so far we had not actually pressed any cases to dire results, so
+                    that the question had not really come up in acute form. Mr. Gleason added that
+                    in general EUR has been most cooperative. Mr. Franklin feared that this might
+                    change somewhat, for the series had now reached the end of the period of many
+                    memoirs, which have always helped to ease clearance problems within EUR°s
+                    jurisdiction. Much has been published on European questions through the end of
+                    World War II, but relatively little on other regions. Churchill and De Gaulle
+                    had eased our way in Europe.</p>
+                <p>Mr. Franklin said that he always wanted to know how complete a publication was
+                    and what sources had been available to the author. He liked to see a clear
+                    indication of what was, or was not, covered. In this connection, the reader was
+                    entitled to know exactly what was to be found in <hi rend="italic">Foreign
+                        Relations</hi>. Mr. Gleason described the bracketed note substituted for the
+                    story on Iceland, indicating that it was just enough to show the reader that the
+                    subject had come up.</p>
+                <p>Mr. Osgood asked if it would help if the Committee took note of the growing
+                    clearance problem and stated positively that material should not be deleted
+                    merely because it was embarrassing and stepped on toes. Would it not be
+                    desirable to state in broad terms the principle involved and then indicate
+                    certain legitimate exceptions?</p>
+                <p>Mr. Gleason reminded the Committee that many deletions were proposed on trivial
+                    grounds, and he would like the Committee to ask reviewing officers to bear in
+                    mind the real advantages of forthright publication even at the expense of
+                    temporary embarrassments on awkward passages. Such a statement would be most
+                    helpful to the Historical Office in handling clearance within the
+                    Department.</p>
+                <p>Mr. Franklin agreed that we could use some ringing words on the positive side.
+                    After all, the American people had a right to know how we got the Iceland base
+                    -- that is why we have the <hi rend="italic">Foreign Relations</hi> series --
+                    but that point rarely gets stated positively. The Desk officers see the narrow
+                    problem of some troublesome document affecting their immediate area of
+                    responsibility, and to counter this we need a principle showing the positive
+                    value of the historical undertaking.</p>
+                <p>Mr. Osgood thought that the permissible exceptions should be stated rather
+                    clearly so as to strengthen the affirmative principle.</p>
+                <p>Mr. Gleason said that he would try to handle the Icelandic story for 1946 in “low
+                    key” and see what EUR would do. Mr. Franklin noted that it was difficult to
+                    predict what the reaction would be in the Department and in the foreign press.
+                    Some minor things were picked up immediately and others were never noticed. As a
+                    rule the foreign press in Washington was quite alert to materials relating to
+                    their respective countries; one could never count on their missing an item that
+                    would make headlines back home.</p>
+                <p>Mr. Gleason said that there was no question that the present Icelandic officials
+                    were fully informed of the original base negotiations. It was the official
+                    documentation that was touchy, not the general outline as presented in
+                    Neuchterlein’s book. The subject had been covered rather fully in the Icelandic
+                    newspapers. Mr. Mosely pointed out that often one or another paper had the true
+                    story of a secret event, but no one knew at the time which speculative press
+                    story was correct.</p>
+                <p>Mr. Stewart asked what were the alternatives for now and what were the possible
+                    consequences for the future. Mr. Franklin answered that we could publish in
+                    full, publish in part, print in full but delay the volume, or limit our coverage
+                    to a bracketed note, indicating the file numbers of relevant documents, even
+                    though these would be put in blue envelopes so that they would not be
+                    automatically available to unofficial researchers when the files entered the
+                    restricted period. (Mr. Franklin then described the procedures for granting
+                    unofficial researchers access to various categories of Department records.)</p>
+                <p>After Mr. Franklin explained that we could more safely leave out third-party
+                    quarrels (such as the Peru-Ecuador boundary dispute) than matters of direct
+                    United States involvement (such as the base in Iceland), Mr. Stewart asked him
+                    to say what the Committee could do to help in this regard.</p>
+                <p>Mr. Franklin thought that the Committee could express serious concern about cases
+                    such as Iceland, admitting that it could understand the peculiar circumstances
+                    of this case, but hoping that this would prove to be most exceptional. It might
+                    be appropriate this year to have a confidential report for circulation within
+                    the Department, in addition to the regular public report. Mr. Gleason suggested
+                    a slight amendment; it would be most useful to express concern at the danger of
+                    wholesale deletions and then cite Iceland as a current example. Those
+                    responsible should be asked to weigh the long-term advantages of a candid
+                    account against the temporary embarrassment of a little adverse publicity.
+                    Iceland, Mr. Franklin pointed out, was a particularly good example, because the
+                    withholding of clearance was by no means captious, as in so many other
+                    instances, and the episode posed a serious problem not only for the Government
+                    but also for the series.</p>
+                <p>Mr. Mosely warned that in referring to deletions the Committee must be cautious
+                    in its language, for it was quite possible that a Congressional Committee might
+                    ask the members exactly what they had in mind.</p>
+                <p>Referring again to a possible general statement by the Committee, Mr. Franklin
+                    said that ringing words would help the higher officers in a geographical bureau
+                    to overcome the objection of Desk officers. The higher officers were generally
+                    willing to admit the strength of the arguments of the Historical Office, but
+                    were reluctant to overrule the Desks, which have day-to-day responsibility for
+                    relations with a given country. An affirmative statement of the overall value of
+                    the series would be most helpful.</p>
+                <p>In reply to a question by Mr. Osgood, Mr. Franklin said that he did not think it
+                    would be helpful to arouse the interest of members of Congress in the problem of
+                    deletions. Politics might be injected into the issue. Mr. Aandahl said that the
+                    issue was muddied by the fact that the overwhelming number of omissions were to
+                    save space rather than to maintain security or to avoid giving needless offense.
+                    This would be hard to explain to non-professional persons. Mr. Franklin pointed
+                    out that the basic regulation (written in 1924 when the series was only 10 or 12
+                    years behind currency) called for two contradictory things: all basic documents
+                    were to be printed, but nothing was to be printed that might interfere with
+                    current negotiations.</p>
+                <p rend="underline">The Hays Bill and HO Personnel:</p>
+                <p>In response to a question from the Committee, Mr. Franklin said that it would be
+                    premature for the Committee to make any comments on the possible effect of the
+                    Hays Bill on the personnel and workings of the Historical Office. The Committee
+                    could write to Mr. Crockett if the need should arise. Mr. Stewart thought that
+                    Mr. Crockett had seemed to be reassuring on this during the luncheon at Blair
+                    House yesterday, but Mr. Osgood was not sure exactly what he had in mind with
+                    regard to maintaining a professional register.</p>
+                <p>Mr. Mosely summed up the sense of the Committee on this point: it wanted to be
+                    sure that proper professional standards were maintained with regard to
+                    recruitment, retirement, promotion, and other factors. In this regard. Mr.
+                    Franklin noted that two uniquely valuable members of the staff, E. Taylor Parks
+                    and Richard S. Patterson, would retire within a few weeks. Both were quite
+                    irreplaceable, each having a rare combination of special knowledge and superior
+                    judgment in certain fields of our work. The question of replacements was made
+                    even more complicated by the uncertainties of the situation. We did not know
+                    what to tell job candidates about their status. At the moment they would
+                    apparently come in as Foreign Service Reserve officers.</p>
+                <p>Mr. Osgood referred to Mr. Crockett’s reply of September 9 to Mr. Leopold’s
+                    letter about the need for printing funds and staff. When Mr. Crockett had
+                    referred favorably to the “second stage” need for additional staff, Mr. Osgood
+                    felt that he had in mind the idea that he had expressed at the Blair House of
+                    using graduate students as temporary internes. The Committee were all agreed
+                    that the real need was for trained full-time staff, and that internes would not
+                    do.</p>
+                <p>Mr. Mosely said that as Chairman he had spoken quite vigorously and privately to
+                    Mr. Crockett yesterday before lunch, thanking him for the letter to Mr. Leopold
+                    but urging that more needed to be done in filling vacancies and giving
+                    administrative support.</p>
+                <p>Mr. Mosely also said that graduate students would clearly not be of much help to
+                        <hi rend="italic">Foreign Relations</hi>, and that the senior interne
+                    program (with which he had been working with the Ford Foundation) was intended
+                    not for historical and intelligence work but for the fields of policy and law.
+                    It was agreed that it might be desirable for Mr. Mosely to write a private
+                    letter to Mr. Crockett to explain why this idea would not meet the needs of <hi
+                        rend="italic">Foreign Relations</hi>.</p>
+                <p>Mr. Franklin then said that the Committee could do something that no one in the
+                    Department dared do: it could ask for more people. But the Committee should know
+                    that the Department’s view was that there should be no increase in staff. It was
+                    obvious that the Historical Office and the Publishing and Reproduction Services
+                    Division, which is part of the Office of Operations, both needed additional
+                    personnel in order to maintain the schedule to which we were nominally
+                    committed. It was relatively easy to get money for contracts, machines, and
+                    special programs. The hardest thing was to get approval for another body.</p>
+                <p>Mr. Gleason suggested that the Committee’s public report might refer to the
+                    present ferment in university communities as an added reason for publishing on
+                    time a candid record of American foreign relations. Mr. Greenfield had referred
+                    to this in his remarks on Friday morning.</p>
+                <p>The possibility of a session on <hi rend="italic">Foreign Relations</hi> at a
+                    meeting of one of the historical associations was discussed. Mr. Ferrell said
+                    that he thought it would be easy to arrange a session for the meetings a year or
+                    so from now, and he invited suggestions on possible topics. He also mentioned
+                    that it would be useful for representatives of the Historical Office to visit
+                    the various universities. Mr. Franklin pointed out that we had very little
+                    travel money but that the Bureau was pretty good about paying for trips in
+                    response to specific invitations.</p>
+                <p>At this point the Committee went into closed session.</p>
+                <p rend="center">*****</p>
+                <p rend="underline">Closing Remarks</p>
+                <p>When the members of the Historical Office rejoined the Committee members some
+                    twenty minutes later, Mr. Mosely expressed appreciation for the work of the HO
+                    staff and hope that the series could be brought closer to the 20-year line. Mr.
+                    Franklin expressed his thanks for the work of the Committee and said that he
+                    would do a little research on the number of <hi rend="italic">Foreign
+                        Relations</hi> historians over the years compared to the amount of material
+                    to be studied, the number of posts, etc. Such a chart might help to show the
+                    need for more staff. The Historical Office had recently been able to get
+                    replacements and promotions, within the existing table of organization, but it
+                    was under great pressure to recruit at the bottom. It was asked to take M.A.’s
+                    when it needed Ph.D.’s, and the latter were hard to find anyway. Mr. Franklin
+                    asked the Committee members to recommend qualified people to him and let him see
+                    what could be done about meeting academic salaries. Unless he had good
+                    candidates he could not hold out for Ph.D.’s. Mr. Stewart wondered whether that
+                    meant that all HO positions needed Ph.D.’s. Mr. Franklin replied that of course
+                    we would recruit some staff with lesser qualifications but that we needed to
+                    catch good Ph.D.’s whenever possible so that we would have historians of broad
+                    competence to carry on the work in the future.</p>
+                <p>The meeting broke up about 11:30 a.m.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

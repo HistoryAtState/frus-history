@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Memorandum From Fredrick Aandahl Through William Franklin to
+                    Carol Laise, November 1973</title>
+                <title type="short">Aandahl to Laise, 1973</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2013-12-09">December 9, 2013</date>
+                <date type="created" when="1973-11-29">November 29, 1973</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1973-11-29-aandahl-to-laise.pdf">PDF</ref>, 165 KB, 4pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Paul Claussen Files, 1972-2005 (Lot File 08 D 437), Box 2,
+                    Foreign Relations Memoranda, Etc. 1974-1981. A copy of this memorandum was also
+                    sent to Joseph A. Tambone (PA/EX).</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 8, <ref
+                    target="../chapter-8#fn70">Footnote 70</ref></p>
+            <div type="document">
+                <head>Memorandum From Fredrick Aandahl (General Editor of <hi rend="italic"
+                        >FRUS</hi>) Through William Franklin (Director of Historical Office) to
+                    Carol Laise (Assistant Secretary of State for Public Affairs)</head>
+                <dateline>November 29, 1973</dateline>
+                <p>Subject: An Optimum Program for the Foreign Relations Division</p>
+                <p>The “optimum job possible” was defined for the Foreign Relations Division in the
+                    President's directive of March 8, 1972:</p>
+                <quote>“without impairing the quality and comprehensive nature of the series ... to
+                    reduce the time lag to 20 years ... declassifying the appropriate materials to
+                    the maximum extent consistent with the requirements of national
+                    security.”</quote>
+                <p>This is a tall order, and it involves three separate operations:</p>
+                <list>
+                    <item>(a) compilation -- by the Foreign Relations Division</item>
+                    <item>(b) editorial processing -- by PBR and GPO</item>
+                    <item>(c) clearance and declassification -- by State, Defense, CIA, AEC, NSC,
+                        other departments and agencies, friendly foreign government, and
+                        international organizations such as NATO and the UN.</item>
+                </list>
+                <p>Only the first of these steps is directly under our control, but all three are
+                    vital to our publication schedule.</p>
+                <p rend="center">OPERATIONS</p>
+                <p>To achieve optimum performance I recommend action on all three fronts:</p>
+                <p>(a) <hi rend="underline">Compilation</hi></p>
+                <p>In order to publish volumes at a 20-year line, we need to compile them at an
+                    18-year line. We are currently at a 22-year line. We plan to cover each year in
+                    about seven volumes. This means that to reduce the lag we must compile 12 to 14
+                    volumes a year. The time and resources required vary considerably from volume to
+                    volume, but in any event selecting and editing diplomatic papers can never be
+                    fast work. At present we do not have enough players to cover all the positions.
+                    To reach an 18-year line on compilation, we need three additional professional
+                    historians, preferably with the following specialties: (a) international
+                    economics, (b) Near East and Africa, and (c) Asia. We can meet some needs by
+                    internal transfers, but this does not increase total output.</p>
+                <p>(b) <hi rend="underline">Editorial Processing</hi></p>
+                <p>Our present flow of work is slow and cumbersome. Our research is done in the
+                    files in Main State; our compilation is done in SA-2; and our editorial
+                    processing is done in Rosslyn. Since compilers and editors must be in constant
+                    touch on all sorts of questions, and since new volumes are based on previous
+                    ones still in the hands of editors, this separation is a major hindrance to
+                    production. We now have 29 volumes (1948 through 1951) in various stages of
+                    preparation, and nearly all are being worked on both in SA-2 and in Rosslyn,
+                    with endless complications. Matters that could be cleared up promptly in person
+                    are allowed to accumulate. For one or two volumes this would be a
+                    nuisance, but for 29 it is highly inefficient.</p>
+                <p>To remedy this situation I strongly recommend that the six or seven editors of
+                    PBR who work full-time on “Foreign Relations” be brought back to SA-2, where we
+                    worked together very smoothly. Originally (and indeed for many decades) these
+                    editors were regular members of our staff. Since they are an integral and highly
+                    respected part of our production line, I think that it would also be beneficial
+                    to return them to the Bureau of Public Affairs from the Bureau of
+                    Administration, which has different priorities and a different emphasis. Editing
+                   “Foreign Relations” is a highly technical job, and I think that we could offer a
+                    more rewarding career to those who are good at it. Even though much of the
+                    routine editorial work can be done satisfactorily on contract, the Department
+                    still needs some highly competent “in-house” people for the sake of continuity
+                    and quality control. We cannot afford to become entirely dependent on outside
+                    contractors.</p>
+                <p>Whether the technical editors remain in PBR or are transferred to HO, we may need
+                    one or two more of them to handle the additional volumes included in our
+                    accelerated program. Additional staff would also be required by the Macmillan
+                    Educational Corporation or other outside contractor.</p>
+                <p>(c) <hi rend="underline">Clearance and Declassification</hi></p>
+                <p>Our most conspicuous problem has been the slow pace of clearances. Since you and
+                    we are already making a major effort to enlist the Secretary's support,
+                    particularly at the NSC level, I need not say much about this. The one thing
+                    that would really help would be a direct statement by Dr. Kissinger that he
+                    favors full and timely publication of “Foreign Relations” as part of the policy
+                    of openness. A strongly affirmative statement by the Secretary of State would
+                    have great impact in the Department, elsewhere in the Government, and in the
+                    world of public affairs.</p>
+                <p rend="center">FACILITIES</p>
+                <p>The efficiency of our operations depends in great measure on the facilities
+                    available to us, and I think our productivity could be sharply increased by
+                    improvements in these areas:</p>
+                <p>(a) <hi rend="underline">Working space for research</hi></p>
+                <p>Most of our research (searching for and selecting documents to be reproduced for
+                    possible publication) is done in very cramped quarters in the Records Service
+                    Center in Main State. FADRC provides space for our researchers, but the central
+                    files are very crowded, and it is a burden on everyone's patience to have up to
+                    20 persons of both HO divisions using one 15 x 46 room as their base of
+                    operations. There is not desk space enough for all the regular users to work at
+                    the same time.</p>
+                <p>Dr. Franklin has received excellent cooperation from Mr. Donald Simon, Chief of
+                    FADRC, but there is not much that they can do, given the limited space and the
+                    large number of researchers. We would greatly appreciate your taking an active
+                    interest in enlisting high-level support for an effort to find suitable space in
+                    a secure area reasonably close to the files.</p>
+                <p>(b) <hi rend="underline">Working space for compilation, review, and
+                    clearance</hi></p>
+                <p>While SA-2 could not be described as providing palatial quarters, it does have
+                    sufficient cubic feet within walking distance of the central files. This is its
+                    one advantage, which is an important one. The HO staff would of course prefer a
+                    modern structure such as the new Columbia Plaza office building, particularly if
+                    it had enough space to include the technical editors and some additional
+                    historians, but we can survive in SA-2 as we have for eleven years. By no
+                    stretch of the imagination, however, could the building be considered to provide
+                    optimal working conditions.</p>
+                <p>One practical amelioration might be possible even within SA-2. Both in editing
+                    documents and in preparing research studies the staff of HO depends on
+                    a miserably housed and seriously inadequate reference collection, which is used
+                    intensively by all. Modern shelving to replace the rickety wood-and-glass boxes
+                    would remove a safety hazard and save much space. Additional funds for essential
+                    reference works and specialized journals would be most helpful.</p>
+                <p>(c) <hi rend="underline">A copying machine</hi></p>
+                <p>There is unanimous agreement in HO that we need an efficient copying machine of
+                    our own. The Foreign Relations Division has eighteen historians and one
+                    secretary. This staff ratio -- probably unique in the Department -- is possible
+                    only if we can count on prompt reproduction of documents and other materials.
+                    Existing facilities in SA-2 are quite unsatisfactory.</p>
+                <p>(d) <hi rend="underline">Travel funds</hi></p>
+                <p>We need travel funds sufficient to cover an occasional trip to the Truman and
+                    Eisenhower libraries and to other research centers. The most important materials
+                    at Independence may be opened in the next few months. It would be helpful also
+                    to have funds for attending meetings of professional associations.</p>
+                <p>As I mentioned to you at the luncheon for the Advisory Committee on Foreign
+                    Relations, we have a strong staff and a good program. Once we can surmount some
+                    of the difficulties outlined above, I am confident that we can push forward
+                    rapidly. 1974 will be the critical year for stepping up the momentum.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Good Year’s Work</title>
+                <title type="short">A Good Year’s Work</title>
+                <author>William B. McAllister</author>
+                <sponsor>Office of the Historian, U.S. Department of State</sponsor>
+            </titleStmt>
+            <publicationStmt>
+                <date when="2012-02-08">February 8, 2012</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>As you can see from our <ref target="/historicaldocuments/frus-history"><hi rend="italic">FRUS</hi>
+                        sesquicentennial page</ref>, we have had a busy year, producing online
+                    postings, podcasts, articles, conferences, presentations at academic sessions,
+                    and public addresses. We invite you to peruse our discoveries and conclusions
+                    about the history of the <hi rend="italic">Foreign Relations of the United
+                        States</hi> (<hi rend="italic">FRUS</hi>) series.</p>
+                <p>We have a new understanding about the evolution and uses of <hi rend="italic"
+                        >FRUS</hi> in the 19th century. Periodic executive branch releases to
+                    congress predated the advent of formal <hi rend="italic">FRUS</hi> volumes by
+                    several decades, based on a longstanding mutual agreement that certain documents
+                    could be withheld if the executive believed it necessary to protect national
+                    security. We now know that in addition to the <hi rend="italic">FRUS</hi>
+                    volumes that began regular publication in 1861, the State Department submitted
+                    to congress additional records that doubled the total number of documents
+                    released. <hi rend="italic">FRUS</hi> volumes also played an important role in
+                    Department operations, serving as an “active file” of important issues and as a
+                    policy guide to U.S. diplomats. And we now know that highly-experienced
+                    Department staff compiled the volumes with care, expertise, and rational
+                    selection criteria.</p>
+                <p>In the twentieth century the release of <hi rend="italic">FRUS</hi> volumes
+                    presented increasingly thorny declassification problems. As America’s role on
+                    the world stage became more prominent, calculations about what information was
+                    safe to release changed dramatically. <hi rend="italic">FRUS</hi> became, and
+                    remains, a crucial declassification outlet for government documents. On several
+                    occasions, we have discovered, the continued existence of the series was in
+                    jeopardy. But in every instance <hi rend="italic">FRUS</hi> not only survived,
+                    but also often emerged with a renewed mandate to disseminate vital foreign
+                    policy information to elected officials and the public. In a few cases those
+                    revelations caused some short-term consternation among diplomats, policy makers,
+                    or allies. Overall, however, sharing key documents about how past decisions were
+                    made and implemented has not only proved illuminating for politicians and the
+                    public, but also exemplified how Americans value governmental transparency.</p>
+                <p>We now see that the <hi rend="italic">Foreign Relations of the United States</hi>
+                    series represents an important negotiation vehicle through which to debate the
+                    balance between the need to know and the need to protect. <hi rend="italic"
+                        >FRUS</hi> acknowledges United States foreign policy decisions to Americans
+                    and the world, formally and officially. What secrets should the U.S. government
+                    keep from its own citizens, and for how long? How does a democracy function in
+                    an information-restricted environment? There are no permanent answers to those
+                    questions—they must be reconsidered regularly in light of current circumstances
+                    and the longstanding desire for Americans to have the most open government
+                    possible. We may never be fully satisfied with the answers, but constantly
+                    reconsidering such questions is vital, and <hi rend="italic">FRUS</hi> plays a
+                    crucial part in that national conversation.</p>
+                <p>Most importantly, we have learned that both specialists and the general public
+                    are interested in the issues raised by our in-depth study of <hi rend="italic"
+                        >FRUS</hi>. Although our “official” commemorations of the 150th birthday of
+                    the series end with the <ref
+                        target="/conferences/2012-national-security-policy-salt">Williams College
+                        conference</ref> in March 2012, we intend to continue our investigations and
+                    share our findings with you. Specifically, we are writing a book-length
+                    manuscript encompassing not only the last 150 years, but also the significant
+                    pre-1861 story of Americans’ debate about the value, and values, of openness.
+                    When the research, writing, editing, and peer review is complete, we will
+                    publish a book of interest to both academics and a wider audience. We are also
+                    compiling substantial appendices to the book that will list the hundreds of
+                    releases of documents to congress in addition formal <hi rend="italic">FRUS</hi>
+                    volumes, totaling thousands of pages in the 19th century. We believe a fuller
+                    accounting of the formal communications between the executive and legislative
+                    branches concerning foreign policy will enrich the work of those interested in a
+                    variety of topics. Finally, we intend to make presentations across the country
+                    about our findings and advance the conversation about the significance they hold
+                    for issues confronting Americans in the 21st century. We will use this website
+                    to provide updates, so watch this space for announcements about our future
+                    activities.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

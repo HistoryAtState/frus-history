@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Record of Historical Advisory Committee Meeting, March 1991</title>
+                <title type="short">HAC Meeting Record, 1991</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-06-02">June 2, 2014</date>
+                <date type="created" when="1991-03-13">March 13, 1991</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1991-03-13-hac-meeting-record.pdf">PDF</ref>, 124 KB, 6pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Administration, Office of
+                    Freedom of Information, Privacy, and Classification, Historical Documents Review
+                    Office Record Files, 1950-1993 (Lot File 95 D 113), Box 3, HAC—1991.
+                    Confidential. Drafted by Susan Tait (FMP/MP/MAP).</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 11, <ref
+                    target="../chapter-11#fn61">Footnote 61</ref></p>
+            <div type="document">
+                <head>Memorandum for the File</head>
+                <dateline>March 13, 1991</dateline>
+                <p>Subject: HAC Meeting on <hi rend="italic">FRUS</hi> Plan</p>
+                <p>Attending:</p>
+                <list>
+                    <item>PA/HO - Messrs. Kennedy and Slany</item>
+                    <item>IM/IS/FPC - Messrs. Machak and Hamilton</item>
+                    <item>L/M - Catherine Skipper</item>
+                    <item>FMP/MP/MAP - Susan Tait</item>
+                    <item>Committee Members: W. Kimball (chair), E. Rosenberg, A. Van Camp, B.
+                        Perkins, B. Glad, G. Herring</item>
+                </list>
+                <p rend="underline">Preliminary Remarks</p>
+                <p>Mr. Kennedy opened the meeting by explaining that Assistant Secretary Tutwiler
+                    had wanted to be present personally at this meeting, but she was traveling with
+                    the Secretary in the Middle East. He said the <hi rend="italic">FRUS</hi> plan
+                    now on the table had been approved within the Department. It had four main
+                    points: expand historical research, improve the declassification process,
+                    explain the research methodology in the preface to each published <hi
+                        rend="italic">FRUS</hi> volume, and increase the committee members’
+                    confidence in what the Department was doing to improve the quality and
+                    timeliness of the <hi rend="italic">FRUS</hi> series.</p>
+                <p>Chairman Kimball said that part of the Department’s plan was window dressing and
+                    other parts did not interest the committee. He asked Mr. Slany to provide
+                    current background.</p>
+                <p>Mr. Slany noted that PA/HO has shut down other activities in order to devote
+                    all 18 to 20 office personnel to the <hi rend="italic">FRUS</hi> program. A
+                    deputy historian is being recruited. Relations with other agencies are being
+                    improved. Because, in the future, 50 percent or more of the basic <hi
+                        rend="italic">FRUS</hi> materials will come from Presidential libraries, HO
+                    is devoting much attention to them.</p>
+                <p>Mr. Slany pointed out that the key to working with intelligence material was how
+                    much access advisory committee members needed. The present <hi rend="italic"
+                        >FRUS</hi> plan does not go into detail on committee access and need to
+                    know. Will all the members need an SI clearance or should there be a working
+                    group formed to handle compartmented information? The committee will have to
+                    work out what the plan means in terms of practices and procedures and establish
+                    a “model” for itself and its successors, and “we have to do this in a way that
+                    will make the committee happy.” The committee, Mr. Slany stated, has to tell the
+                    Department if it is heading in the right direction in planning and designing the
+                        <hi rend="italic">FRUS</hi> volumes.</p>
+                <p>There followed a brief discussion between Perkins and Slany on the need-to-know
+                    process. Slany stated that a judgment is based upon the decision of a government
+                    official in charge of a body of information. Perkins observed that the State
+                    Department can grant access for documents it produces but does not have this
+                    authority over other agency documents. This issue was raised several times as
+                    the members struggled with the problem of how to obtain access to other agency
+                    documents.</p>
+                <p rend="underline">H Presentation on <hi rend="italic">FRUS</hi> Legislation</p>
+                <p>The Deputy Assistant Secretary for Congressional affairs, Richard Mueller,
+                    summarized the recent and current status of legislation concerning the <hi
+                        rend="italic">FRUS</hi> volumes and a statutory advisory committee. He
+                    believes the <hi rend="italic">FRUS</hi> issue will resurface on the Hill in
+                    April. Mueller listed several objections to the current legislation: it uses the
+                    advisory committee as a declassification group; it promotes Congressional
+                    micromanagement which casts the most simple operational activities in concrete,
+                    and it imposes a burden on committee members that many in the academic community
+                    may not have time to assume.</p>
+                <p>The committee members did not agree with this analysis. They believe that, if
+                    other agencies cooperate, they will not have all that much to do. They feel
+                    strongly that their responsibilities must be established in law, lest what they
+                    see as the current favorable environment shift in the future. They did not agree
+                    that micromanagement was a significant obstacle and argued for a “basic” law
+                    that would establish <hi rend="italic">FRUS</hi> in formal legislation, clothe
+                    the advisory committee in a formal legal setting, formalize the 30-year plan,
+                    institutionalize the appeal process, and establish meaningful time limitations.
+                    They believe that such a basic bill can be worked out to meet everyone’s
+                    needs.</p>
+                <p>Mueller conceded from the outset that the Department’s <hi rend="italic"
+                        >FRUS</hi> plan may not work and that we may have to fall back upon trying
+                    to improve the present legislative language. He then announced that H had made
+                    appointments for committee members to go up to the Hill this afternoon. He
+                    emphasized that they were free to voice their own opinions and that the
+                    Department was not stage-managing their appearance.</p>
+                <p rend="underline">Committee Views on <hi rend="italic">FRUS</hi> Plan</p>
+                <p>At the direction of the chairman, the committee undertook a paragraph by
+                    paragraph consideration of the <hi rend="italic">FRUS</hi> plan.</p>
+                <p>On the three paragraphs under “expanding the scope of research for the <hi
+                        rend="italic">FRUS</hi> series,” there was general agreement among the
+                    committee members that a Presidential memorandum will not have any effect on CIA
+                    or DOD. Some thought perhaps an Executive Order would be better. However, an EO
+                    would need other agency concurrence and therefore is not a practical way to go.
+                    Previous Presidential memos on this subject have been quickly discarded or
+                    forgotten.</p>
+                <p>Kimball noted that to ask the President to ask other agencies to cooperate with
+                    State is a “cliche”. Rosenberg asked what evidence there was that other agencies
+                    have changed their views about cooperating with State. Slany said they have
+                    asked about State’s plan and have opened some doors.</p>
+                <p>Continuing on this subject, Kimball asked if there is any appeal from other
+                    agency decisions on access. Slany responded that we have to find out what the
+                    sticking points are, and noted that this plan mobilizes more support within
+                    State than previous plans. The chairman characterized the plan’s reference to
+                    enlisting House and Senate historians as “cute”, but there was no substantive
+                    comment on this aspect of the plan.</p>
+                <p>The committee’s main focus was on the plan’s declassification paragraphs. Kimball
+                    said the committee wanted to see the procedures used to appeal withholding of
+                    documents and to be assured that there is a timetable for moving such documents
+                    along. The committee approved of the plan’s provisions for HO being able to
+                    appeal to P and to M any issues not resolved at the bureau level.</p>
+                <p>For clarification of the declassification problem and process, Machak offered
+                    several observations on the committee’s discussion. Most importantly, provisions
+                    of the proposed legislation would retard rather than help to accelerate
+                    information retrieval and declassification review. The bill would establish
+                    additional and complex procedures relating, notably, to committee review and to
+                    appeals procedures. These processes would draw severely limited manpower
+                    resources away from present efforts to speed the declassification aspects of the
+                        <hi rend="italic">FRUS</hi> process. The effect would be to slow down rather
+                    than speed up publication schedules.</p>
+                <p>Another provision in the draft legislation which would work counter to the
+                    committee’s objectives is the proposed imposition of a 30-year line for
+                    “automatic” declassification of State Department records. Machak noted that the
+                    Department continues to press toward the 30-year line as an objective but that,
+                    again, a legislative requirement would force diversion of resources from
+                    processing documents for the <hi rend="italic">FRUS</hi>. The organization and
+                    condition of State files preclude automatic declassification by file blocks
+                    because of the frequent interlarding of other-agency material, or national
+                    security information still protected by provisions of law and/or Executive
+                    Order, and of non-security file material which by law must be segregated. The
+                    latter categories include personnel and visa files. Enactment of the 30-year
+                    provision would mandate review of some 16 million pages by 1993--a task that
+                    would require additional manpower far beyond any reasonable expectation given
+                    budgetary constraints and competing demands in other areas.</p>
+                <p>Machak commented also that the limited listing of categories of information or
+                    documents for possible withholding presents major problems for the
+                    declassification process, for <hi rend="italic">FRUS</hi> and for release of
+                    general files. There is no explicit provision for protection of foreign
+                    government documents or of information provided by foreign governments in
+                    confidence. Such protection of the diplomatic process is essential to avoid
+                    damaging the conduct of contemporary foreign relations. The measures might
+                    similarly force imposition of classification or comparable controls on visa and
+                    personnel files to ensure proper protection.</p>
+                <p>In the light of this discussion, the Chairman observed that he would not object
+                    to incorporation of “the Kellogg principles” into the legislation.</p>
+                <p>The committee then returned to a discussion of how to obtain access to other
+                    agency documents. The members had no specific problems with the plan’s language,
+                    but evidenced skepticism that anything in the plan would overcome this basic
+                    problem. Slany’s assurance that “we are working on procedures” did not blunt
+                    this line of thinking and there were repeated requests to “see these
+                    procedures.” The members also wanted to be reassured that bureaucratic inertia
+                    would be thwarted and urged some kind of a timetable to move documents through
+                    the appeals process. They also voiced reservations about the feasibility of
+                    preparing summaries of deleted information.</p>
+                <p>Two members wanted stronger language on the access issue (e.g. other agency
+                    historians should be “ordered” not just “requested” to cooperate with the State
+                    Department). They also believe they need some kind of a commitment on the
+                    question of other agency cooperation. The chairman wanted to know what would be
+                    done in the case of non-compliance by other agencies, but this question was
+                    finessed in his subsequent observation that he views the advisory committee as a
+                    “goad.”</p>
+                <p>In response to several questions on member clearances, Slany said the Department
+                    is committed to the top secret level but that no other access clearances are
+                    underway. Ms. Van Camp stated that the committee members need the same
+                    clearances as the Department’s historians. Ms. Glad asked if they would have
+                    access to covert operations material. Slany responded that “we will have to look
+                    into this,” adding that the Department’s historians rarely see this type of
+                    information.</p>
+                <p>Several members said they would send out committee findings on declassification
+                    issues to their professional societies. Kimball noted that the committee does
+                    not want to get into attesting to the validity of each <hi rend="italic"
+                        >FRUS</hi> volume, but it can attest to the integrity of the <hi
+                        rend="underline">process</hi>. At this point there was a lively but
+                    inconclusive debate on whether the advisory committee should either approve or
+                    disapprove each volume or whether it should condense its views in its annual
+                    report.</p>
+                <p>There were several references to concern that nothing in the <hi rend="italic"
+                        >FRUS</hi> plan itself insures the committee’s future position. There
+                    appeared to be shared hope for some assurance of permanence and a shared fear
+                    that the present amiable atmosphere could change quickly. Perkins recalled a
+                    previous M memorandum that he said came close to abolishing the committee. No
+                    one opposed the view that some kind of basic legislation, perhaps not as
+                    detailed as that introduced in the Senate, was necessary to formally sanction
+                    the role of the <hi rend="italic">FRUS</hi> and the mandate of the advisory
+                    committee and its members.</p>
+                <p>Prof. Van Camp noted that the <hi rend="italic">FRUS</hi> plan does encompass the
+                    main concerns of the advisory committee. Prof. Kimball said that nothing
+                    suggested in the course of this meeting impinges upon the Department’s plan, but
+                    he urged that the committee <hi rend="underline">not</hi> take a position until
+                    the plan’s procedures are worked out. The chairman stated he has consulted five
+                    past chairmen of this committee and while they like the plan, they are skeptical
+                    about chances for its implementation. Slany commented that “your skepticism may
+                    not be as great as ours.” Kimball and Perkins both expressed the view that if
+                    the plan does not work, there are other options. They observed, however, that
+                    they do not see the committee’s future role as a watchdog for the Congress.</p>
+                <p>At the end of the <hi rend="italic">FRUS</hi> plan review, the chairman announced
+                    that the committee would go into executive session.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

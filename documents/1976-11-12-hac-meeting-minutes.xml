@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Minutes of Historical Advisory Committee Meeting, November
+                    1976</title>
+                <title type="short">HAC Meeting Minutes, 1976</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-03-24">March 24, 2014</date>
+                <date type="created" when="1976-11-12">November 12, 1976</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1976-11-12-hac-meeting-minutes.pdf">PDF</ref>, 272 KB, 11pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 3, 1976-Minutes. Listed attachments are not
+                    posted. HAC Chair Covey T. Oliver did not sign or initial the approval line at
+                    the of the minutes.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 8, <ref
+                    target="../chapter-8#fn94">Footnote 94</ref></p>
+            <div type="document">
+                <head>Minutes of the 1976 Meeting of the Advisory Committee on <hi rend="italic"
+                        >Foreign Relations of the United States</hi></head>
+                <dateline>November 12, 1976</dateline>
+                <p rend="underline">American Historical Association</p>
+                <list>
+                    <item>Dr. Robert A. Divine, Professor of History, University of Texas</item>
+                    <item>Dr. Lloyd C. Gardner, Professor of History, Rutgers University</item>
+                    <item>Dr. Norman A. Graebner (Absent), Professor of History, University of
+                        Virginia</item>
+                </list>
+                <p rend="underline">American Political Science Association</p>
+                <list>
+                    <item>Dr. Bernard C. Cohen, Professor of Political Science, University of
+                        Wisconsin</item>
+                    <item>Dr. Harold K. Jacobson, Professor of Political Science, University of
+                        Michigan</item>
+                </list>
+                <p rend="underline">American Society of International Law</p>
+                <list>
+                    <item>Dr. Philip C. Jessup, Judge, International Court of Justice,
+                        retired</item>
+                    <item>Dr. Covey T. Oliver, Professor of Law, University of Pennsylvania</item>
+                </list>
+                <p rend="underline">Other Persons Present</p>
+                <p>The Bureau of Public Affairs:</p>
+                <list>
+                    <item>John E. Reinhardt, Assistant Secretary of State for Public Affairs</item>
+                    <item>William D. Blair, Jr., Deputy Assistant Secretary of State for Public
+                        Affairs</item>
+                </list>
+                <p>The Office of the Historian:</p>
+                <list>
+                    <item>David F. Trask, The Historian (Executive Secretary of the Advisory
+                        Committee)</item>
+                    <item>Fredrick Aandahl</item>
+                    <item>Edwin S. Costrell</item>
+                    <item>William Z. Slany</item>
+                    <item>Arthur G. Kogan</item>
+                    <item>John P. Glennon</item>
+                    <item>Mary P. Chapman</item>
+                    <item>Neal H. Petersen</item>
+                    <item>David H. Stauffer</item>
+                    <item>Allen H. Kitchens</item>
+                    <item>John A. Bernbaum</item>
+                    <item>M. Paul Claussen</item>
+                    <item>N. Stephen Kane</item>
+                    <item>David M. Baehler</item>
+                    <item>Thomas E. Donilon</item>
+                    <item>Mary M. Gratch</item>
+                    <item>Evans Gerakas</item>
+                    <item>Edward C. Keefer</item>
+                    <item>Ronald D. Landa</item>
+                    <item>Joan M. Lee</item>
+                    <item>David W. Mabon</item>
+                    <item>Carmen A. Medina</item>
+                    <item>Nina J. Noring</item>
+                    <item>Carl N. Raether</item>
+                    <item>Margaret E. Roman</item>
+                    <item>Lisle A. Rose</item>
+                    <item>Charles S. Sampson</item>
+                    <item>William F. Sanford, Jr.</item>
+                    <item>Stanley Shaloff</item>
+                    <item>J. Harriet Schwar</item>
+                    <item>Louis J. Smith</item>
+                    <item>Ilana E. Stern</item>
+                    <item>Ruth M. Worthing</item>
+                </list>
+                <p>The Foreign Affairs Document and Record Center:</p>
+                <list>
+                    <item>John S. Pruden, Director</item>
+                </list>
+                <p>The Freedom of Information Staff:</p>
+                <list>
+                    <item>Beverly Zweiben, Appeals Officer</item>
+                </list>
+                <p>(As announced in press release No. 515 (Attachment 1), this meeting was divided
+                    into open and closed sessions.)</p>
+                <p>Open Session - 9:10 a.m. - 12:16 p.m.</p>
+                <p rend="center">AGENDA ITEMS 1, 2, and 3: OPENING REMARKS, INTRODUCTIONS OF NEW
+                    MEMBERS, AND SELECTION OF COMMITTEE CHAIRMAN</p>
+                <p>Mr. Trask called the meeting to order, welcomed the participants, and announced
+                    that the first two hours of the meeting would be open to the public, but would
+                    be followed by a closed meeting. He then introduced Ambassador Reinhardt.</p>
+                <p>The Ambassador, after welcoming the committee, pointed out that its members,
+                    although approved by him, were chosen by the respective professional
+                    associations. The Committee was the Bureau’s chief aid in declassification
+                    problems. There would be no progress in the matter without the Committee’s
+                    prodding.</p>
+                <p>Mr. Reinhardt recalled that Secretary Kissinger, in a meeting with himself and
+                    Mr. Trask some months ago, had described history as the best single preparation
+                    for the Foreign Service and had offered his assistance to Mr. Trask. The
+                    Ambassador invited the Committee to stay in touch with him over the months to
+                    come. He concluded by saying that now the interested professions had one of
+                    their own representatives at the head of the Office. After his remarks the
+                    Assistant Secretary remained at the meeting until 9:26 a.m.</p>
+                <p>Mr. Trask introduced Mr. Blair and noted the unavoidable absence of Mr.
+                    Graebner.</p>
+                <p>After introducing new and returning members of the Committee, Mr. Trask
+                    recognized Mr. Divine, who nominated Mr. Oliver for Chairman of the Advisory
+                    Committee. The nomination was seconded, and approved unanimously.</p>
+                <p rend="center">AGENDA ITEM 4: CURRENT STATUS OF THE OFFICE OF THE HISTORIAN;
+                    REORGANIZATION OF HO; RETIREMENTS AND APPOINTMENTS; THE RESEARCH FUNCTION;
+                    RESEARCH DURING THE PAST YEAR</p>
+                <p>Mr. Trask discussed the two major problems of coverage and speed of production.
+                    In the Eisenhower period the volume and complexity of records increased, as did
+                    the participation of other agencies in foreign policy actions. HO was meeting
+                    increasing difficulty in fulfilling its mandate to provide, in <hi rend="italic"
+                        >Foreign Relations</hi>, a comprehensive record of policymaking. To meet
+                    this problem HO was seeking a renewal and clarification of this charge,
+                    including administrative action to strengthen access to other-agency documents.
+                    To attain greater speed of production, the Office was reviewing the entire
+                    production process, particularly the stages of clearance, technical editing, and
+                    printing.</p>
+                <p>Mr. Trask affirmed that it was logical that HO should be located in the Bureau of
+                    Public Affairs. The Bureau represented and was the spearhead in the Department
+                    for the principle of openness.</p>
+                <p>The Historian reported on the classified research done in the Historical Office.
+                    This function of the Office had diminished due to changes in the functioning of
+                    the Department as well as a drain of manpower to the production of <hi
+                        rend="italic">Foreign Relations</hi>. However, he wanted to make the two
+                    functions of research and compilation mutually supportive. He called on Mr.
+                    Aandahl to explain the reorganization of the Office.</p>
+                <p>In his presentation Mr. Aandahl referred to two charts which had been distributed
+                    (attached). He pointed out that the new system brought area specialists from
+                    both halves of the old office together in two new geographical groupings which
+                    allowed individuals to divide their time between <hi rend="italic">Foreign
+                        Relations</hi> and classified research projects. A separate operations staff
+                    now handled clearance and other mechanical problems. Within it, one unit handled
+                    administrative history, reference services, and spot requests from the
+                    Department. The new organization afforded greater flexibility in assignments and
+                    opened career opportunities by facilitating advancement for younger staff
+                    members. Lastly, there was better balance: two groups of unequal size had been
+                    replaced by three equal groups.</p>
+                <p>Mr. Aandahl then reported the retirements of Ralph Goodwin and Helene Delong, and
+                    introduced new staff members Stanley Shaloff and Margaret Roman, as well as this
+                    year’s National Historical Publications and Records Commission fellow, Ilana
+                    Stern. Mr. Slany introduced the three undergraduate interns from Catholic
+                    University: Thomas Donilon, Mary Gratch and Carmen Medina.</p>
+                <p>In response to Mr. Divine’s question as to how <hi rend="italic">Foreign
+                        Relations</hi> and the research function were mutually supportive, Mr.
+                    Aandahl replied that the older classified studies could serve as the basis of a
+                        <hi rend="italic">Foreign Relations</hi> compilation and that by grouping
+                    our historians by specialists we have strengthened our research capacity.
+                    Studies done on the Korean War and the Suez crisis were examples.</p>
+                <p>Mr. Oliver asked if Freedom of Information work still constituted a drain on HO’s
+                    manpower. Ms. Zweiben, who transferred last year from HO to the FOI staff as
+                    appeals officer, replied that FOI had received additional personnel but still
+                    received help from HO on certain problems, such as older documents that were too
+                    broad in scope for any single bureau. Mr. Blair explained that the <hi
+                        rend="underline">de facto</hi> drain of one HO officer on regular assignment
+                    to FOI had ceased. Mr. Trask added that aid to FOI was staff time well spent,
+                    for both HO and FOI had the common objective of openness.</p>
+                <p>Mr. Costrell reported on the research function. Recently a higher priority had
+                    been assigned to <hi rend="italic">Foreign Relations</hi>. Also requests had
+                    lately diminished. However, recent studies included one of the Middle East,
+                    another on third world activities in the United Nations, and another on the
+                    interagency task force on Vietnam refugees. In the past there had been massive
+                    projects on Vietnam, Berlin, and the Korean War. Useful published unclassified
+                    research included lists of US chiefs of mission and a study of US recognition
+                    policy in Latin America. Research varied from highly substantive to routine, and
+                    from extraordinarily sensitive to unclassified.</p>
+                <p>Mr. Trask said <hi rend="italic">Foreign Relations</hi> and the research function
+                    were mutually supportive because research was a necessity for historians who
+                    wanted to maintain and develop their professional skills. Moreover,
+                    policy-related research tied HO to the Department’s main role-the execution of
+                    policy today for the purpose of tomorrow. The research function had suffered
+                    because, being based on requests, there was no pattern or spine to it. Also,
+                    because of the expansion of the Department, many in it were not aware of HO’s
+                    research function, which was in its old form virtually defunct.</p>
+                <p>The Historian stated that he had reached the conclusion that it was better for
+                    the Office to initiate most of the major projects itself. Others might initiate
+                    minor requests. The Office should define a major policy area-perhaps U.S.
+                    foreign economic policy since 1973-do a study, and actively “sell” it to the
+                    pertinent areas of the Department. The Office had to experiment.</p>
+                <p>Mr. Oliver inquired as to whether requests for studies would still be honored,
+                    and whether the old type of study was defunct by preference of the Office or
+                    from lack of demand. Mr. Trask answered that it was defunct for both reasons.
+                    Yet he would welcome new requests as a justification for staff. However, it
+                    would be best to anticipate crises and prepare the groundwork ahead of time, as
+                    in the Office’s human rights project.</p>
+                <p>Mr. Oliver inquired once more concerning the possibility of an increase in
+                    requests, but stated also that he preferred the new approach. Mr. Trask held
+                    that this approach would suit outside historians if the new studies could be
+                    declassified.</p>
+                <p rend="center">AGENDA ITEM 5: EXPEDITING THE <hi rend="italic">FOREIGN
+                        RELATIONS</hi> SERIES; STATUS OF VOLUMES FOR 1948 THROUGH 1951; STATUS OF
+                    VOLUMES FOR 1952-1954; PLANS FOR 1955-1960 VOLUMES</p>
+                <p>Mr. Slany reported on the status of the <hi rend="italic">Foreign Relations</hi>
+                    series. Only two volumes had appeared since the last meeting. This was
+                    regrettable, but the difficulties had occurred in the clearance and printing
+                    processes. The last 1948 volume would be issued shortly. The first 1950 volume
+                    should also be issued this month. HO expected that the last three 1949 volumes
+                    and all of the 1950 volumes would appear by the end of the summer of 1977.</p>
+                <p>All the 1952-1954 volumes would be compiled by mid-December, 1976. The three-year
+                    volumes included more functional, as opposed to geographical materials. Quality,
+                    of the series, in both selection and research finding aids, had risen
+                    enormously. The 1952-1954 volumes, which had been compiled in approximately two
+                    years, included much more material of DOD, CIA, and White House origin. The
+                    Office had projected twelve volumes apiece for the 1955-1957 and 1958-1960
+                    periods, but the totals could be expanded as need arose. HO wanted to arrive at
+                    the 20 year line in compilation by 1980, and was trying to accelerate production
+                    by submitting volumes for clearance in manuscript rather than after the lengthy
+                    technical editing and galley proof stages.</p>
+                <p>Mr. Divine asked whether the next opening of the Department’s files would have to
+                    wait until all the volumes through 1954 had been published. After intermittent
+                    discussion of this question Mr. Kogan explained that while Archives demanded
+                    that the record block be transferred intact, opening of the files for 1950-1954
+                    did not have to await publication of the 1952-1954 volumes, but only clearance
+                    of the State Department materials in them.</p>
+                <p>Mr. Cohen asked if 12 volumes were sufficient to include all the good material.
+                    Mr. Slany replied that this size made the process of selection difficult, but
+                    both he and Mr. Aandahl stressed that HO had concluded that any larger project
+                    would take too long. Mr. Trask stated that it was important to keep in mind the
+                    increased emphasis in the new volumes on reference aids. Nevertheless, the space
+                    problem might force a resort to some type of supplemental microfilm publication,
+                    although this might be against the preferences of most of the HO staff.</p>
+                <p>Mr. Oliver asked if the new functional emphasis in <hi rend="italic">Foreign
+                        Relations</hi> was related to the switch to 3-year volumes. Mr. Slany said
+                    that such topics could be presented more comprehensibly in volumes of longer
+                    time span.</p>
+                <p>Mr. Jacobson expressed his curiosity as to why the three-year period had been
+                    chosen in preference to some other duration. Mr. Aandahl responded that
+                    selection of 1952-54 completed a record block, and also avoided synchronization
+                    with political administrations.</p>
+                <p>Mr. Jessup inquired whether HO included in the volumes all pertinent documents or
+                    withheld some. Mr. Slany answered that policy was to exclude nothing ourselves
+                    for clearance reasons, but to leave the function entirely to the bureaus and
+                    concerned agencies.</p>
+                <p>(Coffee was served at 10:51 a.m. Discussion resumed at 11:15 a.m.).</p>
+                <p>Mr. Trask welcomed Mr. Pruden to the meeting, and stated that since the public
+                    part of the agenda had not been completed, the closed session would be postponed
+                    until after lunch.</p>
+                <p rend="center">AGENDA ITEM 6: PROBLEMS OF TECHNICAL EDITING, PRINTING, AND
+                    DISTRIBUTION</p>
+                <p>Mr. Aandahl began by stating that HO had shortened compilation time, but that
+                    delays in technical editing and printing continued to slow publication. In
+                    response to a question by Mr. Jessup, Messrs. Aandahl and Slany stated that
+                    “problems of distribution” referred to the fact that GPO had occasionally
+                    mislaid printings of <hi rend="italic">Foreign Relations</hi> in its warehouse,
+                    and that no good procedure had been worked out for notifying interested scholars
+                    of <hi rend="italic">Foreign Relations</hi> publication dates.</p>
+                <p>Mr. Trask stated his belief that a university or commercial press could produce
+                    volumes more efficiently than GPO, but he added that Congressional legislation
+                    did not now permit this. He continued that although the Office had not yet gone
+                    to Congress for a legislative waiver or exemption on the question of securing an
+                    outside publisher, it would be perhaps worth trying in the future. He pointed
+                    out that in addition to seeking contractual arrangements with other printers,
+                    the Office needed to explore fundamental alterations in the format of the
+                    series.</p>
+                <p rend="center">AGENDA ITEM 7: RELATIONS WITH NATIONAL ARCHIVES AND PRESIDENTIAL
+                    LIBRARIES</p>
+                <p>Mr. Kogan stated that while relations with the National Archives and Records
+                    Service were generally good, NARS was increasingly reluctant to accession large
+                    blocks of classified material, such as the 5-year 1950-1954 files. The principal
+                    reason was that otherwise FOI requests necessitated the transfer of documents
+                    from NARS back to the Department, and then back again to NARS. Acceleration of
+                        <hi rend="italic">Foreign Relations</hi> should help resolve this problem.
+                    Mr. Kogan expressed hope that by the end of 1977, the 1950-54 block would be
+                    declassified and opened.</p>
+                <p>HO had aided in the declassification of some papers in Presidential Libraries
+                    (e.g. the Acheson papers) ahead of schedule. HO was giving some help to FOI in
+                    declassification of papers at the Eisenhower Library.</p>
+                <p>Mr. Jessup asked whether the Department had any control over the papers of
+                    Marshall and Dulles as Secretaries of State. Mr. Kogan replied that, so far as
+                    he knew, the Marshall Library had only copies of Marshall’s papers as Secretary
+                    of State, and the originals never left the Department until they were
+                    transferred to the National Archives. He was not sure about papers relating to
+                    Marshall’s service after he left State in 1949. The microfilm copies of Dulles’
+                    papers at Princeton are copies of originals which remain in Department of State
+                    files, and they are subject to the same rules of access as the originals in
+                    Washington. In his reply to a question from Mr. Gardner, Mr. Glennon said that
+                    HO indeed had needed permission from the Hanes Committee to see the Dulles
+                    papers at the Eisenhower Library, just as did private researchers.</p>
+                <p>In the course of further discussion it was pointed out that clarification of the
+                    status of such “private” papers was among the tasks of the new National Study
+                    Commission on Documents and Records of Public Officials.</p>
+                <p>Mr. Cohen noted that even though scholars would have access relatively soon to
+                    documents in the 1950-1954 block through the speedup of declassification of <hi
+                        rend="italic">Foreign Relations</hi> manuscripts, the next block of files
+                    (1955-1958) would not be opened until the third triennium (1958-1960 volumes)
+                    had been declassified. Mr. Aandahl noted that this still represented a
+                    considerable speedup, and Mr. Kogan added that the proposed change in the
+                    Executive Order to reduce the time for mandatory automatic declassification from
+                    30 to 25 years might result in the transferral of records to the Archives at an
+                    earlier date. To Mr. Gardner’s question of whether many documents might be
+                    excepted from general declassification, Mr. Kogan answered that the relatively
+                    small number of State Department documents that had been denied clearance for
+                    publication in <hi rend="italic">Foreign Relations</hi> would be exempted from
+                    declassification; these would be subject to further review later. In addition,
+                    some other categories would also be exempted because of specific provisions of
+                    the FOI act and the Privacy act. These would not depend on the status of the <hi
+                        rend="italic">Foreign Relations</hi> series.</p>
+                <p>Mr. Pruden spoke about the computerization of the Department’s central files
+                    since 1973. He explained that the computerized system had been designed to meet
+                    the day-to-day needs of policymakers. He said the FADRC was giving increasing
+                    attention to what could be done to the system to make it useful to historians.
+                    He pointed out that office files had not been included in the computerized
+                    system, although that possibility was being explored. There were a few questions
+                    about the details of the system from Mr. Oliver, Mr. Cohen, and Mr. Gardner.</p>
+                <p>Mr. Gardner then asked whether HO paid much attention to the post files to
+                    determine whether instructions to the posts were in fact carried out. Mr. Slany
+                    replied that wherever the post files existed, we tried to do this. Mr. Slany
+                    also said that the computerized microfilm system would be especially useful in
+                    the permanent retention of post files, which in the past had often been
+                    destroyed. Mr. Kogan said that post files up through 1949 were available to
+                    scholars either at the Archives or at Suitland, Maryland. Mr. Oliver mentioned
+                    that in his experience, it had been important to know the drafters of messages,
+                    particularly of incoming telegrams. Mr. Trask affirmed the importance of post
+                    records to our research and adjourned the open portion of the meeting at
+                    12:16.</p>
+                <p>Mr. Lawrence S. Eagleburger, Deputy Under Secretary State for Administration, was
+                    host for members of the Committee at a luncheon in the Thomas Jefferson Room.
+                    Ambassador Reinhardt and Messrs. Blair, Trask, Dyess, Pruden, Aandahl, Costrell,
+                    and Slany also were present.</p>
+                <p>Speaking on behalf of the Committee, Mr. Oliver expressed gratitude for the
+                    hospitality extended to them by Mr. Eagleburger and his colleagues. He noted
+                    that the committee was glad to observe progress on the part of the series, which
+                    he thought was well conceived, capably edited, and of great public value. The
+                    problems that needed attention were mostly matters of engineering and resources,
+                    and here the committee hoped that the Department would find ways to meet the
+                    very real needs felt by the three national scholarly organizations they
+                    represented.</p>
+                <p>In response, Mr. Eagleburger said that the Department always welcomed and
+                    appreciated the advice from the Committee, which had been both understanding and
+                    persistent over the years. Agreeing that the problems of engineering and
+                    resources were important, Mr. Eagleburger noted that the Department was now
+                    studying what could be done.</p>
+                <p>After luncheon the Committee met in closed session, and at 3:30 the members
+                    (accompanied by Ambassador Reinhardt, Mr. Trask, and Mr. Aandahl) met with
+                    Secretary of State Kissinger. At 4:14 members of the Committee met in a private
+                    session to discuss their forthcomming report, and at about 5:15 some of them
+                    (accompanied by Messrs. Trask and Aandahl) made a brief visit to FADRC, where
+                    Messrs. Pruden and Machek gave a quick demonstration of the cathode ray tube
+                    system.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

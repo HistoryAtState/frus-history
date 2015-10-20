@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+    <id>2</id>
+    <title>Inaugural conference of the FRUS Special Conference Series</title>
+    <created>2011-02-01</created>
+    <icon>
+        <width>150px</width>
+        <height>110px</height>
+        <url>http://static.history.state.gov/frus150/frus1969-76v31.jpg</url>
+        <alttext>Cover of “Foreign Economic Policy, 1973-1976”</alttext>
+    </icon>
+    <link>/conferences/2011-foreign-economic-policy</link>
+    <link-alttext>Link to “Foreign Economic Policy, 1973-1976”</link-alttext>
+    <event-type>Conference</event-type>
+    <event-date>2011-03-07</event-date>
+    <teaser>
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <a href="/conferences/2011-foreign-economic-policy">“Foreign Economic Policy,
+                1973-1976”</a>
+            <br/> (Inaugural conference of the FRUS Special Conference Series)</div>
+    </teaser>
+    <full-description>
+        <div xmlns="http://www.w3.org/1999/xhtml" id="foreign-economic-policy">
+            <a style="float:right" class="not-external" href="/conferences/2011-foreign-economic-policy" title="Foreign Economic Policy,                 1973-1976">
+                <img width="150px" height="110px" style="border:1px black solid" src="http://static.history.state.gov/frus150/frus1969-76v31.jpg" alt="Cover of “Foreign Economic Policy, 1973-1976”"/>
+            </a>
+            <h3>
+                <a href="/conferences/2011-foreign-economic-policy">“Foreign Economic Policy,
+                    1973-1976”</a>
+            </h3>
+            <p style="font-size: 0.825em; text-transform: uppercase;"> Inaugural conference of the FRUS Special Conference Series<br/>March 31, 2011</p>
+            <p>As part of an array of events designed to commemorate the sesquicentennial of the <em>Foreign Relations of the United States</em> (<em>FRUS</em>) series, the State Department’s Office of the Historian is inaugurating the FRUS Special Conference Series to highlight recently-published FRUS volumes.</p>
+            <p>On March 7th, the Office of the Historian and the George Mason University School of Public Policy will host a half-day conference focused on the <em>FRUS</em> volume dealing with <em>Foreign Economic Policy, 1973-1976</em>. The conference will take place at the George Mason University School of Public Policy in Arlington, Virginia. The text of <em>Foreign Economic Policy, 1973-1976</em> is available online.</p>
+        </div>
+    </full-description>
+</event>

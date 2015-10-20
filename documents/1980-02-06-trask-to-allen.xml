@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Letter From David Trask to Gale Allen, February 1980</title>
+                <title type="short">Trask to Allen, 1980</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-01-22">January 22, 2014</date>
+                <date type="created" when="1980-02-06">February 6, 1980</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1980-02-06-trask-to-allen.pdf">PDF</ref>, 165 KB, 4pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Administration, Office of
+                    Freedom of Information, Privacy, and Classification, Historical Documents Review
+                    Office Record Files, 1950-1993 (Lot File 95 D 113), Box 1, CIA General. An
+                    unknown hand wrote comments in the margins and underlined passages in the text.
+                    For these annotations, refer to the scanned copy of this document.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 9, <ref
+                    target="../chapter-9#fn17">Footnote 17</ref></p>
+            <div type="document">
+                <head>Letter From David F. Trask (Director of the Historian’s Office) to Gale W.
+                    Allen (Chief of the Classification Review Division at the Central Intelligence
+                    Agency)</head>
+                <dateline>February 6, 1980</dateline>
+                <p>Dear Mr. Allen:</p>
+                <p>We appreciate the opportunity some of our historians had last fall to discuss
+                    with you and your colleagues certain specific questions relating to
+                    declassification of the <hi rend="italic">Foreign Relations</hi> manuscripts.
+                    Specifically, your careful reconsideration of the documents selected for
+                    publication in volume XII, 1952-54, has been helpful to us, and we welcome your
+                    adherence to the rule of reason in surveying the material we have submitted for
+                    declassification review.</p>
+                <p>We are anxious to insure that our efforts to declassify material for the <hi
+                        rend="italic">Foreign Relations</hi> series comports with the general spirit
+                    of “openness” reflected in E.O. 12065. Still troubling us are several points
+                    arising from our discussions and from your letter of October 28 presenting the
+                    rationale for your review of documents selected for publication in the <hi
+                        rend="italic">Foreign Relations</hi> series.</p>
+                <p>1. The legal role of the <hi rend="italic">Foreign Relations</hi> series in
+                    executive disclosure of material containing CIA equities is of key importance.
+                    Mandates issued over the years make clear that the series is a prime vehicle for
+                    initial disclosure of information on foreign policy. In 1972 President Nixon
+                    stated that the publication provided “an indispensable perspective on our
+                    Nation’s history.” He instructed the Secretary of Defense, the Director of
+                    Central Intelligence, and the Assistant to the President for National Security
+                    Affairs “to cooperate fully in collecting and declassifying the appropriate
+                    materials to the maximum extent consistent with the requirements of national
+                    security.” The Congress has repeatedly recognized the <hi rend="italic">Foreign
+                        Relations</hi> series as the official record of US foreign policy, most
+                    recently in the course of the hearings on the Foreign Assistance Authorization
+                    Act of 1979. ISOO Directive No. 1 confirmed the executive mandate expressed by
+                    President Nixon in 1972. It also instructed all agency heads to help the editors
+                    of the series meet their mandated goal of publishing twenty years after the
+                    event by facilitating access to classified material and expediting
+                    declassification of selected items. Accordingly, the legal bases of the series
+                    require us, subject to the needs of national security, to publish the material
+                    adjudged important regardless of whether it has been previously disclosed. We
+                    would be in violation of our mandates if we limited ourselves only to
+                    publication of material on US foreign policy that has already been released
+                    through “prior authorized executive disclosure.” Furthermore, we are unable to
+                    locate in law any countervailing authority for applying as a standard for
+                    declassification the criterion of “prior authorized executive disclosure.” The
+                    only legal standards applicable to CIA’s review of <hi rend="italic">Foreign
+                        Relations</hi> documentation are the “identifiable damage” criterion in E.O.
+                    12065, Section 6 of the 1949 CIA Act, pertaining specifically to “intelligence
+                    sources and methods,” and E.O. 12036, which speaks of “intelligence sources,
+                    methods, and analytical procedures.”</p>
+                <p>2. Retention of classification at the point of systematic review under E.O. 12065
+                    is discretionary. The “identifiable damage” criterion, as you acknowledged in
+                    your letter of October 28, is one that the State Department desks apply
+                    carefully in reviewing the same material. The key issue is whether, despite the
+                    passage of time, the information, if released, would cause identifiable damage
+                    to US foreign policy. Even then, the balancing test may be applied in some cases
+                    to decide whether the damage would outweigh the public’s right to the
+                    information. [<hi rend="italic">Text not declassified</hi>] must be adjudged
+                    detrimental to the national interest at present in order for these materials to
+                    remain classifiable. Publication of the material would reveal only that the CIA
+                        <hi rend="underline">had</hi> a station there and carried out activities
+                    there 26 years ago. They say nothing, nor could they say anything, about whether
+                    the CIA <hi rend="underline">has</hi> a station there at present. The
+                    distinctions between whether the CIA “has or had a station in the country” and
+                    whether it “has or had an intelligence liaison relationship” are fundamentally
+                    important. Certainly if a true source or method is likely to be unveiled as a
+                    result of publishing anything from that period, we will be responsive to CIA’s
+                    request fr excision. But if publication raises in the mind of the reviewer the
+                    possibility of “identifiable damage” to US foreign relations, as interpreted
+                    under the discretionary provisions of E.O. 12065, we are obligated to weigh
+                    carefully arguments in favor of release against those favoring retention. This
+                    rule holds true in all cases, but it is particularly true when the State
+                    Department recommends release and the CIA recommends withholding. In the
+                    particular case specified in volume XIII (CHI 62-63) and in numerous other
+                    similar cases, the State Department judged that no identifiable damage to US
+                    foreign relations would result from release of the material.</p>
+                <p>3. Apart from the legal strictures governing the content of the series, which
+                    require us to compile as complete a record as possible and to examine rigorously
+                    recommendations for excision against national security criteria, we have other
+                    compelling reasons for including the broadest scope of documentation in the
+                    publication.</p>
+                <list>
+                    <item>a. In the first place, the series, which has been published continuously
+                        for 128 years, is widely recognized as the most authoritative documentary
+                        publication of its kind on foreign policy issues. To omit significant
+                        categories of foreign relations material from it would compromise its
+                        authoritative character.</item>
+                    <item>b. Secondly, failure to publish material concerning information already in
+                        the public domain -- as is very often the case with documents a quarter of a
+                        century old -- weakens the credibility of the series. By direct inference,
+                        it also weakens the credibility of the agency responsible for withholding
+                        that information. The presentation of evidence by this office to show that
+                        certain information is already in the public domain is therefore not
+                        intended to establish “authorized executive disclosure,” but rather to
+                        pinpoint areas in which the credibility of both the series and the
+                        responsible agency would be damaged by further withholding of the
+                        documentation.</item>
+                    <item>c. The publication represents the last chance that the US government has
+                        to reveal publicly the record of it foreign policy in its full context.
+                        Documentation released out of context, even a few years later either through
+                        Freedom of Information procedures or at the National Archives, if far more
+                        susceptible to sensationalist treatment in the press or elsewhere than is
+                        documentation released in its proper setting. The history of the <hi
+                            rend="italic">Foreign Relations</hi> series proves the point.</item>
+                    <item>d. Finally, publication at a remove of 25 or 30 years normally assures
+                        that the information presented has become desensitized. As E.O. 12065
+                        recognizes, the passage of time can be fundamental to determining whether
+                        identifiable damage to US foreign relations can occur. [<hi rend="italic"
+                            >Text not declassified</hi>] illustrates the point, although the recent
+                        publication of this information only reiterates disclosures made eight years
+                        ago. Because many of the historical actors are still on the political scene,
+                        events of 1971 are very likely to remain sensitive today. Events dating from
+                        1954 or earlier are likely to be desensitized because most or all of the
+                        actors have departed the scene.</item>
+                </list>
+                <p>4. Although we fully recognize the statutory obligation of the CIA to protect
+                    “intelligence sources and methods” the Charter of 1949 does not protect
+                    locations, general agency activities not disclosing methods, foreign liaison, or
+                    appraisals of situations. The legislative intent was not to inflate the
+                    definition of the term “sources and methods” beyond its normal meaning. In
+                    enacting the statutory authority the legislature referred only to protecting
+                    “intelligence sources and methods” and the “organization, functions, names,
+                    official titles, salaries, or numbers of personnel employed by the Agency.” The
+                    former phrase refers explicitly only to sources and methods; the latter only to
+                    human sources. Information concerning other intelligence-related matters such as
+                    locations, activities, liaison, and appraisals can only be withheld under the
+                    “identifiable damage” criterion embodied in E.O. 12065.</p>
+                <p>I hope that these comments clarify our position. We request an opportunity to
+                    discuss the foregoing points further at your convenience.</p>
+                <p>Sincerely yours,<lb/>David F. Trask</p>
+            </div>
+        </body>
+    </text>
+</TEI>

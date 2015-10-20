@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Record of Historical Advisory Committee Meeting, November
+                    1968</title>
+                <title type="short">HAC Meeting Record, 1968</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-04-21">April 21, 2014</date>
+                <date type="created" when="1968-11-01">November 1, 1968</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1968-11-01-hac-meeting-minutes.pdf">PDF</ref>, 394 KB, 15pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 2, 1968—Minutes. Limited Official Use. Page 2
+                    of the minutes is missing from the record copy. Attached charts are not
+                    posted.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 8, <ref
+                    target="../chapter-8#fn55">Footnote 55</ref></p>
+            <div type="document">
+                <head>Record of the 1968 Meeting of the Advisory Committee on <hi rend="italic"
+                        >Foreign Relations of the United States</hi></head>
+                <dateline>November 1, 1968</dateline>
+                <list>
+                    <item>The Advisory Committee:<list>
+                            <item>Inis L. Claude, Professor of Government and Foreign Affairs,
+                                University of Virginia (American Political Science
+                                Association)</item>
+                            <item>Hardy C. Dillard, Dean of the School of Law, University of
+                                Virginia (American Society of International Law)</item>
+                            <item>W. Stull Holt, Professor of History, University of Washington
+                                (American Historical Association)</item>
+                            <item>Ernest R. May, Professor of History, Harvard University (American
+                                Historical Association)</item>
+                            <item>Stanley D. Metzger (Chairman), Chairman, United States Tariff
+                                Commission and Professor of Law, Georgetown University (American
+                                Society of International Law)</item>
+                            <item>Elmer Plischke, Professor of Government and Politics, University
+                                of Maryland (American Political Science Association)</item>
+                            <item>J. E. Wallace Sterling (Absent), Chancellor of Stanford University
+                                (American Historical Association)</item>
+                            <item>Paul L. Ward (substituting for Dr. Sterling), Executive Secretary,
+                                American Historical Association</item>
+                        </list></item>
+                    <item>The Bureau of Public Affairs:<list>
+                            <item>Dixon Donnelley, Assistant Secretary of State for Public
+                                Affairs</item>
+                        </list></item>
+                    <item>The Historical Office:<list>
+                            <item>William M. Franklin, Director</item>
+                            <item>Richardson Dougall</item>
+                            <item>S. Everett Gleason</item>
+                            <item>Edwin S. Costrell</item>
+                            <item>Arthur G. Kogan</item>
+                            <item>Fredrick Aandahl</item>
+                            <item>Rogers P. Churchill</item>
+                            <item>Ralph R. Goodwin</item>
+                            <item>Howard M. Smyth</item>
+                            <item>Velma H. Cassidy</item>
+                            <item>Herbert A. Fine</item>
+                            <item>John P. Glennon</item>
+                            <item>Marvin W. Kranz</item>
+                            <item>Neal H. Petersen</item>
+                            <item>John G. Reid</item>
+                            <item>Charles S. Sampson</item>
+                            <item>William Slany</item>
+                            <item>David H. Stauffer</item>
+                        </list></item>
+                    <item>The Publishing and Reproduction Services Division, Office of Operations:<list>
+                            <item>Peter A. Smith, Chief, Editorial Services Branch</item>
+                        </list></item>
+                </list>
+                <p>[<hi rend="italic">Page 2 is missing from the record copy.</hi>]</p>
+                <p><hi rend="underline">Dr. Holt</hi> expressed the grave concern felt by historians
+                    at the slowness of the <hi rend="italic">Foreign Relations</hi> publication
+                    program. The further the series fell behind currency, the more slowly were files
+                    of the Department opened for access to the scholars. <hi rend="underline">Dr.
+                        Holt</hi> raised the question whether restrictions on access to files by
+                    “outside” researchers were based on substantive grounds or on procedural delays
+                    in the publication process. He thought that the latter should not be allowed to
+                    determine the time of access. Why could not access be granted in accordance with
+                    the original intent of the 20-year rule, regardless of the lag in the editing
+                    and publishing of the volumes?</p>
+                <p><hi rend="underline">Dr. Holt</hi> also suggested that if clearance could take
+                    place at the manuscript stage rather than the galley, the declassified documents
+                    could thereby be made available to outside researchers much earlier. <hi
+                        rend="underline">Dr. Franklin</hi> explained that much declassification of
+                    documents could be effected even sooner than 20 years if the necessary manpower
+                    were available. But in the absence of such resources, it was only with the
+                    printing and circulation of <hi rend="italic">Foreign Relations</hi> galleys
+                    that top-level papers could be brought up for declassification by policy
+                    officers in an organized and wholesale fashion. The whole process could be
+                    speeded up if <hi rend="italic">Foreign Relations</hi> published the documents
+                    in raw facsimile, but this was impracticable because of the large number that
+                    would be illegible or incomprehensible without editorial treatment. As it was,
+                    the Department’s policy officers were so busy with their regular work that they
+                    could hardly find time to clear printed galleys that were clear and compact. It
+                    would be hopeless to attempt any earlier clearance of facsimiles in any large
+                    quantities.</p>
+                <p><hi rend="underline">Dr. Metzger</hi> asked if technical innovations in compiling
+                    procedures might not significantly save time in preparing <hi rend="italic"
+                        >Foreign Relations</hi> volumes. <hi rend="underline">Dr. Gleason</hi> and
+                        <hi rend="underline">Dr. Franklin</hi> replied that computerized document
+                    retrieval had no possible application soon to the work of the series. One
+                    technological improvement had been utilized, however. The use of microfilm
+                    blowups in place of typed manuscript had considerably increased the speed and
+                    accuracy of compiling and editing of the volumes. In connection with the
+                    discussion of microfilming, <hi rend="underline">Dr. Holt</hi> observed the
+                    possible usefulness to scholars of routing indications on documents and asked if
+                    these might be somehow recorded in texts printed in <hi rend="italic">Foreign
+                        Relations</hi>. <hi rend="underline">Dr. Gleason</hi> replied that routing
+                    indicators of real consequence on source texts are frequently noted in
+                    annotations in the volumes. He pointed out that the exact routing of a document
+                    was often unknown.</p>
+                <p><hi rend="underline">Dr. Plischke</hi> wondered whether it might be possible to
+                    publish certain volumes of <hi rend="italic">Foreign Relations</hi> more rapidly
+                    than others. <hi rend="underline">Dr. Franklin</hi> replied by pointing out the
+                    serious consequences of issuing volumes very far out of chronology.</p>
+                <p>THE COLD WAR AND <hi rend="italic">FOREIGN RELATIONS</hi></p>
+                <p><hi rend="underline">Dr. Dillard</hi> pointed out the timely relevance of <hi
+                        rend="italic">Foreign Relations</hi> to the current debate on international
+                    relations, particularly in light of the revisionist trends in the study of the
+                    Cold War, and their impact on college students. He noted that the <hi
+                        rend="italic">Foreign Relations</hi> volume for 1945 that he had recently
+                    read made it brilliantly clear who started the Cold War.</p>
+                <p><hi rend="underline">Dr. Ward</hi> agreed. He indicated his concern about the
+                    growing criticism by alienated younger scholars to the effect that the United
+                    States was just as bad as Russia. Certainly history had a fundamental role to
+                    play in this situation.</p>
+                <p><hi rend="underline">Dr. Gleason</hi> said that he had hoped very much last year
+                    that this argument could help to speed up the series. It had indeed been
+                    mentioned in the Committee’s report, but the Department had not responded with
+                    any real assistance. <hi rend="underline">Dr. Dillard</hi> felt that this had
+                    not been emphasized enough, and that the Department of State had shown a very
+                    short-sighted attitude in this regard. <hi rend="underline">Dr. Ward</hi> asked
+                    if a resolution of the American Historical Association would help. <hi
+                        rend="underline">Dr. Gleason</hi> said he would hope so, but that the “New
+                    Left” would always feel that we had left the meat out of our volumes, if they
+                    read them at all.</p>
+                <p><hi rend="underline">Dr. Ward</hi> said that our concern should be not so much
+                    with the “New Left” itself as with the other scholars who while awaiting the
+                    record, have tended to acquiesce in their views. The Department of State should
+                    provide the official record as a basis for better understanding of the
+                    situation. <hi rend="underline">Dr. Dillard</hi> said that <hi rend="italic"
+                        >Foreign Relations</hi> was an opinion-molder, and the Department needed to
+                    see this. <hi rend="underline">Dr. Gleason</hi> agreed, pointing out that <hi
+                        rend="italic">Foreign Relations</hi> showed the actual choices and
+                    alternative policies open to the United States in response to immediate
+                    situations; this put the whole thing on a plane of reality. <hi rend="underline"
+                        >Dr. Dillard</hi> thought that Secretary Rusk might have made too much of
+                    the analogy to Munich, but that one needed a feel for documents to put world
+                    developments into some kind of perspective. <hi rend="underline">Dr.
+                        Metzger</hi> added that the postwar German and Polish stories were quite
+                    crucial to an understanding of the Cold War. <hi rend="underline">Dr.
+                        Gleason</hi> said that the records show how we leaned over backwards in 1945
+                    to make every possible concession to the Soviets to demonstrate our good faith
+                    in seeking peaceful solutions in Europe. <hi rend="underline">Dr. Ward</hi>
+                    thought that it would be very helpful if we could compile and publish “a year in
+                    a year” as an earnest of the Department’s intention to further this kind of
+                    debate on the early years of the Cold War. It was very important that our
+                    position was not reaching the public. <hi rend="underline">Dr. Dillard</hi>
+                    noted the relevancy of our stories on Czechoslovakia in 1945 and 1948 to the
+                    recent crisis in that country. <hi rend="underline">Dr. Metzger</hi> said that
+                    our 1948 volume would have an enormous impact if it were out now. <hi
+                        rend="underline">Dr. Franklin</hi> said that this was an excellent example
+                    of the benefits of the 20-year rule, if only we could make it stick.
+                    Unfortunately the top officers of the Department had not so far seen it that
+                    way.</p>
+                <p><hi rend="underline">Dr. Franklin</hi> noted that target dates also affected our
+                    own morale and output. The long delay between completion of a manuscript and
+                    final publication could be quite disheartening. The whole assembly line for
+                    these volumes would move faster if HO actually had a firm schedule and could do
+                    a year in a year. Short of that, everything sagged all along the line.</p>
+                <p>AGENDA ITEM II: PROBLEMS OF EDITING</p>
+                <p><hi rend="underline">Mr. Smith</hi> reviewed the work of the Publishing and
+                    Reproduction Services Division. He was particularly pleased to report to the
+                    Committee that 9322 pages of <hi rend="italic">Foreign Relations</hi> had been
+                    published in fiscal year 1968, a record output. He advised the Committee that a
+                    new outside contractor, Crowell Collier Educational Corporation, a subsidiary of
+                    Crowell Collier Macmillan, Inc., was replacing the World Publishing Company as
+                    technical editor of the series. He admitted a severe contraction of the
+                    Department’s “in-house” capability, but he asserted it would suffice to maintain
+                    quality control. In this regard, he laid great stress on silent reading by
+                    senior editors. He explained that scheduling was of the essence in dealing with
+                    outside contractors, and he noted that the four volumes of 1946 languishing in
+                    clearance were injuring his schedule. He said also that if the <hi rend="italic"
+                        >Foreign Relations</hi> staff would compile a year in a year, such
+                    scheduling would be facilitated. He pledged that technical editing would keep up
+                    with HO compiling. His aim, through outside contracting, was to have a volume of
+                    manuscript readied for galleys in 45 working days and an index in one month,
+                    both far shorter than had previously been the case.</p>
+                <p><hi rend="underline">Dr. Franklin</hi> commented that <hi rend="underline">Mr.
+                        Smith’s</hi> picture was far too optimistic. He cited the example of the
+                    Washington-Casablanca volume which had been grossly mishandled and delayed by
+                    the Government Printing Office. He explained that although outside contractors
+                    might finish an index in a month or two, the <hi rend="italic">Foreign
+                        Relations</hi> staff had spent much time reviewing and correcting their
+                    work. <hi rend="underline">Mr. Smith</hi> admitted that this was true but he
+                    felt that the picture was improving.</p>
+                <p><hi rend="underline">Dr. Metzger</hi> raised the question of annual contracts vs.
+                    multiyear contracts, pointing out that some of the risk involved in contract
+                    editing with private firms might be eliminated or reduced if these firms were
+                    obliged to undertake a contract covering several years. <hi rend="underline">Mr.
+                        Smith</hi> explained that PBR was not authorized to make contracts exceeding
+                    one year, but <hi rend="underline">Dr. Metzger</hi> urged that the Department
+                    should obtain such authorization.</p>
+                <p><hi rend="underline">Dr. Slany</hi> urged the Committee to consider accepting a
+                    more simplified index for <hi rend="italic">Foreign Relations</hi> in place of
+                    the detailed analytical index which had been traditional with the series and
+                    which required four to six months to prepare. <hi rend="underline">Dr.
+                        Franklin</hi> noted that other major publications of official documents
+                    seemed to get by with very poor and thin indexes. <hi rend="underline">Dr.
+                        Ward</hi> stressed the value of the good <hi rend="italic">Foreign
+                        Relations</hi> indexes, and it was the consensus of the Committee that there
+                    should be no lowering of the standards. <hi rend="underline">Dr. Dillard</hi>
+                    noted that one of the recent indexes, despite its length and quality, did not
+                    carry all significant entries under important names, such as John McCloy.</p>
+                <p>AGENDA ITEM III: CLEARANCE DIFFICULTIES AND PROSPECTS</p>
+                <p><hi rend="underline">Dr. Gleason</hi> told the Committee that there had been a
+                    slight trend in the direction of more rapid Departmental clearance of <hi
+                        rend="italic">Foreign Relations</hi> volumes. In the cases of some volumes,
+                    clearance had been completed in less than six months. There remained, however,
+                    those annoying cases at the other extreme; a 1945 volume had been in the
+                    clearance process for 23 months. Some of the more rapid Departmental clearances
+                    must be attributed to a new procedure inaugurated during the past year. With the
+                    help of the Executive Director of the Bureau, it had been possible to have
+                    several upper-grade Foreign Service Officers who were temporarily available
+                    assigned the task of assisting the policy bureaus in reviewing <hi rend="italic"
+                        >Foreign Relations</hi> galleys. These Foreign Service Officers had
+                    performed their tasks most expeditiously, and <hi rend="underline">Dr.
+                        Gleason</hi> hoped that more such officers would be available in the future.
+                    Clearance of galleys in the Department of Defense remained slow -- averaging
+                    over a year in time. In answer to a question, <hi rend="underline">Dr.
+                        Franklin</hi> explained that the galleys were reviewed by all the military
+                    services, but that the major clearance hurdle was the Historical Division of the
+                    Joint Chiefs of Staff, a small and heavily burdened group. But their review was
+                    meticulous and often provided additional information. <hi rend="underline">Dr.
+                        Gleason</hi> felt that the few suggested improvements failed to outweigh the
+                    long delay in clearance.</p>
+                <p><hi rend="underline">Dr. Ward</hi> protested that the <hi rend="italic">Foreign
+                        Relations</hi> series was after all a responsibility of the Department of
+                    State, and it was the Department’s policies and negotiations which formed the
+                    core of the documentation in the volumes. Perfection in nuance by other agencies
+                    ought to be resisted when it involved long delay in publication.</p>
+                <p><hi rend="underline">Dr. Gleason</hi> at this point offered two suggestions to
+                    speed internal clearance: (1) To extend from the current three months to six
+                    months the amount of time desk officers would be allowed to clear a volume; if
+                    there was no reaction from the desks by that time, <hi rend="italic">Foreign
+                        Relations</hi> would proceed with publication after making such deletions as
+                    appeared necessary. (2) Clearance at the desks should only be handled by
+                    officers of Class III and higher. These are the experienced officers, with a
+                    broader view of the subject, who would not raise the inconsequential objections
+                    frequently now made by lower ranking officers with less experience and
+                    authority.</p>
+                <p><hi rend="underline">Dr. Franklin</hi> opined that clearance difficulties would
+                    mount in the years ahead, for the following reasons: (1) We had made successful
+                    use of the flood of good wartime memoirs to rebut objections, but the number of
+                    good memoirs was much lower for the postwar period; (2) Many emergent postwar
+                    problems, such as the acquisition of overseas military bases, were still very
+                    much alive today; (3) We were “fighting the antibiotics” in that many persons of
+                    prominence in the immediate postwar years were still in the political limelight;
+                    (4) The United States in the postwar years was in the center of the diplomatic
+                    history of the world; responsibilities and commitments made for clearance
+                    difficulties.</p>
+                <p><hi rend="underline">Dr. Dillard</hi> thought that the real need was to get the
+                    documents published as an aid to our political posture, and he thought that
+                    there had been too much parochial thinking on the part of clearance officers in
+                    the Department. Somehow the notion must get to them that these papers
+                    represented a positive contribution and were important in their own right. <hi
+                        rend="underline">Dr. Metzger</hi> observed that we must use the
+                    countervailing force of the public interest in getting the documents out. In
+                    many cases <hi rend="italic">Foreign Relations</hi> was but reinforcing known
+                    material rather than offering new data, but this was a valuable and defensible
+                    contribution too. <hi rend="underline">Dr. May</hi> added that ninety percent of
+                    the real information about the postwar world had already appeared in the news
+                    papers, and that there was not much real revelation in the documents. The prime
+                    value of the series was systematic documentation.</p>
+                <p><hi rend="underline">Dr. Holt</hi> thought that the 25-year gap might be reduced
+                    by narrowing the coverage of the series, and he particularly objected to the
+                    long delay in publishing volumes after they had been cleared. <hi
+                        rend="underline">Dr. Gleason</hi> pointed out that we had already done much
+                    to tighten the selections in the volumes for 1947 and 1948. <hi rend="underline"
+                        >Dr. Ward</hi> said that he was much encouraged, for he felt that <hi
+                        rend="italic">Foreign Relations</hi> would have a much greater impact if it
+                    were more selective. <hi rend="underline">Dr. Plischke</hi> proposed raising the
+                    level of <hi rend="italic">Foreign Relations</hi> documentation and restricting
+                    the record largely to the ultimate policies and decisions and the immediate
+                    factors leading thereto. Lower-level documentation would be omitted. In this way
+                    it might be possible to concentrate the annual record into three or four
+                    volumes. <hi rend="underline">Dr. Metzger</hi> stressed that American
+                    motivations and the assessment thereof were the really important factors to be
+                    documented.</p>
+                <p><hi rend="underline">Dr. Franklin</hi> felt that no substantial improvement in
+                    the clearance matter could be engineered at the working level and that real
+                    gains could come only through strong support from the top officers of the
+                    Department. <hi rend="underline">Dr. Dillard</hi> said that this was a familiar
+                    syndrome both in government and in the foundations; there was a certain apathy
+                    about historical and scholarly projects, and we had somehow to strike a positive
+                    note and convince the policy-makers that this was not some purely antiquarian
+                    operation.</p>
+                <p>At 12:10 p.m. the Committee adjourned for lunch with the Secretary of State.</p>
+                <p>Afternoon Session</p>
+                <p>When the Committee resumed its session after lunch Dr. Franklin served as Acting
+                    Chairman, since Dr. Metzger had had to leave for a hearing involving the Tariff
+                    Commission.</p>
+                <p>THE PROBLEM OF PARAPHRASING</p>
+                <p><hi rend="underline">Dr. Gleason</hi> and <hi rend="underline">Dr. Franklin</hi>
+                    described to the Committee the problem that had arisen regarding cryptography.
+                    The Department of Defense had insisted that certain telegraphic messages,
+                    beginning in February 1946, had to be paraphrased, since otherwise there was the
+                    possibility that other, classified messages sent in the same codes on the same
+                    day might be decyphered by any foreign power that had taped and retained all
+                    such encrypted texts.</p>
+                <p>The position of the Department of Defense has had the effect of halting the
+                    processing of four <hi rend="italic">Foreign Relations</hi> volumes for 1946
+                    already otherwise cleared and ready for conversion from galley to page proof.
+                        <hi rend="underline">Dr. Aandahl</hi> estimated that as many as 1000 pages
+                    of material in the 1946 sequence of <hi rend="italic">Foreign Relations</hi>
+                    would have to be paraphrased in order to conform to the injunction. The fact
+                    that most of the messages in question were in substance State Department
+                    telegrams rather than military cables had no bearing on the matter. <hi
+                        rend="underline">Dr. Slany</hi> noted that the problem appeared to diminish
+                    for the period after October 1946, since few telegrams after that date, either
+                    State Department or military, bore any injunction requiring paraphrasing. <hi
+                        rend="underline">Dr. Franklin</hi> explained that the Historical Office had
+                    sought to obtain a waiver of the paraphrase requirement on these telegrams. The
+                    National Security Agency was inclined to grant the waiver on the ground that the
+                    risk of decyphering the still-classified texts was minimal, but the Defense
+                    Intelligence Agency and the Central Intelligence Agency insisted that we observe
+                    the paraphrasing requirement. Their decision was based on the fact that in a
+                    sampling of 63 messages they had discovered one reference to a covert
+                    source.</p>
+                <p>The Committee asked what it might do to support the Historical Office in this
+                    problem. <hi rend="underline">Dr. Franklin</hi> observed that none of us could
+                    argue the cryptographic angle of the matter, but that the Committee could help
+                    by expressing its strong preference for the publication of true texts rather
+                    than paraphrases in <hi rend="italic">Foreign Relations</hi>. In this connection
+                        <hi rend="underline">Dr. Dougall</hi> pointed to the sometimes significant
+                    differences between the English-language texts of Roosevelt-Stalin
+                    correspondence published by Soviet authorities and those published in <hi
+                        rend="italic">Foreign Relations</hi>. The difference arose from the fact
+                    that <hi rend="italic">Foreign Relations</hi> printed Roosevelt messages as
+                    cabled to Moscow. The Soviet publication presents those messages as delivered to
+                    Stalin in paraphrase.</p>
+                <p>In answer to inquiries from the Committee, <hi rend="underline">Dr. Franklin</hi>
+                    indicated that he would appeal the decision through higher officers. <hi
+                        rend="underline">Dr. Gleason</hi> noted that it would help if we only had to
+                    paraphrase the opening and closing sentences. The complete paraphrasing of all
+                    of the messages involved would require the full time of one historian for
+                    several months. <hi rend="underline">Dr. Ward</hi> urged the Historical Office
+                    to confirm that the protected system was no longer significantly used after 1946
+                    in order to strengthen the argument that very little pertinent data in still
+                    classified messages would be affected even theoretically.</p>
+                <p>AGENDA ITEM V: <hi rend="italic">FOREIGN RELATIONS</hi> AND ACCESS TO THE
+                    FILES</p>
+                <p><hi rend="underline">Dr. Franklin</hi> said that he had put this subject on the
+                    agenda because access was tied to <hi rend="italic">Foreign Relations</hi> and
+                    he knew that the Committee was concerned with this whole situation. For this
+                    reason he had asked Dr. Kogan to attend.</p>
+                <p><hi rend="underline">Dr. Kogan</hi> briefly summarized the Department’s policy
+                    regarding access to official records. Documents 30 years and older are in the
+                    “open” period, which is advanced automatically each year. At present the “open”
+                    period extends through 1938. Documents in this period are maintained at the
+                    National Archives in Washington and can be consulted by anyone -- even citizens
+                    of foreign countries. This category does not, however, include papers involving
+                    such matters as personnel, security investigations, intelligence reports, and
+                    visa and passport applications. Nor does it include those papers denied
+                    clearance for publication in <hi rend="italic">Foreign Relations</hi> by the
+                    Department, other government agencies, or foreign governments. The interval
+                    between the “open” period and the last year covered by <hi rend="italic">Foreign
+                        Relations</hi> is the “restricted” period, at present 1938 through 1944 and
+                    into 1945 for those subjects documented in the volumes of <hi rend="italic"
+                        >Foreign Relations</hi> for 1945 that are already published. Records for
+                    this “restricted” period are available to qualified researchers upon approval of
+                    their application and subject to the review of their notes. Non-American
+                    citizens are not allowed access to documents in the “restricted” period because
+                    of the classification problem. Topics for research in the “restricted” period
+                    must be approved by the appropriate policy offices of the Department. Topics for
+                    research are rarely disallowed. The Department’s Central Files for the period
+                    through 1944 are in the National Archives Building or in the Federal Records
+                    Center at Suitland, Maryland, and servicing of those records is conducted by the
+                    National Archives under the general control of the Department. Notes by
+                    researchers working the “restricted” period are reviewed by the Historical
+                    Office, in consultation with Department policy officers on possibly sensitive
+                    questions.</p>
+                <p>Department Central File documents for the period 1945 and later continue to be
+                    housed in the Department of State Building, and this poses a problem. Requests
+                    for documents of 1945 must be serviced by the Records Services Division under
+                    the general supervision of the Historical Office. Facilities for private
+                    researchers are very limited, and they are located in the midst of the
+                    Department’s current records operation, thus posing a security problem. Only
+                    part-time assistance from RS personnel is available. All these circumstances
+                    combine to make access to the post-1944 records more awkward and time-consuming
+                    than for earlier years. This situation is compounded by the growing number of
+                    so-called “lot files”.</p>
+                <p>LOT FILES</p>
+                <p><hi rend="underline">Dr. Franklin</hi> briefly described the “lot files” of the
+                    Department. Until the period of the Second World War, the system of document
+                    management within the Department assured that all documents of record were
+                    eventually included in the indexed Central Files. Under the impact of the war,
+                    this system had broken down; records retired from various offices and bureaus
+                    were kept together and labeled as a “lot” from that particular administrative
+                    area. The individual papers were not indexed and put into the Central Files, but
+                    were left in the original boxes where they still are today. This “system” was no
+                    system at all; it maintained a generally meaningless “archival provenance” which
+                    was of no help to the historian, who would have to go through these boxes paper
+                    by paper to find the “nuggets”.</p>
+                <p>The practice of accumulating unindexed “lot files” proliferated and goes on to
+                    the present day without sign of abatement. There are now thousands of separate
+                    “lot files”, stored in the Department or in the Federal Records Center at
+                    Suitland. The limited manpower available to the Division of the Records Services
+                    could only perform a most limited program of screening these messy files for
+                    duplicative and useless papers.</p>
+                <p>In answer to a question from <hi rend="underline">Dr. Plischke</hi>, <hi
+                        rend="underline">Dr. Franklin</hi> observed that the National Archives has
+                    refused to accept or service these files because of the absence of indexes and
+                    the unscreened nature of these aggregations of paper. <hi rend="underline">Dr.
+                        Kranz</hi> emphasized the incredibly chaotic state of the “lot files” and
+                    the fact that some very unlikely collections had yielded important
+                    documentation. Therefore they could not be ignored by any scholar. <hi
+                        rend="underline">Dr. Franklin</hi> recalled that “lot files” had first been
+                    used extensively in the Yalta volume, where they are indicated by special
+                    headnotes rather than index numbers. In the Department’s central files there had
+                    been but a handful of documents on the Yalta Conference, and the great bulk of
+                    Conference papers had to be ferreted out of other “lot files”. <hi
+                        rend="underline">Dr. Dougall</hi> observed that he had found certain Italian
+                    surrender documents in an unlikely “lot file” after a sleuthing operation that
+                    began with the Central Files and led through various other “lot files”.</p>
+                <p>In response to an inquiry from the Committee, it was pointed out that files of
+                    overseas missions were periodically retired to Washington, and they too were
+                    maintained at the Federal Records Center at Suitland. These post files were also
+                    a type of “lot file”, and they were important sources for the <hi rend="italic"
+                        >Foreign Relations</hi> series.</p>
+                <p>ACCESS TO THE FILES (Continued)</p>
+                <p><hi rend="underline">Dr. Kogan</hi> observed that the use of “lot files” by
+                    private researchers involved time-consuming complexities not encountered in the
+                    use of the indexed Central Files. Lacking indexes or adequate finding aids, the
+                    “lot files” must usually be subjected to a careful paper-by-paper examination.
+                    Dr. Kogan explained that part of the enduring value of <hi rend="italic">Foreign
+                        Relations</hi> lay in its trailblazing through these “lot files”,
+                    identifying those of particular value and use to outside scholars. The files are
+                    usually not internally organized on a chronological basis and often contain many
+                    papers originating with foreign governments, and other U. S. government agencies
+                    -- papers that cannot be made available to researchers. This means that more
+                    trust has to be put in the researcher to take notes only on what he is cleared
+                    for, by subject and chronology. There is no adequate research area for work on
+                    “lot files” either in the Department or in the Federal Records Center.</p>
+                <p><hi rend="underline">Dr. Kogan</hi> pointed out that his ever increasing
+                    responsibilities were complicated by the steady growth in the number of persons
+                    requesting access to the Department’s records. In order to render effective
+                    assistance to “outside” scholars it will be necessary to limit the categories of
+                    persons admitted. Some years ago it had been decided not to admit undergraduates
+                    to the files; now the question was whether we could continue to admit M.A.
+                    candidates, most of whom were certainly not very mature scholars. <hi
+                        rend="underline">Dr. Dillard</hi> asked how many persons annually applied
+                    for access to the files. <hi rend="underline">Dr. Kogan</hi> supplied some
+                    tentative figures with respect to the number of people applying and the
+                    proportion of advanced scholars as compared to graduate students and other users
+                    of records such as writers and journalists. He emphasized that without checking
+                    the files of the Historical Office he could only give estimates. <hi
+                        rend="underline">Dr. Franklin</hi> indicated that the Committee would be
+                    provided with detailed information later on. [In recent years the number of
+                    persons applying for access to records was in the neighborhood of 450 each
+                    year.]</p>
+                <p>Dr. Kogan concluded that the difficulties involved in administering the
+                    Department’s access program for the post-1944 period might necessitate some
+                    limitations on who might be admitted. Access might have to be limited to mature
+                    and responsible scholars. In practice this would mean that access would be
+                    restricted to Ph.D. candidates or other researchers exhibiting maturity and
+                    responsibility. <hi rend="underline">Dr. Holt</hi> said that he had received
+                    angry comments from Professors Philip Crowl (Nebraska) and Walter Johnson
+                    (Hawaii) about the Department’s refusal to let Johnson have access to the
+                    “Stevenson Papers”. <hi rend="underline">Dr. Franklin</hi> replied that Prof.
+                    Johnson was told that he could obtain access to the records in the restricted
+                    period on exactly the same basis as all other scholars; he wanted to make it
+                    clear that there had been no discrimination against Dr. Johnson. On the other
+                    hand it was worth recalling that Dr. Johnson had been the lucky recipient of
+                    treasure-troves of official papers in the private possession of Stettinius and
+                    Grew. What Johnson wanted was for the Department to let him “back up a truck”
+                    (as he had said at Dallas) and remove “Stevenson’s Papers” which Adlai would
+                    have done if he had lived. But times had changed since the passage of the
+                    Federal Records Act of 1950, which had resulted from the wholesale removals of
+                    official papers by Morgenthau and Stettinius. In fact Dr. Johnson has (from
+                    Adlai’s son) all the papers that were truly Stevenson’s; what he calls
+                    “Stevenson Papers” in the Department ate the official papers of the Department
+                    reflecting the activities of Adlai Stevenson. It was really not too difficult to
+                    distinguish private from official papers, and with regard to the latter he saw
+                    no reason why an exception to the rules should be made for Professor
+                    Johnson.</p>
+                <p><hi rend="underline">Dr. Holt</hi> expressed the view that Walter Johnson’s
+                    remark at Dallas (about “backing up a truck and removing your papers”) had been
+                    intended as a description of what actually happened, not an endorsement of the
+                    practice. Dr. Franklin said that this practice had been diminishing since the
+                    Federal Records Act and with more modern security controls. He mentioned that
+                    Secretary Rusk had been shocked to learn of the wholesale removals by Stettinius
+                    and that the Secretary had declared that his papers would remain in the
+                    Department “where they belonged”.</p>
+                <p>Dr. May observed that many government officials are able to leave the government
+                    with their official files intact through the expedient of donating such papers
+                    to a Presidential library, which takes care of the security angle. Various
+                    members of the Committee noted that the control over such papers remained in
+                    official hands, through the Archivist. It was noted also that the Presidents
+                    themselves can (and do) retain any of their own papers that they may not wish to
+                    turn over to their Libraries. <hi rend="underline">Dr. Franklin</hi> pointed out
+                    that Secretary Dulles had had no difficulty in distinguishing between his
+                    private and official papers; he had clearly specified that the microfilms of his
+                    official papers at Princeton should be controlled by the Department’s
+                    regulations on access.</p>
+                <p>CLEARANCE AND ACCESS</p>
+                <p><hi rend="underline">Dr. Holt</hi> summarized the many delays in the preparation
+                    of <hi rend="italic">Foreign Relations</hi> volumes. He pointed out that there
+                    was a period averaging two years in length per volume after clearances had been
+                    secured for galleys and the final release of volumes. He proposed that access be
+                    granted to the material as soon as it was cleared. <hi rend="underline">Dr.
+                        May</hi> supported this proposal. <hi rend="underline">Dr. Franklin</hi>
+                    pointed out that unfortunately the Historical Office could never be sure of when
+                    a volume would be released; some had been stopped or altered in various ways at
+                    the last minute. It would be a serious risk for the Historical Office to admit
+                    anyone to the files before the volumes were actually published. It was noted
+                    that the release of the special <hi rend="italic">Foreign Relations</hi>
+                    sub-series dealing with China had been interrupted by order of Secretary Dulles
+                    after several volumes had been published. Reference was also made to other
+                    examples through the years. <hi rend="underline">Dr. Franklin</hi> pointed out
+                    that publication of the volumes put the documents in the public domain and
+                    constituted an open announcement of areas now open for access; did the Committee
+                    want to abandon this equitable system in favor of one that would give an
+                    advantage to the scholars who happened to ask for something at the right
+                    moment?</p>
+                <p><hi rend="underline">Dr. Holt</hi> suggested that scholars could be given access
+                    to the files for which galley clearances had been obtained, but their notes
+                    would be withheld until the date of release of the pertinent <hi rend="italic"
+                        >Foreign Relations</hi> volumes. In answer to a question as to how the
+                    academic community would know about the status of clearances, <hi
+                        rend="underline">Dr. May</hi> suggested that a notification could be issued
+                    semi-annually by the Historical Office indicating those portions of the files
+                    newly added to the “restricted period” as a result of galley clearance. <hi
+                        rend="underline">Dr. Kogan</hi> pointed out the administrative difficulties
+                    of dealing with such an irregular system. <hi rend="underline">Dr. Dougall</hi>
+                    emphasized that clearance granted at the galley stage was only preliminary and
+                    that formal clearance occurred only at the actual time of release of volumes.
+                    The real “green light” came at that final moment when the imminent publication
+                    of a volume was announced and no dissenting voice was raised in the Department.
+                        <hi rend="underline">Dr. May</hi> asked if it would be appropriate for the
+                    Committee to recommend that the Historical Office seek formal authorization to
+                    publish materials at the time of galley clearance, thus changing preliminary
+                    clearance into final clearance and allowing the advance of the “restricted
+                    period”. <hi rend="underline">Dr. Franklin</hi> agreed that the Committee could
+                    make such a recommendation, but he suggested that the Committee should indicate
+                    that its first preference would be to accelerate clearance, publication, and
+                    access rather than to change the current access rules.</p>
+                <p><hi rend="underline">Dr. Holt</hi> saw little prospect for any acceleration in
+                    the clearance of documents. He regarded the delays, often as long as two years,
+                    as “indefensible”. <hi rend="underline">Dr. Dillard</hi> regarded the clearance
+                    difficulties as the direct result of “blatant bureaucratic inertia” of the worst
+                    sort. He thought the Committee should recommend that a time limit of three or
+                    perhaps six months should be set for clearance after which time the Historical
+                    Office would feel free to assume there were no objections to publication and the
+                    preparation of the volumes could proceed. <hi rend="underline">Dr. Franklin</hi>
+                    reminded the Committee that he had prepared a statement along these lines that
+                    was sent to Department officers along with galleys for clearance. This notice,
+                    at the Assistant Secretary level, stressed a three-month deadline on clearance,
+                    but the Historical Office had never dared to enforce it. <hi rend="underline"
+                        >Dr. Gleason</hi> proposed that clearing officers be given a six-month
+                    deadline, after which the volume would proceed to publication. In answer to a
+                    question from the Committee, <hi rend="underline">Dr. Gleason</hi> said that
+                    suggestions for deletions were never made by the Historical Office to clearing
+                    officers. Such a procedure would merely invite deletions -- whether necessary or
+                    not.</p>
+                <p>PROPOSED STAFF INCREASE</p>
+                <p><hi rend="underline">Dr. Ward</hi> referred to previous recommendations for staff
+                    increases and asked if the addition of two historians to the <hi rend="italic"
+                        >Foreign Relations</hi> staff would be sufficient to accelerate the
+                    publishing program significantly. <hi rend="underline">Dr. Franklin</hi> said
+                    that we would have to see. The addition of even two good historians could make
+                    quite a difference in everyone’s morale. The Committee had initially recommended
+                    six additional positions, but this was unrealistic in view of the budgetary
+                    situation in recent years. Former Assistant Secretary Manning had actually asked
+                    for three additional historians, but this request had not gotten past the budget
+                    office in the Department. In answer to a question from <hi rend="underline">Dr.
+                        Dillard</hi>, <hi rend="underline">Dr. Franklin</hi> said that additional
+                    personnel at the compiling stage was the most important item of all. A faster
+                    rate of compilation would set in train a faster flow throughout all steps in the
+                    preparations of volumes. A faster preparation of manuscripts would generate
+                    persuasive pressure for speedier editing, indexing, clearing, and publishing. If
+                    the Historical Office could actually compile a year in a year then the whole
+                    assembly line would suddenly acquire a goal and a schedule.</p>
+                <p>COVERAGE FOR 1947-1948</p>
+                <p>At the end of the meeting, <hi rend="underline">Dr. Gleason</hi> asked members of
+                    the Committee to examine the tables of contents of <hi rend="italic">Foreign
+                        Relations</hi> volumes for 1947-1948 (copies of which had been given to the
+                    Committee) and to indicate whether they were in agreement with the coverage
+                    proposed for those years.</p>
+                <p rend="center">*****</p>
+                <p>The open meeting ended at about 5 p.m. and the Committee continued in private
+                    session for another half hour.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

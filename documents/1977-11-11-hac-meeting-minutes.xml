@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Minutes of Historical Advisory Committee Meeting, November
+                    1977</title>
+                <title type="short">HAC Meeting Minutes, 1977</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-03-24">March 24, 2014</date>
+                <date type="created" when="1977-11-11">November 11, 1977</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1977-11-11-hac-meeting-minutes.pdf">PDF</ref>, 260 KB, 15pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 3, 1977-Minutes.</hi></p>
+            <div type="document">
+                <head>Minutes of the 1977 Meeting of the Advisory Committee on <hi rend="italic"
+                        >Foreign Relations of the United States</hi></head>
+                <dateline>November 11, 1977</dateline>
+                <p rend="underline">American Historical Association</p>
+                <list>
+                    <item>Dr. Lloyd C. Gardner, Professor of History, Rutgers University</item>
+                    <item>Dr. Norman A. Graebner, Professor of History, University of
+                        Virginia</item>
+                    <item>Dr. Betty Miller Unterberger, Professor of History, Texas A &amp; M
+                        University</item>
+                </list>
+                <p rend="underline">American Political Science Association</p>
+                <list>
+                    <item>Dr. Bernard C. Cohen, Professor of Political Science, University of
+                        Wisconsin</item>
+                    <item>Dr. Harold K. Jacobson, Professor of Political Science, University of
+                        Michigan</item>
+                </list>
+                <p rend="underline">American Society of International Law</p>
+                <list>
+                    <item>Ambassador John R. Stevenson, Sullivan &amp; Cromwell, New York</item>
+                    <item>Dr. Alona E. Evans, Professor of Political Science, Wellesley
+                        College</item>
+                </list>
+                <p rend="underline">Other Persons Present</p>
+                <p>The Bureau of Public Affairs:</p>
+                <list>
+                    <item>William D. Blair, Jr., Deputy Assistant Secretary of State for Public
+                        Affairs</item>
+                </list>
+                <p>The Office of the Historian:</p>
+                <list>
+                    <item>David F. Trask, The Historian (Executive Secretary of the Advisory
+                        Committee)</item>
+                    <item>Fredrick Aandahl, The Associate Historian</item>
+                    <item>William Z. Slany</item>
+                    <item>John P. Glennon</item>
+                    <item>Edwin S. Costrell</item>
+                    <item>Arthur G. Kogan</item>
+                    <item>Mary P. Chapman</item>
+                    <item>David H. Stauffer</item>
+                    <item>Neal H. Petersen</item>
+                    <item>Allen H. Kitchens</item>
+                    <item>David W. Mabon</item>
+                    <item>Harry F. Young</item>
+                    <item>Charles S. Sampson</item>
+                    <item>N. Stephen Kane</item>
+                    <item>Paul Claussen</item>
+                    <item>Mary M. Brandt</item>
+                    <item>Roberta L. DiGangi</item>
+                    <item>Lynn K. Fliakas</item>
+                    <item>Mark Garrow</item>
+                    <item>Evans Gerakas</item>
+                    <item>Steven Harper</item>
+                    <item>Dana J. Johnson</item>
+                    <item>Sharon Q. Johnson</item>
+                    <item>Ronald D. Landa</item>
+                    <item>Joan M. Lee</item>
+                    <item>Nina J. Noring</item>
+                    <item>Carl N. Raether</item>
+                    <item>William F. Sanford, Jr.</item>
+                    <item>Harriet D. Schwar</item>
+                    <item>Stanley Shaloff</item>
+                    <item>Louis J. Smith</item>
+                    <item>Mary Beth Stanton</item>
+                    <item>Ilana E. Stern</item>
+                    <item>Ruth M. Worthing</item>
+                </list>
+                <p>The Freedom of Information Staff:</p>
+                <list>
+                    <item>Barbara Ennis, Director</item>
+                    <item>Beverly Zweiben, Appeals Officer</item>
+                </list>
+                <p>As announced in press release No. 460, October 11, 1977, this meeting was divided
+                    into open and closed sessions. The following persons from the general public
+                    attended the open session: Professors Wayne S. Cole and George O. Kent of the
+                    University of Maryland; Dr. John A Bernbaum of the Christian College Consortium;
+                    and Mr. John Kotch of the Agency for International Development.</p>
+                <p rend="center"><hi rend="underline">Public Session--9:05 a.m.-10:40 a.m.<lb/>Room
+                        1205, Department of State</hi></p>
+                <p rend="center">AGENDA ITEMS 1, 2, AND 3: OPENING REMARKS, INTRODUCTION OF NEW
+                    MEMBERS, AND CURRENT STATUS OF THE OFFICE OF THE HISTORIAN (HO): DISCUSSION OF
+                    REPORTS SENT TO THE COMMITTEE BY THE HISTORIAN</p>
+                <p>Mr. Trask called the meeting to order, welcomed the members of the Committee, and
+                    introduced Mr. Blair.</p>
+                <p>Mr. Blair welcomed the members in behalf of the Deputy Under Secretary of State
+                    for Management, Ben Read, and the Assistant Secretary of State for Public
+                    Affairs, Hodding Carter III. Mr. Blair stressed the dual importance of the
+                    Office of the Historian to the Department of State, both as its official memory
+                    and as the spearhead of records declassification through the <hi rend="italic"
+                        >Foreign Relations</hi> series and other means. This year a new Executive
+                    Order on the declassification process is being drafted as the result of a
+                    Presidential Review Memorandum (PRM 29). The Executive Order, which was to be
+                    issued shortly, was expected to speed the process of putting classified
+                    information on the public record by reducing the normal ceiling from thirty to
+                    twenty years. This was a great step toward openness, but it would present some
+                    problems. Mr. Blair stated that it was important to the Department that its
+                    efforts to make progress in this area were known to the members of the
+                    Committee, and that the Department in turn have the members’ assistance.</p>
+                <p>Mr. Trask introduced the members of the Committee by name, and observed that the
+                    past year had been a most interesting one. One objective of the Office was to
+                    achieve publication of the <hi rend="italic">Foreign Relations</hi> series at a
+                    line twenty years from the present; another and more important objective was to
+                    preserve the quality of the series in the context of changing circumstances.
+                    Like Trotsky’s Permanent Revolution, the series must constantly alter. Of these
+                    changing circumstances, none was more important than the increasing integration
+                    of national security policy into foreign policy, and the participation in this
+                    process of a large number of governmental entities. Taking account of this
+                    process was the single most important matter confronting the members of the
+                    Office as professional scholars.</p>
+                <p>Mr. Trask stated that the Office had been able to establish the basis for a
+                    schedule that would lead to a twenty-year compilation line in a few years and to
+                    a twenty-year publication line a few years thereafter. This goal has been
+                    repeatedly recommended by the Advisory Committee. The new Executive Order would
+                    allow a liberalized bulk declassification of government records at twenty years,
+                    which in turn would help HO’s efforts at compilation and publication. These
+                    efforts would also be facilitated by a sounder resource base than in the
+                    past.</p>
+                <p>Mr. Trask then asked the members of the Committee to raise any questions they
+                    might have, particularly with regard to the reports sent to them on November 2.
+                    Mr. Gardner stated that he wished he could share Mr. Trask’s optimism, but found
+                    it disturbing that the number of volumes presently scheduled in effect
+                    represented a reduction of 66-2/3 percent in the <hi rend="italic">Foreign
+                        Relations</hi> series. The preeminent series of its kind in the world, which
+                    the Department of State had great pride in producing, was now to be reduced. Mr.
+                    Gardner felt that not all of his colleagues on the Committee and in the
+                    historical profession were comfortable that a mere qualitative improvement would
+                    be adequate. To replace lost pages with microform supplements seemed not to be
+                    an upgrading of the series, but rather a step backward.</p>
+                <p>Mr. Cohen observed that the question seemed to be one of resource allocation
+                    among competing functions. He felt that the Committee needed to know the
+                    relative costs of these functions and the amount of resources available. Mr.
+                    Trask replied that the resource question was only one of a range of
+                    considerations which had led to the levels presently slated. There had been an
+                    explosion in the volume of documentation in the post-World War II period. The
+                    large number of <hi rend="italic">Foreign Relations</hi> volumes published in
+                    recent years reflected the greater availability of resources, but the government
+                    had now moved from a period of relative affluence to a period of relative
+                    stringency at a time of greater costs. The increase in volume of documentation
+                    might be out of proportion to the quantity of records that were actually
+                    important, although there was no question that the volume of important materials
+                    had gone up. Where was one to stop in increasing the size of the series? The
+                    Office had been losing time; part of the price of catching up was to do a little
+                    bit less. HO now sought to obtain more productivity from its limited resources
+                    by using computerized word processing techniques, from which it anticipated
+                    major savings. A different use of personnel might also be necessary.</p>
+                <p>Mr. Trask went on to ask whether <hi rend="italic">Foreign Relations</hi> should
+                    continue to be what it was before, or whether changing circumstances suggested
+                    changes in the series. He felt that relatively few historians actually used the
+                    series, directly, because few worked in recent history. But the series was
+                    important nevertheless. HO must publish in book form a thoroughly objective and
+                    representative selection of available materials, but it should add an increasing
+                    amount of guidance in the form of reference material for the benefit of those
+                    who might later wish to consult unpublished materials. HO was making an
+                    increased effort to annotate the volumes to reflect materials not printed in
+                    full. Because the Office recognized the utility of making available as much of
+                    the documentation as possible, it had begun to explore micrographic techniques
+                    as a means of supplementing and deepening the volumes.</p>
+                <p>Mr. Trask stated that micrographic formats were less expensive and more easily
+                    distributed and offered for sale in other countries. Documentation on the
+                    postwar period was of increasingly greater interest to people all over the
+                    world, yet a remarkably small number of <hi rend="italic">Foreign Relations</hi>
+                    volumes were actually used outside the United States. While senior scholars
+                    resisted the use of micrographic materials because of their unfamiliarity,
+                    younger scholars did not. In the coming year HO would be investigating
+                    micrographic reproduction both as a means of cutting costs and of permitting a
+                    distribution not otherwise possible.</p>
+                <p>Mr. Graebner argued that <hi rend="italic">Foreign Relations</hi> was used much
+                    more widely than Mr. Trask had suggested, particularly in colleges and
+                    universities. Mr. Trask replied that in the course of his own career he had
+                    never once used a <hi rend="italic">Foreign Relations</hi> volume past the year
+                    1945 for teaching purposes, and suggested that scholars used the series only in
+                    parts rather than as a whole. Mr. Graebner felt that decisions made now would
+                    affect users of the series twenty or thirty years hence. Cutting back to the
+                    equivalent of four volumes per year would push the series back to the ratio of
+                    the 1920’s.</p>
+                <p>Mr. Gardner noted that the total of twelve volumes currently projected for each
+                    of the periods 1955-1957 and 1958-1960 included the crises and special
+                    developments which had in the past sometimes been treated in special volumes.
+                    Mr. Gardner stated that with all due respect he disagreed with practically
+                    everything Mr. Trask had said, and expressed his concern for the <hi
+                        rend="italic">Foreign Relations</hi> series. In particular, he disagreed
+                    with Mr. Trask’s suggestion that the series would fall 100 years behind if
+                    twelve volumes per year were published. Many factors now delaying the volumes
+                    would be eliminated as a result of the clearance breakthrough expected under the
+                    new Executive Order and by the use of computerized word processing.</p>
+                <p>Mr. Gardner noted that Mr. Trask’s report to the Committee had stated that HO was
+                    exploring means for reviving policy-related research, and that once the series
+                    had reached a twenty-year line some resources could be diverted to research. Mr.
+                    Gardner felt that survival of this preeminent series was of greater importance
+                    than achieving a twenty-year line in order to shift resources to other HO
+                    projects. The coverage of <hi rend="italic">Foreign Relations</hi> had already
+                    been reduced by the triennial plan for 1952-1954, and further reductions would
+                    be disastrous.</p>
+                <p>Mr. Blair observed that he was not certain that coverage was actually being
+                    reduced by 66-2/3 percent. There were some economies in using triennial volumes,
+                    although he did not wish to debate the numbers question to any great depth. He
+                    asked the Committee what sort of trade-off it would feel was realistic, given
+                    the financial realities. Were substantive standards more important than a
+                    catch-up in the existing time lag?</p>
+                <p>In response, Mr. Gardner asked why the series seemed to be losing on the budget
+                    front. If resources were cut back, what had HO done to defend the <hi
+                        rend="italic">Foreign Relations</hi> budget? It might have been an
+                    impossible fight, but why hadn’t HO come to the Advisory Committee to ask for
+                    its help? Mr. Gardner felt that the use of technological advances ought to help
+                    preserve the former level of documentation, and he restated his view that the
+                    reduction of coverage proposed under the current triennial plan was
+                    disastrous.</p>
+                <p>Mr. Trask pointed out that delays in the publication of <hi rend="italic">Foreign
+                        Relations</hi> were related more to resources than to clearance problems. He
+                    believed the series had reached the outer limits of what could be included. He
+                    reminded the Committee that its mandate had been expanded to include the
+                    policy-related research function of the Office. HO could and should help to
+                    provide informed historical advice to the Department, and the research function
+                    was also important as a means of maintaining and sharpening the skills of the
+                    staff. The research program also had some public aspects in the form of
+                    reference services and publications. A recent example of the latter was Homer
+                    Calkin’s <hi rend="italic">Women in American Foreign Affairs</hi>. Mr. Trask
+                    stated that the current plan reflected his desire to correct the former tendency
+                    to rob the research resources of the Office in order to maintain the standards
+                    of <hi rend="italic">Foreign Relations</hi>. He felt that the Office had made
+                    the most difficult but responsible choice by keeping both the compiling and
+                    research functions in a relatively solid state.</p>
+                <p>Mr. Cohen felt that the matter of trade-offs in resources was a complex question,
+                    and he noted that the Committee had seen no examples of actual problems. With
+                    respect to the question of speed versus comprehensiveness in the series, he
+                    would be unable to choose from the options Mr. Blair had mentioned because he
+                    did not know what was to be given up in return. Mr. Jacobson agreed that the
+                    Committee could not give advice on trade-offs without having concrete
+                    information on the policy-related research function of the Office and on the
+                    actual impact of reduced coverage by <hi rend="italic">Foreign
+                    Relations</hi>.</p>
+                <p>Mr. Stevenson asked if there was some middle ground between what the Department
+                    did for the news media at the point of breaking developments, and what <hi
+                        rend="italic">Foreign Relations</hi> did for historians thirty years later.
+                    Mr. Blair, acknowledging that such a gap existed, noted that the Freedom of
+                    Information Act addressed the question. Access to the files in advance of a
+                    twenty or thirty-year general opening was a controversial area. The Department
+                    felt that the principle of equity was important, and that the files should
+                    therefore be opened to everyone at the same time.</p>
+                <p>Mr. Slany and Mr. Glennon pointed out that the Department’s now-discontinued
+                    series, <hi rend="italic">American Foreign Policy: Current Documents</hi>, had
+                    fulfilled the need for a middle-ground publication. Mr. Trask noted that a
+                    similar function could be performed by the Department of State <hi rend="italic"
+                        >Bulletin</hi>, which was now being reappraised. Mr. Trask then addressed
+                    the question of “court historians” and the serious problems raised by the
+                    granting of privileged access to some, but not all, outside scholars in advance
+                    of the general release of files. An alternative was available in the form of
+                    official histories, written either by HO or by outside scholars on contract, but
+                    such histories would also raise problems. Mr. Trask felt that the best solution
+                    was to press for the earliest possible general release of documentation to the
+                    public.</p>
+                <p>Mr. Stevenson asked whether perhaps 90 percent of the Department’s files could be
+                    made available in some fashion after three years or so. Mr. Blair asked Mr.
+                    Stevenson if he had any particular group of records in mind (the area of
+                    international law, for example) that seemed promising for early release.</p>
+                <p>Mr. Trask suggested that one advantage of preserving and restoring the HO
+                    research function was that unclassified research projects could be released to
+                    the public. He suggested that the members of the Committee stimulate their
+                    parent organizations to take an active interest in this and other questions, and
+                    recommend that the Committee be more active in the future in order to be more
+                    effective. Mr. Trask felt that there existed a remarkable amount of
+                    misconception about the work of HO, but that a long period of outside mistrust
+                    of the Department beginning with the McCarthy era was coming to an end.</p>
+                <p>Mr. Gardner responded that he felt his earlier points had not been based on
+                    misconception. He expressed his concern that resources were being shifted to
+                    research at the expense of <hi rend="italic">Foreign Relations</hi>. Mr. Trask
+                    replied that it was not a question of shifting resources but of promoting
+                    efficiency. The Office could improve productivity by increasing the professional
+                    competence of the staff. The Office was proceeding on the assumption that its
+                    future growth would be limited. Now that additional contract personnel were
+                    available, the Office would be watched to see if it delivered results. The ratio
+                    of time spent on <hi rend="italic">Foreign Relations</hi> to time spent on
+                    research was currently 80 percent to 20 percent. When the Office reached the
+                    point where one year of <hi rend="italic">Foreign Relations</hi> could be
+                    compiled in one work year, more resources could be allocated to research, but HO
+                    was not now shifting resources to research. Mr. Trask noted that the complexity
+                    of the material made compiling an increasingly difficult and time-consuming
+                    function. This was even without reference to the mandate to cover foreign policy
+                    questions on a government-wide basis by including relevant documentation
+                    originated by other agencies.</p>
+                <p>Mr. Gardner spoke in favor of supplementary compilations such as the one on
+                    intelligence mentioned in Mr. Slany’s report to the Committee. He asked about
+                    the impact of the new Executive Order, and stated that he had spoken with
+                    members of the National Archives staff who feared it might have an adverse
+                    effect on declassification, particularly when information given in confidence by
+                    a foreign government was involved. Mr. Trask suggested that Mr. Gardner’s
+                    concern was unwarranted. Mr. Gardner felt that representatives of the National
+                    Archives should have been invited to the meeting of the Advisory Committee. Mr.
+                    Trask pointed out that HO dealt extensively with the National Archives, the
+                    Department of Defense, and the intelligence community. He pointed out that it
+                    was a matter of the greatest importance to HO that he was chairman of a
+                    Departmental working group for implementation of the Executive Order. This
+                    represented an unprecedented sign of confidence in HO. The Office needed a power
+                    base in the Department to fulfill its objectives, but it had to consider the
+                    realities of the bureaucracy. It was right that the Office had to compete for
+                    resources, and it ought to justify its operations on a regular and thorough
+                    basis.</p>
+                <p>Mr. Graebner asked again about the former <hi rend="italic">Current
+                        Documents</hi> series as a remedy for the gap between the immediate release
+                    of information and the ultimate opening of the Department’s files, noting that
+                    he had found that series to be very helpful. Mr. Blair stated that the series
+                    had been discontinued in a resource crunch following the publication in 1968 of
+                    the last volume (that for 1967), and that no protests had been heard at the time
+                    from the learned societies.</p>
+                <p>Mrs. Unterberger went on record as opposing a reduction in coverage in the <hi
+                        rend="italic">Foreign Relations</hi> series of 66-2/3 percent. Mr. Trask
+                    denied that coverage had been reduced to this degree, and stated that the
+                    usefulness of the series depended on quality rather than on volume. The
+                    question, he noted, was whether the cutback would help the scholarly
+                    community.</p>
+                <p>Mr. Jacobson asked if there were any operating rule of thumb for deciding what
+                    material was to be considered for micrographic publication as opposed to
+                    publication in printed book form. Mr. Trask noted that a pilot project was under
+                    consideration, and that it would have to be carefully thought out.</p>
+                <p>Returning to the question of the quantity versus the quality of documentation
+                    presented in <hi rend="italic">Foreign Relations</hi>, Mr. Gardner congratulated
+                    the Office on its volume for 1948 on the Palestine question and the recognition
+                    of Israel (volume V, part 2), and on its ability to refute the suggestion by
+                    Clark Clifford that certain issues had not been covered. Mr. Gardner felt that
+                    the volume’s comprehensive treatment of the subject met the needs of scholars
+                    and demonstrated the importance of detailed documentation.</p>
+                <p>Mr. Gardner asked whether any page limitations had been set for future volumes.
+                    Mr. Trask stated that an average limitation of 1200 pages per volume had been
+                    established. Mr. Blair noted that this limitation was set by HO rather than by
+                    the Bureau of Public Affairs.</p>
+                <p>In concluding the session, Mr. Trask emphasized that the Committee’s report to
+                    the Secretary of State should reflect the best independent judgment of its
+                    members as scholars.</p>
+                <p>(The public session adjourned at 10:40 a.m.)</p>
+                <p>From 11 a.m. to 12:15 p.m. members of the Advisory Committee (in three groups)
+                    met informally with members of the HO staff, except for the six senior officers.
+                    At 12:30 p.m. the Committee members, together with Messrs. Blair, Trask,
+                    Aandahl, Kogan, Slany, and Glennon, were guests of Deputy Under Secretary Read
+                    at a luncheon in the Henry Clay room. On behalf of Secretary of State Vance, Mr.
+                    Read reaffirmed the Department’s commitment to openness, both current and
+                    historical, and expressed its appreciation for the work of the Committee. Mr.
+                    Cohen responded for the Committee.</p>
+                <p rend="center"><hi rend="underline">Closed Session--2:20 p.m.-4:05 p.m.<lb/>Room
+                        1205, Department of State</hi></p>
+                <p rend="center">AGENDA ITEMS 4 AND 5: DISCUSSION OF POINTS RAISED IN INFORMAL
+                    CONVERSATIONS WITH GROUPS OF HO STAFF MEMBERS; DISCUSSION WITH SENIOR OFFICERS
+                    OF HO</p>
+                <p>Present: Members of the Committee, and Messrs. Trask, Aandahl, Costrell, Kogan,
+                    Slany, and Glennon.</p>
+                <p>Mr. Trask invited comments from the Committee members, and Mr. Cohen responded by
+                    asking about the possibility of more frequent contacts, perhaps even a second
+                    formal meeting of the Committee each year. Mr. Trask said that the Committee
+                    might suggest more contact in its report, but he felt that more frequent
+                    sessions were not bureaucratically feasible at this time. Mr. Trask expressed
+                    the hope and the expectation that HO and the Committee could maintain closer
+                    contact by correspondence. Perhaps, he said, HO could provide two or three
+                    interim reports to the Committee during the course of the year to provide better
+                    background for the annual meeting.</p>
+                <p>Mr. Trask then asked the Committee how the three “buzz” groups with the HO staff
+                    had gone. He indicated that differences of view were necessary and inevitable
+                    and inquired if any questions had arisen from the sessions.</p>
+                <p>Mrs. Unterberger said that the sessions were very helpful and thanked Mr. Trask
+                    for the opportunity for such free discussions. Mr. Cohen agreed, adding that
+                    there did appear to be some gaps between staff and management, the ventilation
+                    of which was undoubtedly helpful both to the Committee and to HO management. Mr.
+                    Jacobson said that it was a time of change in HO and asked Mr. Trask for his
+                    views on consultation and the decision-making process.</p>
+                <p>Mr. Trask said that he was different from most State Department managers in that
+                    he felt that decisions should be made at the lowest level possible in the
+                    bureaucracy and not merely bucked on to higher authority. He indicated that he
+                    consulted with the staff through his senior people on critical policy matters.
+                    Opinion stating, of course, was not necessarily part of the decision-making
+                    process. Opinion stating was encouraged although the final decision might well
+                    diverge from the opinions of individuals. He felt that confidence building, by
+                    letting the staff offer suggestions and express criticism, was important. He
+                    went on to say that working with the staff was the top priority for him in the
+                    coming year. He felt that he had acquired needed resources for the Office; now
+                    was the time for us to deliver by proving that we could both speed up the series
+                    and improve the quality at the same time.</p>
+                <p>Mrs. Unterberger observed that these objectives might be paradoxical. How could
+                    quality be maintained when a speed-up was in effect? Mr. Trask replied that
+                    quality was all important. Quality would be maintained in the series and indeed
+                    would be improved. Mr. Aandahl added that timeliness was an important aspect of
+                    quality. Mr. Trask then pointed out that micrographics might help us both in
+                    improving the quality of the offering and in allowing us to provide more
+                    material to the reader. Mrs. Unterberger asked if a decision had been made on
+                    the use of micrographic supplements. Mr. Trask said that no final decision had
+                    been made; we were still, he said, committed only to a high quality product.</p>
+                <p>Mr. Jacobson raised the matter of criteria for selection. He wondered if the
+                    Committee might have access to figures for instance on the numbers of documents
+                    chosen for publication out of the total number available and considered for
+                    possible inclusion. He felt that public access to rejected material was also
+                    important for an honest appraisal of the series.</p>
+                <p>Mr. Trask said that such information and more would be sent to the Committee and
+                    the Committee would have to work harder as a result. HO would report in detail
+                    to the Committee two or three times a year on HO’s activities; policy forming
+                    documents would also be sent out by HO; finally, HO would consult with the
+                    Committee’s members on an individual basis, e.g., seeking help for staff members
+                    on individual compilations where the Committee members could provide
+                    particularized assistance. This should provide a path to more and better contact
+                    and consultation. HO wanted better advice and greater credibility in the
+                    academic world.</p>
+                <p>Mr. Gardner said that these were good ideas. He felt that the separate sessions
+                    with the staff were excellent, but he came away with the feeling that there was
+                    a gap between Mr. Trask and the staff. He felt that some of the staff members
+                    were uncertain of his intentions and quite concerned about both the shift to
+                    triennial volumes and the limitations placed on the number of volumes and the
+                    pages within each volume. He wanted to raise specifically three questions: a)
+                    the disposition of the 1950- 1954 record bloc; b) the clearance of the 1949
+                    China volume; c) the retrospective volume for 1948-1951 dealing with
+                    intelligence and national security matters.</p>
+                <p>Mr. Trask turned to Mr. Kogan to speak on the 1950-1954 records. Mr. Kogan said
+                    that HO’s primary concern was to get these papers transferred to the National
+                    Archives and Records Service (NARS), but NARS was not willing to take them until
+                    they were all unclassified or unless NARS had authority to declassify them. This
+                    was a change from their earlier policy. NARS, of course, could not declassify
+                    State Department papers. The Department had also hoped to give NARS a number of
+                    Lot Files, but again NARS would not take them until it had all the 1950-1954
+                    records in declassified form. HO’s hope was now for early release of the volumes
+                    through 1954, which would help to open up the records, and also for early
+                    release of the proposed Executive Order which would establish a 20-year line for
+                    declassification. This would involve a transition period and would not mean
+                    immediate automatic declassification of all documents 20 years old, but it
+                    should ease the situation considerably. Written guidelines were now being
+                    formulated to implement the proposed Executive Order.</p>
+                <p>Mr. Trask stated that part of the problem with NARS was that it was constantly
+                    trying to gain its independence from the General Services Administration. It
+                    wanted more resources and used this argument in the fight against taking the
+                    1950-1954 records, claiming that more staff would be needed to service them.
+                    There had been strains in the HO-NARS relationship, but HO was continuing to
+                    work on this and he hoped that progress was being made.</p>
+                <p>Mr. Gardner asked if it was correct that the opening of records at NARS was not
+                    tied to the release of volumes. Mr. Trask said that that was right; the
+                    connection was rather to HO’s systematic review of the records in preparing the
+                    volumes. Mr. Gardner then remarked that scholars were now worse off than in the
+                    days when records for a year were opened after the release of volumes for that
+                    year. Both he and Mr. Trask agreed that something had to be done. Mr. Gardner
+                    pointed out that 1950 volumes are out but the scholars have no access to the
+                    papers. Was there, he asked, something the Committee could do about this? Mr.
+                    Kogan interjected that FOI requests for documents in the closed period were
+                    possible. Mr. Gardner said that restrictions of time might militate against use
+                    of this avenue. Mr. Trask said that even though FOI was not designed for
+                    scholars it was a most useful tool and could be employed by them to a far
+                    greater extent than it had been. HO’s desire, he said, was to get material out
+                    to the public as soon as possible.</p>
+                <p>Mr. Slany observed that the written guidelines now being drafted might delineate
+                    the area of sensitive documents. Mr. Trask said that the working group could be
+                    of great help here by reassuring the bureaus in the Department that nothing
+                    would be released under the new 20-year rule without first being processed. This
+                    was an enormous job. Resources would be needed, and the Committee’s report could
+                    strongly emphasize the need for resources to service the documents. The bureaus
+                    would then feel that the question of sensitivity was being taken into
+                    consideration. Mr. Slany then referred to the example of documents for 1948-1949
+                    from the Central Files on Italy which were removed and re-classified by the
+                    Department because of sensitivity. The documents had not been printed in <hi
+                        rend="italic">Foreign Relations</hi>, but had been used by journalists and
+                    outside scholars. Mr. Trask said that this was a bad policy, but perhaps
+                    necessary. Like other organizations, the Department of State did not like
+                    surprises. Often, he said, panic followed in the wake of surprise. Mr. Gardner
+                    observed that that sounded bad. Mr. Trask responded that HO’s role in the
+                    release of materials was to minimize surprises and to give advance warning to
+                    those who might have to live with the results of documentary revelations. Mr.
+                    Aandahl reminded the Committee that HO cannot declassify documents, only bureaus
+                    can. Mr. Trask noted that most papers were not sensitive, but it was hard to get
+                    the bureaus to act because they were too busy with other things. He continued,
+                    responding to Mr. Cohen, that HO’s aim was to lift the burden off the backs of
+                    the bureaus, but resources would be needed.</p>
+                <p>Mr. Stevenson asked about documents in the more recent period, that is, up to 20
+                    years old. Mr. Trask said that documents being generated now would be on an
+                    automatic schedule calling for downgrading after passage of a certain number of
+                    years. Mr. Stevenson said that there was no way yet for documents less than 20
+                    years old to be made available automatically once declassified. Mr. Slany stated
+                    that computerized records in the Department’s files might be made available more
+                    readily if the machines could be programmed to “spit out” declassified
+                    documents, which seemed within the state of the art. Mr. Trask agreed, saying
+                    that the technological capability was there but was not yet in use. Here again,
+                    the Committee could be of help by including such a proposal in its report.</p>
+                <p>Mr. Gardner raised the matter of declassification and the possibility of appeals
+                    to higher authority in case clearance was not granted by a bureau. Mr. Aandahl
+                    said that for questions such as that of 1949, volume VIII, China, there was the
+                    possibility of such appeal. Mr. Gardner then referred to last year’s meeting
+                    with Secretary Kissinger at which the China volume and a sticky 1950 clearance
+                    on Yugoslavia were mentioned. Why was the latter cleared and not the former, he
+                    asked. Mr. Slany stated that the clearance on Yugoslavia came after normal
+                    Foreign Service personnel transfers took people away from that desk who had
+                    objected to publication. Messrs. Trask and Aandahl said that HO through PA was
+                    keeping after EA on the China volume, but both HO and PA felt that little would
+                    be gained by appeal to a higher level at this point.</p>
+                <p>In response to a query from Mr. Cohen, Mr. Trask attempted to outline what
+                    happens to the Committee’s report in the Department. It is directed to the
+                    Assistant Secretary for PA and from there percolates up to the Secretary’s
+                    office; it does not automatically come to the Secretary’s personal
+                    attention.</p>
+                <p>Mr. Stevenson again pointed to the need for a publication for the period between
+                    immediate news and the 20-year declassification line. He wanted to maintain the
+                    high quality of <hi rend="italic">Foreign Relations</hi> but felt that it was
+                    important also to provide adequate coverage of more recent materials. Mr. Trask
+                    said that the <hi rend="italic">Current Documents</hi> publication was probably
+                    the best answer to this need, but pointed to the problem of resources. He said
+                    that there would be some resistance in HO to such a revival of <hi rend="italic"
+                        >Current Documents</hi> and that the Bureau of Public Affairs would probably
+                    frown on it. Perhaps a compromise solution could be worked out.</p>
+                <p>Mr. Costrell then spoke to the question of the allocation of resources and the
+                    placing of emphasis on certain programs within the Office. He said that he felt
+                    that many of the projects done as Historical Studies served as valuable tools in
+                    collecting and shaping the record for the compilers of <hi rend="italic">Foreign
+                        Relations</hi> who came along later. He pointed to the Korea Project done
+                    years ago as a Historical Study which later became useful in compilation of the
+                    1950 volume on Korea.</p>
+                <p>Mr. Stevenson observed that FOI must take up a great deal in terms of resources
+                    in the Department. Because of its random character, it seemed a costly and
+                    inefficient way to operate. It would be better to institutionalize the process
+                    of declassification in some more systematic way. Mr. Trask agreed that the
+                    process was very costly. He went on to speak of resource use in HO after the <hi
+                        rend="italic">Foreign Relations</hi> catch-up and said resources would be
+                    put into policy-related research. He said his aim was to see HO’s productivity
+                    go up without increasing its budget. He knew that this would be hard on the HO
+                    staff, but he also wanted to make clear that he was not a stroker or a nice guy.
+                    His contacts with the rest of the Department and the outside had improved HO’s
+                    position in both areas. He had been brought in to make changes. Major changes
+                    had indeed been made, which probably accounted for some of the irritation on the
+                    part of the staff, but HO was now stronger. Now, however, HO had to deliver on
+                    its promises. In a year the staff might feel no differently toward him, but he
+                    would spend the year turning his attention inward toward HO and trying to
+                    improve relations there. He was endeavoring, he said, to overcome the
+                    quasi-authoritarian features of bureaucracy; he made no apology for his sins and
+                    errors, but he was sure that they were present.</p>
+                <p>Mr. Stevenson said that at the session he attended with the staff, he heard
+                    expressions of desire for more contact by the Director with the staff down to
+                    all levels. Mr. Trask said that he had tried to achieve such contact and would
+                    try even harder. He realized that to this point he had not achieved the maximum
+                    of success in this area, but his attention in the next year would be directed
+                    inward toward the Office. He said that he had no desire to be loved; he did wish
+                    to be efficient in carrying out his responsibilities.</p>
+                <p>Mrs. Unterberger said that mutual respect was most important and she felt that
+                    Mr. Trask should be aware of the fact that there was a perception of a
+                    fundamental lack of respect now on both sides. Mr. Trask replied that respect
+                    should and would stem from performance. It would take time--perhaps five, six,
+                    or seven years--but the end result would be a mutual respect and affection based
+                    on solid performance. Mrs. Unterberger then said that the point she had been
+                    trying to make was that the staff members felt that Mr. Trask had no respect for
+                    them. Mr. Trask repeated that this was the year he was going to work on that
+                    problem.</p>
+                <p>Mr. Gardner stated that the staff knew that many of the problems in the Office
+                    had been inherited by Mr. Trask and that it would take time to turn things
+                    around. He said that the frankness of the discussions with the staff was a
+                    tribute to Mr. Trask’s regime.</p>
+                <p>Mr. Trask asked for any criticisms which the Committee might offer which would be
+                    informative and have a worthwhile effect. He hoped that the Committee would be
+                    even more effective in future and also welcomed any individual comments and
+                    criticisms which the members might be willing to pass on to him.</p>
+                <p>Mr. Trask adjourned the formal meeting of the Committee at 4:05 p.m., whereupon
+                    he and the other senior officers of HO withdrew. Members of the Committee then
+                    met in private session until 5 p.m. to consider the general outlines of their
+                    annual report to the Secretary of State. The Committee chose Mr. Gardner as its
+                    Chairman.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

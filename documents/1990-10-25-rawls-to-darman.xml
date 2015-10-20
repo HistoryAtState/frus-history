@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Draft Letter From W. Lee Rawls to Richard Darman, October
+                    1990</title>
+                <title type="short">Rawls to Darman, 1990</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-01-06">January 6, 2014</date>
+                <date type="created" when="1990-10-25">October 25, 1990</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1990-10-25-rawls-to-darman.pdf">PDF</ref>, 626 KB, 4pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Front Office
+                    Files, 1989-1990 (Lot File 93 D 287), Box 1, PA—Foreign Relations Series 1990.
+                    This draft letter was attached to an October 24, 1990 Legislative Referral
+                    Memorandum on S. 3225 from the Office of Management and Budget to the National
+                    Security Council; the Departments of the Treasury, State, Defense, and Energy;
+                    the Central Intelligence Agency; and the General Services Administration. Within
+                    the Department of State, Will Davis (Bureau of Legislative Affairs) sent this
+                    package to the Bureaus of Legislative Affairs, Management, and Public Affairs
+                    and the Office of the Legal Adviser for comments on October 25, 1990. Neither
+                    the Department’s response to OMB nor the final draft of Rawls’s letter has been
+                    located.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 11, <ref
+                    target="../chapter-11#fn41">Footnote 41</ref></p>
+            <div type="document">
+                <head>Draft Letter From W. Lee Rawls (Assistant Attorney General) to Richard G.
+                    Darman (Director of the Office of Management and Budget)</head>
+                <p>Dear Mr. Darman:</p>
+                <p>This letter sets forth the views of the Department of Justice on S. 3225, which
+                    amends the State Department Basic Authorities Act of 1956, as recently passed by
+                    the Senate. See 136 Cong. Rec. §16, 299-301 (daily ed. Oct. 19, 1990). We
+                    believe that certain provisions of this bill present constitutional
+                    difficulties.</p>
+                <p>Section 47(a) calls for the preparation and publication of “a thorough, accurate,
+                    and reliable documentary record of major United States foreign policy decisions
+                    and significant United States diplomatic activity.” § 47(a)(1). The publication
+                    is to “include all documents needed to provide a comprehensive record of the
+                    major foreign policy decisions and actions of the United States Government.” <hi
+                        rend="underline">Id</hi>. To assist in the publication project, agencies
+                    would be required to carry out a procedure for declassification of documents. If
+                    an agency determined that a document could not be declassified because of “a
+                    continuing need to protect sources and methods or other national security
+                    information,” the agency would be required to attempt to make such deletions as
+                    would make the document declassifiable. § 47(b)(3)(A). An Advisory Committee,
+                    which would be created under the bill, could direct the agency to prepare a
+                    declassified summary of material so excised if the Committee believed that the
+                    record would otherwise be misleading or incomplete. If the Advisory Committee
+                    disagreed with the agency’s decisions about deletions or the summary, or if the
+                    agency refused to prepare a redacted version of the document or the summary, the
+                    Advisory Committee would report to Congress, and the agency would be required to
+                    respond to the report. The Advisory Committee could also approve the withholding
+                    of documents if, by vote of a majority of its members, it determine that
+                    continued secrecy was necessary to avoid “imped[ing] current diplomatic
+                    negotiations or other ongoing official activities of the United States
+                    Government” or to “condense the record and avoid repetition of needless
+                    details.” § 47(c)(7). Documents of the Department of State would automatically
+                    be declassified 30 years after the events documented unless their release “would
+                    compromise weapons technology important to the national defense of the United
+                    States or provide access by other nations to sensitive weapons design
+                    information relating to United States or foreign military equipment or relating
+                    to United States cryptologic systems or codes,” would create a threat of harm to
+                    living persons who gave confidential information to the United States, or would
+                    “demonstrably impede current diplomatic negotiations or other ongoing official
+                    activities of the United States Government.” § 47(e).</p>
+                <p>The Advisory Committee would consist of nine “distinguished historians,” of whom
+                    not more than two would be employees of the United States. Members would be
+                    appointed by the Secretary of State, with the advice of the Assistant Secretary
+                    for Public Affairs. The bill would apparently require the Secretary to select
+                    at least one member of the committee from each of the lists prepared by six
+                    named historical organizations. Members would serve for a term of three years.
+                    The Committee would select its own Chairman, who would serve a term of one year.
+                    § 47(c).</p>
+                <p>We have three objections to S. 3225. First, the bill trenches on the President’s
+                    constitutional authority to protect state secrets. Second, it intrudes upon the
+                    deliberative privilege for communications within the Executive Branch. Third,
+                    the bill does not provide for sufficient presidential direction and control over
+                    the operations of the Advisory Committee to be created under the bill.</p>
+                <p>1. S. 3225 trenches on the President’s constitutional authority both to protect
+                    military, diplomatic, and national security secrets and to safeguard the
+                    deliberative process within the Executive Branch. The Constitution vests in the
+                    President an expansive authority to protect state secrets from disclosure:
+                <quote rend="blockquote">The President, after all, is the “Commander in Chief of the Army and Navy of
+                    the United States.” U.S. Const., Art. II, § 2. His authority to ... control
+                    access to information bearing on national security ... flows primarily from this
+                    constitutional investment of power in the President and exists quite apart from
+                    any explicit congressional grant ... . The authority to protect such information
+                    falls on the President as head of the Executive Branch and as Commander in
+                    Chief.</quote></p>
+                <p><hi rend="underline">Department of the Navy</hi> v. <hi rend="underline"
+                        >Egan</hi>, 484 U.S. 518, 527 (1988) (citations omitted). <hi
+                        rend="underline">See United States</hi> v. <hi rend="underline">Nixon</hi>,
+                    418 U.S. 683, 710 (1974) (“As to these areas of Art. II duties the courts have
+                    traditionally shown the utmost deference to Presidential responsibilities.”).
+                    Indeed, the President can assert an absolute privilege against forced disclosure
+                    of state secrets: “The [state secrets] privilege, it is clear, is absolute. ‘NO
+                    competing public or private interest can be advanced to compel disclosure.’” <hi
+                        rend="underline">In re United States</hi>, 872 F.2d 472, 476 (D.C. Cir.)
+                        (<hi rend="underline">quoting Ellsberg</hi> v. <hi rend="underline"
+                        >Mitchell</hi>, 709 F.2d 51, 57 (D.C. Cir. 1983), <hi rend="underline">cert.
+                        denied</hi>, 465 U.S. 1038 (1984)). <hi rend="underline">cert.
+                        dismissed</hi>, 110 S. Ct. 398 (1989).</p>
+                <p>Moreover, as a practical matter, while S. 3225 may be intended to provide for the
+                    release only of information other than state secrets, the procedure to be
+                    followed under the bill would create a substantial danger that state secrets
+                    would be revealed. First, in the discharge of the duties committed to him by the
+                    Constitution, the President cannot be bound by Congress’ determination of what
+                    constitutes a secret worthy of protection. There may be unforeseen circumstances
+                    in which the grounds for continued secrecy laid out in the bill would be
+                    insufficient to reach information that the President considered a state secret.
+                    Second, the bill would require the Executive branch to make publication
+                    determinations about a vast body of material on unreasonably short notice. By
+                    its terms, the bill requires the publication of “all documents needed to provide
+                    a comprehensive record of the major foreign policy decisions and actions of the
+                    United States Government” and the “published record shall omit no facts which
+                    were of importance in reaching a decision.” Publication decisions would have to
+                    be made within 60 days after submission of the documents for review. §
+                    47(b)(3)(A). These requirements place an unreasonable burden on the Executive
+                    Branch and creates a substantial likelihood that state secrets will
+                    inadvertently be made public.</p>
+                <p>2. S. 3225 would also intrude upon the deliberative privilege for communications
+                    within the Executive Branch. That privilege rests on “the necessity for
+                    protection of the public interest in candid, objective, and even blunt or harsh
+                    opinions in Presidential decisionmaking.” <hi rend="underline">United
+                        States</hi> v. <hi rend="underline">Nixon</hi>, <hi rend="underline"
+                        >supra</hi>, 418 U.S. at 708. As the Supreme Court has recognized, “[a]
+                    President and those who assist him must be free to explore alternatives in the
+                    process of shaping policies and making decisions and to do so in a way many
+                    would be unwilling to express except privately.” <hi rend="underline">Id</hi>.
+                    The revelation of such communications, even long after the events, would have a
+                    chilling effect on the candor of executive branch officers and employees. If S.
+                    3225 were enacted into law, the President’s advisers would be put on notice that
+                    their advice will one day become public, and they may be less “candid,
+                    objective, and even blunt or harsh” as a result.</p>
+                <p>3. The operations of the “Advisory Committee” under the bill would also be
+                    unconstitutional because the Committee would not be subject to sufficient
+                    presidential direction and control. The President “may properly supervise and
+                    guide [officers’] construction of the statutes under which they act in order to
+                    secure that unitary and uniform execution of the laws which Article II of the
+                    Constitution evidently contemplated in vesting general executive power in the
+                    President alone.” <hi rend="underline">Myers</hi> v. <hi rend="underline">United
+                        States</hi>, 272 U.S. 52, 135 (1926). In our view, the power to withhold
+                    documents from publication would be the “the performance of a significant
+                    governmental duty exercised pursuant to a public law.” Buckley v. <hi
+                        rend="underline">Valeo</hi>, 424 U.S. 1, 141 (1976). Such duties may be
+                    performed only by “Officers of the United States,” appointed in conformity with
+                    the Appointments Clause and subject to presidential direction and control. <hi
+                        rend="underline">Id</hi>. S. 3225, however, satisfies neither of these
+                    requirements. Notwithstanding that the Advisory Committee has a role in
+                    decisions affecting the national security, S. 3225 appears to contemplate that
+                    the Advisory Committee would operate in a manner bound to frustrate the “unitary
+                    and uniform execution of the laws,” because the Committee would report on
+                    disputes within the Executive Branch over declassification decisions, and the
+                    agencies would then be required to answer the Advisory Committee’s reports.
+                    Furthermore, absent review by principal officers, the members of the Advisory
+                    Committee would themselves be principal officers for the purposes of the
+                    Appointments Clause, and would have to be appointed by the President with the
+                    advice and consent of the Senate. <hi rend="underline">See Morrison</hi> v. <hi
+                        rend="underline">Olson</hi>, 108 S. Ct. 2597, 2608-2609 (1988). The
+                    President has plenary authority to nominate principal officers, subject only to
+                    the advice and consent of the Senate, and the Congress can not dictate the
+                    qualifications of the persons to be appointed or require them to be chosen from
+                    lists provided by specified non-governmental entities. <hi rend="underline">See
+                        Public Citizen</hi> v. <hi rend="underline">U.S. Department of Justice</hi>,
+                    109 S. Ct. 2558, 2580-2584 (1989) (Kennedy, J., concurring in the judgment).</p>
+                <p>Sincerely,<lb/>W. Lee Rawls</p>
+            </div>
+        </body>
+    </text>
+</TEI>

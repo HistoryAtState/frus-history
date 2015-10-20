@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Memorandum From Kim Hoggard to Ivan Selin, December
+                    1990</title>
+                <title type="short">Hoggard to Selin, 1990</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2013-12-09">December 9, 2013</date>
+                <date type="created" when="1990-12-06">December 6, 1990</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1990-12-06-hoggard-to-selin.pdf">PDF</ref>, 137 KB, 3pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Front Office
+                    Files, 1989-1990 (Lot File 93 D 287), Box 1, PA—Foreign Relations Series 1990.
+                    Assistant Secretary of State for Public Affairs Margaret Tutwiler cleared this
+                    memorandum. The listed attachments were present, but are not posted.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 11, <ref
+                    target="../chapter-11#fn49">Footnotes 49</ref> and <ref
+                    target="../chapter-11#fn50">50</ref></p>
+            <div type="document">
+                <head>Memorandum From V. Kim Hoggard (Deputy Assistant Secretary of State for Public
+                    Affairs) to Ivan Selin (Under Secretary of State for Management)</head>
+                <dateline>December 6, 1990</dateline>
+                <p>Subject: Historical Documentary Publication</p>
+                <p>Our efforts this year within the Department involving the <hi rend="italic"
+                        >Foreign Relations</hi> series (FRUS) have not and apparently cannot produce
+                    a workable solution to the questions surrounding the reform of the project.</p>
+                <p>Because of this inability to come to agreement internally, we have been
+                    unsuccessful in quieting the public and Congressional criticism. Despite our
+                    efforts, we are seen to be doing nothing.</p>
+                <p>Should public criticism of the FRUS continue at the boisterous level it has
+                    already attained, I have a very real concern that its target will shift to the
+                    Secretary in such a manner as to question his commitment (and that of the
+                    Administration's) to provide accurate and complete information to the public.
+                    Blame could be placed in his lap for allowing (condoning?) a slow, bureaucratic
+                    approach to the declassification process and hold him responsible for the
+                    release of inaccurate and misleading historical documentation.</p>
+                <p>I don't think it is an exaggeration -- the success of the criticism on the Hill
+                    has resulted in proposed legislation. The Department incorrectly thought that
+                   “if you ignore it, it will go away,” but Congressional oversight is a fact of
+                    life. The Historical Advisory Committee is a fact of life. The Department must
+                    accept these realities and make them work to our advantage.</p>
+                <p>In an effort to reinvigorate our efforts to resolve these problems, the PA Bureau
+                    has devised a four-part strategy that will enable us to modernize and improve
+                    the <hi rend="italic">Foreign Relations</hi> series, assure the continued
+                    integrity of the publication and meet the concerns of the academic community,
+                    and forestall intrusive legislation by Congress.</p>
+                <p>This strategy has not been cleared around the building, but we think it is
+                    responsive to the valid concerns of those in the Department and elsewhere who
+                    are involved in some way with the <hi rend="italic">Foreign Relations</hi>
+                    project.</p>
+                <p>The strategy takes into account the questions raised by the Historical Advisory
+                    Committee at their recent meeting, the motivations and insights of the Senate
+                    staffers most involved in drafting the proposed legislation about <hi
+                        rend="italic">Foreign Relations</hi>, and our own carefully thought out view
+                    of how the Department can confront the troublesome issues and attempt to solve
+                    them.</p>
+                <p>The proposed four-part strategy includes:</p>
+                <p>1. An <hi rend="underline">action plan</hi> for the modernization of the <hi
+                        rend="italic">Foreign Relations</hi> series. This plan addresses both the
+                    steps to be taken within the Department and those actions needed by other
+                    agencies. It also provides Department or executive branch undertakings for all
+                    of the operational provisions of the pending Congressional legislation on the
+                        <hi rend="italic">Foreign Relations</hi> series. Key Advisory Committee
+                    members have been briefed on the substance of the plan.</p>
+                <p>2. The text of a <hi rend="underline">draft Presidential memorandum</hi> directing
+                    the relevant agencies to cooperate with the Department in assembling,
+                    declassifying, and publishing the modernized <hi rend="italic">Foreign
+                        Relations</hi> series and giving the project the necessary priority to get
+                    the job done. The memorandum would also request the Department to aim at opening
+                    its historical files at 30 years. The draft memorandum should be an improvement
+                    on a similar memorandum that was issued by President Reagan in 1985 but lost its
+                    steam by 1988. Senate staffers who briefed the Advisory Committee indicated that
+                        <hi rend="underline">a Presidential directive could be a key element in
+                        deflecting the need for Congressional action</hi>.</p>
+                <p>3. A draft <hi rend="underline">letter from Assistant Secretary Mullins</hi> to the
+                    appropriate Senate and House Committee chairmen expressing support for the
+                    general objectives of the pending legislations, willingness to have some general
+                    legislative mandate for the research and publication of the <hi rend="italic"
+                        >Foreign Relations</hi> series, but offering the Department's action plan
+                    and the Presidential memorandum as the only appropriate and workable way of
+                    dealing with the operational aspects of assuring an accurate and complete
+                    published historical record.</p>
+                <p>4. The outline of those internal Department measures that are necessary to have
+                    the Historical Advisory Committee take on at an early date its heightened
+                    responsibilities to verify the historical accuracy of the published record of
+                    U.S. Foreign Relations.</p>
+                <p>I have attached a <hi rend="underline">fifth paper</hi> that highlights those issues
+                    arising from the four-part strategy that most conflict with current views and
+                    attitudes within Department units concerned with various aspects of the
+                    preparation of the <hi rend="italic">Foreign Relations</hi> series.</p>
+                <p>PA needs your decisions to carry out our proposed four-part strategy:</p>
+                <p>1. Your approval of the action plan and its implementation in the Department and
+                    elsewhere.</p>
+                <p>2. Your approval of the draft Presidential memorandum including its provisions
+                    for you to chair occasional inter-agency meetings to promote priority for access
+                    to and declassification of other agency documents for the published series.</p>
+                <p>3. Your guidance on the steps to be taken to obtain early signing of such a
+                    Presidential memorandum.</p>
+                <p>4. Your review of the draft letter to Congress.</p>
+                <p>5. Your instructions on the steps necessary to facilitate the work of the
+                    Historical Advisory Committee.</p>
+                <p>We feel we have tried to work within the Department for action. However,
+                    bureaucratic foot-dragging has impeded any hope of getting Department-approved
+                    proposed legislation to the Hill in the new year without your impetus.</p>
+                <p>We appreciate very much your involvement in this issue and your efforts to reach
+                    a solution.</p>
+                <p>Attachments:</p>
+                <list>
+                    <item>1. Draft Plan (to be submitted to Hill)</item>
+                    <item>2. Internal Points of Concern with Draft Plan</item>
+                    <item>3. Draft letter to Congressional Committee Chairmen</item>
+                    <item>4. Presidential Executive Order</item>
+                    <item>5. Draft guidelines on PA/HO and FPC/HDR Cooperation</item>
+                    <item>6. Historical Committee - Internal Department Measures</item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

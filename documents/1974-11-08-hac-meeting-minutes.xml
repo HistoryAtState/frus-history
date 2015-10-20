@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Minutes of Historical Advisory Committee Meeting, November
+                    1974</title>
+                <title type="short">HAC Meeting Minutes, 1974</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-05-19">May 19, 2014</date>
+                <date type="created" when="1974-11-08">November 8, 1974</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1974-11-08-hac-meeting-minutes.pdf">PDF</ref>, 532 KB, 9pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 2, 1974—Minutes. Limited Official Use. Posted
+                    from a copy that is not signed by HAC Chair Walter LaFeber. Attachments are not
+                    posted.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 8, <ref
+                    target="../chapter-8#fn71">Footnotes 71</ref> and <ref
+                    target="../chapter-8#fn73">73</ref></p>
+            <div type="document">
+                <head>Minutes of the 1974 Meeting of the Advisory Committee on <hi rend="italic"
+                        >Foreign Relations of the United States</hi></head>
+                <dateline>November 8, 1974</dateline>
+                <list>
+                    <item>The Advisory Committee:<list>
+                            <item>Dr. Robert A. Divine, Professor of History, University of Texas,
+                                Austin, Texas 78712 (American Historical Association)</item>
+                            <item>Dr. Alwyn V. Freeman, Member, Board of Editors, <hi rend="italic"
+                                    >The American Journal of International Law</hi>, Washington,
+                                D.C. 20008 (American Society of International Law)</item>
+                            <item>Dr. Walter LaFeber, Professor of History, Cornell University,
+                                Ithaca, New York 14850 (American Historical Association)</item>
+                            <item>Dr. Covey T. Oliver, Professor of Law, University of Pennsylvania,
+                                Philadelphia, Pennsylvania 19104 (American Society of International
+                                Law)</item>
+                            <item>Dr. Armin H. Rappaport, Professor of History, University of
+                                California, La Jolla, California 92037 (American Historical
+                                Association)</item>
+                            <item>Dr. Richard C. Snyder, Director, Mershon Center, Ohio State
+                                University, Columbus, Ohio 43210 (American Political Science
+                                Association)</item>
+                            <item>Dr. H. Bradford Westerfield [Not present], Professor of Political
+                                Science, Yale University, New Haven, Connecticut 06520 (American
+                                Political Science Association)</item>
+                        </list></item>
+                    <item><hi rend="underline">Other Persons Present</hi></item>
+                    <item>The Bureau of Public Affairs:<list>
+                            <item>Carol C. Laise, Assistant Secretary of State for Public
+                                Affairs</item>
+                        </list></item>
+                    <item>The Historical Office:<list>
+                            <item>William M. Franklin, Director (Executive Secretary of the Advisory
+                                Committee)</item>
+                            <item>Richardson Dougall</item>
+                            <item>Fredrick Aandahl</item>
+                            <item>Edwin S. Costrell</item>
+                            <item>Arthur G. Kogan</item>
+                            <item>John P. Glennon</item>
+                            <item>Ralph R. Goodwin</item>
+                            <item>William Slany</item>
+                            <item>John A. Bernbaum</item>
+                            <item>Joan Lee Bryniarski</item>
+                            <item>M. Paul Claussen</item>
+                            <item>Evans Gerakas</item>
+                            <item>N. Stephen Kane</item>
+                            <item>Edward C. Keefer</item>
+                            <item>Ronald D. Landa</item>
+                            <item>David W. Mabon</item>
+                            <item>Margaret G. Martin</item>
+                            <item>Nina J. Noring</item>
+                            <item>Neal H. Petersen</item>
+                            <item>Carl N. Raether</item>
+                            <item>Beverly Z. Rowsome</item>
+                            <item>Charles S. Sampson</item>
+                            <item>Harriet Schwar</item>
+                            <item>Louis J. Smith</item>
+                            <item>David H. Stauffer</item>
+                        </list></item>
+                </list>
+                <p>[The meeting was not open to the public.]</p>
+                <p>Opening Session - 9:07 a.m. - 12:01 p.m.</p>
+                <p rend="center">AGENDA ITEMS 1 and 2: OPENING REMARKS AND SELECTION OF COMMITTEE
+                    CHAIRMAN</p>
+                <p>Mr. Franklin called the meeting to order and extended welcome to the Committee.
+                    Mr. Freeman nominated Mr. LaFeber for Chairman of the Committee. Mr. Oliver
+                    seconded the nomination and the vote was unanimous.</p>
+                <p>Assistant Secretary Laise joined the meeting at 9:10. She stated that the
+                    Department of State was making a serious effort to speed up the publication of
+                        <hi rend="italic">Foreign Relations</hi>. She emphasized that the
+                    Department, with the aid of the Historical Office, had lately been servicing
+                    requests under the Freedom of Information Act much more quickly, and that she
+                    was determined further to improve performance in this area. After her remarks
+                    the Assistant Secretary remained at the meeting until 9:40 a.m.</p>
+                <p rend="center">AGENDA ITEM 3: PROGRESS ON 1948-1951 VOLUMES AND PROBLEMS OF
+                    DECLASSIFICATION</p>
+                <p>Mr. Aandahl circulated a list detailing the progress of the volumes in
+                    preparation [Attachment 1]. He noted that declassification was still the major
+                    obstacle to publication. There had been particular difficulty and delay with
+                    1948, Volume I, Part II, which contained high-level National Security Council
+                    papers on the formulation of cold-war policy. The question was whether to
+                    publish this volume now with summaries replacing the papers that cannot be
+                    cleared yet, or whether to delay publication for an indeterminable time. Similar
+                    problems have come up with the Far Eastern volumes for 1949 and 1950, and other
+                    cases are expected.</p>
+                <p>Mr. Westerfield said he was opposed to printing incomplete volumes containing
+                    only summaries of important documents that had not been declassified. Allowing
+                    such an omission would be an easy way out which might establish an unfortunate
+                    precedent. If the volume were delayed, on the other hand, pressure from outside
+                    might develop and encourage clearance of the documents in question.</p>
+                <p>Mr. Oliver remarked that it was of crucial importance for the series to print NSC
+                    materials and high-level materials generally, since Cold War problems were of
+                    such crucial importance to the “revisionist” debate among historians. The
+                    concern of the Committee over refusal of clearance on such documents should be
+                    expressed to policymakers.</p>
+                <p>Mr. Rappaport said that historians would still be able to get the drift of policy
+                    if the volume were published with the omissions. Mr. Divine stated that waiting
+                    would delay the whole series and access to the files in the Archives. Mr.
+                    Freeman said he was discouraged, but would rather see the omitted documents
+                    summarized than allow the series to fall farther behind.</p>
+                <p>Mr. Franklin pointed out that if the omitted documents were not declassified for
+                        <hi rend="italic">Foreign Relations</hi>, they would not be available when
+                    the files were opened to scholars.</p>
+                <p>Mr. Aandahl suggested the problem might be solved by the publication of a
+                    supplemental volume at a future date. Supplemental volumes had been published
+                    for the World War I period. Mr. Slany said that important documents often turned
+                    up after the volumes on the relevant subjects had been published, and that this
+                    constituted an additional reason for supplemental volumes.</p>
+                <p>Mr. LaFeber, noting that the Committee was divided on the issue, suggested that
+                    it be discussed further in conversations among the members.</p>
+                <p rend="center">AGENDA ITEM 4: SCHEDULING OF COMPILATION FOR 1952-1954 AND
+                    1955-1957; THE TRIENNIAL PLAN AS A MEANS FOR REACHING THE 20-YEAR LINE</p>
+                <p>Mr. Aandahl read statistics [Attachment 2] showing that the productivity of the
+                        <hi rend="italic">Foreign Relations</hi> staff had almost trebled since
+                    fiscal 1971, but he noted that even with increased productivity <hi
+                        rend="italic">Foreign Relations</hi> was not making sufficiently rapid
+                    progress toward the twenty-year line. Primarily for this reason the staff had
+                    adopted a triennial format for the 1952-1954 volumes.</p>
+                <p>Mr. LaFeber asked whether the Committee was being informed of or asked for advice
+                    about the plan. Mr. Aandahl replied that if the Committee had overwhelming
+                    objections to the plan it could be changed. Mr. Franklin added that the main
+                    objective of the Triennial Plan was to meet the request of the Assistant
+                    Secretary to bring compilation to a twenty-year line; more rapid publication
+                    might follow, but that would not necessarily be the case. The new format would
+                    serve to boost morale, and might put additional pressure on clearance
+                    officers.</p>
+                <p>Mr. LaFeber asked whether the new plan meant that less total paper would be
+                    printed. Mr. Aandahl replied in the affirmative. Mr. LaFeber inquired also
+                    whether clearance problems involving 1954 documents might hold up 1952 material.
+                    Mr. Aandahl answered that such might be the case, but that dividing the volumes
+                    as necessary might offer a possible solution to this problem. Mr. Slany
+                    suggested that the three-year plan aimed at more intensive planning of the
+                    series, which would allow coming to grips with major clearance problems in an
+                    early and rational manner. Mr. LaFeber commented that it seemed to him that the
+                    new plan would retard rather than expedite access to the files. Mr. Divine
+                    suggested that the conditions of access be changed to allow partial access as
+                    the volumes are printed. Mr. Franklin responded that partial access might be
+                    possible, but that getting far ahead on compilation would allow the option of
+                    annual, biennial, or triennial volumes. Mr. LaFeber pointed out that compilation
+                    was already two to three years ahead of publication.</p>
+                <p>Mr. Westerfield said he certainly had no objection to the publication of longer
+                    time spans of documentation at once.</p>
+                <p>In reply to Mr. Divine’s question as to what sorts of NSC material were in State
+                    Department files, Mr. Franklin stated that for the period in question we had
+                    files of considerable depth on the NSC papers themselves, but lacked the minutes
+                    for formal NSC meetings. It was probable that such minutes had been made in
+                    ribbon copy only and given to the President. These minutes might be in the
+                    Truman and Eisenhower libraries.</p>
+                <p rend="center">AGENDA ITEM 5: QUESTIONS RAISED IN THE SELF-SURVEY OF THE
+                    HISTORICAL OFFICE</p>
+                <p>Mr. Dougall explained that the Bureau of Public Affairs had invited the
+                    Historical Office to form two working-level committees--called “H” and “0”--to
+                    study the Office’s functions and procedures in depth and to recommend changes
+                    and improvements. Mr. Slany said Committee H, of which he was rapporteur, was
+                    considering primarily <hi rend="italic">Foreign Relations</hi>. Asked to examine
+                    format alternations, it had decided tentatively after some study to recommend
+                    that the series continue to appear in a printed-page format rather than in
+                    microform. Whatever cost advantages might accrue from a microform format, the
+                    committee considered that the series in microform would not meet needs and uses
+                    of readers of <hi rend="italic">Foreign Relations</hi>.</p>
+                <p>Mr. Freeman remarked that a microform format would cut the series off from the
+                    general public. Mr. Westerfield agreed. Mr. Oliver asked if microform
+                    publications received reviews. Several committee members expressed the opinion
+                    that such reviews were rare. Mr. Rappaport commented that from the teaching
+                    viewpoint a microform <hi rend="italic">Foreign Relations</hi> would be highly
+                    unsatisfactory.</p>
+                <p>Mr. Slany continued that although his committee was leaning away from microforms,
+                    it was determinedly seeking ways to lower cost and speed publication while
+                    keeping the series between covers. Advanced phototype-setting methods and the
+                    letting of commercial printing contracts were both under consideration.</p>
+                <p>A general discussion of those alternatives ensued.</p>
+                <p>[Coffee was served at 10:32 a.m. Discussion resumed at 10:58 a.m.]</p>
+                <p>Mr. Slany in continuing his presentation said Committee H was considering the
+                    possibility of a microform supplement to the series consisting of unedited
+                    documents--perhaps entire key files. He mentioned that Ambassador Laise was
+                    interested in maximizing the amount of material made available to the public.
+                    Committee H was also considering means of speeding declassification. They
+                    included (a) requesting a letter from the Secretary of State which would endorse
+                    the series and urge faster clearance and (b) asking the Secretary in his
+                    capacity as Assistant to the President for National Security Affairs to allow
+                    simultaneous clearance by NSC and other agencies of NSC papers. Mr. Slany also
+                    stressed the advantage of having NSC declassify documents in manuscript rather
+                    than in galley--NSC tended to move very slowly on clearance.</p>
+                <p>Both Mr. Westerfield and Mr. Rappaport expressed their great surprise at the
+                    present procedure whereby NSC insists that it review papers only after all
+                    agencies whose heads are members of NSC have already done so. Mr. Franklin
+                    pointed out that since NSC has its own staff, as a practical matter NSC
+                    clearance represents an additional “layer” of clearance.</p>
+                <p>Mr. Slany described two more clearance proposals. State’s Freedom of Information
+                    machinery might be enlisted in the clearance of <hi rend="italic">Foreign
+                        Relations</hi> within the Department. Responsibility for clearing certain
+                    types of material might be obtained for the Historical Office, thus reducing the
+                    burden on desk officers.</p>
+                <p>Mr. Slany pointed out that the Department has no full-fledged archivist and
+                    described the deleterious effect of this lack on the condition of the
+                    Department’s files. Committee H would propose a study group of representatives
+                    of the Department and of the National Archives to look into this problem. Mr.
+                    LaFeber asked if a Departmental archivist, once appointed, would be expected to
+                    assist outside historians in their research in those declassified files which
+                    remained temporarily in State’s custody, and Mr. Slany replied that this was one
+                    of the functions contemplated for an archivist.</p>
+                <p>Ms. Rowsome reported on the work of Committee O, which was concentrating
+                    primarily on the work of the Historical Studies Division. The Division’s primary
+                    role was within the Department but the committee was considering several
+                    possibilities which would expand the Division’s role with regard to the public.
+                    One was a proposal for a seminar, sponsored by the Office, perhaps twice a year
+                    for 15-20 members of the academic community. This seminar would include
+                    discussions with members of the Office about its work and about the files, and
+                    tours of the files and the Operations Center. Another suggestion was that the
+                        <hi rend="italic">Current Documents</hi> series be revived, perhaps
+                    appearing several times a year in an expanded Department of State <hi
+                        rend="italic">Bulletin</hi>. Committee O was also considering publication of
+                    unclassified studies such as one on Law of the Sea.</p>
+                <p>A narrative history of the 1945-1950 period was under very tentative
+                    consideration. Mr. Westerfield stated his emphatic opposition to this proposal.
+                    Mr. Costrell also spoke against this idea.</p>
+                <p>Ms. Rowsome concluded by mentioning a proposal for documentary collections on key
+                    crises, to be published in advance of <hi rend="italic">Foreign Relations</hi>.
+                    Mr. Franklin pointed out that such a collection on Lebanon had been prepared two
+                    years ago but had been killed because of opposition from the concerned
+                    geographical bureau of the Department.</p>
+                <p>Mr. LaFeber asked if it was proper for the Advisory Committee to make
+                    recommendations concerning these proposals, which were still under internal
+                    discussion. It was suggested that these matters could perhaps be discussed at
+                    lunch with Ambassador Laise and Acting Secretary Maw, rather than taken up in
+                    the Committee’s written report. Mr. LaFeber commented that he himself believed
+                    that it would be proper to recommend certain things, such as an archivist for
+                    the State Department and the revival of <hi rend="italic">Current
+                    Documents</hi>.</p>
+                <p>Mr. Franklin said he thought that at lunch the Committee should concentrate on
+                    bringing the problem of declassification of <hi rend="italic">Foreign
+                        Relations</hi> to the attention of the Acting Secretary of State and that
+                    the Committee’s report should be brief and should concentrate on the main
+                    issues. He said he would try to bring the written report to the attention of the
+                    Secretary of State. He suggested that the Committee write to Assistant Secretary
+                    Laise about secondary issues.</p>
+                <p>Mr. Oliver spoke against the revival of <hi rend="italic">Current Documents</hi>
+                    on the ground that so much of its contents of interest to international lawyers
+                    had already appeared elsewhere.</p>
+                <p>Concerning the seminar proposal, Ms. Noring pointed out that the academic
+                    community was not aware of the computerization of the Department’s filing
+                    system. The seminars would acquaint scholars with this and other changes. Mr.
+                    Franklin said that bringing scholars to Washington would be difficult to
+                    finance. Mr. Rappaport reported that the Society for Historians of American
+                    Foreign Relations would be meeting in Washington during his presidency next year
+                    and that it planned to meet here every two years thereafter. Mr. Westerfield
+                    recalled that the American Political Science Association meets in Washington
+                    every three years or so. Mr. Landa outlined the idea more fully. He said that
+                    the seminars would be held to coincide with professional meetings and during the
+                    summer, when so many scholars did research in Washington. Mr. Oliver stated that
+                    it seemed the financial problem was no obstacle and that the seminars, should
+                    they materialize, ought to be widely publicized in order to avoid any appearance
+                    of exclusivity.</p>
+                <p>[At 12:01 p.m. the Committee adjourned for lunch with Ambassador Laise and Acting
+                    Secretary Maw. The Committee reconvened at 2:28 p.m.]</p>
+                <p>Afternoon Session - 2:28 p.m. - 3:36 p.m.</p>
+                <p rend="center">AGENDA ITEM 7: PROBLEMS OF BUDGET AND TECHNICAL EDITING</p>
+                <p>Mr. Franklin said that lack of money had not caused major delay in the <hi
+                        rend="italic">Foreign Relations</hi> series. Printing funds had been
+                    adequate, and the delays had come from clearance difficulties. Mr. Aandahl added
+                    that the severest pinch was felt in the small editorial staff of the Publishing
+                    and Reproduction Division, which was efficient but perennially understaffed.</p>
+                <p>Mr. Rappaport asked if the series was being delayed, and its resources stretched
+                    thin, because the Office was forced to deal with the GPO. Mr. Franklin answered
+                    that the Office had several times suggested alternatives to the GPO, but going
+                    elsewhere might require authorization by the Congress. Mr. Aandahl pointed out
+                    that adoption of the linotron process might speed printing and cut costs even if
+                        <hi rend="italic">Foreign Relations</hi> stayed at GPO. Members of the
+                    Office then outlined the linotron process to the Committee. Mr. Kane cautioned
+                    that the use of linotron for <hi rend="italic">Foreign Relations</hi> presented
+                    some as yet unresolved technical problems.</p>
+                <p>Mr. Aandahl, in discussing the current revision of the <hi rend="italic">Foreign
+                        Relations</hi> style manual, pointed out that revision is intended to speed
+                    compilation, make the volumes more readable, and systematize identification of
+                    lot files. Mr. Franklin remarked that a number of lot files had been destroyed
+                    since being cited in <hi rend="italic">Foreign Relations</hi> and that this was
+                    damaging to credibility. Mr. Slany added that the Office was actively trying to
+                    convince the National Archives appraisers to retain a larger proportion of lot
+                    files.</p>
+                <p>Mr. Aandahl stated that part of the discussion at luncheon should be placed on
+                    record, whereupon Mr. LaFeber remarked that at lunch representatives of the
+                    Office and of the Committee had informed Mr. Maw that clearance by NSC of
+                    certain key documents had on occasion necessitated personal review by the
+                    Assistant to the President for National Security Affairs. Mr. Maw had also been
+                    informed of the Committee’s dissatisfaction with the performance of the
+                    Interagency Classification Review Committee.</p>
+                <p>Mr. Rappaport stated that he had learned at lunch of Ambassador Laise’s great
+                    interest in oral history.</p>
+                <p>Chairman LaFeber asked if there were any more comments to be made on Item 7. Mr.
+                    Franklin stated in summary that there was no immediate fiscal problem, although
+                    the Office might face some stringency in FY 1976.</p>
+                <p rend="center">AGENDA ITEM 8: DECLASSIFICATION AHEAD OF <hi rend="italic">FOREIGN
+                        RELATIONS</hi> PUBLICATION</p>
+                <p>Mr. Kogan distributed a survey entitled “Public Availability of Diplomatic
+                    Archives” [Attachment 3]. He noted that the United States was still
+                    declassifying foreign-policy materials well in advance of other governments.</p>
+                <p>Mr. Rappaport commented that the survey deserved a wide distribution, and Mr.
+                    Dougall suggested that a note on its availability could be included in the <hi
+                        rend="italic">Newsletter</hi> of the Society for Historians of American
+                    Foreign Relations.</p>
+                <p>Mr. Dougall reviewed developments under Executive Order 11652. Currently the
+                    Office was resubmitting for declassification under the 30-year rule material
+                    which had not been cleared for 1944 <hi rend="italic">Foreign Relations</hi>
+                    volumes and which consequently had been withheld from researchers when the 1944
+                    files had been opened early. All but about a half-dozen of such documents would
+                    probably be declassified this year.</p>
+                <p>Mr. Dougall reported also that the charge per page for copies of documents
+                    declassified under Freedom of Information procedures had been reduced from 60¢
+                    to 10¢ a page although the search charge had gone up to $5 from $3.50 an hour.
+                    No charge is now made for the time of reviewing officers. The latest cumulative
+                    report shows that 45,000 pages had been requested of the Department under FOI
+                    provisions. The Department had released 35,000 pages and refused clearance on
+                    1,000; the other 9,000 pages were pending at the date the report was
+                    compiled.</p>
+                <p>There was a general discussion of how documents released under the FOI Act might
+                    be better publicized. Mr. Franklin said that although he did want better
+                    publicity for the declassified items and had tried to get a list of them
+                    inserted in the Department of State <hi rend="italic">Bulletin</hi>, the Office
+                    generally did not wish, through involvement in Freedom of Information work, to
+                    lose man hours better devoted to <hi rend="italic">Foreign Relations</hi>. Mr.
+                    Keefer said the Office hoped the Bureau of Public Affairs would augment the
+                    Freedom of Information staff.</p>
+                <p>Mr. Franklin then briefly described the special problems encountered in the
+                    declassification of foreign-government documents in our files. He noted that the
+                    British are applying their own 30-year rule to such papers in their files.</p>
+                <p rend="center">AGENDA ITEM 9: OTHER BUSINESS</p>
+                <p>Mr. Slany asked Chairman LaFeber to send to the Office copies of any
+                    correspondence with Assistant Secretary Laise. Mr. LaFeber replied that she had
+                    requested the Committee to direct its letters to Mr. Franklin with copies to
+                    her.</p>
+                <p>[The Committee rose at 3:36 p.m.]</p>
+            </div>
+        </body>
+    </text>
+</TEI>

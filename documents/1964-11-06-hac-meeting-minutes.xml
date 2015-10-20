@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Minutes of Historical Advisory Committee Meeting, November
+                    1964</title>
+                <title type="short">HAC Meeting Minutes, 1964</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2014-04-08">April 8, 2014</date>
+                <date type="created" when="1964-11-06">November 6-7, 1964</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1964-11-06-hac-meeting-minutes.pdf">PDF</ref>, 815 KB, 19pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
+                    the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 2, 1964—Minutes. Limited Official
+                Use.</hi></p>
+            <div type="document">
+                <head>Minutes of the 1964 Meeting of the Advisory Committee on <hi rend="italic"
+                        >Foreign Relations of the United States</hi></head>
+                <dateline>November 6-7, 1964</dateline>
+                <p>The morning session on Friday, November 6, began at approximately 9:30 a.m.</p>
+                <p>Present:</p>
+                <list>
+                    <item>The Advisory Committee:<list>
+                            <item>Richard W. Leopold, Chairman</item>
+                            <item>William W. Bishop, Jr.</item>
+                            <item>Robert H. Ferrell</item>
+                            <item>Philip E. Mosely<note n="*" place="end" xml:id="fn1">These new
+                                    members of the Committee were sworn in by Angier Biddle Duke,
+                                    Chief of Protocol, in ceremonies in the West Diplomatic
+                                    Reception Room, at 9:15 a.m. (AGENDA ITEM l)</note></item>
+                            <item>Robert E. Osgood</item>
+                            <item>Robert B. Stewart*</item>
+                            <item>Robert R. Wilson</item>
+                        </list></item>
+                    <item>The Historical Office:<list>
+                            <item>William M. Franklin, Director</item>
+                            <item>Richardson Dougall</item>
+                            <item>S. Everett Gleason</item>
+                            <item>E. Taylor Parks</item>
+                            <item>Fredrick Aandahl</item>
+                            <item>Velma H. Cassidy</item>
+                            <item>Rogers P. Churchill</item>
+                            <item>Edwin S. Costrell</item>
+                            <item>Peter V. Curl</item>
+                            <item>Herbert A. Fine</item>
+                            <item>John P. Glennon</item>
+                            <item>Ralph R. Goodwin</item>
+                            <item>George O. Kent</item>
+                            <item>Richard S. Patterson</item>
+                            <item>Neal H. Petersen</item>
+                            <item>John G. Reid</item>
+                            <item>Newton O. Sappington</item>
+                            <item>William Slany</item>
+                            <item>Howard M. Smyth</item>
+                            <item>Almon R. Wright</item>
+                        </list></item>
+                    <item>The Bureau of Public Affairs:<list>
+                            <item>Francis T. Murphy, Executive Director</item>
+                            <item>Eleanor G. Jacobson</item>
+                        </list></item>
+                    <item>The Publication and Reproduction Services Division:<list>
+                            <item>Jerome H. Perlmutter, Chief</item>
+                            <item>Peter A. Smith</item>
+                        </list></item>
+                </list>
+                <p rend="underline">AGENDA ITEM 2: Opening remarks</p>
+                <p>Mr. Franklin welcomed the members of the Committee and announced that Mr. Leopold
+                    had been chosen as Chairman. He noted that the Historical Office was much the
+                    same as at this time last year--the same 39 authorized positions, some 37 souls
+                    to fill them and two seemingly perpetual vacancies. He also stated that for the
+                    first time in several years, the Committee would take a look at some items
+                    deleted from <hi rend="italic">Foreign Relations</hi> because of clearance
+                    difficulties.</p>
+                <p rend="underline">AGENDA ITEM 3: Report on status of the series and publication
+                    plans</p>
+                <p>Mr. Aandahl distributed two charts describing the status of <hi rend="italic"
+                        >Foreign Relations</hi>. He stated that all volumes for 1942 and earlier had
+                    been published except for the volume dealing with the three Washington
+                    Conferences and Casablanca, 1941-1943. Manuscript on the Third Washington
+                    Conference was being reviewed in HO and the remainder was in the hands of the
+                    technical editors in PB. It was expected that this volume would be released late
+                    in 1965. The volume on the two Quebec Conferences had not progressed because the
+                    historians assigned to them had been detailed to work of higher priority. Mr.
+                    Franklin noted that a greater length of time was needed to compile these volumes
+                    in contrast to the annual volumes because of the greater detail they embodied.
+                    He felt that a complete documentation was required for the conferences in order
+                    to avoid charges of suppressing the record. He corroborated Mr. Aandahl’s
+                    estimate that the Washington and Casablanca conferences volume would be released
+                    late in 1965 unless touchy clearance problems arose. He did not anticipate that
+                    any would arise. He was not as optimistic, in this respect, concerning the
+                    Quebec conferences because of treatment of sensitive subjects, such as the
+                    Morgenthau Plan. He noted that the Historical Office for many years had
+                    possessed the basic documentation for the wartime conferences and had responded
+                    to numerous inquiries on the conferences on the strength of this documentation.
+                    It had been discovered, however, that much more research was required in
+                    Department files and in the papers of other agencies in order to prepare the
+                    complete record of the conferences.</p>
+                <p>Mr. Aandahl observed that all regular volumes for 1943 had been published except
+                    for volumes V and VI. These two volumes were being indexed and would probably be
+                    released about March 1965. He noted that the volumes for 1944 were well along
+                    toward clearance and would probably be released in 1965 except for the American
+                    Republics (vol. VI) which would likely appear the following year. Mr. Gleason
+                    cautioned that vol. IV on Europe might also be delayed because of clearance
+                    difficulties raised by Defense. He finally concluded that Defense was not
+                    unfavorable to publication <hi rend="underline">per se</hi> but certainly was
+                    not disposed to speedy clearance. The staff was now coping with a four-page,
+                    single-spaced Defense memorandum on vol. IV which in large measure requested us
+                    to obtain British clearance of State documents which quoted or summarized
+                    Combined Chiefs of Staff papers. HO had previously decided not to seek such
+                    clearance. Defense had taken an excessively long time in answering our clearance
+                    query. Part of the slowness was due to the bureaucratic organization of Defense
+                    with the necessity of its obtaining JCS, Army, Navy and Air Force concurrence in
+                    the formulation of Defense views. We ultimately got from Defense what we were
+                    after but the time factor was most difficult. This was in contrast to Treasury,
+                    Interior and other Governmental units which gave us few if any clearance
+                    problems and were rapid in their response.</p>
+                <p>Mr. Aandahl concluded his discussion of the 1944 volumes with a statement that HO
+                    had made a decision to number the China volumes beginning with that year to
+                    facilitate cross-referencing. In reply to Mr. Wilson’s question whether complete
+                    coverage would be given to the 1944 Civil Aviation Conference at Chicago, Mr.
+                    Aandahl answered in the affirmative, taking into account published material.</p>
+                <p>Mr. Aandahl then reviewed the status of the 1945 volumes. Five of the eight
+                    regular volumes were in various stages of clearance and he anticipated that all
+                    the 1945 volumes would be published in 1966, except the American Republics
+                    volume which he hoped would be released in 1967. As for 1946, he stated that
+                    nearly all of these volumes would be compiled by the end of 1964.</p>
+                <p>Mr. Bishop inquired whether the San Francisco Conference compilation would
+                    include the reprinting of papers already published. Mrs. Cassidy replied that
+                    there was no duplication of printed material but there was extensive
+                    cross-referencing to such materials. She noted that the chief stress in the
+                    compilation was on American Delegation papers and correspondence, previously
+                    unpublished.</p>
+                <p>In response to a question from Mr. Wilson as to why there were two China volumes
+                    for 1946, Mr. Gleason stated that two volumes had been required because of the
+                    detailed treatment given to the Marshall Mission. He had recently undertaken a
+                    special review of these volumes to see whether the two volumes could be reduced
+                    to one. He had decided against doing so because of the importance of the Mission
+                    and the high level of the material used. He noted that the record might have
+                    been compressed if there had been summary telegrams to use. Regrettably, there
+                    were no such adequate summaries. Mr, Franklin underscored the ever-increasing
+                    need to condense <hi rend="italic">Foreign Relations</hi> through the
+                    utilization of summary documents.</p>
+                <p>Mr. Ferrell inquired whether there might be a return in the foreseeable future to
+                    the practice of allowing scholars to have access to <hi rend="italic">Foreign
+                        Relations</hi> galleys prior to publication. Mr. Franklin stated that such
+                    access had never been a general policy of HO. In a few exceptional cases, such
+                    access had been granted. The question of equity was involved. Moreover, galleys
+                    were now classified materials, which complicated giving access to scholars, who
+                    normally did not have Department clearance.</p>
+                <p>Mr. Parks gave a brief summary of the recent history of access. He observed that
+                    from about 1950 to about 1960, several scholars had been given access,
+                    informally, to cleared galleys where such access would bring their material one
+                    year closer to currency. New considerations, however, came into play thereafter.
+                    Mr. Feis’ request for access differed from previous ones in that the scope of
+                    his entire volume paralleled that of the Potsdam papers. The situation grew
+                    serious, when because of the decision to include additional important materials
+                    and HO’s dependence on GPO schedules, the Potsdam volumes were not released
+                    until after Mr. Feis had already published his volume. The situation was further
+                    worsened when two journalists who had been given access to the Potsdam papers
+                    before their release wrote sensational articles on the decision to drop the
+                    atomic bomb. These articles, which seriously distorted the Potsdam records, had
+                    a further unfortunate result for the Department inasmuch as they also appeared
+                    before publication of the Potsdam volumes. These experiences made necessary the
+                    termination of the practice of granting access to unpublished galleys.</p>
+                <p rend="underline">AGENDA ITEM 4: Report on the conference volumes:</p>
+                <p>Mr. Franklin noted that this item had been sufficiently covered under previous
+                    agenda item. He added comments on the standards of inclusion. Coverage was
+                    extremely intensive based on the necessity of including materials on a virtual
+                    hour-by-hour basis to avoid any suspicion of censoring the record. He regretted
+                    that such treatment had delayed preparation of the conference volumes but he
+                    trusted that the Committee would approve the special intensity of treatment.</p>
+                <p rend="underline">AGENDA ITEM 5: Report on the annual volumes for 1946:</p>
+                <p>Mr. Gleason stated that the major compiling problem was the enormous
+                    proliferation of documentation in the Department’s files. He expressed the
+                    conviction that, had we continued to compile on the same basis as before, the
+                    number of volumes would have increased to the point of impairing the value of
+                        <hi rend="italic">Foreign Relations</hi> to scholars and other users. A plan
+                    was therefore devised for 1946 which for the first time established a series of
+                    priorities to ensure that major policies or negotiations were treated first and
+                    that marginal problems were cut back drastically or eliminated. As a result, we
+                    have been successful in holding the regular annual volumes for 1946 to seven or
+                    eight, in addition to the two China volumes already in galleys. Where figures
+                    were available, the number of manuscript pages was considerably less than the
+                    original estimates made in the plan. The process of weeding out low-priority
+                    subjects and documents had at times proved painful but had enhanced the value of
+                    the series by malting the volumes more manageable and readable. The quality of
+                    the volumes had stood up well but scholars would have to do more work than
+                    before as a result of some of the short cuts we had adopted. He mentioned some
+                    of the time-saving practices that had been instituted by the technical editors
+                    and touched on similar practices contemplated for use in our 1947 work, such as
+                    simplification of headings. He noted that except for the two General Section
+                    volumes dealing primarily with the UN and the Council of Foreign Ministers,
+                    compilation for 1946 would be completed by the end of 1964.</p>
+                <p rend="underline">AGENDA ITEM 6: Efforts to expedite output:</p>
+                <p>a) Budget estimates and problems: Mr. Gleason noted that Mr. Franklin had already
+                    mentioned this matter and that we should hear more of it later in the
+                    morning.</p>
+                <p>b) Editorial procedures: Mr. Gleason cited a number of changes in editorial
+                    procedures involving various short cuts by the <hi rend="italic">Foreign
+                        Relations</hi> staff and the technical editors. He concluded that the short
+                    cuts had resulted in expediting output without compromising our traditional high
+                    standards.</p>
+                <p>c) Clearances and deletions: Mr. Gleason stated the record on these matters had
+                    improved over the last year. Except for a perennial problem such as the
+                    Peru-Ecuador boundary dispute, clearance difficulties had forced us to delete
+                    only occasional documents or phrases which he felt did not impair the integrity
+                    of the record. Such deletions did not bulk large in content and were usually
+                    more colorful than essential. In cases where we felt that requested deletions
+                    would impair the record, we put up a vigorous resistance with generally
+                    satisfactory results. He indicated that later in the day he would make available
+                    to the Committee various galleys showing typical deletions on which we had been
+                    obliged to yield, or on which we had won.</p>
+                <p>d) Reaction to volume II, 1943: Mr. Gleason noted that clearance difficulties
+                    were sometimes accentuated by reviews of our volumes in the press. He cited, as
+                    a case in point, press reaction to 1943, volume II. The French press was most
+                    critical of the volume as insulting to General de Gaulle. The press of the world
+                    also dealt extensively with the attitude of the Vatican toward Nazi persecution
+                    of the Jews at a time when a play on the same subject had raised temperatures.
+                    Such controversies made the geographic desks more averse to sanctioning
+                    publication of sensitive papers, even in cases where a great deal of knowledge
+                    of the matters covered had been long in the public domain. Our chief approach
+                    was to convince the geographic desks that we were not hopelessly embarrassing
+                    the conduct of current diplomatic negotiations by untimely publication.</p>
+                <p rend="underline">AGENDA ITEM 7: Special report on UN compilation for 1946:</p>
+                <p>Mr. Gleason stated that Mr. Goodwin would explain later our plans for dealing
+                    with United States policy with respect to this question for 1946 and subsequent
+                    years.</p>
+                <p rend="underline">AGENDA ITEM 8: Priorities for 1947 compilations:</p>
+                <p>Mr. Gleason stated that we had not prepared a plan of priorities for 1947 like
+                    that for 1946 because of the pressure of time. The researchers had prepared
+                    first priority items only. A hard look would be taken at other subjects as they
+                    emerged from a closer study of the files.</p>
+                <p>Mr. Leopold asked the Committee for comments on Mr. Gleason’s presentation. Mr.
+                    Stewart raised a question on the method of presenting and justifying budgetary
+                    requests to the Congress. Mr. Franklin explained that Mr. Murphy would make an
+                    appearance shortly to speak on the questions of budgets and Congressional
+                    presentation. He noted that Congressman Rooney, head of the House Subcommittee
+                    on the State Department budget, accepted <hi rend="italic">Foreign
+                        Relations</hi> as a proper function and understood that the series was aimed
+                    at the image-forming elite.</p>
+                <p>Mr. Franklin then discussed the budget. Printing and binding money, he said, was
+                    the only item specifically set forth in our budget. Last year, HO received a
+                    printing and binding budget of $18,500, an insufficient sum when it cost about
+                    $15,000 to print and bind a single volume of <hi rend="italic">Foreign
+                        Relations</hi>. Expenditures for printing and binding a given volume were
+                    not made in one fell swoop but at different stages. We were able to squeak by,
+                    first, because the GPO was willing to accept a down payment of $3,500 per volume
+                    instead of the customary $7,000 and then only because Mr. Murphy was able to
+                    provide further funds. As a result, $58,500 was actually spent on printing and
+                    binding last year. This year the printing and binding budget was $22,500,
+                    although, as Mr. Dougall noted, HO had requested $123,000. Mr. Franklin
+                    expressed the views that $60,000 was a minimum figure and that if we were to
+                    make the twenty-year goal a reality, $120,000 would be needed. In reply to a
+                    question by Mr. Ferrell on the size of a press run of a volume, Mr. Franklin
+                    stated that approximately 4000 copies were an average run. Some 700-800 copies
+                    were distributed to various depositories and 350-400 were distributed by the
+                    Department. The GPO retained the remainder for sale to the public. Mr. Dougall
+                    commented that the Superintendent of Documents was free to print as many copies
+                    he felt able to sell. Thus the Yalta volume had a much higher run than
+                    average.</p>
+                <p>Mr. Perlmutter and Mr. Smith joined the group at about 10:50 a.m. and a
+                    discussion of technical editing problems followed. Mr. Perlmutter expressed his
+                    belief in the necessity of recruiting younger personnel in PB so that the
+                    expertise of the existing staff would be blended with the vigor of younger
+                    employees. He mentioned, short cuts in editing made by his staff without
+                    impairing the quality of <hi rend="italic">Foreign Relations</hi>. He noted that
+                    the Department was using the budgetary concept of the working capital fund under
+                    which his office drew on funds charged to HO for services performed and used
+                    these funds to pay the salaries of his staff and to pay outsiders for contract
+                    work on indexes. The first job of the newly-arrived Mr. Smith was to recruit
+                    promising free-lance workers trained in the subject matter of the volumes to
+                    index them more speedily than before. Mr. Smith stated that a volume has been
+                    contracted out for indexing purposes to a candidate for an MA in History at
+                    George Washington University at a rate of $1.15 per page, conditional upon PB
+                    doing the name entries. He hoped that continuity would be provided in such
+                    contract work to ensure the most efficient operation. Mr. Franklin emphasized
+                    that the Committee would wish the quality of the indexes maintained, especially
+                    their analytical features.</p>
+                <p>Mr. Murphy, accompanied by Miss Jacobson, arrived at 11 a.m. He stressed the
+                    facts that money spent by the Department was taxpayers’ money and that it was
+                    important to be aware that money saved by economies was the money of all of us.
+                    He emphasized that HO had never lacked money to publish volumes and was
+                    confident that this would continue to be the case. It had to be realized that
+                    HO’s expenditures were large, amounting to $500,000, primarily for salaries and
+                    $58,000 for printing and binding. HO accounted for 27% of the Bureau’s total
+                    expenditures. The Bureau had 150 positions and HO’s 39 employees made it the
+                    largest office in the Bureau and one which received great attention from the top
+                    officers of the Bureau. It was not possible to give HO all it desired any more
+                    than it was possible to do so for any other office. What must be done was to
+                    find the most desirable plateau. At the same time, he was not optimistic about
+                    future additions to our budget because he anticipated continued stress by the
+                    administration on economy and efficiency of operation.</p>
+                <p>Mr. Murphy then gave statistics illustrating the Bureau’s budgetary problems. In
+                    1958, the Bureau had spent $1,200,000 for salaries of 156 persons and had
+                    expended an additional $266,000 for non-salary items. For fiscal year 1965, the
+                    Bureau anticipated spending $1,650,000 for salaries of 150 persons and $533,000
+                    for non-salary items. The steady upward trend of expenditures required great
+                    efforts to hold costs down and to use our resources prudently. He concluded by
+                    stating that five volumes had been published last year, one of the largest in
+                    the recent history of <hi rend="italic">Foreign Relations</hi>.</p>
+                <p>Mr. Franklin stated that the Advisory Committee favored a twenty-year gap and
+                    that Secretary Rusk had given a nod of approval in this direction. We could not
+                    hold to that goal with five volumes a year and eight volumes must be aimed for
+                    if we were to remain within hailing distance of that goal. Mr. Leopold added
+                    that the Advisory Committee was being pressed by scholarly organizations about
+                    the slow pace of publishing <hi rend="italic">Foreign Relations</hi>.</p>
+                <p>Mr. Murphy observed that he read the scholarly journals in order to glean
+                    information that might be useful in his presentation of HO money requests in
+                    Department budget discussions. He then continued with a description of the
+                    budgetary cycle. Usually in September, the Bureau put together a draft budget.
+                    These figures were honed over by groups under the direct chairmanship of the
+                    Secretary and the Under Secretary. A final product delineating what the
+                    Department would like to have was then submitted to the Bureau of the Budget.
+                    Final decisions were made in the Executive Office of the President and notice
+                    given to the Department of the budget to be submitted to the Hill. The
+                    Department had then to review its operations and fit itself into the proposed
+                    budget. In the Congressional examination of the proposed budget, two figures
+                    were of special import: the Base Figure, the money currently being spent for a
+                    given program, and the Increase, the amount above the Base Figure being
+                    requested for that program. Normally, Congress accepted the Base Figure and
+                    looked closely at the Increase. In the absence of Congressional authorization of
+                    funds, the Department must “feed on itself” to meet the costs of new programs.
+                    Thus when the Department found it necessary to expand its program on Africa and
+                    during other emergencies, it was compelled to draw funds from other operations.
+                    Mr. Franklin interjected that the Base Figure for printing and binding <hi
+                        rend="italic">Foreign Relations</hi> had been $40,000 to $50,000 but that
+                    last year the amount had been cut to $18,500, a development he deplored. Mr.
+                    Murphy said that printing and binding funds had been made available, however,
+                    regardless of the leanness of the Base Figure. He noted that when such funds
+                    were needed above the Base Figure, the Bureau had gone to the Department’s
+                    budgetary officers and gotten more. Thus the $18,500 had risen to an actual
+                    expenditure of $58,000 by the end of the year. This year, the Base Figure was
+                    $22,500. The Bureau understood this was insufficient and expected to be able to
+                    provide at least as much as last year but this addition could not be
+                    guaranteed.</p>
+                <p>Mr. Stewart asked why the twenty-year goal was slipping away, if we had always
+                    gotten sufficient printing and binding money. He wondered whether this was due
+                    to the need for additional personnel. Mr, Franklin replied that despite efforts
+                    by HO and PB to speed up procedures and use short cuts, there was simply an
+                    inadequate number of professional people on the staff. Mr. Murphy pointed out
+                    that the Bureau was operating under a strict personnel ceiling and had not
+                    requested any additions for the last two years because of directives from the
+                    President and the Bureau of the Budget. He predicted that the Bureau would not
+                    make any requests for increases this year and in the foreseeable future. Mr.
+                    Franklin estimated that there was little more that we could do by way of
+                    improving procedures to hold the twenty-year line with the existing staff; the
+                    goal was slipping from sight.</p>
+                <p>Mr. Bishop noted that the twenty-year goal could certainly not be maintained
+                    unless productivity and/or staff were increased, in view of the enormous bulk of
+                    documentation in the post-war years. Mr. Leopold noted that the Advisory
+                    Committee had accepted the twenty-year goal with reluctance, some of the
+                    Committee members having pressed for a fifteen-year lag.</p>
+                <p>Mr. Leopold wondered how planning of the series was affected by the need to go
+                    hat in hand for additional printing and binding money. Mr. Franklin pointed to
+                    Mr. Aandahl’s charts and said the availability of funds might make them
+                    conjectural. He expressed the opinion that if the Base Figure were increased to
+                    pay for six and then seven volumes per year, there would be an incentive to the
+                    staff toward greater productivity.</p>
+                <p>Mr. Stewart once more alluded to the fact that the printing and binding money was
+                    not the primary problem. He asked whether the Committee wished to concentrate on
+                    the major problem of personnel ceiling. Mr. Leopold quickly rejoined that such
+                    ceiling was a fact of life. He asked Mr. Murphy whether the Committee could help
+                    on the budgetary problem. Mr. Morphy said the Committee had done a fine job and
+                    asked it to continue its pressure. He was not sanguine, however, that anything
+                    could be done because of the rigidity of personnel ceilings.</p>
+                <p>Mr. Franklin observed that a continuing program like the publication of <hi
+                        rend="italic">Foreign Relations</hi> was hurt more by long unfilled
+                    vacancies than an office where work loads could be managed. Mr. Murphy stated no
+                    relief was possible soon. On orders from the Bureau of the Budget, he said, 4%
+                    of the 150 jobs in the Bureau of Public Affairs could not be filled. He
+                    expressed concern lest the Bureau of the Budget raise this percentage. He
+                    acknowledged that HO had two long-term vacancies. He noted that vacancies
+                    existed elsewhere in the Bureau also and that HO had fared as well as any in
+                    filling vacancies. In fact, he added, the only two vacancies beyond the 4% job
+                    loss rate recently filled had been filled in HO.</p>
+                <p>Mr. Osgood inquired whether the Advisory Committee1s reports had been used in
+                    budgetary presentations to the Congress. Mr. Murphy replied that the reports
+                    were not used on the Hill but were used in the Department’s budgetary
+                    discussions. Mr. Bishop asked whether the reports could be improved in
+                    presentation to be of greater help to Mr. Murphy. He answered in the negative,
+                    stating they were well done and could not be improved from his point of
+                    view.</p>
+                <p>Mr. Stewart inquired as to the specific justification of the <hi rend="italic"
+                        >Foreign Relations</hi> program given to Congressman Rooney at budget
+                    hearings. Mr. Murphy stated, and Mr. Franklin agreed, that the program did not
+                    require annual justification at these hearings as the program was solidly
+                    established and its value accepted by the Congressman.</p>
+                <p>Mr. Murphy noted that Mr. Manning in the last few years had addressed himself to
+                    the question of the value of the program in testimony on the Hill and that
+                    during the ’40’s, Francis Russell and the then Director of the Historical
+                    Office, E. Wilder Spaulding, had also done so. He suggested that Mr. Franklin
+                    make excerpts of their testimony available to the Committee.</p>
+                <p>Mr. Mosely inquired whether it would be possible to request a Base Figure
+                    appropriation of $50,000 for printing and binding and Mr. Murphy replied in the
+                    negative. Mr. Wilson asked whether the Bureau stressed the need to maintain
+                    quality in asking for more funds. Mr. Murphy replied that he always stressed
+                    quality as well as the question of the time lag.</p>
+                <p>Mr. Leopold thanked Mr. Murphy for his candid presentation and assured him that
+                    the Committee would “keep at it”. Mr. Murphy and Miss Jacobson left just before
+                    noon.</p>
+                <p>Mr. Smith concluded his presentation regarding PB’s efforts to utilize outside
+                    skills and resources to help maintain the twenty-year goal. He stated that
+                    clearance delays were the main factor in slowing down publication. In response
+                    to a query from Mr. Franklin, he admitted that PB would be in a grave difficulty
+                    if a large number of volumes were suddenly cleared but pledged PB’s efforts to
+                    cope with such a contingency should it occur. Mr. Franklin saw the need to add
+                    one person to the PB staff, if the twenty-year line was to be held. He thanked
+                    Mr. Smith for his presentation and the latter left at 12:05 p.m.</p>
+                <p>Mr. Stewart returned to the question of justifying the <hi rend="italic">Foreign
+                        Relations</hi> program. He stressed the strategic role of Mr. Murphy in the
+                    quest for further funds and that the reiteration to him of the twenty-year goal
+                    might not be sufficient. He thought that the statements by Russell et al should
+                    be set forth in a cogent paper to Mr. Murphy, because Mr. Murphy’s degree of
+                    conviction was all-important.</p>
+                <p>Mr. Franklin stated that it could no longer be said that the series was of much
+                    current-reference value. He recalled that a canvass had been made of Congressmen
+                    some time ago to check on their utilization of the volumes. It was discovered
+                    that they respected the intellectual qualities of the volumes but that they did
+                    not make use of them because of their remoteness from currency.</p>
+                <p>Mr. Mosely, in expressing his justification of the <hi rend="italic">Foreign
+                        Relations</hi> series, asserted that democracy operates at its best when a
+                    free society knows itself. A major function of the series was to serve as a tool
+                    to enable our society to know itself. The fact that the actual documents were
+                    presented provided the series with a unique opportunity for achieving this end.
+                    Since there was a continuity of basic factors and political judgments, these
+                    volumes provided a base of information which a democracy could use in adapting
+                    to new problems. In addition, these volumes, by making the record public,
+                    ensured against excessive secrecy and spared our democracy from the myths of
+                    foreign policy with which European powers found themselves saddled. Furthermore,
+                    these volumes helped prepare and train those young people who would some day be
+                    in positions of power and responsibility in this country, He also noted that we
+                    were helping shape the scholarship of foreigners who now have <hi rend="italic"
+                        >Foreign Relations</hi> although they are denied any comparable publication
+                    based on the files of their own Foreign Offices and are denied access to those
+                    files as well.</p>
+                <p>Mr. Goodwin suggested that the reports of the Senate Appropriations Sub-Committee
+                    dealing with the budget of the State Department during the 1950’s under the
+                    chairmanship of then Senator Johnson might reveal some interesting comments on
+                    the value of <hi rend="italic">Foreign Relations</hi>.</p>
+                <p>The morning session of the Committee adjourned at 12:15 p.m. The Committee,
+                    accompanied by Assistant Secretary of State for Public Affairs Greenfield, Mr.
+                    Franklin and Mr. Gleason, had lunch with Under Secretary of State Harriman. The
+                    Committee reassembled at 2:30 p.m., and Mr. Franklin announced that the
+                    Committee had heard encouraging words from on high. In particular, Mr. Harriman
+                    and Mr. Greenfield had encouraged the Committee to take its campaign on behalf
+                    of <hi rend="italic">Foreign Relations</hi> directly to the appropriate
+                    committees on the Hill.</p>
+                <p>Mr. Gleason supplemented his earlier remarks on the 1947 compilations, now in
+                    progress. He noted again that less effort had been put into planning for 1947 as
+                    opposed to 1946 because of unwillingness to devote time to such a project when
+                    all efforts were being devoted to speeding up compilation. He observed that the
+                    experience of the staff with the 1946 plan made easier their determination of
+                    first priority stories for 1947. A skeleton plan listing first-priority subjects
+                    only had been prepared and was available for examination by the Committee. In
+                    the meantime, he read a representative listing of first priority titles.</p>
+                <p>Mr. Gleason then asked Mr. Goodwin to address himself to the handling of the
+                    United Nations aspects of compilation. Mr. Goodwin observed that “everything was
+                    new” in connection with the UN, principles and procedures having to be devised
+                    for the first time. He then outlined the most important decisions made in the
+                    development of these principles and procedures. The initial decision, embodied
+                    in the 1946 plan, established two levels of compilation, a general United
+                    Nations level embracing procedural and organizational questions and substantive
+                    UN questions. An example of the latter type was the question of furnishing
+                    military contingents to the UN. Compilations centering on these questions were
+                    to be treated in the UN compilation. The second level was concerned with area or
+                    regional problems which during their course involved the UN, e.g., the Iranian
+                    appeal. Problems of this kind were assigned to the appropriate geographic or
+                    area compilation.</p>
+                <p>A second decision involved the creation of terms of reference for compiling on
+                    the general UN level. Four concepts gradually had emerged:</p>
+                <p>1. Primary emphasis was to be placed on the United Nations <hi rend="underline"
+                        >proper</hi> rather than on the United Nations <hi rend="underline"
+                        >system</hi>, thereby largely excluding the specialized agencies.</p>
+                <p>2. Preponderant weight was to be given to political and security issues as the
+                    area in which the United States was engaged in “major foreign policy
+                    decisions”.</p>
+                <p>3. Within the political and security field, emphasis was to be placed on those
+                    issues in which the United States determined that the “universal” or global
+                    approach was more effective than bilateral, regional, or other multilateral
+                    channels and utilized the machinery of the UN for the implementation of a
+                    particular United States policy. Examples of these issues were general security
+                    matters, trusteeship and the development of law in international relations.</p>
+                <p>4. The UN as a political institution and United States policies relating thereto
+                    warranted careful treatment in <hi rend="italic">Foreign Relations</hi>.
+                    Examples of pertinent issues were United States involvement in constitutional,
+                    organizational and political matters directly affecting the structure of the UN
+                    itself and the balance of political power there.</p>
+                <p>A third decision related to the establishment of procedures for compiling those
+                    sections of bilateral subjects in which there was a UN presence. Initial
+                    responsibility has been placed on the area specialist. The UN specialist has
+                    been charged with contributing to and ensuring that the UN aspects of the
+                    compilation have been adequately treated.</p>
+                <p>Mr. Goodwin made mention of the earlier decision to focus on political and
+                    security issues as the area in which the United States was engaged in “major
+                    foreign policy decisions”. He raised the question as what this expression meant
+                    in terms of United States involvement with the UN. He then set forth the formula
+                    to be used, in the following terms: “The term ‘major foreign policy decisions’
+                    will be construed to mean those policy decisions and diplomatic actions that
+                    utilized the machinery of the United Nations at any given moment as the most
+                    effective medium for the expression of a particular United States policy; or
+                    that, in response to the United Nations policies of another state or states,
+                    resulted in the assumption of a strong leadership position by the United States
+                    at the United Nations: or that involved the United States significantly in
+                    United Nations political and constitutional issues; such actions standing in an
+                    immediate relationship to a vital United States interest and being of
+                    consequence in the diplomatic history of that interest.”</p>
+                <p>Mr. Goodwin then set forth the organization developed for 1946 compilations
+                    involving the UN. The General volume would deal with the general policy of the
+                    United States toward the UN, voting in the Security Council, admission of new
+                    members, the trusteeship system, general security matters and United States
+                    interest in the furtherance of the rule of law. The European and British
+                    Commonwealth volume would treat such problems as refugees, war crimes and the
+                    Southwest Africa question. The Near East volume would document the actions of
+                    the Security Council involving Iran, Greece, and Syria and Lebanon. The Far East
+                    volume would deal with Siam and Indonesia.</p>
+                <p>Mr. Goodwin concluded his remarks by describing some of the compilation
+                    procedures that had been developed for stories involving UN subjects: the
+                    establishment of forms and styles for headings and for footnote citations to the
+                        <hi rend="italic">Official Records</hi> of the several UN organs; the
+                    setting up of priorities as between UN and other official sources for purposes
+                    of citation; and the establishment of differing compilation objectives and
+                    procedures (the broadening of the volume of documentation, the extent of the use
+                    made of the verbatim record and the utilization of footnotes and bracketed notes
+                    to expand and clarify the record) for subjects of prime significance to the
+                    United States, e.g., the Iranian question, as opposed to subjects of lesser
+                    importance, e.g., the Spanish question.</p>
+                <p>The Committee adjourned at 3:30 p.m. for coffee with the Secretary of State in
+                    the Monroe Room. The <hi rend="italic">Foreign Relations</hi> staff members were
+                    excused from further participation in the Committee’s discussions.</p>
+                <p rend="center"><hi rend="underline">Saturday Session, November 7, 1964, 9
+                        a.m.</hi></p>
+                <p>Present:</p>
+                <list>
+                    <item>The Advisory Committee:<list>
+                            <item>Richard W. Leopold, Chairman</item>
+                            <item>William W. Bishop, Jr.</item>
+                            <item>Robert H. Ferrell</item>
+                            <item>Philip E. Mosely</item>
+                            <item>Robert E. Osgood</item>
+                            <item>Robert R. Wilson</item>
+                            <item>(Mr. Stewart was attending another meeting elsewhere in the
+                                Department)</item>
+                        </list></item>
+                    <item>The Historical Office:<list>
+                            <item>William M. Franklin</item>
+                            <item>Richardson Dougall</item>
+                            <item>S. Everett Gleason</item>
+                            <item>Fredrick Aandahl</item>
+                        </list></item>
+                </list>
+                <p>Mr. Leopold opened the meeting by asking whether the Committee’s report should
+                    take approximately the same form as in previous years. Mr. Franklin thought that
+                    it should and pointed out that brevity increased its chances of being read in
+                    the Department and printed by the learned journals. Mr. Leopold thought the
+                    report should cover the status of the series, prospects for holding the 20-year
+                    line, clearance, access to files by unofficial researchers, personnel, and
+                    budget. Mr. Franklin remarked that this was crisp and clear and that he had no
+                    special recommendations. The Committee might wish to note that this year it had
+                    reviewed the question of deletions and had seen various examples, and they might
+                    wish to comment on this. Mr. Franklin also mentioned the open hint from Mr.
+                    Harriman and Mr. Greenfield that the Committee might be well advised to approach
+                    appropriate members of Congress directly in the interest of the series; this
+                    should not go into the written report, of course.</p>
+                <p>Mr. Gleason said that he expected to have the minutes sent out by the end of the
+                    following week.</p>
+                <p>Mr. Wilson asked if there had been any problem in getting the Committee’s report
+                    of last year printed. Mr. Leopold said only the historians had lagged on this;
+                    the international law and political science journals had published the report in
+                    full and sooner. He also asked about the Department of State <hi rend="italic"
+                        >Bulletin</hi> and the <hi rend="italic">Newsletter</hi>, and Mr. Franklin
+                    said he would see what coverage could be arranged. Mr. Leopold then asked if
+                    there were any other aspect of the work of the Historical Office on which the
+                    Committee could usefully comment, and Mr. Franklin replied that the Office was
+                    pushing hard on the <hi rend="italic">Current Documents</hi> volumes, which were
+                    mentioned in last year’s report, and that in addition to the regular staff
+                    headed by Messrs. Parks and Curl various specialists from Mr. Dougall’s
+                    Historical Studies Division were also being used. The volumes for 1961 and 1962
+                    should be published in 1965, and the manuscript for 1963 and 1964 should be well
+                    advanced.</p>
+                <p>At this point the members of the Historical Office withdrew, and the Committee
+                    discussed the contents of its report, to be prepared subsequently.</p>
+                <p>At 10:20 a.m. the full meeting reconvened.</p>
+                <p>Mr. Leopold said that the Committee was strongly in favor of the proposed “alumni
+                    association” of its former members and felt that they should be kept informed of
+                    current work.</p>
+                <p>Mr. Leopold then said that the Committee wished to discuss with the Historical
+                    Office two things: the nature of its report, and the nature of the Committee
+                    itself.</p>
+                <p>The report would follow last year’s pattern, but would be shorter and follow a
+                    somewhat different order. It would again make a play on personnel and budget and
+                    would mention the efforts of the Division of Publishing and Reproduction
+                    Services to solve the problem of indexing. For the benefit of the associations
+                    represented in the Committee the report would briefly summarize the situation
+                    with regard to access to Department of State files by unofficial researchers.
+                    Mr. Ferrell commented that tying such access to the appearance of <hi
+                        rend="italic">Foreign Relations</hi> volumes meant that many people would
+                    wish to push the publication of these volumes.</p>
+                <p>Noting that there was no clear line setting off the closed, restricted, and open
+                    periods, Mr. Franklin suggested that interested persons write to the Historical
+                    Office for specific information on their particular projects. Much depended on
+                    which volumes had been published as of any given time.</p>
+                <p>Mr. Leopold then said that the Committee’s report would probably comment on the
+                    clearance problem, indicating that there had been some improvement but that
+                    there was still a long way to go. The problem seemed less pressing than in some
+                    previous years.</p>
+                <p>Mr. Franklin said that since he would circulate copies of the report to the
+                    public affairs officers in the various bureaus it might be good to put in a
+                    friendly word on their efforts to expedite clearance.</p>
+                <p>Referring to the problems of selecting documents and of deletions required by the
+                    various bureaus, Mr. Leopold said that the report would state that the Committee
+                    had considered the matter and that the Historical Office seemed to be acting
+                    wisely and in accordance with the high standards that have characterized the
+                    series. Mr. Franklin commented that when deletions were involved we did not
+                    always think these standards were so high, but that we sometimes had little
+                    choice.</p>
+                <p>There would be no mention of the Truman Papers, Mr. Leopold continued, but there
+                    would be a word on the <hi rend="italic">Current Documents</hi> series. As
+                    previously noted, the main emphasis in the report would be on the status of the
+                    series, personnel, and budget, and account would be taken of the points raised
+                    on Friday by Mr. Murphy. The proposal for an intern program would not be
+                    mentioned in the report, but would be handled in letters to Messrs. Harrington
+                    and Berdahl.</p>
+                <p>The report would say something about recruitment and future staff needs, Mr.
+                    Leopold went on, and an attempt would be made to provide an arresting first
+                    paragraph.</p>
+                <p>Turning to the other main subject to be discussed at this time with the
+                    Historical Office, Mr. Leopold then spoke of the structure of the Committee
+                    itself. As for terms of office, there had been informal but by no means
+                    unanimous agreement on 4 years instead of the present 3. As for selection of a
+                    new chairman, the most dignified way seemed to be for the retiring chairman to
+                    write in late September or in October to the other members to ask their
+                    preference for the following year.</p>
+                <p>Mr. Franklin thought that the 4-year term would, be acceptable to the
+                    administrators of the Department, and Mr. Dougall noted that the proposed change
+                    would affect the terms of the continuing members of the Committee. Mr. Franklin
+                    pointed out that (so as to avoid possible conflict of interest) the official
+                    chairman must be an officer of the Department, but that the selection of the
+                    group’s spokesman was an internal matter for the Committee to decide.</p>
+                <p>Mr. Wilson asked what would happen if a member were out of the country or
+                    otherwise unavailable. There was no quorum rule, but Mr. Franklin said that in
+                    order to meet this contingency he had each year kept the outgoing members
+                    officially eligible until their successors were sworn in. In case of need
+                    clearance could be reactivated on a previous member from one of the three
+                    learned societies represented on the Committee.</p>
+                <p>Mr. Leopold noted that the Committee had authorized him to thank Mr. Harriman and
+                    other officers for their hospitality.</p>
+                <p>Mr. Ferrell said that he wished to express appreciation to Mr. Gleason for the
+                    way he had taken on his new job, and Mr. Leopold said that he was greatly
+                    impressed by what Mr. Gleason and his staff were doing.</p>
+                <p>Mr. Gleason responded that it was a terrific boost to the morale of the <hi
+                        rend="italic">Foreign Relations</hi> Division to have the Committee make its
+                    appearance annually to give serious and sympathetic consideration to the work
+                    being done.</p>
+                <p>Mr. Wilson as a retiring member expressed his personal appreciation for the
+                    opportunity to serve this important enterprise of the Department of State. He
+                    had found it enjoyable, interesting, and enlightening,</p>
+                <p>Mr. Franklin replied that the Committee had tremendous value in raising the
+                    prestige and stature of the whole operation, for the annual meetings enabled the
+                    Office to bring out many things. The Committee’s presence was impressive to the
+                    Secretary of State and other officers, and it led them to focus once a year on
+                    the work going steadily forward. The Committee provided a favorable and
+                    persuasive backdrop which greatly strengthened the efforts of the Historical
+                    Office.</p>
+                <p>Apropos of a remark made to the group by Mr. Rusk on Friday, Mr. Wilson asked how
+                    were the six telegrams a day requiring the Secretary’s attention selected? Mr.
+                    Franklin described the Secretary’s staff meeting, and said that unfortunately
+                    the Historical Office was not present, so that problems within its area of
+                    competence trickled down to us instead of coming directly, as for example a
+                    recent inquiry on the Oder-Neisse line. Mr. Dougall said that he had discussed
+                    possible remedies with Mr. Greenfield.</p>
+                <p>In conclusion, Mr. Leopold expressed the Committee’s gratitude to Mr. Franklin
+                    and his staff, and said that this was the best working committee he had served
+                    on in Government. It really “dug in” and was not all window dressing.</p>
+                <p>Mr. Franklin again expressed the Department’s thanks to the Committee, and noted
+                    with appreciation the remarkably high attendance rate through the years.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
