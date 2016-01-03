@@ -11,7 +11,7 @@
             </publicationStmt>
             <sourceDesc>
                 <p>These documents were released in conjunction with <ref target="/historicaldocuments/frus-history/research/1980-rereview">“The 1980 <hi rend="italic">FRUS</hi> Re-Review."</ref> A scan of the original documents is
-                    available for download (<ref target="http://static.history.state.gov/frus150/1980-rereview-documents.pdf">PDF</ref>, 2.2 MB, 61 pp.).</p>
+                    available for download (<ref target="https://s3.amazonaws.com/static.history.state.gov/frus150/1980-rereview-documents.pdf">PDF</ref>, 2.2 MB, 61 pp.).</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
