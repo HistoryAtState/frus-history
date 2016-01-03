@@ -5,7 +5,7 @@
     <icon>
         <width>150px</width>
         <height>61px</height>
-        <url>http://static.history.state.gov/frus150/lincoln-cottage-logo.png</url>
+        <url>//s3.amazonaws.com/static.history.state.gov/frus150/lincoln-cottage-logo.png</url>
         <alttext>President Lincoln’s Cottage Logo</alttext>
     </icon>
     <link>/historicaldocuments/frus-history/events#lincoln-cottage</link>
@@ -20,7 +20,7 @@
     <full-description>
         <div xmlns="http://www.w3.org/1999/xhtml" id="lincoln-cottage">
             <a style="float:right" class="not-external" href="http://www.lincolncottage.org/news/programs.htm" title="Link to President Lincoln’s Cottage event info">
-                <img width="150px" height="61px" style="border:1px black solid" src="http://static.history.state.gov/frus150/lincoln-cottage-logo.png" alt="Lincoln Cottage Logo"/>
+                <img width="150px" height="61px" style="border:1px black solid" src="//s3.amazonaws.com/static.history.state.gov/frus150/lincoln-cottage-logo.png" alt="Lincoln Cottage Logo"/>
             </a>
             <h3>
                 <a href="http://www.lincolncottage.org/news/programs.htm">“Celebrating 150 Years of <em>FRUS</em> at Lincoln’s Cottage”</a>

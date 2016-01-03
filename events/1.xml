@@ -7,7 +7,7 @@
     <icon>
         <width>150px</width>
         <height>101px</height>
-        <url>http://static.history.state.gov/frus150/aha-cspan.jpg</url>
+        <url>//s3.amazonaws.com/static.history.state.gov/frus150/aha-cspan.jpg</url>
         <alttext>Still image of AHA CSPAN Event</alttext>
     </icon>
     <link/>
@@ -24,7 +24,7 @@
     <full-description>
         <div xmlns="http://www.w3.org/1999/xhtml" id="aha-open-secrets">
             <a style="float:right" class="not-external" href="http://www.c-spanvideo.org/program/GovernmentSecret/" title="Link to CSPAN Video of the AHA Event">
-                <img width="150px" height="101px" style="border:1px black solid" src="http://static.history.state.gov/frus150/aha-cspan.jpg" alt="Still image of AHA CSPAN Event"/>
+                <img width="150px" height="101px" style="border:1px black solid" src="//s3.amazonaws.com/static.history.state.gov/frus150/aha-cspan.jpg" alt="Still image of AHA CSPAN Event"/>
             </a>
             <h3>
                 <a href="http://www.c-spanvideo.org/program/GovernmentSecret">“Open Secrets: The Foreign Relations of the

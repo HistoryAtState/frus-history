@@ -5,7 +5,7 @@
     <icon>
         <width>150px</width>
         <height>152px</height>
-        <url>http://static.history.state.gov/frus150/miller-center.png</url>
+        <url>//s3.amazonaws.com/static.history.state.gov/frus150/miller-center.png</url>
         <alttext>Miller Center of Public Affairs Logo</alttext>
     </icon>
     <link>/historicaldocuments/frus-history/events#miller-center</link>
@@ -22,7 +22,7 @@
     <full-description>
         <div xmlns="http://www.w3.org/1999/xhtml" id="miller-center">
             <a style="float:right" class="not-external" href="http://millercenter.org/academic/gage/panel/detail/5972" title="Link to Miller Center of Public Affairs event info">
-                <img width="150px" height="152px" style="border:1px black solid" src="http://static.history.state.gov/frus150/miller-center.png" alt="Miller Center Logo"/>
+                <img width="150px" height="152px" style="border:1px black solid" src="//s3.amazonaws.com/static.history.state.gov/frus150/miller-center.png" alt="Miller Center Logo"/>
             </a>
             <h3>
                 <a href="http://millercenter.org/academic/gage/panel/detail/5972">“A Weapon of Mass

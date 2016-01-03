@@ -6,7 +6,7 @@
     <icon>
         <width>150px</width>
         <height>110px</height>
-        <url>http://static.history.state.gov/frus150/frus1969-76v31.jpg</url>
+        <url>//s3.amazonaws.com/static.history.state.gov/frus150/frus1969-76v31.jpg</url>
         <alttext>Cover of “Foreign Economic Policy, 1973-1976”</alttext>
     </icon>
     <link>/conferences/2011-foreign-economic-policy</link>
@@ -22,7 +22,7 @@
     <full-description>
         <div xmlns="http://www.w3.org/1999/xhtml" id="foreign-economic-policy">
             <a style="float:right" class="not-external" href="/conferences/2011-foreign-economic-policy" title="Foreign Economic Policy,                 1973-1976">
-                <img width="150px" height="110px" style="border:1px black solid" src="http://static.history.state.gov/frus150/frus1969-76v31.jpg" alt="Cover of “Foreign Economic Policy, 1973-1976”"/>
+                <img width="150px" height="110px" style="border:1px black solid" src="//s3.amazonaws.com/static.history.state.gov/frus150/frus1969-76v31.jpg" alt="Cover of “Foreign Economic Policy, 1973-1976”"/>
             </a>
             <h3>
                 <a href="/conferences/2011-foreign-economic-policy">“Foreign Economic Policy,

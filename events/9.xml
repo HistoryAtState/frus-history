@@ -5,7 +5,7 @@
     <icon>
         <width>150px</width>
         <height>114px</height>
-        <url>http://static.history.state.gov/frus150/wilson-center-logo.png</url>
+        <url>//s3.amazonaws.com/static.history.state.gov/frus150/wilson-center-logo.png</url>
         <alttext>Wilson Center Logo</alttext>
     </icon>
     <link>/historicaldocuments/frus-history/events#wilson-center-diplomatic-secrecy</link>
@@ -20,7 +20,7 @@
     <full-description>
         <div xmlns="http://www.w3.org/1999/xhtml" id="wilson-center-diplomatic-secrecy">
             <a style="float:right" class="not-external" href="http://www.wilsoncenter.org/event/diplomatic-secrecy-the-19th-century" title="Link to Wilson Center event info">
-                <img width="150px" height="114px" style="border:1px black solid" src="http://static.history.state.gov/frus150/wilson-center-logo.png" alt="Wilson Center Logo"/>
+                <img width="150px" height="114px" style="border:1px black solid" src="//s3.amazonaws.com/static.history.state.gov/frus150/wilson-center-logo.png" alt="Wilson Center Logo"/>
             </a>
             <h3>
                 <a href="http://www.wilsoncenter.org/event/diplomatic-secrecy-the-19th-century">“Diplomatic Secrecy in the 19th Century”</a>
