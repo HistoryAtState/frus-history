@@ -10,7 +10,7 @@
                 <sponsor>Office of the Historian, U.S. Department of State</sponsor>
             </titleStmt>
             <publicationStmt>
-                <date when="2015-01-02">Updated January 2, 2015</date>
+                <date when="2016-02-01">Updated February 1, 2016</date>
             </publicationStmt>
             <sourceDesc>
                 <p/>
@@ -28,6 +28,7 @@
         <revisionDesc>
             <change who="#JDB" when="2013-12-18">Drafted text.</change>
             <change who="#JDB" when="2015-01-02">Added 2014 data.</change>
+            <change who="#JDB" when="2016-02-01">Added 2015 data and corrected 2005 and 2006 data.</change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -1494,23 +1495,23 @@
                     </row>
                     <row>
                         <cell>2005</cell>
-                        <cell>7</cell>
+                        <cell>6</cell>
                         <cell>33</cell>
-                        <cell>34.1</cell>
+                        <cell>33.7</cell>
                         <cell>37</cell>
                         <cell>33</cell>
-                        <cell>34.1</cell>
+                        <cell>33.7</cell>
                         <cell>37</cell>
                     </row>
                     <row>
                         <cell>2006</cell>
-                        <cell>9</cell>
+                        <cell>10</cell>
                         <cell>30</cell>
-                        <cell>34</cell>
-                        <cell>36</cell>
+                        <cell>34.4</cell>
+                        <cell>38</cell>
                         <cell>30</cell>
-                        <cell>34</cell>
-                        <cell>36</cell>
+                        <cell>34.4</cell>
+                        <cell>38</cell>
                     </row>
                     <row>
                         <cell>2007</cell>
@@ -1592,8 +1593,19 @@
                         <cell>36.9</cell>
                         <cell>41</cell>
                     </row>
+                    <row>
+                        <cell>2015</cell>
+                        <cell>10</cell>
+                        <cell>31</cell>
+                        <cell>37.7</cell>
+                        <cell>43</cell>
+                        <cell>31</cell>
+                        <cell>37.7</cell>
+                        <cell>43</cell>
+                    </row>
                 </table>
             </div>
         </body>
     </text>
 </TEI>
+
