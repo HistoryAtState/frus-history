@@ -1,0 +1,49 @@
+{
+    "title": "<em>Foreign Relations<\/em> Series: Production &amp; Timeliness, 1861-2015",
+    "labels": [
+        "Year",
+        "Production",
+        "Average Lag",
+        "Regular Lag"
+    ],
+    "ylabel": "Production (Volumes)",
+    "y2label": "Lag (Years)",
+    "customBars": true,
+    "series": {
+        "Average Lag": {"axis": "y2"},
+        "Regular Lag": {"axis": "y2"}
+    },
+    "axes": {
+        "y": {
+            "drawGrid": false,
+            "independentTicks": true,
+            "valueRange": [
+                0,
+                15
+            ]
+        },
+        "y2": {
+            "drawGrid": true,
+            "independentTicks": true,
+            "valueRange": [
+                0,
+                60
+            ]
+        }
+    },
+    "showRangeSelector": true,
+    "rangeSelectorHeight": 30,
+    "rangeSelectorPlotStrokeColor": "rgb(73, 102, 144)",
+    "rangeSelectorPlotFillColor": "rgb(73, 102, 144)",
+    "visibility": [
+        true,
+        true,
+        false
+    ],
+    "colors": [
+        "rgb(155,17,30)",
+        "rgb(73, 102, 144)",
+        "rgb(73, 102, 144)"
+    ],
+    "labelsDivWidth": 300
+}
