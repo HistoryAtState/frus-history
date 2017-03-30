@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <event>
     <id>3</id>
-    <title>Panels on Crisis and Change in FRUS at the Society for History in the Federal Government (SHFG) 2011 Annual
-    Meeting</title>
+    <title>Panels on Crisis and Change in FRUS at the Society for History in the Federal Government
+        (SHFG) 2011 Annual Meeting</title>
     <created>2011-02-15</created>
     <icon>
         <width>150px</width>
@@ -16,37 +16,41 @@
     <event-date>2011-03-31</event-date>
     <teaser>
         <div xmlns="http://www.w3.org/1999/xhtml">
-            <a href="/historicaldocuments/frus-history/events#shfg-crisis-change">“Crisis and Change in the <em>Foreign
-                Relations of the United States</em> Series, 1861-2011”</a>
+            <a href="/historicaldocuments/frus-history/events#shfg-crisis-change">“Crisis and Change
+                in the <em>Foreign Relations of the United States</em> Series, 1861-2011”</a>
             <br/> (A panel at the Society for History in the Federal Government Annual
             Meeting)</div>
     </teaser>
     <full-description>
         <div xmlns="http://www.w3.org/1999/xhtml" id="shfg-crisis-change">
-            <a style="float:right" class="not-external" href="http://shfg.org/shfg/feature-archive/conference-registration/" title="Link to SHFG Annual Meeting homepage">
-                <img width="150px" height="36px" style="border:1px black solid" src="//s3.amazonaws.com/static.history.state.gov/frus150/shfg-logo.jpg" alt="SHFG Logo"/>
+            <a style="float:right" class="not-external"
+                href="http://shfg.org/shfg/feature-archive/conference-registration/"
+                title="Link to SHFG Annual Meeting homepage">
+                <img width="150px" height="36px" style="border:1px black solid"
+                    src="//s3.amazonaws.com/static.history.state.gov/frus150/shfg-logo.jpg"
+                    alt="SHFG Logo"/>
             </a>
             <h3>
-                <a href="http://shfg.org/shfg/feature-archive/conference-registration/">“Crisis
-                    and Change in the <em>Foreign Relations of the United States</em> Series,
+                <a href="http://shfg.org/shfg/feature-archive/conference-registration/">“Crisis and
+                    Change in the <em>Foreign Relations of the United States</em> Series,
                     1861-2011”</a>
             </h3>
-            <p style="font-size: 0.825em; text-transform: uppercase;"> A panel at the Society
-                for History in the Federal Government Annual Meeting<br/>March 31, 2011</p>
+            <p style="font-size: 0.825em; text-transform: uppercase;"> A panel at the Society for
+                History in the Federal Government Annual Meeting<br/>March 31, 2011</p>
             <p>
                 <ul>
                     <li>Chair <ul>
-                            <li>William B. McAllister, Ph.D. Special Projects Director, Office
-                            of the Historian, U.S. Department of State</li>
+                            <li>William B. McAllister, Ph.D. Special Projects Director, Office of
+                                the Historian, U.S. Department of State</li>
                         </ul>
                     </li>
                     <li>Presenters <ul>
                             <li>Aaron Marrs, Ph.D., Research Historian, Office of the Historian,
-                            U.S. Department of State</li>
+                                U.S. Department of State</li>
                             <li>Peter Cozzens, Special Assistant to The Historian, Office of the
-                            Historian, U.S. Department of State</li>
-                            <li>Joshua Botts, Ph.D., Research Historian, Office of the
-                            Historian, U.S. Department of State</li>
+                                Historian, U.S. Department of State</li>
+                            <li>Joshua Botts, Ph.D., Research Historian, Office of the Historian,
+                                U.S. Department of State</li>
                         </ul>
                     </li>
                 </ul>
@@ -55,21 +59,20 @@
                 documentary record of U.S. foreign policy, enters its 150th year of continuous
                 publication in 2011. The Department of State’s Office of the Historian, which
                 publishes the FRUS series, is conducting significant new research about the
-                historical development of the series. To commemorate the FRUS sesquicentennial,
-                we propose to share the most significant early results of this research at the
-                2011 SHFG Annual Conference. This panel will shed important new light on
-                multiple aspects of 18th through 20th century history and historiography,
-                including pre-1861 releases of foreign policy documents, relations between the
-                legislative and executive branches, conceptions about “openness in government”
-                in a 19th century context, the growing professionalization of both historians
-                and the Foreign Service, the tension between the rising status of the United
-                States in world affairs and the desire to promote informed public debate through
-                release of foreign policy documents, the international ramifications of
-                revelations that have an impact on other governments, and evolving political
-                factors that have shaped and continue to shape the compilation and publication
-                of FRUS volumes. We also envision allotting sufficient time after the
-                presentations to engage in question-and-answer and general discussion with the
-                audience about issues of interest to them. </p>
+                historical development of the series. To commemorate the FRUS sesquicentennial, we
+                propose to share the most significant early results of this research at the 2011
+                SHFG Annual Conference. This panel will shed important new light on multiple aspects
+                of 18th through 20th century history and historiography, including pre-1861 releases
+                of foreign policy documents, relations between the legislative and executive
+                branches, conceptions about “openness in government” in a 19th century context, the
+                growing professionalization of both historians and the Foreign Service, the tension
+                between the rising status of the United States in world affairs and the desire to
+                promote informed public debate through release of foreign policy documents, the
+                international ramifications of revelations that have an impact on other governments,
+                and evolving political factors that have shaped and continue to shape the
+                compilation and publication of FRUS volumes. We also envision allotting sufficient
+                time after the presentations to engage in question-and-answer and general discussion
+                with the audience about issues of interest to them. </p>
         </div>
     </full-description>
 </event>

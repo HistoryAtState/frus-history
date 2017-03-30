@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -16,7 +16,8 @@
             </publicationStmt>
             <sourceDesc>
                 <p>A scan of the original document is available for download (<ref
-                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1986-11-06-hac-meeting-minutes.pdf">PDF</ref>, 326 KB, 21pp.)</p>
+                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1986-11-06-hac-meeting-minutes.pdf"
+                        >PDF</ref>, 326 KB, 21pp.)</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -821,7 +822,8 @@
                     on getting our microfiche publications out to the scholars as soon as possible
                     (since two fiche publications are completed now and ready to be contracted
                     out--the Wang-Johnson talks to supplement the 1955-57 China volume published
-                    last summer, and the <hi rend="italic">Current Economic Developments</hi> series)?</p>
+                    last summer, and the <hi rend="italic">Current Economic Developments</hi>
+                    series)?</p>
                 <p>Prof. Cook strongly supported continuing to try to produce a box. Prof. Oksenberg
                     was anxious to see documentation on the Wang-Johnson talks. Prof. Hunt favored
                     producing a large box to house all microfiche supplements to the series. If the

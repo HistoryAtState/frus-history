@@ -13,7 +13,8 @@
             </publicationStmt>
             <sourceDesc>
                 <p>A scan of the original document is available for download (<ref
-                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1981-06-kogan-fgi-study-rp1261.pdf">PDF</ref>, 3.34 MB, 25pp.)</p>
+                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1981-06-kogan-fgi-study-rp1261.pdf"
+                        >PDF</ref>, 3.34 MB, 25pp.)</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>

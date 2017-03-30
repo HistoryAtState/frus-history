@@ -16,7 +16,8 @@
             </publicationStmt>
             <sourceDesc>
                 <p>A scan of the original document is available for download (<ref
-                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1973-11-09-hac-meeting-minutes.pdf">PDF</ref>, 527 KB, 17pp.)</p>
+                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1973-11-09-hac-meeting-minutes.pdf"
+                        >PDF</ref>, 527 KB, 17pp.)</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>

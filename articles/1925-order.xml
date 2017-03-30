@@ -11,11 +11,12 @@
             </publicationStmt>
             <sourceDesc>
                 <p>This document was released in conjunction with <ref
-                    target="/historicaldocuments/frus-history/research/eureka-the-1925-frus-order">“Eureka!: The 1925 <hi
-                    rend="italic">FRUS</hi> Order (and Why You Should Be Nice to Archivists).”</ref>
-                    A scan of the original text is available for download (<ref
-                    target="https://s3.amazonaws.com/static.history.state.gov/frus150/1925-order.pdf">PDF</ref>, 499
-                    KB, 8 pp.).</p>
+                        target="/historicaldocuments/frus-history/research/eureka-the-1925-frus-order"
+                        >“Eureka!: The 1925 <hi rend="italic">FRUS</hi> Order (and Why You Should Be
+                        Nice to Archivists).”</ref> A scan of the original text is available for
+                    download (<ref
+                        target="https://s3.amazonaws.com/static.history.state.gov/frus150/1925-order.pdf"
+                        >PDF</ref>, 499 KB, 8 pp.).</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -23,8 +24,8 @@
         <body>
             <div type="document" xml:id="memo1">
                 <head>Memorandum from Tyler Dennett to the Secretary of State<note n="1">Source:
-                    Folder 55D606 OSS/PB-1, Box 35, Miscellaneous Office Files, 1910-1944, Record
-                    Group 59, Archives II</note></head>
+                        Folder 55D606 OSS/PB-1, Box 35, Miscellaneous Office Files, 1910-1944,
+                        Record Group 59, Archives II</note></head>
                 <dateline><date when="1925-03-26">March 26, 1925</date>.</dateline>
                 <p>Dear Mr. Secretary:</p>
                 <p>The attached memorandum addressed to yourself together with the appended
@@ -41,14 +42,16 @@
                 <p>Kellogg</p>
                 <p>Noted.-</p>
                 <p>MacM.<note n="2">Handwritten initials “TD” added by Dr. Tyler Dennett, head of
-                    the Division of Publications. Handwritten “I see no objection” and “Kellogg”
-                    added by Frank Kellogg, Secretary of State. Handwritten “Noted.-" and “MacM."
-                    added by John Van Antwerp MacMurray, Assistant Secretary of State.</note></p>
+                        the Division of Publications. Handwritten “I see no objection” and “Kellogg”
+                        added by Frank Kellogg, Secretary of State. Handwritten “Noted.-" and
+                        “MacM." added by John Van Antwerp MacMurray, Assistant Secretary of
+                        State.</note></p>
             </div>
             <milestone unit="section" rend="hr"/>
             <div type="document" xml:id="memo2">
                 <head>Attached Memorandum</head>
-                <dateline> <date when="1925-03-26">March 26, 1925</date>.</dateline>
+                <dateline>
+                    <date when="1925-03-26">March 26, 1925</date>.</dateline>
                 <p>Dear Mr. Secretary:</p>
                 <p>At a recent conference of the Solicitor and the Chiefs of the geographical
                     divisions, called by Mr. MacMurray and held in his office, there was a thorough
@@ -73,7 +76,8 @@
                     it your formal approval.</p>
                 <p>Tyler Dennett</p>
                 <p>A-M MacM. U J.C.G.<note n="3">Dennett’s signature is handwritten. MacMurray and
-                    Joseph Grew, Undersecretary of State, initialed the document.</note> </p>
+                        Joseph Grew, Undersecretary of State, initialed the document.</note>
+                </p>
             </div>
             <milestone unit="section" rend="hr"/>
             <div type="document" xml:id="memo3">
@@ -103,7 +107,7 @@
                 <p>The development of the science of international law has become a matter of such
                     weight and general concern that it is recommended that the Chief of the Division
                     of Publications, with the help and counsel of the Solicitor, should <del
-                    rend="strikethrough">be</del> give<del rend="strikethrough">n</del> special
+                        rend="strikethrough">be</del> give<del rend="strikethrough">n</del> special
                     attention to the publication of all important decisions made by the Department
                     relating to international law, with a view to making available for general study
                     and use, the annual contributions of the Department to this important branch of
@@ -119,20 +123,24 @@
                     appear to be required. Omissions of the following kind are recognized as
                     legitimate and necessary:</p>
                 <list>
-                    <item> <label>(a)</label> matters which if published at the time would tend to
+                    <item>
+                        <label>(a)</label> matters which if published at the time would tend to
                         embarrass negotiations or other business;</item>
-                    <item> <label>(b)</label> to condense the record and avoid needless
-                        details;</item>
-                    <item> <label>(c)</label> to preserve the confidence reposed in the Department
-                        by other governments and by individuals;</item>
-                    <item> <label>(d)</label> to avoid needless offense to other nationalities or
+                    <item>
+                        <label>(b)</label> to condense the record and avoid needless details;</item>
+                    <item>
+                        <label>(c)</label> to preserve the confidence reposed in the Department by
+                        other governments and by individuals;</item>
+                    <item>
+                        <label>(d)</label> to avoid needless offense to other nationalities or
                         individuals by excising invidious comments not relevant or essential to the
                         subject; and,</item>
                     <pb n="4"/>
-                    <item> <label>(e)</label> to suppress personal opinions presented in despatches
-                        and not adopted by the Department. To this there is one qualification,
-                        namely, that in major decisions it is desirable, where possible, to show the
-                        choices presented to the Department when the decision was made.</item>
+                    <item>
+                        <label>(e)</label> to suppress personal opinions presented in despatches and
+                        not adopted by the Department. To this there is one qualification, namely,
+                        that in major decisions it is desirable, where possible, to show the choices
+                        presented to the Department when the decision was made.</item>
                 </list>
                 <p>On the other hand, there must be no alteration of the text, no deletions without
                     indicating the place in the text where the deletion is made, and no omission of
@@ -161,14 +169,15 @@
                 <p>Approved FBK</p>
                 <p>A-M MacM. E.E. E.E.Y. F.E. F.P.L. L.A. F.W. M.E. F.M.G. N.E. A.W.D.</p>
                 <p>W.E. So. C.C.H. U. J.C.G.<note n="4">Kellogg’s approval and signature are
-                    handwritten. An unidentified person added the “Approved” and “FBK” initials
-                    beneath Kellogg’s signature. MacMurray, Evan E. Young (Chief of the Division of
-                    Eastern European Affairs), Frank P. Lockhart (Acting Chief of the Division of
-                    Far Eastern Affairs), Francis White (Chief of the Division of Latin-American
-                    Affairs), Franklin Mott Gunther (Chief of the Division of Mexican Affairs),
-                    Allen W. Dulles (Chief of the Division of Near Eastern Affairs), Charles C. Hyde
-                    (Solicitor), and Grew initialed the document. No initials appeared next to
-                    “W.E." (Division of Western European Affairs).</note></p>
+                        handwritten. An unidentified person added the “Approved” and “FBK” initials
+                        beneath Kellogg’s signature. MacMurray, Evan E. Young (Chief of the Division
+                        of Eastern European Affairs), Frank P. Lockhart (Acting Chief of the
+                        Division of Far Eastern Affairs), Francis White (Chief of the Division of
+                        Latin-American Affairs), Franklin Mott Gunther (Chief of the Division of
+                        Mexican Affairs), Allen W. Dulles (Chief of the Division of Near Eastern
+                        Affairs), Charles C. Hyde (Solicitor), and Grew initialed the document. No
+                        initials appeared next to “W.E." (Division of Western European
+                        Affairs).</note></p>
             </div>
         </body>
     </text>

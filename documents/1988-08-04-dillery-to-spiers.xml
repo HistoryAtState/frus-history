@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -16,7 +16,8 @@
             </publicationStmt>
             <sourceDesc>
                 <p>A scan of the original document is available for download (<ref
-                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1988-08-04-dillery-to-spiers.pdf">PDF</ref>, 344 KB, 4pp.)</p>
+                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1988-08-04-dillery-to-spiers.pdf"
+                        >PDF</ref>, 344 KB, 4pp.)</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -87,10 +88,10 @@
                 <p>The public record makes it clear that the committee is a pressure group. Its
                     members come from the “publish or perish” academic environment. Their attacks on
                     A/CDC over the past five years and their stepped up campaign for increased
-                    access to classified information presents a clear conflict between their advisory
-                    duties and their own professional interests, and put them in an adversarial
-                    relationship with those responsible for safe-guarding national security
-                    information. A recent security violation by a HAC member up for tenure
+                    access to classified information presents a clear conflict between their
+                    advisory duties and their own professional interests, and put them in an
+                    adversarial relationship with those responsible for safe-guarding national
+                    security information. A recent security violation by a HAC member up for tenure
                     underscores the seriousness of this conflict.</p>
                 <p rend="underline">Charter Amendment</p>
                 <p>The committee’s charter faces mandatory biennial review in September. We believe

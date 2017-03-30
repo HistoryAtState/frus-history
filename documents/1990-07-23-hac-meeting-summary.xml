@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -16,7 +16,8 @@
             </publicationStmt>
             <sourceDesc>
                 <p>A scan of the original document is available for download (<ref
-                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1990-07-23-hac-meeting-summary.pdf">PDF</ref>, 123 KB, 6pp.)</p>
+                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1990-07-23-hac-meeting-summary.pdf"
+                        >PDF</ref>, 123 KB, 6pp.)</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -150,11 +151,11 @@
                     information.</p>
                 <p>Deputy Assistant Secretary Mueller provided an overview of the status of
                     legislation regarding the <hi rend="italic">Foreign Relations</hi> series
-                    pending in the Congress. Such legislation had been included in S.2749 which was a
-                    bill to provide supplemental authorization of appropriations for FY 1991 for the
-                    Department of State and the USIA. The bill was approved by the Senate Foreign
-                    Relations Committee without any discussion of the sections regarding the <hi
-                        rend="italic">Foreign Relations</hi> series. There appeared to be little
+                    pending in the Congress. Such legislation had been included in S.2749 which was
+                    a bill to provide supplemental authorization of appropriations for FY 1991 for
+                    the Department of State and the USIA. The bill was approved by the Senate
+                    Foreign Relations Committee without any discussion of the sections regarding the
+                        <hi rend="italic">Foreign Relations</hi> series. There appeared to be little
                     likelihood that the legislation would be acted upon by the time of the
                     Congressional summer recess in early August.</p>
                 <p>The Department of state and other foreign affairs agencies have closely studied

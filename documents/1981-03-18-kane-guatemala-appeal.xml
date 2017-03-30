@@ -16,7 +16,8 @@
             </publicationStmt>
             <sourceDesc>
                 <p>A scan of the original document is available for download (<ref
-                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1981-03-18-kane-guatemala-appeal.pdf">PDF</ref>, 125 KB, 3pp.)</p>
+                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1981-03-18-kane-guatemala-appeal.pdf"
+                        >PDF</ref>, 125 KB, 3pp.)</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -38,8 +39,8 @@
                 <p>Subject: “Fast track” publication of <hi rend="italic">Foreign Relations</hi>,
                     1952-1954, IV (“The American Republics”)</p>
                 <p>Issue</p>
-                <p>Should HO go forward with publication of the subject volume before 1) receiving
-                    a written response from the CIA regarding declassification of a supplementary
+                <p>Should HO go forward with publication of the subject volume before 1) receiving a
+                    written response from the CIA regarding declassification of a supplementary
                     package of editorial notes based on CIA cables, and 2) appealing NSC deletions
                     of material which has already appeared almost verbatim in previously published
                     volumes?</p>

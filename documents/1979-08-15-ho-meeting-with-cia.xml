@@ -6,8 +6,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Memorandum of Conversation Among HO and CIA Officials,
-                    August 1979</title>
+                <title type="complete">Memorandum of Conversation Among HO and CIA Officials, August
+                    1979</title>
                 <title type="short">HO-CIA Meeting, 1979</title>
             </titleStmt>
             <publicationStmt>
@@ -16,7 +16,8 @@
             </publicationStmt>
             <sourceDesc>
                 <p>A scan of the original document is available for download (<ref
-                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1979-08-15-ho-meeting-with-cia.pdf">PDF</ref>, 272 KB, 6pp.)</p>
+                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1979-08-15-ho-meeting-with-cia.pdf"
+                        >PDF</ref>, 272 KB, 6pp.)</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>

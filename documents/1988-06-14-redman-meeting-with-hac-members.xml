@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -16,8 +16,8 @@
             </publicationStmt>
             <sourceDesc>
                 <p>A scan of the original document is available for download (<ref
-                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1988-06-14-redman-meeting-with-hac-members.pdf">PDF</ref>, 428 KB,
-                    5pp.)</p>
+                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1988-06-14-redman-meeting-with-hac-members.pdf"
+                        >PDF</ref>, 428 KB, 5pp.)</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -26,7 +26,8 @@
             <p><hi rend="italic">Source: Department of State, Bureau of Public Affairs, Office of
                     the Historian, Advisory Committee on Historical Diplomatic Documentation Files,
                     1957-1990 (Lot File 96 D 292), Box 5, Perkins Bradford Meeting-1988. Drafted by
-                    William Slany (PA/HO) and cleared by Charles Redman (PA) and George High (PA).</hi></p>
+                    William Slany (PA/HO) and cleared by Charles Redman (PA) and George High
+                    (PA).</hi></p>
             <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
                     the Foreign Relations of the United States Series</hi>, Chapter 10, <ref
                     target="../chapter-10#fn45">Footnote 45</ref></p>
@@ -42,186 +43,156 @@
                     <item>Deputy Assistant Secretary of State George B. High</item>
                     <item>The Historian, William Z. Slany</item>
                 </list>
-                <p>After welcoming Prof. Perkins (Chairman of the Advisory
-                    Committee) and Prof. Cohen, Assistant Secretary Redman explained
-                    that the Department had carefully studied the issues raised by
-                    Perkins in his letter of March 17 on the relationship between
-                    declassification procedures and the preparation of the <hi rend="italic">Foreign
-                    Relations</hi> series.</p>
+                <p>After welcoming Prof. Perkins (Chairman of the Advisory Committee) and Prof.
+                    Cohen, Assistant Secretary Redman explained that the Department had carefully
+                    studied the issues raised by Perkins in his letter of March 17 on the
+                    relationship between declassification procedures and the preparation of the <hi
+                        rend="italic">Foreign Relations</hi> series.</p>
                 <p rend="underline"><hi rend="italic">FRUS</hi> Volumes to be Reviewed</p>
-                <p>Redman first took up the issue of the role of the Advisory
-                    Committee in the selection of volumes to be discussed with the
-                    Committee by the A/CDC reviewers. The declassification reports
-                    to the Committee at its past several meetings had been quite
-                    successful, and the Department was prepared to continue with them
-                    at future annual meetings. Redman told Perkins and Cohen that
-                    the Department welcomed the Committee’s suggestions for the
-                    volumes to be discussed upon at future meetings. He explained
-                    that a number of considerations would be involved in making the
-                    Department’s final selection, but the Committee’s requests would
-                    be carefully weighed. He emphasized to Perkins and Cohen that
-                    the briefing by the declassification reviewers was the single
-                    most important opportunity for the Committee to have a clear view
-                    of the rationale for the exclusion of sensitive documents and
-                    information. This is the opportunity for the Committee to make
-                    judgment whether the procedures for review and declassification
-                    of the record printed in <hi rend="italic">Foreign Relations</hi> volumes are
-                    comprehensive and credible.</p>
-                <p>High added that the process of reporting declassification
-                    to the Committee was complicated by limitations upon the
-                    availability of A/CDC reviewers as well as by the high cost in
-                    scarce resources to A/CDC of preparing carefully for these
+                <p>Redman first took up the issue of the role of the Advisory Committee in the
+                    selection of volumes to be discussed with the Committee by the A/CDC reviewers.
+                    The declassification reports to the Committee at its past several meetings had
+                    been quite successful, and the Department was prepared to continue with them at
+                    future annual meetings. Redman told Perkins and Cohen that the Department
+                    welcomed the Committee’s suggestions for the volumes to be discussed upon at
+                    future meetings. He explained that a number of considerations would be involved
+                    in making the Department’s final selection, but the Committee’s requests would
+                    be carefully weighed. He emphasized to Perkins and Cohen that the briefing by
+                    the declassification reviewers was the single most important opportunity for the
+                    Committee to have a clear view of the rationale for the exclusion of sensitive
+                    documents and information. This is the opportunity for the Committee to make
+                    judgment whether the procedures for review and declassification of the record
+                    printed in <hi rend="italic">Foreign Relations</hi> volumes are comprehensive
+                    and credible.</p>
+                <p>High added that the process of reporting declassification to the Committee was
+                    complicated by limitations upon the availability of A/CDC reviewers as well as
+                    by the high cost in scarce resources to A/CDC of preparing carefully for these
                     declassification reviews.</p>
-                <p>Before responding to Mr. Redman’s first point, Perkins
-                    described the intense pressure that he and other members of the
-                    Committee were experiencing from their societies and the academic
-                    community to find out much more about the impact of the current
-                    declassification procedures upon the compiling of the <hi rend="italic">Foreign
-                    Relations</hi> series and the historical documentation available to
-                    scholars. Cohen observed that Perkins had a reputation in the
-                    academic community as a conservative when it came to challenging
-                    the government’s procedures.</p>
-                <p>Perkins thought that the Committee would respond favorably
-                    to the Assistant Secretary’s proposal about suggesting volumes,
-                    but tried to obtain a more precise commitment or agreed
-                    undertaking on the number of volumes to be recommended and
-                    reported upon. Perkins explained that the Committee wasn’t
-                    concerned so much about volumes because they were “interesting”
-                    but because the issues involved were so important that the
-                    principles of selection and deletion needed close review. The
-                    Assistant Secretary saw no point in elaborating detailed
-                    procedures or numbers of volumes. He felt that the Department
-                    should be allowed to make a good faith effort, and the Committee
-                    would make its own judgment after the fact about the way the
-                    selection and review process was working. Cohen acknowledged
-                    that the Department should have the chance to make a good faith
-                    effort, but he feared the tendency would be to choose the least
-                    controversial areas like the United Nations, Sweden, and
-                    Switzerland. He warned that the first year the Department turns
-                    down all volumes requested for a review, there will be a problem.</p>
-                <p>Perkins said that the Advisory Committee would be willing
-                    to make recommendations of volumes, but its experience with A/CDC
-                    raised concerns that the final choices of volumes to be reviewed
-                    at annual Committee meetings would be the least significant and
-                    least instructive. Perkins did not wish to appear to be
-                    micromanaging A/CDC’s declassification decisions, but he knew
-                    that there was in the academic community the commonly-held view,
-                    which he deplored, that the official record printed in the
-                    <hi rend="italic">Foreign Relations</hi> volumes was incomplete as a result of extensive
-                    clearance denials.</p>
-                <p>Redman said he was troubled by the Committee’s skepticism
-                    and reaffirmed his conviction that there must be good faith on
-                    both sides and that both sides must be acknowledged as fully
-                    professional. The Committee’s concerns about the Department’s
-                    declassification procedures cannot be allowed to become an
-                    investigative effort. He said he hoped we could work together as
-                    professionals. Perkins and Cohen agreed that the relationship
-                    had to be a positive one to work.</p>
+                <p>Before responding to Mr. Redman’s first point, Perkins described the intense
+                    pressure that he and other members of the Committee were experiencing from their
+                    societies and the academic community to find out much more about the impact of
+                    the current declassification procedures upon the compiling of the <hi
+                        rend="italic">Foreign Relations</hi> series and the historical documentation
+                    available to scholars. Cohen observed that Perkins had a reputation in the
+                    academic community as a conservative when it came to challenging the
+                    government’s procedures.</p>
+                <p>Perkins thought that the Committee would respond favorably to the Assistant
+                    Secretary’s proposal about suggesting volumes, but tried to obtain a more
+                    precise commitment or agreed undertaking on the number of volumes to be
+                    recommended and reported upon. Perkins explained that the Committee wasn’t
+                    concerned so much about volumes because they were “interesting” but because the
+                    issues involved were so important that the principles of selection and deletion
+                    needed close review. The Assistant Secretary saw no point in elaborating
+                    detailed procedures or numbers of volumes. He felt that the Department should be
+                    allowed to make a good faith effort, and the Committee would make its own
+                    judgment after the fact about the way the selection and review process was
+                    working. Cohen acknowledged that the Department should have the chance to make a
+                    good faith effort, but he feared the tendency would be to choose the least
+                    controversial areas like the United Nations, Sweden, and Switzerland. He warned
+                    that the first year the Department turns down all volumes requested for a
+                    review, there will be a problem.</p>
+                <p>Perkins said that the Advisory Committee would be willing to make recommendations
+                    of volumes, but its experience with A/CDC raised concerns that the final choices
+                    of volumes to be reviewed at annual Committee meetings would be the least
+                    significant and least instructive. Perkins did not wish to appear to be
+                    micromanaging A/CDC’s declassification decisions, but he knew that there was in
+                    the academic community the commonly-held view, which he deplored, that the
+                    official record printed in the <hi rend="italic">Foreign Relations</hi> volumes
+                    was incomplete as a result of extensive clearance denials.</p>
+                <p>Redman said he was troubled by the Committee’s skepticism and reaffirmed his
+                    conviction that there must be good faith on both sides and that both sides must
+                    be acknowledged as fully professional. The Committee’s concerns about the
+                    Department’s declassification procedures cannot be allowed to become an
+                    investigative effort. He said he hoped we could work together as professionals.
+                    Perkins and Cohen agreed that the relationship had to be a positive one to
+                    work.</p>
                 <p rend="underline">Guidelines for the Archives</p>
-                <p>Redman turned to the second issue raised in Perkins March
-                    17 letter -- Advisory Committee access to Department “guidelines”
-                    prepared for the use of the National Archives and Records
-                    Administration. He explained that the “guidelines” are a records
-                    management tool intended to accompany the Department’s permanent
-                    records when they are transferred to the National Archives. They
-                    are not part of the <hi rend="italic">Foreign Relations</hi> compiling process and they
-                    in no way affect the preparation of the <hi rend="italic">Foreign Relations</hi>
-                    series. They give no authority to declassify. Responsibility
-                    for the preparation and administration of these “guidelines”
-                    rests exclusively with the geographic bureaus and A/CDC. The
-                    “guidelines” are intended for use by junior archivists at the
-                    National Archives as they make their page-by-page review of the
-                    Department’s permanent records.</p>
-                <p>Redman explained that the Department had selected for
-                    Chairman Perkins portions from these “guidelines” in order to
-                    make more clear how the process works in preparing them and using
-                    them. Redman emphasized, however, that this was a one-time-only
-                    effort by the Department to demonstrate to the Advisory Committee
-                    that the “guidelines” do not affect the selection of documents
-                    for the <hi rend="italic">Foreign Relations</hi> series. He then showed Prof. Perkins
-                    and Prof. Cohen the current general guidelines for the systematic
-                    review of Department records for the 1955-1959 period as well as
-                    an example of particular subject or country guidelines -- in this
-                    case the guidelines for United States-Austrian relations for
-                    1955-1959.</p>
-                <p>After scanning the examples of guidelines, Perkins
-                    expressed some relief to discover no surprises in the range of
-                    issues defined. He wondered whether they ever become more
-                    specific. He found the general guidelines so broad as to
-                    scarcely warrant being classified, and he wondered whether they
-                    couldn’t be downgraded or declassified so that he could share
-                    them with the rest of the Committee. Perkins speculated about
-                    whether a broader view of the guidelines wouldn’t reveal patterns
-                    of declassification denial that would be of importance to the
-                    Committee. Perkins also noted that the charter of the Advisory
-                    Committee called for it to provide advice on records policy.
-                    Redman emphasized that the guidelines were being shared at this
-                    time only to demonstrate that they have nothing to do with the
-                    preparation of <hi rend="italic">Foreign Relations</hi>.</p>
-                <p>Redman informed Perkins and Cohen that Prof. Deborah
-                    Larsen’s disclosure of classified information obtained at last
-                    January’s Advisory Committee meeting to a June 11 session of the
-                    Society for Historians of American Foreign Relations undermined
-                    the Department’s ability to work with the Advisory Committee in
-                    areas that involved the responsible handling of sensitive
-                    information and worked against any broadening of Committee access
-                    to classified information. Perkins and Cohen recognized the
-                    seriousness of this matter.</p>
-                <p>Cohen explained that he could, on the basis of Redman’s
-                    briefing, explain the general declassification guidelines, but he
-                    could not do the same for the country-specific guidelines. The
-                    Austrian guidelines were difficult for him to appraise; could he
-                    see, at some point, the guidelines on China -- a[n] area where he
-                    could make a more informed judgment? The Assistant Secretary
-                    responded with an emphatic no; there was no reason for any access
-                    to the guidelines. The examples provided today were more than
-                    adequate. The guidelines were irrelevant to the compiling of the
-                    published record.</p>
-                <p>Cohen rejoined that the briefing convinced him that the
-                    guidelines were relevant. He thought that in the future the
-                    Advisory Committee might usefully see the guidelines for those
-                    countries and topics where it was not possible for A/CDC to
-                    provide an oral briefing. Cohen sought to draw a distinction
-                    between the Advisory Committee’s understanding of and involvement
-                    in the declassification process in the pre-A/CDC period (when
-                    they were briefed on exclusions) and the present, and he
-                    suggested the advantages of the former. Perkins reminded Cohen
-                    of the delays experienced in the pre-CDC system and expressed a
-                    preference for the current method, but he also indicated that the
-                    greater openness of the record to the Committee prior to 1980 was
-                    desirable.</p>
-                <p>Redman recapitulated that the guidelines issue was, so far
-                    as he could determine, a “red herring”. The Committee was
-                    bogging itself down in the details of these guidelines when the
-                    main issue about the selection of documents and comprehensiveness
-                    of the volumes was illuminated by the oral declassification
-                    briefings done by A/CDC. The Department is prepared to continue
-                    and refine these briefings because it is the method by which the
-                    Advisory Committee’s opinion, advice, and evaluation can be
-                    obtained about comprehensiveness and selection.</p>
-                <p>Redman concluded by stressing his feeling of urgency about
-                    getting on with the larger issues of the <hi rend="italic">Foreign Relations</hi>
-                    series, including reaching the 30-year line for publication and
-                    refocusing the contents of the series to serve the users better.
-                    Perkins responded by agreeing that these larger issues were
-                    important, but that the Committee had in the last several years
-                    been far more worried about their lack of understanding of the
-                    declassification procedures. He told Redman he was still
-                    skeptical about the series reaching its ambitious publication
-                    goals, despite the Historian’s optimistic appraisals. Perkins
-                    also assured Redman that the Committee would be taking up the
-                    future scope and shape of the series at its next meeting.</p>
-                <p>As the meeting concluded, Perkins expressed appreciation
-                    for the meeting with the Assistant Secretary and explained that
-                    he would communicate the results to the other members of the
-                    Committee. He expected that the Committee would probably respond
-                    favorably to the invitation to provide Committee preferences for
-                    volumes to be reported upon by A/CDC at forthcoming annual
-                    meetings, but he anticipated some difficulty in explaining the
-                    Department’s view on the guidelines for Department documents
-                    retired to the National Archives. He hoped that he might receive
-                    a communication from the Assistant Secretary recapitulating the
-                    points made in the meeting.</p>
+                <p>Redman turned to the second issue raised in Perkins March 17 letter -- Advisory
+                    Committee access to Department “guidelines” prepared for the use of the National
+                    Archives and Records Administration. He explained that the “guidelines” are a
+                    records management tool intended to accompany the Department’s permanent records
+                    when they are transferred to the National Archives. They are not part of the <hi
+                        rend="italic">Foreign Relations</hi> compiling process and they in no way
+                    affect the preparation of the <hi rend="italic">Foreign Relations</hi> series.
+                    They give no authority to declassify. Responsibility for the preparation and
+                    administration of these “guidelines” rests exclusively with the geographic
+                    bureaus and A/CDC. The “guidelines” are intended for use by junior archivists at
+                    the National Archives as they make their page-by-page review of the Department’s
+                    permanent records.</p>
+                <p>Redman explained that the Department had selected for Chairman Perkins portions
+                    from these “guidelines” in order to make more clear how the process works in
+                    preparing them and using them. Redman emphasized, however, that this was a
+                    one-time-only effort by the Department to demonstrate to the Advisory Committee
+                    that the “guidelines” do not affect the selection of documents for the <hi
+                        rend="italic">Foreign Relations</hi> series. He then showed Prof. Perkins
+                    and Prof. Cohen the current general guidelines for the systematic review of
+                    Department records for the 1955-1959 period as well as an example of particular
+                    subject or country guidelines -- in this case the guidelines for United
+                    States-Austrian relations for 1955-1959.</p>
+                <p>After scanning the examples of guidelines, Perkins expressed some relief to
+                    discover no surprises in the range of issues defined. He wondered whether they
+                    ever become more specific. He found the general guidelines so broad as to
+                    scarcely warrant being classified, and he wondered whether they couldn’t be
+                    downgraded or declassified so that he could share them with the rest of the
+                    Committee. Perkins speculated about whether a broader view of the guidelines
+                    wouldn’t reveal patterns of declassification denial that would be of importance
+                    to the Committee. Perkins also noted that the charter of the Advisory Committee
+                    called for it to provide advice on records policy. Redman emphasized that the
+                    guidelines were being shared at this time only to demonstrate that they have
+                    nothing to do with the preparation of <hi rend="italic">Foreign
+                    Relations</hi>.</p>
+                <p>Redman informed Perkins and Cohen that Prof. Deborah Larsen’s disclosure of
+                    classified information obtained at last January’s Advisory Committee meeting to
+                    a June 11 session of the Society for Historians of American Foreign Relations
+                    undermined the Department’s ability to work with the Advisory Committee in areas
+                    that involved the responsible handling of sensitive information and worked
+                    against any broadening of Committee access to classified information. Perkins
+                    and Cohen recognized the seriousness of this matter.</p>
+                <p>Cohen explained that he could, on the basis of Redman’s briefing, explain the
+                    general declassification guidelines, but he could not do the same for the
+                    country-specific guidelines. The Austrian guidelines were difficult for him to
+                    appraise; could he see, at some point, the guidelines on China -- a[n] area
+                    where he could make a more informed judgment? The Assistant Secretary responded
+                    with an emphatic no; there was no reason for any access to the guidelines. The
+                    examples provided today were more than adequate. The guidelines were irrelevant
+                    to the compiling of the published record.</p>
+                <p>Cohen rejoined that the briefing convinced him that the guidelines were relevant.
+                    He thought that in the future the Advisory Committee might usefully see the
+                    guidelines for those countries and topics where it was not possible for A/CDC to
+                    provide an oral briefing. Cohen sought to draw a distinction between the
+                    Advisory Committee’s understanding of and involvement in the declassification
+                    process in the pre-A/CDC period (when they were briefed on exclusions) and the
+                    present, and he suggested the advantages of the former. Perkins reminded Cohen
+                    of the delays experienced in the pre-CDC system and expressed a preference for
+                    the current method, but he also indicated that the greater openness of the
+                    record to the Committee prior to 1980 was desirable.</p>
+                <p>Redman recapitulated that the guidelines issue was, so far as he could determine,
+                    a “red herring”. The Committee was bogging itself down in the details of these
+                    guidelines when the main issue about the selection of documents and
+                    comprehensiveness of the volumes was illuminated by the oral declassification
+                    briefings done by A/CDC. The Department is prepared to continue and refine these
+                    briefings because it is the method by which the Advisory Committee’s opinion,
+                    advice, and evaluation can be obtained about comprehensiveness and
+                    selection.</p>
+                <p>Redman concluded by stressing his feeling of urgency about getting on with the
+                    larger issues of the <hi rend="italic">Foreign Relations</hi> series, including
+                    reaching the 30-year line for publication and refocusing the contents of the
+                    series to serve the users better. Perkins responded by agreeing that these
+                    larger issues were important, but that the Committee had in the last several
+                    years been far more worried about their lack of understanding of the
+                    declassification procedures. He told Redman he was still skeptical about the
+                    series reaching its ambitious publication goals, despite the Historian’s
+                    optimistic appraisals. Perkins also assured Redman that the Committee would be
+                    taking up the future scope and shape of the series at its next meeting.</p>
+                <p>As the meeting concluded, Perkins expressed appreciation for the meeting with the
+                    Assistant Secretary and explained that he would communicate the results to the
+                    other members of the Committee. He expected that the Committee would probably
+                    respond favorably to the invitation to provide Committee preferences for volumes
+                    to be reported upon by A/CDC at forthcoming annual meetings, but he anticipated
+                    some difficulty in explaining the Department’s view on the guidelines for
+                    Department documents retired to the National Archives. He hoped that he might
+                    receive a communication from the Assistant Secretary recapitulating the points
+                    made in the meeting.</p>
             </div>
         </body>
     </text>

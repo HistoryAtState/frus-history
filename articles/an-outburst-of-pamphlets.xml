@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">An Outburst of Pamphlets: Public Debate about <hi rend="italic">FRUS</hi> during the Civil War</title>
+                <title type="complete">An Outburst of Pamphlets: Public Debate about <hi
+                        rend="italic">FRUS</hi> during the Civil War</title>
                 <title type="short">An Outburst of Pamphlets</title>
                 <author>Aaron W. Marrs</author>
                 <sponsor>Office of the Historian, U.S. Department of State</sponsor>
@@ -18,29 +19,41 @@
     <text>
         <body>
             <div>
-                <p>In <ref target="/historicaldocuments/frus-history/research/foundation-of-frus">a research paper</ref>
-                    posted to this site on June 24, 2011, I wrote about the domestic reaction to the
-                    first <hi rend="italic">Foreign Relations</hi> (<hi rend="italic">FRUS</hi>)
-                    volume [<ref target="/historicaldocuments/frus-history/research/the-first-volume">text</ref> and <ref target="http://history.state.gov/historicaldocuments/frus-history/research/marrs-on-the-first-volume">video</ref>] published in 1861. That paper focused primarily on the positive
-                    reaction of Northern newspapers. Tracking coverage of the first <hi rend="italic">FRUS</hi> volume in the press allows us to see how <hi rend="italic">FRUS</hi> was received throughout the Union. Historians have other
-                    options for learning about public reaction. In 1863, a brief flurry of pamphlets
-                    sprung up after the publication of the <hi rend="italic">FRUS</hi> volume
-                    covering 1862. In these pamphlets, we can see contemporaries debate the
+                <p>In <ref target="/historicaldocuments/frus-history/research/foundation-of-frus">a
+                        research paper</ref> posted to this site on June 24, 2011, I wrote about the
+                    domestic reaction to the first <hi rend="italic">Foreign Relations</hi> (<hi
+                        rend="italic">FRUS</hi>) volume [<ref
+                        target="/historicaldocuments/frus-history/research/the-first-volume"
+                        >text</ref> and <ref
+                        target="http://history.state.gov/historicaldocuments/frus-history/research/marrs-on-the-first-volume"
+                        >video</ref>] published in 1861. That paper focused primarily on the
+                    positive reaction of Northern newspapers. Tracking coverage of the first <hi
+                        rend="italic">FRUS</hi> volume in the press allows us to see how <hi
+                        rend="italic">FRUS</hi> was received throughout the Union. Historians have
+                    other options for learning about public reaction. In 1863, a brief flurry of
+                    pamphlets sprung up after the publication of the <hi rend="italic">FRUS</hi>
+                    volume covering 1862. In these pamphlets, we can see contemporaries debate the
                     propriety of publishing state papers.</p>
                 <figure rend="smallfloatinline">
                     <graphic url="1862-northern-man-cover.png"/>
                     <head>Cover of <hi rend="italic">The Diplomatic Year: Being a Review of Mr.
-                        Seward’s Foreign Correspondence of 1862</hi> (Photo credit Google
+                            Seward’s Foreign Correspondence of 1862</hi> (Photo credit Google
                         Books)</head>
                 </figure>
                 <p>The first to take on <hi rend="italic">FRUS</hi> in that year gave himself the
                     pen name “A Northern Man” (although one of his opponents revealed his identity,
                     as we’ll see below). His pamphlet was entitled <hi rend="italic">The Diplomatic
-                        Year: Being a Review of Mr. Seward’s Foreign Correspondence of 1862</hi>.<note n="1"><ref target="http://books.google.com/books?id=5VYMAAAAYAAJ&amp;dq=The%20Diplomatic%20Year%3A%20Being%20a%20Review%20of%20Mr.%20Seward%E2%80%99s%20Foreign%20Correspondence%20of%201862&amp;pg=PP1#v=onepage&amp;q&amp;f=false">A Northern Man, <hi rend="italic">The Diplomatic Year: Being a Review of
-                    Mr. Seward’s Foreign Correspondence of 1862</hi></ref> (Philadelphia: n.p., 1863).</note>
+                        Year: Being a Review of Mr. Seward’s Foreign Correspondence of
+                        1862</hi>.<note n="1"><ref
+                            target="http://books.google.com/books?id=5VYMAAAAYAAJ&amp;dq=The%20Diplomatic%20Year%3A%20Being%20a%20Review%20of%20Mr.%20Seward%E2%80%99s%20Foreign%20Correspondence%20of%201862&amp;pg=PP1#v=onepage&amp;q&amp;f=false"
+                            >A Northern Man, <hi rend="italic">The Diplomatic Year: Being a Review
+                                of Mr. Seward’s Foreign Correspondence of 1862</hi></ref>
+                        (Philadelphia: n.p., 1863).</note>
                     <hi rend="italic">The Diplomatic Year</hi> had many targets, from President
-                    Abraham Lincoln and Secretary of State <ref target="/departmenthistory/people/seward-william-henry">William Henry
-                    Seward</ref> to the very concept of publishing diplomatic correspondence.</p>
+                    Abraham Lincoln and Secretary of State <ref
+                        target="/departmenthistory/people/seward-william-henry">William Henry
+                        Seward</ref> to the very concept of publishing diplomatic
+                    correspondence.</p>
                 <p>The anonymous author argued that <hi rend="italic">FRUS</hi> was the result of
                     mere political intrigue. In 1862, Samuel Sullivan Cox (D-Ohio) submitted a call
                     for the release of documents. A Northern Man charged that, though Cox was a
@@ -49,86 +62,103 @@
                     Northern Man averred, such a resolution never would have been offered up unless
                     there had been a “prompting” by or “concurrence of” the Department of State; the
                     request for the documentation did not truly stem from Congress.<note n="2">
-                        <hi rend="italic">Diplomatic Year</hi>, <ref target="http://books.google.com/books?id=5VYMAAAAYAAJ&amp;dq=The%20Diplomatic%20Year%3A%20Being%20a%20Review%20of%20Mr.%20Seward%E2%80%99s%20Foreign%20Correspondence%20of%201862&amp;pg=PA12#v=onepage&amp;q&amp;f=false">12-13</ref>.</note>
+                        <hi rend="italic">Diplomatic Year</hi>, <ref
+                            target="http://books.google.com/books?id=5VYMAAAAYAAJ&amp;dq=The%20Diplomatic%20Year%3A%20Being%20a%20Review%20of%20Mr.%20Seward%E2%80%99s%20Foreign%20Correspondence%20of%201862&amp;pg=PA12#v=onepage&amp;q&amp;f=false"
+                            >12-13</ref>.</note>
                 </p>
                 <p>A Northern Man also denounced the contents of the published volume. Seward’s
                     writing was blasted as lacking a “dignity of style,” as being “pretentious,”
                     “stilted,” and “obscure.” A Northern Man was deeply disturbed that the volume
                     contained “Mr. Adams’s private movements and conversations in relation to the
                     French operations in Mexico, and his exultation at the disappointments which
-                    seemed to attend them.”&#160; He stated that a series of documents relating to the
-                    Spanish and French “ought not, unless offence was intended or foreign war
+                    seemed to attend them.”&#160; He stated that a series of documents relating to
+                    the Spanish and French “ought not, unless offence was intended or foreign war
                     desired—to have been authoritatively published.”<note n="3">
-                        <hi rend="italic">
-                            Diplomatic Year</hi>, <ref target="http://books.google.com/books?id=5VYMAAAAYAAJ&amp;dq=The%20Diplomatic%20Year%3A%20Being%20a%20Review%20of%20Mr.%20Seward%E2%80%99s%20Foreign%20Correspondence%20of%201862&amp;pg=PA22#v=onepage&amp;q&amp;f=false">22</ref>.</note>
-                    These and other revelations, feared A Northern Man, would cause “irreparable”
-                    harm.<note n="4">
-                        <hi rend="italic">Diplomatic Year</hi>, <ref target="http://books.google.com/books?id=5VYMAAAAYAAJ&amp;dq=The%20Diplomatic%20Year%3A%20Being%20a%20Review%20of%20Mr.%20Seward%E2%80%99s%20Foreign%20Correspondence%20of%201862&amp;pg=PA27#v=onepage&amp;q&amp;f=false">27</ref>.</note>
+                        <hi rend="italic"> Diplomatic Year</hi>, <ref
+                            target="http://books.google.com/books?id=5VYMAAAAYAAJ&amp;dq=The%20Diplomatic%20Year%3A%20Being%20a%20Review%20of%20Mr.%20Seward%E2%80%99s%20Foreign%20Correspondence%20of%201862&amp;pg=PA22#v=onepage&amp;q&amp;f=false"
+                            >22</ref>.</note> These and other revelations, feared A Northern Man,
+                    would cause “irreparable” harm.<note n="4">
+                        <hi rend="italic">Diplomatic Year</hi>, <ref
+                            target="http://books.google.com/books?id=5VYMAAAAYAAJ&amp;dq=The%20Diplomatic%20Year%3A%20Being%20a%20Review%20of%20Mr.%20Seward%E2%80%99s%20Foreign%20Correspondence%20of%201862&amp;pg=PA27#v=onepage&amp;q&amp;f=false"
+                            >27</ref>.</note>
                 </p>
                 <p>A Northern Man’s screed prompted at least two equally anonymous responses. One,
                     entitled <hi rend="italic">A Diplomat on Diplomacy</hi>, castigated A Northern
                     Man’s writing as “ponderous” and scoffed that the pamphlet has “not attracted
-                    attention adequate to the industry with which it has been circulated.”<note n="5">
-                        <hi rend="italic">A Diplomat on Diplomacy</hi> (n.p.: n.d.), 1. The
-                        Library of Congress catalog lists the author of this pamphlet as <ref target="http://lccn.loc.gov/44028315">Joseph Nunes</ref>.</note> The author outed A Northern Man as
-                    “the late distinguished Commissioner to the most imperial court of China.” Based
-                    on this description, it can be surmised that A Northern Man was <ref target="/departmenthistory/people/reed-william-bradford">William Bradford
-                    Reed</ref>, President James Buchanan’s representative to China. Reed’s anonymous
-                    opponent had little use for the complaints that Reed made about publication,
-                    noting that “even in China,” Reed should have learned that “the publication of a
-                    diplomatic correspondence may be highly improper at one period of time, and
-                    eminently proper at another.”<note n="6">
-                        <hi rend="italic">Diplomat on
-                    Diplomacy</hi>, 2.</note> In sum, this author believed that the Secretary of
-                    State and President could be trusted to determine if the publication of
-                    confidential documents would serve national interests rather than jeopardize
-                    them.</p>
+                    attention adequate to the industry with which it has been circulated.”<note
+                        n="5">
+                        <hi rend="italic">A Diplomat on Diplomacy</hi> (n.p.: n.d.), 1. The Library
+                        of Congress catalog lists the author of this pamphlet as <ref
+                            target="http://lccn.loc.gov/44028315">Joseph Nunes</ref>.</note> The
+                    author outed A Northern Man as “the late distinguished Commissioner to the most
+                    imperial court of China.” Based on this description, it can be surmised that A
+                    Northern Man was <ref target="/departmenthistory/people/reed-william-bradford"
+                        >William Bradford Reed</ref>, President James Buchanan’s representative to
+                    China. Reed’s anonymous opponent had little use for the complaints that Reed
+                    made about publication, noting that “even in China,” Reed should have learned
+                    that “the publication of a diplomatic correspondence may be highly improper at
+                    one period of time, and eminently proper at another.”<note n="6">
+                        <hi rend="italic">Diplomat on Diplomacy</hi>, 2.</note> In sum, this author
+                    believed that the Secretary of State and President could be trusted to determine
+                    if the publication of confidential documents would serve national interests
+                    rather than jeopardize them.</p>
                 <p>The other response was the pseudonymous Dr. Syntax, Jr.’s <hi rend="italic">A New
-                    “Sartor Resartus,” Being a Critical Analysis of a Pamphlet Entitled “A Review of
-                    Mr. Seward’s Diplomacy.”</hi>
+                        “Sartor Resartus,” Being a Critical Analysis of a Pamphlet Entitled “A
+                        Review of Mr. Seward’s Diplomacy.”</hi>
                     <note n="7">
-                        <ref target="http://hdl.handle.net/2027/loc.ark:/13960/t6252dn8w"><hi rend="italic">A New “Sartor
-                    Resartus,” Being a Critical Analysis of a Pamphlet Entitled “A Review of Mr.
-                    Seward’s Diplomacy”</hi></ref> (n.p.: n.d.). <hi rend="italic">Sartor Resartus</hi> is a satirical work by Thomas Carlyle; the title means
-                        “the tailor re-tailored.” The Library of Congress gives the author of <ref target="http://lccn.loc.gov/01013021"><hi rend="italic">A New “Sartor Resartus”</hi></ref> as S. Kimber.</note>
-                    Dr. Syntax presumably published his pamphlet after <hi rend="italic">A Diplomat
-                    on Diplomacy</hi>, for he noted that <hi rend="italic">The Diplomatic Year</hi>
-                    “has already been reviewed, and that not in the kindest spirit.” Dr. Syntax
-                    agreed that the author was Reed, noting that the pamphlet was “universally
-                    attributed to a prominent member of the Philadelphia Bar; who was charged with
-                    an important foreign mission, under the late Administration, and who has ever
-                    since been supposed to enjoy the especial confidence of its Chief.”<note n="8">
-                        <hi rend="italic">A New “Sartor Resartus,”</hi>&#0160;<ref target="http://hdl.handle.net/2027/loc.ark:/13960/t6252dn8w?urlappend=%3Bseq=7">3</ref>.</note>
+                        <ref target="http://hdl.handle.net/2027/loc.ark:/13960/t6252dn8w"><hi
+                                rend="italic">A New “Sartor Resartus,” Being a Critical Analysis of
+                                a Pamphlet Entitled “A Review of Mr. Seward’s Diplomacy”</hi></ref>
+                        (n.p.: n.d.). <hi rend="italic">Sartor Resartus</hi> is a satirical work by
+                        Thomas Carlyle; the title means “the tailor re-tailored.” The Library of
+                        Congress gives the author of <ref target="http://lccn.loc.gov/01013021"><hi
+                                rend="italic">A New “Sartor Resartus”</hi></ref> as S.
+                        Kimber.</note> Dr. Syntax presumably published his pamphlet after <hi
+                        rend="italic">A Diplomat on Diplomacy</hi>, for he noted that <hi
+                        rend="italic">The Diplomatic Year</hi> “has already been reviewed, and that
+                    not in the kindest spirit.” Dr. Syntax agreed that the author was Reed, noting
+                    that the pamphlet was “universally attributed to a prominent member of the
+                    Philadelphia Bar; who was charged with an important foreign mission, under the
+                    late Administration, and who has ever since been supposed to enjoy the especial
+                    confidence of its Chief.”<note n="8">
+                        <hi rend="italic">A New “Sartor Resartus,”</hi>&#0160;<ref
+                            target="http://hdl.handle.net/2027/loc.ark:/13960/t6252dn8w?urlappend=%3Bseq=7"
+                            >3</ref>.</note>
                 </p>
                 <p>It is not clear if the implication should be that Buchanan himself approved of
                     the pamphlet, or merely that such a connection afforded Reed’s opinions more
                     respect than he might otherwise deserve. Dr. Syntax spent most of his pamphlet
                     on, as his name suggests, Reed’s language, picking apart his grammatical errors.
-                    Dr. Syntax felt that the political opinions expressed in <hi rend="italic">FRUS</hi> needed no defense since they were lauded elsewhere.<note n="9">
-                        <hi rend="italic">A New “Sartor Resartus,”</hi>&#0160;<ref target="http://hdl.handle.net/2027/loc.ark:/13960/t6252dn8w?urlappend=%3Bseq=8">4</ref>.</note>
-                    The author noted that the United States was hardly alone in publishing
-                    correspondence.<note n="10">
-                        <hi rend="italic">A New “Sartor Resartus,”</hi>&#0160;<ref target="http://hdl.handle.net/2027/loc.ark:/13960/t6252dn8w?urlappend=%3Bseq=20">16-17</ref>.</note>
-                    Britain produced its Blue Book of diplomatic correspondence, as Dr. Syntax
-                    reminded his audience, and under the Buchanan administration a “ponderous volume
-                    of Chinese dispatches was published; unveiling many delicate secrets.” Dr.
-                    Syntax concluded, much as the anonymous author of <hi rend="italic">A Diplomat
-                    on Diplomacy</hi> did, by arguing that it was the role of “principals,” be they
-                    a merchant instructing a clerk or the Secretary of State instructing a diplomat,
-                    to decide when interests “confided to these servants, will be best promoted by a
-                    publication of the previously confidential instructions under which they had
-                    acted.” He felt it was “sophistry” to argue that once “subordinate agents” were
-                    under an “injunction of secrecy” that those in charge of foreign affairs could
-                    never expose this information.<note n="11">
-                        <hi rend="italic"> A New “Sartor
-                            Resartus,”</hi>&#0160;<ref target="http://hdl.handle.net/2027/loc.ark:/13960/t6252dn8w?urlappend=%3Bseq=21">17, 18</ref>.</note>
+                    Dr. Syntax felt that the political opinions expressed in <hi rend="italic"
+                        >FRUS</hi> needed no defense since they were lauded elsewhere.<note n="9">
+                        <hi rend="italic">A New “Sartor Resartus,”</hi>&#0160;<ref
+                            target="http://hdl.handle.net/2027/loc.ark:/13960/t6252dn8w?urlappend=%3Bseq=8"
+                            >4</ref>.</note> The author noted that the United States was hardly
+                    alone in publishing correspondence.<note n="10">
+                        <hi rend="italic">A New “Sartor Resartus,”</hi>&#0160;<ref
+                            target="http://hdl.handle.net/2027/loc.ark:/13960/t6252dn8w?urlappend=%3Bseq=20"
+                            >16-17</ref>.</note> Britain produced its Blue Book of diplomatic
+                    correspondence, as Dr. Syntax reminded his audience, and under the Buchanan
+                    administration a “ponderous volume of Chinese dispatches was published;
+                    unveiling many delicate secrets.” Dr. Syntax concluded, much as the anonymous
+                    author of <hi rend="italic">A Diplomat on Diplomacy</hi> did, by arguing that it
+                    was the role of “principals,” be they a merchant instructing a clerk or the
+                    Secretary of State instructing a diplomat, to decide when interests “confided to
+                    these servants, will be best promoted by a publication of the previously
+                    confidential instructions under which they had acted.” He felt it was
+                    “sophistry” to argue that once “subordinate agents” were under an “injunction of
+                    secrecy” that those in charge of foreign affairs could never expose this
+                        information.<note n="11">
+                        <hi rend="italic"> A New “Sartor Resartus,”</hi>&#0160;<ref
+                            target="http://hdl.handle.net/2027/loc.ark:/13960/t6252dn8w?urlappend=%3Bseq=21"
+                            >17, 18</ref>.</note>
                 </p>
                 <p>What should we make over this outburst of pamphleteering in 1863? Reed’s
                     motivations remain a mystery, although his Democratic politics may help explain
                     part of his opposition to the Lincoln administration. Beyond partisan politics,
                     his objections were that publication of documentation would harm U.S. interests
                     abroad. As I explained <ref target="/research/constitutional-basis-of-frus">in
-                    another post</ref>, Charles Francis Adams had similar concerns—which Seward
+                        another post</ref>, Charles Francis Adams had similar concerns—which Seward
                     dismissed. These pamphlets demonstrate that a similar debate played out in
                     public, not just inside the government. Reed’s two opponents show us the other
                     side of the debate: they pointed out that publication of documentation was

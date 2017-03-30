@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -16,7 +16,8 @@
             </publicationStmt>
             <sourceDesc>
                 <p>A scan of the original document is available for download (<ref
-                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1988-12-08-hac-meeting-minutes.pdf">PDF</ref>, 450 KB, 25pp.)</p>
+                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1988-12-08-hac-meeting-minutes.pdf"
+                        >PDF</ref>, 450 KB, 25pp.)</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>

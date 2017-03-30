@@ -23,13 +23,15 @@
                     <!-- Start of Brightcove Player -->
                     <div style="display:none"/>
                     <!--By use of this code snippet, I agree to the Brightcove Publisher T and C found at https://accounts.brightcove.com/en/terms-and-conditions/. -->
-                    <script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"/>
+                    <script type="text/javascript"
+                        src="http://admin.brightcove.com/js/BrightcoveExperiences.js"/>
                     <object id="myExperience1177738320001" class="BrightcoveExperience">
                         <param name="bgcolor" value="#FFFFFF"/>
                         <param name="width" value="486"/>
                         <param name="height" value="412"/>
                         <param name="playerID" value="642900215001"/>
-                        <param name="playerKey" value="AQ~~,AAAAAGWqYgE~,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
+                        <param name="playerKey"
+                            value="AQ~~,AAAAAGWqYgE~,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
                         <param name="isVid" value="true"/>
                         <param name="dynamicStreaming" value="true"/>
                         <param name="@videoPlayer" value="1177738320001"/>
@@ -38,11 +40,11 @@
                     <script type="text/javascript">brightcove.createExperiences();</script>
                     <!-- End of Brightcove Player -->
                 </div>
-                <p rend="italic">A brief video with accompanying transcript of Dr. Aaron Marrs speaking
-                    about his research into why the first volume of the <hi rend="italic">Foreign
-                        Relations of the United States</hi> series was released in 1861 amidst the
-                    Civil War, the precedents for such a release of foreign relations documentation,
-                    and the reception of the first volume.</p>
+                <p rend="italic">A brief video with accompanying transcript of Dr. Aaron Marrs
+                    speaking about his research into why the first volume of the <hi rend="italic"
+                        >Foreign Relations of the United States</hi> series was released in 1861
+                    amidst the Civil War, the precedents for such a release of foreign relations
+                    documentation, and the reception of the first volume.</p>
                 <p>I’m Aaron Marrs, a historian at the Office of the Historian in the U.S.
                     Department of State, and I’m here today because I’ve been working on our
                     research project on the sesquicentennial of <ref target="/historicaldocuments"
@@ -58,8 +60,8 @@
                     of all the documentation demonstrating the actions taken by the Department of
                     State to prevent the Confederacy from gaining recognition. So on December 3,
                     1861, the Executive branch responded to those resolutions by releasing <ref
-                        target="/historicaldocuments/frus-history/research/the-first-volume">the first <hi rend="italic"
-                            >Foreign Relations</hi> volume</ref>.</p>
+                        target="/historicaldocuments/frus-history/research/the-first-volume">the
+                        first <hi rend="italic">Foreign Relations</hi> volume</ref>.</p>
                 <p>
                     <hi rend="italic">(Was this the first time the federal government released
                         foreign relations documentation?)</hi>
@@ -77,14 +79,14 @@
                     <hi rend="italic">(What makes this volume unique?)</hi>
                 </p>
                 <p>There are a couple of reasons. First of all, for the first time <ref
-                    target="/historicaldocuments/frus-history/research/foundation-of-frus">documents from all over the
-                        globe</ref> were brought under a single cover, so rather than just having a
-                    single issue be covered, this was about the entire world. Second of all, there
-                    was much more public attention given to this volume, obviously because of the
-                    ongoing Civil War. And then third, even though they didn’t know it at the time,
-                    this would serve to launch the annual regular publication of foreign relations
-                    documentation instead of the ad hoc releases that had taken place
-                    previously.</p>
+                        target="/historicaldocuments/frus-history/research/foundation-of-frus"
+                        >documents from all over the globe</ref> were brought under a single cover,
+                    so rather than just having a single issue be covered, this was about the entire
+                    world. Second of all, there was much more public attention given to this volume,
+                    obviously because of the ongoing Civil War. And then third, even though they
+                    didn’t know it at the time, this would serve to launch the annual regular
+                    publication of foreign relations documentation instead of the ad hoc releases
+                    that had taken place previously.</p>
                 <p>
                     <hi rend="italic">(Were Lincoln and Seward personally involved with the
                         volume?)</hi>
@@ -108,7 +110,8 @@
                 <p>
                     <hi rend="italic">(What was the domestic reaction to the volume?)</hi>
                 </p>
-                <p>The domestic reaction was <ref target="/historicaldocuments/frus-history/research/foundation-of-frus">very
+                <p>The domestic reaction was <ref
+                        target="/historicaldocuments/frus-history/research/foundation-of-frus">very
                         positive</ref>. Newspapers up and down the East Coast published portions of
                     the volume as soon as it came out, and then if you look at newspapers moving
                     across the country, we can see how the information spread. Newspapers in the

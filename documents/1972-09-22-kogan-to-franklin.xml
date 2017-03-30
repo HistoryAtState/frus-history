@@ -16,7 +16,8 @@
             </publicationStmt>
             <sourceDesc>
                 <p>A scan of the original document is available for download (<ref
-                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1972-09-22-kogan-to-franklin.pdf">PDF</ref>, 746 KB, 11pp.)</p>
+                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1972-09-22-kogan-to-franklin.pdf"
+                        >PDF</ref>, 746 KB, 11pp.)</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -310,7 +311,7 @@
                     explained in a memorandum of December 1963 by the Director of the Historical
                     Office, the three different periods of access were retained but the fixed dates
                     were replaced by a progressive opening of files tied to the publication of the
-                    <hi rend="italic">Foreign Relations</hi> series. The “closed” period was now
+                        <hi rend="italic">Foreign Relations</hi> series. The “closed” period was now
                     defined as the period in advance of the <hi rend="italic">Foreign Relations</hi>
                     series and its beginning date was to be revised automatically as the <hi
                         rend="italic">Foreign Relations</hi> volumes were being released. The
@@ -375,15 +376,15 @@
                     “restricted” period of access and left in existence only an “open” and a
                     “closed” period of the files. This became even clearer when the release of all
                     the <hi rend="italic">Foreign Relations</hi> volumes for 1946 was followed by an
-                    announcement by the Department in press release 193 of August 10,
-                    1972, stating that the Department had declassified almost all of its foreign
-                    policy records through 1946. Like the earlier decisions regarding the records of
-                    the period 1942-1945, this opening of the files through 1946 was not to be
-                    interpreted as a departure from the standing regulation providing for the
-                    opening of the Department’s records 30 years old. Moreover, by August 19 the
-                    opening of records after 30 years had become mandatory for all Government
-                    Departments under the terms of Executive Order 11652 of March 1972, which
-                    became effective on June 1, 1972.</p>
+                    announcement by the Department in press release 193 of August 10, 1972, stating
+                    that the Department had declassified almost all of its foreign policy records
+                    through 1946. Like the earlier decisions regarding the records of the period
+                    1942-1945, this opening of the files through 1946 was not to be interpreted as a
+                    departure from the standing regulation providing for the opening of the
+                    Department’s records 30 years old. Moreover, by August 19 the opening of records
+                    after 30 years had become mandatory for all Government Departments under the
+                    terms of Executive Order 11652 of March 1972, which became effective on June 1,
+                    1972.</p>
             </div>
         </body>
     </text>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -16,7 +16,8 @@
             </publicationStmt>
             <sourceDesc>
                 <p>A scan of the original document is available for download (<ref
-                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1990-12-06-hoggard-to-selin.pdf">PDF</ref>, 137 KB, 3pp.)</p>
+                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1990-12-06-hoggard-to-selin.pdf"
+                        >PDF</ref>, 137 KB, 3pp.)</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -50,7 +51,7 @@
                     release of inaccurate and misleading historical documentation.</p>
                 <p>I don't think it is an exaggeration -- the success of the criticism on the Hill
                     has resulted in proposed legislation. The Department incorrectly thought that
-                   “if you ignore it, it will go away,” but Congressional oversight is a fact of
+                    “if you ignore it, it will go away,” but Congressional oversight is a fact of
                     life. The Historical Advisory Committee is a fact of life. The Department must
                     accept these realities and make them work to our advantage.</p>
                 <p>In an effort to reinvigorate our efforts to resolve these problems, the PA Bureau
@@ -76,8 +77,8 @@
                     of the operational provisions of the pending Congressional legislation on the
                         <hi rend="italic">Foreign Relations</hi> series. Key Advisory Committee
                     members have been briefed on the substance of the plan.</p>
-                <p>2. The text of a <hi rend="underline">draft Presidential memorandum</hi> directing
-                    the relevant agencies to cooperate with the Department in assembling,
+                <p>2. The text of a <hi rend="underline">draft Presidential memorandum</hi>
+                    directing the relevant agencies to cooperate with the Department in assembling,
                     declassifying, and publishing the modernized <hi rend="italic">Foreign
                         Relations</hi> series and giving the project the necessary priority to get
                     the job done. The memorandum would also request the Department to aim at opening
@@ -86,8 +87,8 @@
                     steam by 1988. Senate staffers who briefed the Advisory Committee indicated that
                         <hi rend="underline">a Presidential directive could be a key element in
                         deflecting the need for Congressional action</hi>.</p>
-                <p>3. A draft <hi rend="underline">letter from Assistant Secretary Mullins</hi> to the
-                    appropriate Senate and House Committee chairmen expressing support for the
+                <p>3. A draft <hi rend="underline">letter from Assistant Secretary Mullins</hi> to
+                    the appropriate Senate and House Committee chairmen expressing support for the
                     general objectives of the pending legislations, willingness to have some general
                     legislative mandate for the research and publication of the <hi rend="italic"
                         >Foreign Relations</hi> series, but offering the Department's action plan
@@ -98,9 +99,9 @@
                     the Historical Advisory Committee take on at an early date its heightened
                     responsibilities to verify the historical accuracy of the published record of
                     U.S. Foreign Relations.</p>
-                <p>I have attached a <hi rend="underline">fifth paper</hi> that highlights those issues
-                    arising from the four-part strategy that most conflict with current views and
-                    attitudes within Department units concerned with various aspects of the
+                <p>I have attached a <hi rend="underline">fifth paper</hi> that highlights those
+                    issues arising from the four-part strategy that most conflict with current views
+                    and attitudes within Department units concerned with various aspects of the
                     preparation of the <hi rend="italic">Foreign Relations</hi> series.</p>
                 <p>PA needs your decisions to carry out our proposed four-part strategy:</p>
                 <p>1. Your approval of the action plan and its implementation in the Department and

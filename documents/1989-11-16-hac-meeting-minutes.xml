@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -16,7 +16,8 @@
             </publicationStmt>
             <sourceDesc>
                 <p>A scan of the original document is available for download (<ref
-                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1989-11-16-hac-meeting-minutes.pdf">PDF</ref>, 1.1 MB, 27pp.)</p>
+                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1989-11-16-hac-meeting-minutes.pdf"
+                        >PDF</ref>, 1.1 MB, 27pp.)</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -28,11 +29,11 @@
                 Minutes—1989-1990.</hi></p>
             <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
                     the Foreign Relations of the United States Series</hi>, Chapter 10, <ref
-                    target="../chapter-10#fn92">Footnotes 92</ref>, <ref
-                    target="../chapter-10#fn96">96</ref>, and <ref
-                    target="../chapter-10#fn97">97</ref></p>
+                    target="../chapter-10#fn92">Footnotes 92</ref>, <ref target="../chapter-10#fn96"
+                    >96</ref>, and <ref target="../chapter-10#fn97">97</ref></p>
             <div type="document">
-                <head>Minutes of the 1989 Meeting of the Advisory Committee on Historical Diplomatic Documentation</head>
+                <head>Minutes of the 1989 Meeting of the Advisory Committee on Historical Diplomatic
+                    Documentation</head>
                 <dateline>November 16-17, 1989</dateline>
                 <p rend="underline">American Historical Association</p>
                 <list>
@@ -178,8 +179,8 @@
                     the expansion the Advisory Committee to include representatives of Federal
                     agencies other than State and other interested disciplines, and preservation of
                     electronic records as well as those subjects mentioned briefly above.</p>
-                <p rend="underline">Report on the Printing and Distribution of the Foreign
-                        Relations Series</p>
+                <p rend="underline">Report on the Printing and Distribution of the Foreign Relations
+                    Series</p>
                 <p>Paul M. Washington, Chief of the Publishing Services Division, Bureau of
                     Administration and Information Management, reported on the printing and
                     distribution of the <hi rend="italic">Foreign Relations</hi> series.</p>
@@ -684,8 +685,8 @@
                     documentation was available, unlike Vietnam, might not be the ones of most
                     central importance. Dr. Perkins argued against starting with the assumption that
                     documentation on some topics was so slim that no volume was possible. It might
-                    prove to be the case, but the <hi rend="underline">a priori</hi> assumption should
-                    not be made.</p>
+                    prove to be the case, but the <hi rend="underline">a priori</hi> assumption
+                    should not be made.</p>
                 <p>There was general agreement that in the future more selectivity was inevitable.
                     Dr. Zamora wondered if modern computerized systems might not make possible a
                     series with a few book publications, but a great mass of documentation available
@@ -700,7 +701,7 @@
                     done this before, but the new one seemed disposed to try. In the Department the
                     historians should identify what needed to be kept. Dr. Herschler mentioned that
                     such a provision was already in Departmental regulations. Dr. Spector said,
-                   “Make it stronger.” Dr. Cohen discussed an article by Nancy Tucker, which stated
+                    “Make it stronger.” Dr. Cohen discussed an article by Nancy Tucker, which stated
                     that while she was temporarily on the China desk materials of historical value
                     had been routinely destroyed. Dr. Spector suggested that PA/HO see to it that
                     the Inspector General carried out his responsibilities with respect to record
@@ -883,7 +884,7 @@
                     suggestion that they transfer some of this to the Kennedy Library, Mr. Fawcett
                     responded that NARA had to spend appropriations as Congress intended.</p>
                 <p>To Dr. Spector's accusation that Presidential libraries have had a record of
-                   “failure” for the last 15 years, Ms. Van Camp commented that every archival
+                    “failure” for the last 15 years, Ms. Van Camp commented that every archival
                     institution in the world has a backlog of unprocessed records.</p>
                 <p>Dr. Cohen pointed out that the Committee's concern was getting material out of
                     the Kennedy and Johnson Libraries, adding that he had done well 10 years ago at

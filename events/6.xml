@@ -1,4 +1,4 @@
-<event>
+﻿<event>
     <id>6</id>
     <title>Discussion on <em>FRUS</em> at the Miller Center of Public Affairs</title>
     <created>2011-10-31</created>
@@ -14,15 +14,19 @@
     <event-date>2011-11-07</event-date>
     <teaser>
         <div xmlns="http://www.w3.org/1999/xhtml">
-            <a href="/historicaldocuments/frus-history/events#miller-center">“A Weapon
-            of Mass Instruction?: The <em>Foreign Relations</em> Series and the Politics of American
-            Globalism”</a>
+            <a href="/historicaldocuments/frus-history/events#miller-center">“A Weapon of Mass
+                Instruction?: The <em>Foreign Relations</em> Series and the Politics of American
+                Globalism”</a>
             <br/> (Discussion at the Miller Center of Public Affairs) </div>
     </teaser>
     <full-description>
         <div xmlns="http://www.w3.org/1999/xhtml" id="miller-center">
-            <a style="float:right" class="not-external" href="http://millercenter.org/academic/gage/panel/detail/5972" title="Link to Miller Center of Public Affairs event info">
-                <img width="150px" height="152px" style="border:1px black solid" src="//s3.amazonaws.com/static.history.state.gov/frus150/miller-center.png" alt="Miller Center Logo"/>
+            <a style="float:right" class="not-external"
+                href="http://millercenter.org/academic/gage/panel/detail/5972"
+                title="Link to Miller Center of Public Affairs event info">
+                <img width="150px" height="152px" style="border:1px black solid"
+                    src="//s3.amazonaws.com/static.history.state.gov/frus150/miller-center.png"
+                    alt="Miller Center Logo"/>
             </a>
             <h3>
                 <a href="http://millercenter.org/academic/gage/panel/detail/5972">“A Weapon of Mass
@@ -43,8 +47,9 @@
                 transparency and democratic accountability with University of Virginia faculty and
                 students and the interested public.</p>
             <p>
-                <span style="color: #911625; text-transform: uppercase;">Update</span>: The Miller Center has posted <a href="http://millercenter.org/academic/gage/panel/detail/5972">audio and video of
-                the event</a>.</p>
+                <span style="color: #911625; text-transform: uppercase;">Update</span>: The Miller
+                Center has posted <a href="http://millercenter.org/academic/gage/panel/detail/5972"
+                    >audio and video of the event</a>.</p>
         </div>
     </full-description>
 </event>

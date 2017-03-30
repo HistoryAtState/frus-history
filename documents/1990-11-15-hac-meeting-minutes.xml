@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -16,7 +16,8 @@
             </publicationStmt>
             <sourceDesc>
                 <p>A scan of the original document is available for download (<ref
-                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1990-11-15-hac-meeting-minutes.pdf">PDF</ref>, 832 KB, 28pp.)</p>
+                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1990-11-15-hac-meeting-minutes.pdf"
+                        >PDF</ref>, 832 KB, 28pp.)</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -29,7 +30,8 @@
                     the Foreign Relations of the United States Series</hi>, Chapter 11, <ref
                     target="../chapter-11#fn48">Footnote 48</ref></p>
             <div type="document">
-                <head>Minutes of the 1990 Meeting of the Advisory Committee on Historical Diplomatic Documentation</head>
+                <head>Minutes of the 1990 Meeting of the Advisory Committee on Historical Diplomatic
+                    Documentation</head>
                 <dateline>November 15-16, 1990</dateline>
                 <p rend="center"><hi rend="underline">Participants:</hi></p>
                 <p rend="underline">Advisory Committee</p>
@@ -166,7 +168,7 @@
                     say anything that explicit, or that “need to know” would ever be complete. State
                     was trying to upgrade the Committee members' clearances, but even then there
                     would be statutory and other limits. Kimball replied that the key matters were
-                   “need to know” and level of access. He was stressing the former, and the
+                    “need to know” and level of access. He was stressing the former, and the
                     Committee's need to have a high-level person come out and say that they had it,
                     within statutory limits.</p>
                 <p>Perkins said that he understood from FPC that copies of documents stored in PA/HO
@@ -800,7 +802,7 @@
                     HDR staffers recently published in the <hi rend="italic">Foreign Service
                         Journal</hi>. Kimball particularly objected to the statement that the
                     mandate of the Committee did not include declassification. Kimball called this
-                   “wrong.” He said it did not reflect the cooperative attitude that the Committee
+                    “wrong.” He said it did not reflect the cooperative attitude that the Committee
                     was trying to encourage with the declassification unit and said he was “deeply
                     troubled” by it. Kimball said it reflected an attitude problem in HDR.</p>
                 <p>Morefield responded that the Committee and part of the Department had differing
@@ -959,7 +961,7 @@
                 <p>Sieverts stated that if the bill was adopted the guidelines would be changed and
                     it would make declassification easier. With a tip of the hat to Senator Helms,
                     he suggested that the present system of declassification could be viewed as
-                   “Corporate Statism” whereby the government controlled release of historical
+                    “Corporate Statism” whereby the government controlled release of historical
                     materials. The bill envisioned a “Free Enterprise” approach in which private
                     scholars would take control. There was general awe that Sieverts had managed to
                     hit the appropriate ideological buttons with that analogy.</p>
@@ -1085,7 +1087,7 @@
                     revealing.</p>
                 <p>2) One anecdote concerned a trip by Ambassador Smith to Santiago in which the
                     Batista regime violently suppressed a protest by women. When Smith publicly
-                   “deplored” this, he was criticized in the pro-Batista press. According to
+                    “deplored” this, he was criticized in the pro-Batista press. According to
                     Rubottom, Smith was never the same. This episode, he suggested, could be
                     included in annotation in the volume.</p>
                 <p>3) He could find no mention in the volume of the Advisory Council on Economic

@@ -6,7 +6,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Meeting Between Henry Kissinger and the HAC, November 1976</title>
+                <title type="complete">Meeting Between Henry Kissinger and the HAC, November
+                    1976</title>
                 <title type="short">HAC Meeting With Kissinger, 1976</title>
             </titleStmt>
             <publicationStmt>
@@ -15,8 +16,8 @@
             </publicationStmt>
             <sourceDesc>
                 <p>A scan of the original document is available for download (<ref
-                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1976-11-12-hac-meeting-with-kissinger.pdf">PDF</ref>, 388 KB,
-                    23pp.)</p>
+                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1976-11-12-hac-meeting-with-kissinger.pdf"
+                        >PDF</ref>, 388 KB, 23pp.)</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>

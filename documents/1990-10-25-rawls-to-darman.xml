@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -16,7 +16,8 @@
             </publicationStmt>
             <sourceDesc>
                 <p>A scan of the original document is available for download (<ref
-                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1990-10-25-rawls-to-darman.pdf">PDF</ref>, 626 KB, 4pp.)</p>
+                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1990-10-25-rawls-to-darman.pdf"
+                        >PDF</ref>, 626 KB, 4pp.)</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -79,11 +80,11 @@
                 <p>The Advisory Committee would consist of nine “distinguished historians,” of whom
                     not more than two would be employees of the United States. Members would be
                     appointed by the Secretary of State, with the advice of the Assistant Secretary
-                    for Public Affairs. The bill would apparently require the Secretary to select
-                    at least one member of the committee from each of the lists prepared by six
-                    named historical organizations. Members would serve for a term of three years.
-                    The Committee would select its own Chairman, who would serve a term of one year.
-                    § 47(c).</p>
+                    for Public Affairs. The bill would apparently require the Secretary to select at
+                    least one member of the committee from each of the lists prepared by six named
+                    historical organizations. Members would serve for a term of three years. The
+                    Committee would select its own Chairman, who would serve a term of one year. §
+                    47(c).</p>
                 <p>We have three objections to S. 3225. First, the bill trenches on the President’s
                     constitutional authority to protect state secrets. Second, it intrudes upon the
                     deliberative privilege for communications within the Executive Branch. Third,
@@ -93,13 +94,13 @@
                     military, diplomatic, and national security secrets and to safeguard the
                     deliberative process within the Executive Branch. The Constitution vests in the
                     President an expansive authority to protect state secrets from disclosure:
-                <quote rend="blockquote">The President, after all, is the “Commander in Chief of the Army and Navy of
-                    the United States.” U.S. Const., Art. II, § 2. His authority to ... control
-                    access to information bearing on national security ... flows primarily from this
-                    constitutional investment of power in the President and exists quite apart from
-                    any explicit congressional grant ... . The authority to protect such information
-                    falls on the President as head of the Executive Branch and as Commander in
-                    Chief.</quote></p>
+                        <quote rend="blockquote">The President, after all, is the “Commander in
+                        Chief of the Army and Navy of the United States.” U.S. Const., Art. II, § 2.
+                        His authority to ... control access to information bearing on national
+                        security ... flows primarily from this constitutional investment of power in
+                        the President and exists quite apart from any explicit congressional grant
+                        ... . The authority to protect such information falls on the President as
+                        head of the Executive Branch and as Commander in Chief.</quote></p>
                 <p><hi rend="underline">Department of the Navy</hi> v. <hi rend="underline"
                         >Egan</hi>, 484 U.S. 518, 527 (1988) (citations omitted). <hi
                         rend="underline">See United States</hi> v. <hi rend="underline">Nixon</hi>,

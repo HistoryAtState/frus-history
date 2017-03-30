@@ -16,8 +16,8 @@
             </publicationStmt>
             <sourceDesc>
                 <p>A scan of the original document is available for download (<ref
-                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1975-11-14-hac-meeting-minutes-annex.pdf">PDF</ref>, 39 KB,
-                    2pp.)</p>
+                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1975-11-14-hac-meeting-minutes-annex.pdf"
+                        >PDF</ref>, 39 KB, 2pp.)</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -32,9 +32,8 @@
                 <dateline>November 14, 1975</dateline>
                 <p>[The discussion of classified matters under this agenda item took place in both
                     the morning and afternoon sessions. The discussion of other agenda items and the
-                    list of participants are covered in <ref
-                        target="1975-11-14-hac-meeting-minutes">separate unclassified
-                        minutes</ref>.]</p>
+                    list of participants are covered in <ref target="1975-11-14-hac-meeting-minutes"
+                        >separate unclassified minutes</ref>.]</p>
                 <p rend="center">AGENDA ITEM 6: PROBLEMS OF DECLASSIFICATION AND CLEARANCE</p>
                 <p>Mr. Aandahl asked Mr. Trask to absent himself temporarily while discussion of
                     certain classified materials took place. Copies of documents concerning the Chou

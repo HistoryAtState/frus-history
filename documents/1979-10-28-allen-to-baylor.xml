@@ -15,7 +15,8 @@
             </publicationStmt>
             <sourceDesc>
                 <p>A scan of the original document is available for download (<ref
-                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1979-10-28-allen-to-baylor.pdf">PDF</ref>, 170 KB, 5pp.)</p>
+                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1979-10-28-allen-to-baylor.pdf"
+                        >PDF</ref>, 170 KB, 5pp.)</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>

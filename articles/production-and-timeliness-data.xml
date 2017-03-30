@@ -28,14 +28,14 @@
         <revisionDesc>
             <change who="#JDB" when="2013-12-18">Drafted text.</change>
             <change who="#JDB" when="2015-01-02">Added 2014 data.</change>
-            <change who="#JDB" when="2016-02-01">Added 2015 data and corrected 2005 and 2006 data.</change>
+            <change who="#JDB" when="2016-02-01">Added 2015 data and corrected 2005 and 2006
+                data.</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <div>
-                <head>Annual <hi rend="italic">FRUS</hi>
-                    Production and Timeliness Data</head>
+                <head>Annual <hi rend="italic">FRUS</hi> Production and Timeliness Data</head>
                 <table rows="156" cols="8" rend="bordered">
                     <row>
                         <cell/>
@@ -1608,4 +1608,3 @@
         </body>
     </text>
 </TEI>
-

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -16,7 +16,8 @@
             </publicationStmt>
             <sourceDesc>
                 <p>A scan of the original document is available for download (<ref
-                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1984-11-09-hac-meeting-minutes.pdf">PDF</ref>, 411 KB, 19pp.)</p>
+                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1984-11-09-hac-meeting-minutes.pdf"
+                        >PDF</ref>, 411 KB, 19pp.)</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -605,9 +606,9 @@
                     volume should be ready for the NSC in early 1985.</p>
                 <p>Mr. Gaddis asked what would be the role of the Editorial Board at this stage of
                     the declassification process. Mr. Slany said we “crave some sort of judgment”
-                    and perhaps the Editorial Board could help us make the best possible decision
-                    at this juncture. He said the deletions in this volume were made largely because
-                    of information obtained from Great Britain.</p>
+                    and perhaps the Editorial Board could help us make the best possible decision at
+                    this juncture. He said the deletions in this volume were made largely because of
+                    information obtained from Great Britain.</p>
                 <p>Mr. Kuehl suggested that the Committee could make broad recommendations.
                     Ambassador Burke replied that the Committee could make recommendations on
                     changes in organization of the volumes and subjects treated. The CDC would like

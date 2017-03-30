@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -16,7 +16,8 @@
             </publicationStmt>
             <sourceDesc>
                 <p>A scan of the original document is available for download (<ref
-                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1983-11-10-hac-meeting-minutes.pdf">PDF</ref>, 418 KB, 24pp.)</p>
+                        target="https://s3.amazonaws.com/static.history.state.gov/frus-history/documents/1983-11-10-hac-meeting-minutes.pdf"
+                        >PDF</ref>, 418 KB, 24pp.)</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -314,11 +315,11 @@
                 <p>Mr. Slany replied that it was alien only in the sense that the study of history
                     lies outside the daily operational scope of the Department.</p>
                 <p>Mr. Gaddis inquired whether Mr. Slany was talking only of President Reagan’s
-                    recent Executive Order or more generally. Mr. Slany said the historical
-                    record is not always favorable to the Department, yet it is the Office’s task to
-                    bring this information to light. The Department must be informed where the
-                    smoking guns are. Whether or not it could be published, the Historical Office
-                    was responsible for compiling a complete, accurate foreign affairs record. The
+                    recent Executive Order or more generally. Mr. Slany said the historical record
+                    is not always favorable to the Department, yet it is the Office’s task to bring
+                    this information to light. The Department must be informed where the smoking
+                    guns are. Whether or not it could be published, the Historical Office was
+                    responsible for compiling a complete, accurate foreign affairs record. The
                     Department needed such a record, even if its sensitivity in places prevented
                     full disclosure.</p>
                 <p>Deputy Assistant McCarthy responded that the size and the importance of the U.S.
@@ -770,10 +771,10 @@
                     was reluctant to speculate on a year when everything would become right. Our
                     efforts, he concluded, would be better spent trying to figure out how to do
                     better what we are already doing.</p>
-                <p>Ambassador Burke stated that A/CDC attempts to speed the system and reduce denials
-                    by maintaining informal communication between Systematic Review and Mandatory
-                    Review, but he is careful to stress the separation between the two in order to
-                    prevent diversion of SR staff (which legally might happen under the new
+                <p>Ambassador Burke stated that A/CDC attempts to speed the system and reduce
+                    denials by maintaining informal communication between Systematic Review and
+                    Mandatory Review, but he is careful to stress the separation between the two in
+                    order to prevent diversion of SR staff (which legally might happen under the new
                     directive.) At present, the Department is “robbing Peter to pay Paul” by using
                     MR resources to pay for SR.</p>
                 <p>In addition, CDC is being “whipsawed right and left” on “surprise” FOIA cases. At
@@ -906,13 +907,13 @@
                     under the existing system. Paraphrasing Mr. Johnson, he said that he felt that
                     the process of deciding which documents to keep classified would “focus the
                     mind” of the classifiers.</p>
-                <p>Ambassador Burke pointed out that the FOIA process worked that way. The Department
-                    has to defend its decision to withhold a document under FOIA. This focuses the
-                    attention of the reviewer and results in more documents being released. He
-                    suggested that something along the line of Mr. Rubin’s idea might work in
-                    conjunction with the 25-year line being proposed by Senator Mathias. On the
-                    other hand, it would only work with a small number of documents since it would
-                    require senior people to review the documents.</p>
+                <p>Ambassador Burke pointed out that the FOIA process worked that way. The
+                    Department has to defend its decision to withhold a document under FOIA. This
+                    focuses the attention of the reviewer and results in more documents being
+                    released. He suggested that something along the line of Mr. Rubin’s idea might
+                    work in conjunction with the 25-year line being proposed by Senator Mathias. On
+                    the other hand, it would only work with a small number of documents since it
+                    would require senior people to review the documents.</p>
                 <p>Mr. May asked how hard it was to identify sensitive documents? Ambassador Burke
                     replied that it was amazing to him how much was released under Presidential
                     library referrals. The problem, in fact, was how to make these documents
@@ -928,8 +929,8 @@
                     as high as 50-50. Many of the classified projects were such things as
                     negotiating histories which, by their nature, took more time.</p>
                 <p rend="underline">Committee’s Private Meeting</p>
-                <p>The meeting was adjourned at 3:30 p.m. The Committee met privately to prepare
-                    its report.</p>
+                <p>The meeting was adjourned at 3:30 p.m. The Committee met privately to prepare its
+                    report.</p>
             </div>
         </body>
     </text>

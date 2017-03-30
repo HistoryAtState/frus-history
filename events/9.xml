@@ -1,4 +1,4 @@
-<event>
+﻿<event>
     <id>9</id>
     <title>Panel Discussion on Diplomatic Secrecy in the 19th Century at the Wilson Center</title>
     <created>2012-01-23</created>
@@ -14,20 +14,39 @@
     <event-date>2011-12-08</event-date>
     <teaser>
         <div xmlns="http://www.w3.org/1999/xhtml">
-            <a href="/historicaldocuments/frus-history/events#wilson-center-diplomatic-secrecy">Diplomatic Secrecy in the 19th Century</a>
+            <a href="/historicaldocuments/frus-history/events#wilson-center-diplomatic-secrecy"
+                >Diplomatic Secrecy in the 19th Century</a>
             <br/> (Panel Discussion at the Wilson Center) </div>
     </teaser>
     <full-description>
         <div xmlns="http://www.w3.org/1999/xhtml" id="wilson-center-diplomatic-secrecy">
-            <a style="float:right" class="not-external" href="http://www.wilsoncenter.org/event/diplomatic-secrecy-the-19th-century" title="Link to Wilson Center event info">
-                <img width="150px" height="114px" style="border:1px black solid" src="//s3.amazonaws.com/static.history.state.gov/frus150/wilson-center-logo.png" alt="Wilson Center Logo"/>
+            <a style="float:right" class="not-external"
+                href="http://www.wilsoncenter.org/event/diplomatic-secrecy-the-19th-century"
+                title="Link to Wilson Center event info">
+                <img width="150px" height="114px" style="border:1px black solid"
+                    src="//s3.amazonaws.com/static.history.state.gov/frus150/wilson-center-logo.png"
+                    alt="Wilson Center Logo"/>
             </a>
             <h3>
-                <a href="http://www.wilsoncenter.org/event/diplomatic-secrecy-the-19th-century">“Diplomatic Secrecy in the 19th Century”</a>
+                <a href="http://www.wilsoncenter.org/event/diplomatic-secrecy-the-19th-century"
+                    >“Diplomatic Secrecy in the 19th Century”</a>
             </h3>
-            <p style="font-size: 0.825em; text-transform: uppercase;"> A panel discussion at the Wilson Center<br/>December 8, 2011, 4-5:30 p.m.</p>
-            <p>While the formal classification system used to keep sensitive government information secret was a 20th Century development, even in the 19th Century, new research shows, the Department of State had to balance the “public’s right to know” with protecting national interests. Foreign policy documents were often released soon after events took place, sometimes complicating diplomatic relations. In certain instances sensitive documents and information were withheld, usually in the name of national security, but occasionally for political advantage. Congress, the media, public audiences, and other governments all took an interest in this peculiarly American penchant for walking the tightrope between transparency of governmental operations and withholding information "not in the public interest."</p>
-            <p>“Diplomatic Secrecy in the 19th Century” will explore the earliest available examples of both America's open and secret diplomacy, as well as how the ad-hoc system used in the 19th Century formed the basis for the formalized system which was developed in later years.</p>
+            <p style="font-size: 0.825em; text-transform: uppercase;"> A panel discussion at the
+                Wilson Center<br/>December 8, 2011, 4-5:30 p.m.</p>
+            <p>While the formal classification system used to keep sensitive government information
+                secret was a 20th Century development, even in the 19th Century, new research shows,
+                the Department of State had to balance the “public’s right to know” with protecting
+                national interests. Foreign policy documents were often released soon after events
+                took place, sometimes complicating diplomatic relations. In certain instances
+                sensitive documents and information were withheld, usually in the name of national
+                security, but occasionally for political advantage. Congress, the media, public
+                audiences, and other governments all took an interest in this peculiarly American
+                penchant for walking the tightrope between transparency of governmental operations
+                and withholding information "not in the public interest."</p>
+            <p>“Diplomatic Secrecy in the 19th Century” will explore the earliest available examples
+                of both America's open and secret diplomacy, as well as how the ad-hoc system used
+                in the 19th Century formed the basis for the formalized system which was developed
+                in later years.</p>
             <p>Panel participants: Aaron Marrs, Peter Cozzens, and William B. McAllister.</p>
         </div>
     </full-description>

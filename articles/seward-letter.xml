@@ -3,19 +3,22 @@
         <fileDesc>
             <titleStmt>
                 <title type="complete">Instruction from <persName>William Seward</persName> to
-                    <persName>Charles Francis Adams</persName> </title>
+                        <persName>Charles Francis Adams</persName>
+                </title>
                 <title type="short">Instruction from <persName>Seward</persName> to
-                    <persName>Adams</persName> </title>
+                        <persName>Adams</persName>
+                </title>
             </titleStmt>
             <publicationStmt>
                 <date when="2011-10-24">October 24, 2011</date>
             </publicationStmt>
             <sourceDesc>
                 <p>This document was released in conjunction with "<ref
-                    target="/historicaldocuments/frus-history/research/constitutional-basis-of-frus">The Constitutional Basis
-                    of <hi rend="italic">FRUS</hi> </ref>." A scan of the original text is available
-                    for download (<ref target="https://s3.amazonaws.com/static.history.state.gov/frus150/seward-letter.pdf"
-                    >PDF</ref>, 1 MB, 9 pp.).</p>
+                        target="/historicaldocuments/frus-history/research/constitutional-basis-of-frus"
+                        >The Constitutional Basis of <hi rend="italic">FRUS</hi>
+                    </ref>." A scan of the original text is available for download (<ref
+                        target="https://s3.amazonaws.com/static.history.state.gov/frus150/seward-letter.pdf"
+                        >PDF</ref>, 1 MB, 9 pp.).</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -130,7 +133,11 @@
                     restore harmony between Great Britain and the United States.</p>
                 <p>I am, Sir,</p>
                 <p>Your obedient servant,</p>
-                <closer> <signed> <persName>William H. Seward</persName> </signed> </closer>
+                <closer>
+                    <signed>
+                        <persName>William H. Seward</persName>
+                    </signed>
+                </closer>
             </div>
         </body>
     </text>

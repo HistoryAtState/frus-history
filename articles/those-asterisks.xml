@@ -18,16 +18,21 @@
     <text>
         <body>
             <div>
-                <p>In my <ref target="http://history.state.gov/historicaldocuments/frus-history/research/the-first-volume">previous blog post</ref>, I discussed how historians start their research
+                <p>In my <ref
+                        target="http://history.state.gov/historicaldocuments/frus-history/research/the-first-volume"
+                        >previous blog post</ref>, I discussed how historians start their research
                     with a question about the past. In this post, I’ll talk about another question
-                    that we in the Office of the Historian have had about <ref target="http://history.state.gov/historicaldocuments/frus1861">the first <hi rend="italic">FRUS</hi> volume</ref> published in 1861: what material
+                    that we in the Office of the Historian have had about <ref
+                        target="http://history.state.gov/historicaldocuments/frus1861">the first <hi
+                            rend="italic">FRUS</hi> volume</ref> published in 1861: what material
                     was left out?</p>
                 <p>Answering this question seems difficult at first. We know very little about the
                     clerks who compiled the first <hi rend="italic">FRUS</hi> volume. The Department
-                    was much smaller in the nineteenth century than it is today, with <ref target="http://history.state.gov/about/faq/department-personnel">only 42
+                    was much smaller in the nineteenth century than it is today, with <ref
+                        target="http://history.state.gov/about/faq/department-personnel">only 42
                         domestic employees in 1860</ref>. Therefore, it is difficult to imagine that
-                    a project of this magnitude would have gone unnoticed by Secretary of State
-                    <ref target="/departmenthistory/people/seward-william-henry">William
+                    a project of this magnitude would have gone unnoticed by Secretary of State <ref
+                        target="/departmenthistory/people/seward-william-henry">William
                     Seward</ref>. Nevertheless, we have no direct evidence of Seward’s involvement
                     in the publication of the volume, nor do we know the standards by which
                     materials were selected for inclusion.</p>
@@ -37,11 +42,14 @@
                     material was excised, but we also don’t know why the editors of the first volume
                     chose to exclude the information.</p>
                 <p>But historians don’t give up easily! As it happens, there is another way to
-                    investigate this particular question. The <ref target="http://www.archives.gov/">National Archives</ref> holds some of the original documents published in
+                    investigate this particular question. The <ref target="http://www.archives.gov/"
+                        >National Archives</ref> holds some of the original documents published in
                     the first volume. In this blog post, I’ll focus on correspondence between
                     Washington and U.S. diplomats in London. When U.S. Minister to Great Britain
                         <ref target="/departmenthistory/people/adams-charles-francis">Charles
-                        Francis Adams</ref> prepared <ref target="http://blogs.archives.gov/TextMessage/2011/03/11/foreign-service-friday/">a despatch</ref> to send back to Washington, the text was also copied into
+                        Francis Adams</ref> prepared <ref
+                        target="http://blogs.archives.gov/TextMessage/2011/03/11/foreign-service-friday/"
+                        >a despatch</ref> to send back to Washington, the text was also copied into
                     a book kept at the legation’s office. Those books now sit at the National
                     Archives as part of Record Group 84. Office of the Historian staff member
                     Forrest Barnum has compared the full text of despatches in RG 84 to the copies
@@ -78,7 +86,8 @@
                     manifested to me before,” which “fully compensated me for the length and fatigue
                     of the journey.” In this case, the details of Adams’s protest about the
                     treatment of Confederate ships were deemed more important (or less sensitive)
-                    than his views of how he was treated by the British by the 1861 <hi rend="italic">FRUS</hi> compiler(s).</p>
+                    than his views of how he was treated by the British by the 1861 <hi
+                        rend="italic">FRUS</hi> compiler(s).</p>
                 <figure>
                     <graphic url="abergeldie-castle.jpg"/>
                     <head>Abergeldie Castle, Scotland, site of a September 1861 meeting between Lord
@@ -111,7 +120,8 @@
                     consular officials when it requested information about the country’s foreign
                     relations from the Lincoln administration. These excisions should not trouble
                     us.</p>
-                <p>A second conclusion is that some of the excised information <hi rend="italic">was</hi> quite significant. Adams communicated that the United States was
+                <p>A second conclusion is that some of the excised information <hi rend="italic"
+                        >was</hi> quite significant. Adams communicated that the United States was
                     embarrassed abroad by the defeat at Bull Run; printing this information in the
                     volume clearly would imperil morale at home. Therefore, we can see why the
                     Lincoln administration might have excluded that portion of Adams’s report when
@@ -130,11 +140,13 @@
                     put the volume together.</p>
                 <p>I hope this post has demonstrated some of the ways in which historians can work
                     to fill apparent gaps in the historical record and make inferences about the
-                    past in the absence of direct evidence. We don’t know if the first <hi rend="italic">FRUS</hi> compilers made excisions from documents on the basis
+                    past in the absence of direct evidence. We don’t know if the first <hi
+                        rend="italic">FRUS</hi> compilers made excisions from documents on the basis
                     of formal instructions or their own judgments. We can’t state conclusively why
                     specific material was excised from the 1861 volume. Instead, we have to make
                     intelligent inferences after examining surviving primary sources.</p>
-                <p>One of the themes explored in researching the history of <hi rend="italic">FRUS</hi> is the evolution of how the series was produced over time.
+                <p>One of the themes explored in researching the history of <hi rend="italic"
+                        >FRUS</hi> is the evolution of how the series was produced over time.
                     Informing the public about what type of material has been excised and why
                     represents a clear shift in policy from the nineteenth century to today. We have
                     gone from a series of asterisks to a formal, explicit, rigorous standard which

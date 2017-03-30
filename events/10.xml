@@ -1,4 +1,4 @@
-<event>
+﻿<event>
     <id>10</id>
     <title>Second conference of the <em>FRUS</em> Special Conference Series</title>
     <created>2012-01-24</created>
@@ -14,8 +14,8 @@
     <event-date>2012-03-02</event-date>
     <teaser>
         <div xmlns="http://www.w3.org/1999/xhtml">
-            <a href="/historicaldocuments/frus-history/events#williams-college">“National Security Policy and
-                SALT I, 1969-1972”</a>
+            <a href="/historicaldocuments/frus-history/events#williams-college">“National Security
+                Policy and SALT I, 1969-1972”</a>
             <br/> (Second conference of the <em>FRUS</em> Special Conference Series)</div>
     </teaser>
     <full-description>
@@ -39,11 +39,18 @@
                 Series to highlight recently-published FRUS volumes.</p>
             <p>On March 2nd and 3rd, Williams College and the Office of the Historian hosted a
                 conference focused on the <em>FRUS</em> volumes dealing with <em>National Security
-                    Policy, 1969-1972</em> and <em>SALT I, 1969-1972</em>. The conference took
-                place at Williams College in Williamstown, MA. The text of both <em>National
-                    Security Policy, 1969-1972</em> and <em>SALT I, 1969-1972</em> is available
-                online.</p>
-                <p><span style="color: #911625; text-transform: uppercase;">Update</span>: Video of the event is now available on YouTube: <a href="http://www.youtube.com/watch?v=L2xLZMk-390">Deterrence in an Era of Parity Panel</a>, <a href="http://www.youtube.com/watch?v=E1dJY3GLnRw">Problems of Perception Panel</a>, <a href="http://www.youtube.com/watch?v=qjzm6zbWrkw">Compiler and Participant Perspectives Panel</a>, <a href="http://www.youtube.com/watch?v=5hAbKyG4j0Y">Evolving Constraints Panel</a>, and <a href="http://www.youtube.com/watch?v=G7fUwdcyxDU">Jeremi Suri's Closing Keynote Address</a>.</p>
+                    Policy, 1969-1972</em> and <em>SALT I, 1969-1972</em>. The conference took place
+                at Williams College in Williamstown, MA. The text of both <em>National Security
+                    Policy, 1969-1972</em> and <em>SALT I, 1969-1972</em> is available online.</p>
+            <p><span style="color: #911625; text-transform: uppercase;">Update</span>: Video of the
+                event is now available on YouTube: <a
+                    href="http://www.youtube.com/watch?v=L2xLZMk-390">Deterrence in an Era of Parity
+                    Panel</a>, <a href="http://www.youtube.com/watch?v=E1dJY3GLnRw">Problems of
+                    Perception Panel</a>, <a href="http://www.youtube.com/watch?v=qjzm6zbWrkw"
+                    >Compiler and Participant Perspectives Panel</a>, <a
+                    href="http://www.youtube.com/watch?v=5hAbKyG4j0Y">Evolving Constraints
+                Panel</a>, and <a href="http://www.youtube.com/watch?v=G7fUwdcyxDU">Jeremi Suri's
+                    Closing Keynote Address</a>.</p>
         </div>
     </full-description>
 </event>
