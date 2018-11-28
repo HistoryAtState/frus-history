@@ -5,7 +5,7 @@
     <icon>
         <width>150px</width>
         <height>96px</height>
-        <url>//s3.amazonaws.com/static.history.state.gov/frus150/nypl-logo.jpg</url>
+        <url>https://static.history.state.gov/frus150/nypl-logo.jpg</url>
         <alttext>NYPL Logo</alttext>
     </icon>
     <link>/historicaldocuments/frus-history/events#nypl</link>
@@ -33,7 +33,7 @@
                 href="http://www.nypl.org/events/classes/2011/10/12/new-perspectives-postcolonial-history-workshop-using-foreign-relations-uni?nref=62452"
                 title="Link to NYPL event info">
                 <img width="150px" height="96px" style="border:1px black solid"
-                    src="//s3.amazonaws.com/static.history.state.gov/frus150/nypl-logo.jpg"
+                    src="https://static.history.state.gov/frus150/nypl-logo.jpg"
                     alt="NYPL Logo"/>
             </a>
             <h3>

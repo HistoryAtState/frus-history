@@ -7,7 +7,7 @@
     <icon>
         <width>150px</width>
         <height>36px</height>
-        <url>//s3.amazonaws.com/static.history.state.gov/frus150/shfg-logo.jpg</url>
+        <url>https://static.history.state.gov/frus150/shfg-logo.jpg</url>
         <alttext>SHFG Logo</alttext>
     </icon>
     <link>/historicaldocuments/frus-history/events#shfg-crisis-change</link>
@@ -27,7 +27,7 @@
                 href="http://shfg.org/shfg/feature-archive/conference-registration/"
                 title="Link to SHFG Annual Meeting homepage">
                 <img width="150px" height="36px" style="border:1px black solid"
-                    src="//s3.amazonaws.com/static.history.state.gov/frus150/shfg-logo.jpg"
+                    src="https://static.history.state.gov/frus150/shfg-logo.jpg"
                     alt="SHFG Logo"/>
             </a>
             <h3>

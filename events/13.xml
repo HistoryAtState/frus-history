@@ -7,7 +7,7 @@
     <icon>
         <width>150px</width>
         <height>150px</height>
-        <url>//s3.amazonaws.com/static.history.state.gov/frus150/wilson-center-logo.png</url>
+        <url>https://static.history.state.gov/frus150/wilson-center-logo.png</url>
         <alttext>Still image of Wilson Center Logo</alttext>
     </icon>
     <link>/historicaldocuments/frus-history/events#whs-2014-past-future-frus</link>
@@ -26,7 +26,7 @@
                 href="http://nationalhistorycenter.org/january-27-stephen-p-randolph-on-the-past-and-future-of-the-foreign-relations-series/"
                 title="Link to National History Center event page">
                 <img width="150px" height="150px" style="border:1px black solid"
-                    src="//s3.amazonaws.com/static.history.state.gov/frus150/wilson-center-logo.png"
+                    src="https://static.history.state.gov/frus150/wilson-center-logo.png"
                     alt="Wilson Center Logo"/>
             </a>
             <h3>

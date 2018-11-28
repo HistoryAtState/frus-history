@@ -7,7 +7,7 @@
     <icon>
         <width>150px</width>
         <height>150px</height>
-        <url>//s3.amazonaws.com/static.history.state.gov/frus150/aha-2014-logo.png</url>
+        <url>https://static.history.state.gov/frus150/aha-2014-logo.png</url>
         <alttext>Still image of AHA 2014 Annual Meeting Logo</alttext>
     </icon>
     <link>/historicaldocuments/frus-history/events#aha-2014-frus-responsible-transparency</link>
@@ -28,7 +28,7 @@
                 href="https://aha.confex.com/aha/2014/webprogram/Session10069.html"
                 title="Link to AHA Annual Meeting homepage">
                 <img width="150px" height="150px" style="border:1px black solid"
-                    src="//s3.amazonaws.com/static.history.state.gov/frus150/aha-2014-logo.png"
+                    src="https://static.history.state.gov/frus150/aha-2014-logo.png"
                     alt="AHA 2014 Annual Meeting Logo"/>
             </a>
             <h3>

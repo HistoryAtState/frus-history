@@ -5,7 +5,7 @@
     <icon>
         <width>150px</width>
         <height>149px</height>
-        <url>//s3.amazonaws.com/static.history.state.gov/frus150/williams-college-logo.jpg</url>
+        <url>https://static.history.state.gov/frus150/williams-college-logo.jpg</url>
         <alttext>Williams College Logo</alttext>
     </icon>
     <link>/historicaldocuments/frus-history/events#williams-college</link>
@@ -24,7 +24,7 @@
                 href="/conferences/2012-national-security-policy-salt"
                 title="Link to conference info">
                 <img width="150px" height="149px" style="border:1px black solid"
-                    src="//s3.amazonaws.com/static.history.state.gov/frus150/williams-college-logo.jpg"
+                    src="https://static.history.state.gov/frus150/williams-college-logo.jpg"
                     alt="Williams College Logo"/>
             </a>
             <h3>

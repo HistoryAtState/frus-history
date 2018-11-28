@@ -5,7 +5,7 @@
     <icon>
         <width>150px</width>
         <height>114px</height>
-        <url>//s3.amazonaws.com/static.history.state.gov/frus150/wilson-center-logo.png</url>
+        <url>https://static.history.state.gov/frus150/wilson-center-logo.png</url>
         <alttext>Wilson Center Logo</alttext>
     </icon>
     <link>/historicaldocuments/frus-history/events#wilson-center-diplomatic-secrecy</link>
@@ -24,7 +24,7 @@
                 href="http://www.wilsoncenter.org/event/diplomatic-secrecy-the-19th-century"
                 title="Link to Wilson Center event info">
                 <img width="150px" height="114px" style="border:1px black solid"
-                    src="//s3.amazonaws.com/static.history.state.gov/frus150/wilson-center-logo.png"
+                    src="https://static.history.state.gov/frus150/wilson-center-logo.png"
                     alt="Wilson Center Logo"/>
             </a>
             <h3>
