@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Letter From Charles Flowerree to Stephen Gomersall, January
+                    1983</title>
+                <title type="short">Flowerree to Gomersall, 1983</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2019-06-20">June 20, 2019</date>
+                <date type="created" when="1983-01-11">January 11, 1983</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1983-01-11-flowerree-to-gomersall.pdf">PDF</ref>, 99 KB, 1p.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: National Archives and Records Administration, Record Group
+                    59, Entry UD–WX–595: Bureau of Public Affairs, Office of the Historian, FRUS
+                    Clearance Files, 1945–1957 (96 D 068), Box 6, FRUS, 1952–1954, Vol. X, Iran
+                    (clearance folder). Posted from an unsigned copy.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 10, <ref
+                    target="../chapter-10#fn81">Footnote 81</ref></p>
+            <div type="document">
+                <head>Letter From Charles Flowerree (Director of Systematic Review) to Stephen
+                    Gomersall (First Secretary of the British Embassy)</head>
+                <dateline>January 11, 1983</dateline>
+                <p>Dear Mr. Gomersall:</p>
+                <p>Last year you very kindly undertook to obtain your Government’s views on a
+                    collection of documents pertaining to the Buraimi dispute of 1953-1955. Now we
+                    are working on another series of documents dealing with the Iranian crisis of
+                    1951 to 1954. Because of the intimacy of US-UK liaison in this affair and
+                    because of the possible sensitivity of some aspects of it from the British point
+                    of view, we would like to have the UK reaction before proceeding to publication.
+                    Therefore, we would like to follow the same procedure as was followed in the
+                    case of Buraimi.</p>
+                <p>The attached collection of 139 documents includes a number of British documents
+                    or extracts from them. Other report US-UK conversations or deal with subjects of
+                    interest to the UK. In a number of cases certain paragraphs or clauses have been
+                    bracketed and marked for excision. This means that from our point of view the
+                    document would be releasable after the indicated excisions have been made. In a
+                    very few cases, a document is marked “Deny”. This means that the document will
+                    not be published and it is included in this collection only for your information
+                    and as a means of suggesting the margins of our criteria. One document, not
+                    included, is a British memorandum of September 2, 1953, entitled “Persia, Review
+                    of the Recent Crisis.” This document you have already indicated to me is
+                    releasable with indicated excisions.</p>
+                <p>The documents are serially numbered in the upper left hand corner on the first
+                    page of each one. I have enclosed a list of documents by number. I would
+                    appreciate it if you would obtain the views of your Government regarding any
+                    parts of these documents which it considers sensitive. If you require any
+                    further clarification please let me know.</p>
+                <p>Sincerely,</p>
+                <p>Charles C. Flowerree</p>
+            </div>
+        </body>
+    </text>
+</TEI>

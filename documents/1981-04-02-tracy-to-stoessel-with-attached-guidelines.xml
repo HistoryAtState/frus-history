@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Briefing Memorandum From Thomas Tracy Through Richard Kennedy
+                    to Walter Stoessel with Attached Iran Guidelines, April 1981</title>
+                <title type="short">Tracy to Stoessel, 1981</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2019-06-20">June 20, 2019</date>
+                <date type="created" when="1981-04-02">April 2, 1981</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1981-04-02-tracy-to-stoessel-with-attached-guidelines.pdf"
+                    >PDF</ref>, 183 KB, 5pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: Department of State, Central Foreign Policy Files, 1981
+                    P-Reels, P810069-1517 through 1521. Tracy’s memorandum to Stoessel received
+                    concurrences from Peter Constable (NEA) and, in draft, from JoAnn Dolan (L/ECP),
+                    James Roche (S/P), Raymond Seitz (S/S), and Elijah Kelly (S/S-I). The document
+                    bears a stamp indicating that Amb. Stoessel saw the memorandum on April 4. The
+                    attached declassification review guidelines were drafted by Henry Precht
+                    (NEA/IRN) and George Sherman (NEA/P).</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 10, <ref
+                    target="../chapter-10#fn74">Footnote 74</ref></p>
+            <div type="document" xml:id="memorandum">
+                <head>Briefing Memorandum From Thomas Tracy (Assistant Secretary of State for
+                    Administration) Through Richard Kennedy (Under Secretary of State for
+                    Management) to Walter Stoessel (Under Secretary of State for Political
+                    Affairs)</head>
+                <dateline>April 2, 1981</dateline>
+                <p>Subject: Freedom of Information Requests on Iran</p>
+                <p>The past two years, and especially the hostage period, have presented unique
+                    problems with regard to FOI requests relating to Iran. This was one of the
+                    several aspects of the Iran situation in which Mr. Newsom was directly involved.
+                    Clearly, some of the political and strategic elements of the problem continue.
+                    Given the interest of your office in the past, S/S has suggested that we provide
+                    the following brief summary of where we stand and how we got there; and to seek
+                    your approval to proceed in a more normal fashion now that our people are
+                    free.</p>
+                <p>Beginning with the first overt action against Embassy Tehran in February 1979,
+                    the need was recognized for special care in releasing information relating to
+                    Iran in response to FOI and similar public requests. At the same time there was
+                    an upsurge in the number of such requests. Many came from journalists. Others
+                    came from American companies contemplating litigation or claims against the
+                    Iranian Government. Much information on Iran, including some which originated
+                    many years earlier, was highly sensitive in these circumstances, reflecting, for
+                    example, close US relations with the late Shah and his officials.</p>
+                <p>After the seizure of the Embassy personnel as hostages, we in practice stopped
+                    releasing any information on Iran through the FOI process. We reasoned that
+                    almost any official acknowledgement of past US actions in or relating to Iran
+                    might in some way be twisted or distorted to the disadvantage of the hostages.
+                    FOI requesters affected by this practice were informally notified and appeared
+                    to accept the rationale.</p>
+                <p>The only real exception concerned a request from <hi rend="italic">Newsweek</hi>.
+                    After the appearance of a series of <hi rend="italic">New Yorker</hi> articles
+                    which indicated that the author had privileged access to Department information,
+                        <hi rend="italic">Newsweek</hi> threatened to take the Department to court
+                    if its pending FOI request was not processed.</p>
+                <p>The request concerned the decision to admit that Shah to the United States. CDC,
+                    working with L, S/S, and the Iran Working Group, reviewed relevant documents,
+                    including Mr. Newsom’s files. With Mr. Christopher’s approval, we released a
+                    small number of documents whose contents were already in the public domain.</p>
+                <p>Since the release of the hostages, NEA, CDC, and L have agreed that the
+                    Department must move on the backlog of over 50 Iran FOI cases. These include
+                    requests concerning the negotiations leading to the release of the hostages
+                    which will incorporate Mr. Christopher’s files; requests for extensive
+                    historical material on U.S. relations with Iran compiled by S/P for the White
+                    House in September (the “White Paper”), and background documents relevant
+                    thereto; and requests relating to sizeable claims by American corporations
+                    against Iran. Some of these last will almost surely result in law suits for
+                    reasons other than our responses to the requester. They also include <hi
+                        rend="italic">Newsweek’s</hi> appeal of the documents denied in its request
+                    mentioned above. (The <hi rend="italic">New York Times</hi> has a similar
+                    request on record but has not pressed us.)</p>
+                <p>On the advice of L, CDC has started reviewing these pending cases, beginning with
+                    the earliest. New guidance was sought and received from NEA (copy attached).
+                    Retired FSO Charles Naas, now on CDC rolls, heads the Iran FOI review team. He
+                    was nominated by NEA for this responsibility and has extensive experience in
+                    Iran affairs.</p>
+                <p>We propose to follow the new NEA guidelines but in every other respect to review
+                    FOI cases on Iran henceforth as we do all other FOI requests, which will include
+                    consulting with NEA whenever we are in doubt. This will include starting to
+                    review two <hi rend="italic">FRUS</hi> volumes (1951 and 1952-54) on Iran which
+                    have been held in abeyance. NEA, L, and S/P agree.</p>
+            </div>
+            <div type="document" xml:id="attachment">
+                <head>Memorandum From Peter Constable (Deputy Assistant Secretary of State for Near
+                    Eastern Affairs) to Clayton McManaway (Deputy Assistant Secretary of State for
+                    Classification/Declassification Center)</head>
+                <dateline>February 10, 1981</dateline>
+                <p>Subject: Iran and Freedom of Information</p>
+                <p>Ref: Your Memorandum of Feb. 3, 1981</p>
+                <p>We agree with your memorandum that with the release of the hostages we should take
+                    a fresh look at Iran FOI material. While we can obviously be more liberal than
+                    our previously very restrictive guidelines, there remain areas of great
+                    sensitivity. We hope that your staff can continue to work closely with NEA/IRN
+                    in those sensitive areas.</p>
+                <p>We suggest that recently retired FSO-1 Charles W. Naas be assigned prime
+                    responsibility for reviewing all Iran materials. Mr. Naas was deeply involved in
+                    Iranian affairs as Country Director and DCM from summer 1974 to summer 1979.</p>
+                <p>In our view there are four general guidelines that apply to all Iran
+                    materials:</p>
+                <list rend="bulleted">
+                    <item>No release of documents that would reveal intelligence sources, methods,
+                        plans, or operations;</item>
+                    <item>No release of material that would place in personal jeopardy any American
+                        or any friendly Iranian or other national;</item>
+                    <item>A willingness to release documents that illustrate the broad outlines of
+                        US policy towards Iran at the particular time;</item>
+                    <item>No release of documents that would seriously complicate efforts to create
+                        a new relationship with Iran in the future. We would anticipate that in this
+                        crucial area, we would exempt from release material which would compromise
+                        the conduct of national defense or foreign policy, as spelled out in FOI
+                        regulations.</item>
+                </list>
+                <p>In addition, we would like to suggest the following considerations for the
+                    specific periods under review:</p>
+                <p><hi rend="underline">1951-1955 Documents for <hi rend="italic">FRUS</hi> and
+                        FOI</hi> - A simplified and distorted version of the events of this period
+                    has become political dogma in Iran and elsewhere. The release of the full
+                    diplomatic record would help to provide a better balance in accounts of our
+                    role. For that balance, however, it will be essential to cover our dealings with
+                    the British. To exclude the story of US-British cooperation on Iran will not
+                    give a true picture of US decisions. We suggest that the Department consult with
+                    the FCO to work out practical arrangements for possible release of documents
+                    from this record.</p>
+                <p><hi rend="underline">1956-February 1979</hi> - Within the general guidelines, we
+                    believe we could release much economic, consular, and routine political
+                    reporting. There would seem to be very few documents of this sort from this
+                    period what could not be released in connection with litigation, but that, as on
+                    other subjects, would be decided within the guidelines noted above.</p>
+                <p><hi rend="underline">February 1979-November 1979</hi> - Many of the documents
+                    held in Embassy Tehran files prior to November 4, 1979, can be considered
+                    compromised. Through checking this carefully and keeping in mind the general
+                    guidelines, many of these documents could be released.</p>
+                <p><hi rend="underline">November 1979-January 1981</hi> - Much, but by no means all,
+                    of the diplomatic record for this period has been discussed. We recommend
+                    release of documents that conform to the general guidelines and that might help
+                    to clarify public understanding of the diplomatic activity to free the
+                    hostages.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

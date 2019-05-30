@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Memorandum From William Slany to Henry Bardach, January
+                    1985</title>
+                <title type="short">Slany to Bardach, 1985</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2019-06-20">June 20, 2019</date>
+                <date type="created" when="1985-01-11">January 11, 1985</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1985-01-11-slany-to-bardach.pdf">PDF</ref>, 33 KB, 1p.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Source: National Archives and Records Administration, Record Group
+                    59, Entry UD–WX–595: Bureau of Public Affairs, Office of the Historian, FRUS
+                    Clearance Files, 1945–1957 (96 D 068), Box 6, FRUS, 1952–1954, Vol. X, Iran
+                    (clearance folder). Drafted by John Glennon. Attachments are not
+                posted.</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 10, <ref
+                    target="../chapter-10#fn87">Footnote 87</ref></p>
+            <div type="document">
+                <head>Memorandum From William Slany (Director of the Historian’s Office) to Henry
+                    Bardach (Director of Systematic Review)</head>
+                <dateline>January 11, 1985</dateline>
+                <p>Subject: Declassification of <hi rend="italic">FRUS</hi>, 1952-1954, Volume X,
+                    Iran (1951-1954)</p>
+                <p>Ref: <ref target="1984-08-10-bardach-to-slany">Your Memo of August 10, 1984</ref></p>
+                <p>This Office has carefully considered the contents of your
+                    referenced memo and is prepared to agree with the results of the
+                    CDC review with the exception of the following two documents
+                    listed for denial of declassification on p. 2 of your memo.</p>
+                <list>
+                    <item>411-412 TAU. Memo of Telcon between JFDulles and Allen
+                        Dulles, July 24, 1953.</item>
+                    <item>413 TAU. Memo of Telcon between JFDulles and
+                        Wisner (CIA), July 25, 1953.</item>
+                </list>
+                <p>As the attached copies indicate, these two documents were
+                    declassified some time ago and were published in 1980 on microfilm
+                    by University Publications of America. They have also been available
+                    to the general public for research at the Eisenhower Library
+                    for a like period of time. In view of this, I ask for restoration
+                    of the full text of both documents to the volume.</p>
+                <p>I understand that your response will constitute agreement
+                    between our two offices on Department of State clearance and that
+                    we await other agency clearances including NSC.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Letter From William Slany to Kenneth McDonald, August
+                    1990</title>
+                <title type="short">Slany to McDonald, 1990</title>
+            </titleStmt>
+            <publicationStmt>
+                <date type="posted" when="2019-06-20">June 20, 2019</date>
+                <date type="created" when="1990-08-17">August 17, 1990</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A scan of the original document is available for download (<ref
+                        target="1990-08-17-slany-to-macdonald.pdf">PDF</ref>, 151 KB, 6pp.)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="italic">Department of State, Bureau of Public Affairs, Office of the
+                    Historian, Advisory Committee on Historical Diplomatic Documentation Files,
+                    1957-1990 (Lot File 96 D 292), Box 6, Advisory Committee-1990-Correspondence
+                    &amp; Memos. Posted from a copy signed “Bill.”</hi></p>
+            <p>Cited in <hi rend="italic">Toward “Thorough, Accurate, and Reliable”: A History of
+                    the Foreign Relations of the United States Series</hi>, Chapter 10, <ref
+                    target="../chapter-10#fn88">Footnotes 88</ref> and <ref
+                    target="../chapter-10#fn90">90</ref></p>
+            <div type="document">
+                <head>Letter From William Slany (Director, Historian’s Office) to Kenneth McDonald
+                    (Historian, CIA)</head>
+                <dateline>August 17, 1990</dateline>
+                <p>Dear Ken:</p>
+                <p>You and I have talked on several occasions recently about the nature of the
+                    future relationship between the Department of State’s historians and those of
+                    your agency. We have also exchanged information on methods used by Department
+                    historians to document the relationship between intelligence and foreign policy
+                    for published volumes of the <hi rend="italic">Foreign Relations</hi> series.
+                        <hi rend="italic">Foreign Relations</hi>, 1952-1954, volume X Iran,
+                    1951-1954, published last year and widely debated recently in the academic
+                    arena, is an example of such a volume.</p>
+                <p>Let me briefly outline the circumstances of preparing the Iran volume. This
+                    volume is one of the most serious victims of the changing sensitivities in
+                    American foreign policy. The documentation included in the volume was originally
+                    compiled as (a) a separate 1951 compilation on Iran intended for inclusion in a
+                    larger 1951 volume and (b) a 1952-1954 volume planned as part of the larger
+                    triennium of 16 volumes. The original manuscripts were prepared between 14 and
+                    16 years ago during the last major wave of accelerated compilation by the
+                    Department historians. Like so many of the volumes compiled in the mid and late
+                    1970s and early 1980s, they made little progress in the declassification process
+                    during the early 1980s.</p>
+                <p>The 1951 compilation on Iran was eventually combined with the 1952-1954 volume on
+                    Iran to form a unique (for the <hi rend="italic">Foreign Relations</hi> series)
+                    4-year volume covering the years 1951-1954. This volume became a victim of the
+                    special nature of U.S. policy toward Iran during the hostage crisis. By 1985, it
+                    was one of more than 40 volumes in the slow moving declassification pipeline. It
+                    was in fact not in the pipeline, but on the shelf pending some significant
+                    change in the difficult relationship between the United States and Iran.</p>
+                <p>The documentation on Iran for the 1951-1954 period was compiled on the basis of
+                    these guidelines for <hi rend="italic">Foreign Relations</hi> documentary
+                    historians that were operative 10 years ago. The documenting of intelligence
+                    activities and covert intelligence operations was considered a possibility and
+                    was actively pursued, but no access to the records of the CIA was accorded to
+                    Department historians. During the preparation of the compilations on Iran in the
+                    mid-1970s, the then CIA Historian provided Department historians with 37 pages
+                    of classified agency documents that effectively summarized events attending the
+                    overthrow of Prime Minister Mosadeq. These, together with some scattered records
+                    found in various State Department files, were included in the manuscript for the
+                    1951-1954 volume.</p>
+                <p>Department historians visited with CIA in the late 1970s to explore and develop
+                    agreed terms of reference regarding the official disclosure policy for
+                    intelligence documents. Agency officials were not able to offer any historians’
+                    access to Agency historical records, and they explained the prohibitions to the
+                    acknowledgement of intelligence activities in foreign countries, even when
+                    previously disclosed unofficially by ex-officials or unintentionally included in
+                    government documents and publications. This was at a time that the agency had no
+                    historians.</p>
+                <p>No high-level State Department appeal was made to challenge these CIA historical
+                    access policies. The special overtones of U.S. relations with Iran during the
+                    1980s not only brought about the extended suspension of declassification action
+                    on the proposed 1951-1954 volume, but cast a pall over further research and
+                    expansion or revision of the existing manuscript despite some significant
+                    unofficial disclosures during the 1980s about the overthrow of the Mosadeq
+                    regime in 1953.</p>
+                <p>Once a decision was reached in the late 1980s to go forward with the publication
+                    of the Iran volume, declassification proceeded briskly. Most documents on covert
+                    operations in Iran that had been found in Department files or provided by the
+                    CIA historian were denied declassification when referred to the CIA.</p>
+                <p>The question of whether to go forward with the publication of the manuscript
+                    despite the exclusion of most of the evidence of U.S. involvement in or
+                    knowledge of the overthrow of the Mosadeq regime was discussed in the Department
+                    in 1988. Six principal considerations were identified:</p>
+                <list>
+                    <item>1. The decision to allow the Iran volume to be published was perhaps a
+                        short-term one and subject to reversal at any moment; it was necessary to
+                        act swiftly to publish a volume that included an important body of documents
+                        on Iran-U.S. relations.</item>
+                    <item>2. Although CIA denied declassification of several critical documents, a
+                        few significant allusions remained in the cleared manuscript, and all
+                        scholars interested in the Iran area already shared the conventional wisdom
+                        about the U.S. role in 1953.</item>
+                    <item>3. Without access to the complete CIA historical record, it was impossible
+                        for Department historians to decide whether the omission of the handful of
+                        documents denied declassification by the CIA distorted actual U.S. policies
+                        in 1953.</item>
+                    <item>4. Agency declassification policies and attitudes toward acknowledging
+                        covert activities had not changed at all during the decade. No additional or
+                        new access or disclosure was possible.</item>
+                    <item>5. One strongly held view among Department officials was that a challenge
+                        to Agency declassification policies would negatively impact upon other
+                        appeals of <hi rend="italic">Foreign Relations</hi> volumes more likely to
+                        be resolved in a positive manner.</item>
+                    <item>6. CIA was not alone in refusing to agree to the disclosure of documents
+                        in the Iran volume. A foreign government objected to the publication of its
+                        documents in the volume, and declassification of other documents was
+                        withheld by the Department itself.</item>
+                </list>
+                <p>Under the circumstances the Department historians concluded that the Iran volume
+                    should be published as it was before anything happened to close the “window of
+                    opportunity”.</p>
+                <p>The volume was duly released in 1989. But not without misgivings among the
+                    historians of the Department. With these misgivings in mind, I invited Prof.
+                    Bruce Kuniholm to review the volume for the Department’s Advisory Committee on
+                    Historical Diplomatic Documentation at its November 1989 meeting. Prof. Kuniholm
+                    was invited because he was a scholar-expert on the area and also, perhaps just
+                    as importantly, he had served in an important State Department position during
+                    the Iran hostage crisis of 1979-1980 and was familiar with the historical
+                    documentary record on Iran.</p>
+                <p>You are already aware of Prof. Kuniholm’s negative evaluation of the Iran volume.
+                    He took it upon himself to publish in the spring 1990 AHA <hi rend="italic"
+                        >Perspectives</hi>, a version of the review that he gave the Advisory
+                    Committee privately in November 1989. He did not ask me about it beforehand or
+                    afterward. I never anticipated that he would “go public” with his private
+                    analysis for the Committee and the Department. Prof. Cohen’s resignation from
+                    the Advisory Committee in February and Prof. Kuniholm’s publication of his
+                    analysis in March effectively took the issue out of the Advisory Committee
+                    channel before we here in the Department could do anything about the Iran
+                    volume. It is almost ironic that the Iran volume that was a prisoner of the
+                    state of U.S.-Iran relations in the 1980s became a prisoner again in 1990, this
+                    time of the dispute sparked by Warren Cohen’s resignation between the scholarly
+                    community and the government. In any case the Advisory Committee won’t be able
+                    to make its own evaluation of the issue before its annual meeting in November,
+                    and may not even have time to take it up then.</p>
+                <p>For my part I see a few possible courses of action to deal with the widely
+                    perceived defects of the Iran volume:</p>
+                <list>
+                    <item>1. We in the Historian’s Office could publish an article describing the
+                        circumstances and premises attending the preparation of the volume. The
+                        article, which would include much of the information cited above, could be
+                        published in several historical journals, including those of organizations
+                        represented on the Advisory Committee.</item>
+                    <item>2. The Department could be asked to revise its longstanding policies and
+                        declassify some of its own documentation on the issues not accurately or
+                        adequately documented in the 1951-1954 Iran volume.</item>
+                    <item>3. The Department and your Agency could devise a joint statement on <hi
+                            rend="italic">Foreign Relations</hi> access and declassification
+                        guidelines for intelligence documentation. Such a statement could be
+                        published separately and/or included in the prefaces of future volumes of
+                        the <hi rend="italic">Foreign Relations</hi> series.</item>
+                </list>
+                <p>The proper response to academic user concern about the <hi rend="italic">Foreign
+                        Relations</hi> volume on Iran is one aspect of the larger question of how,
+                    in the future, to assure the comprehensiveness and accuracy of the historical
+                    documentation published by the Department of State. Among the proposals that are
+                    being considered within the Department is a request to agencies, including your
+                    own, to work closely with Department historians in both the planning and the
+                    access stages of the preparation of future <hi rend="italic">Foreign
+                        Relations</hi> volumes. In particular this would mean that other agency
+                    historians could, during the planning of particular volumes or the designing of
+                    the overall scope of the series, alert Department compilers/editors to the
+                    existence of issues or bodies of documents that deserve special attention.</p>
+                <p>As an alternative to the very difficult task of working out access for Department
+                    historians at some of the more security-conscious agencies such as your own,
+                    historians of these agencies could be charged with responsibility for collecting
+                    from their agency files those documents that deserve consideration for inclusion
+                    in <hi rend="italic">Foreign Relations</hi> volumes. Such a selection would be
+                    based, hopefully, on some constructive interplay between the agency historians
+                    and the Department Historian. Finally, the agency historians would be expected
+                    to help serve as advocates with agency declassifiers in securing a timely and
+                    favorable declassification review of the documentation finally selected for <hi
+                        rend="italic">Foreign Relations</hi> volumes.</p>
+                <p>The preceding proposal is not yet Department policy, but may become so in
+                    September. There is a long way to go until such an idea is coordinated among all
+                    interested agencies. Some version of such a proposal may already have manifested
+                    itself in revisions of the proposed Congressional legislation for the <hi
+                        rend="italic">Foreign Relations</hi> series. You and I may wish to work out
+                    ourselves some agreed language that would meet the need for greater access for
+                        <hi rend="italic">Foreign Relations</hi> historians and the realistic
+                    possibilities for what you and your agency could do in terms of expanded
+                    disclosure of historical information.</p>
+                <p>I must not conclude this letter without reminding you of the great strides you
+                    and I and our staffs have made in developing strong cooperation ties. Access for
+                    Department historians to intelligence documentation has steadily expanded and
+                    been facilitated, since you and your staff have taken up your tasks. I believe
+                    we both are particularly pleased with the progress made by Tom Thorne, the
+                    former Deputy Director of the Department’s Bureau of Intelligence Research, in
+                    completing the projected <hi rend="italic">Foreign Relations</hi> volume on
+                    intelligence and foreign policy in the 1945-1951 period. The excellent support
+                    Tom Thorne has received in compiling agency documentation augers well for the
+                    future.</p>
+                <p>I hope this has been helpful to you.</p>
+                <p>Yours Truly,</p>
+                <p>William Z. Slany</p>
+            </div>
+        </body>
+    </text>
+</TEI>
