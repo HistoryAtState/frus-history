@@ -4,7 +4,7 @@
         <name>frus-history</name>
         <url>http://history.state.gov/ns/data/frus-history</url>
         <title>History of the Foreign Relations Series (data)</title>
-        <version>0.3</version>
+        <version>0.4</version>
     </app>
     <trigger>
         <provider-url>
