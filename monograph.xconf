@@ -1,9 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <collection xmlns="http://exist-db.org/collection-config/1.0">
     <index xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
         <lucene>
             <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer"/>
-            <text qname="tei:div"/>
+            <text qname="tei:div" index="no">
+                <!-- start required facets and fields -->
+                <facet dimension="hsg-category" expression="'frus-history'"/>
+                <facet dimension="hsg-publication" expression="'frus-history-monograph'"/>
+                <field name="hsg-fulltext" if="@type = ('section', 'chapter')" store="no"/>
+                <field name="hsg-url" expression="'/historicaldocuments/' || substring-before(util:document-name(.), '.xml') || '/' || @xml:id"/>
+                <!-- end required facets and fields -->
+            </text>
         </lucene>
     </index>
 </collection>
