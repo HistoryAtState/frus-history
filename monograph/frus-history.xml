@@ -1,4 +1,4 @@
-﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="frus-history">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -12,6 +12,50 @@
                 <pubPlace>Washington, D.C.</pubPlace>
                 <date>2015</date>
             </publicationStmt>
+            <notesStmt>
+                <note>This publication contains 4 associated files. For page images, see the
+                    facsimile element.</note>
+                <relatedItem corresp="#frus-history" type="png">
+                    <bibl>
+                        <ref
+                            target="https://static.history.state.gov/frus-history/covers/frus-history.png"/>
+                        <extent>
+                            <measure quantity="114846" unit="bytes"/>
+                        </extent>
+                        <date type="publication-date" when="2020-11-25T14:22:46.000Z"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem corresp="#frus-history" type="epub">
+                    <bibl>
+                        <ref
+                            target="https://static.history.state.gov/frus-history/ebooks/frus-history.epub"/>
+                        <extent>
+                            <measure quantity="852637" unit="bytes"/>
+                        </extent>
+                        <date type="publication-date" when="2020-11-25T14:22:47.000Z"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem corresp="#frus-history" type="mobi">
+                    <bibl>
+                        <ref
+                            target="https://static.history.state.gov/frus-history/ebooks/frus-history.mobi"/>
+                        <extent>
+                            <measure quantity="1286767" unit="bytes"/>
+                        </extent>
+                        <date type="publication-date" when="2020-11-25T14:22:48.000Z"/>
+                    </bibl>
+                </relatedItem>
+                <relatedItem corresp="#frus-history" type="pdf">
+                    <bibl>
+                        <ref
+                            target="https://static.history.state.gov/frus-history/ebooks/frus-history.pdf"/>
+                        <extent>
+                            <measure quantity="2504193" unit="bytes"/>
+                        </extent>
+                        <date type="publication-date" when="2020-11-25T14:22:48.000Z"/>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
             <sourceDesc>
                 <p>Printed Edition</p>
                 <p>March 2015</p>
