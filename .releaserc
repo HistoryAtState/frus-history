@@ -2,6 +2,12 @@
   "branches": ["master"],  
   "plugins": [
     "@semantic-release/commit-analyzer",
+    {
+      "preset": "conventionalcommits",
+      "releaseRules": [
+        { "type": "", "release": "patch" }
+      ]
+    },
     "@semantic-release/release-notes-generator",
     ["@semantic-release/exec", {
       "prepareCmd": "ant -Dapp.version=${nextRelease.version}"
@@ -13,9 +19,9 @@
     ["@semantic-release/github", {
       "assets": [
         {
-          "path": "build/frus-history-*.xar", 
-          "name": "frus-history-${nextRelease.version}.xar",
-          "label": "Expath package (frus-history-${nextRelease.version}.xar)"
+          "path": "build/frus-history.xar", 
+          "name": "frus-history.xar",
+          "label": "Expath package (frus-history.xar)"
         }
       ]
     }]
