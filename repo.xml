@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo" commit-id="00eea52eb9e7614495f47c7011b086177e169942" commit-time="1681157195">
+    <description>History of the Foreign Relations Series (data)</description>
+    <author>Office of the Historian</author>
+    <website>https://history.state.gov</website>
+    <status/>
+    <license/>
+    <copyright/>
+    <type>application</type>
+    <target>frus-history</target>
+    <prepare>pre-install.xql</prepare>
+    <finish/>
+    <permissions password="" user="hsg" group="hsg" mode="rw-rw-r--"/>
+</meta>
