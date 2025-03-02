@@ -1,0 +1,1474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hac_1993-05-20">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Minutes of Historical Advisory Committee Meeting, May
+                    1993</title>
+                <title type="short">HAC Meeting Minutes, 1993</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <date type="created" when="1993-05-20">May 20, 1993</date></publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <pb n="[1]" xml:id="pg_1" facs="0001"/>
+            <div type="section"
+                xml:id="advisory-committee-on-historical-diplomatic-documentation-may-20-21--1993_1">
+                <head>ADVISORY COMMITTEE ON HISTORICAL DIPLOMATIC DOCUMENTATION MAY 20-21,
+                    1993</head>
+                <p><hi rend="underline">Committee Members</hi></p>
+                <list>
+                    <item>
+                        <p>Warren Kimball, Chairman</p></item>
+                    <item>
+                        <p>Betty Glad</p></item>
+                    <item>
+                        <p>George Herring</p></item>
+                    <item>
+                        <p>Anna Nelson</p></item>
+                    <item>
+                        <p>Bradford Perkins</p></item>
+                    <item>
+                        <p>Jane Picker</p></item>
+                    <item>
+                        <p>Emily Rosenberg</p></item>
+                    <item>
+                        <p>Arnold Taylor</p></item>
+                    <item>
+                        <p>Ann Van Camp</p></item>
+                    <item>
+                        <p>William Z. Slany, Executive Secretary</p></item>
+                </list>
+                <p><hi rend="underline">Bureau of Public Affairs</hi></p>
+                <list>
+                    <item>
+                        <p>Richard Boucher</p></item>
+                    <item>
+                        <p>Susan Povenmire</p></item>
+                </list>
+                <p><hi rend="underline">Office of the Historian</hi></p>
+                <list>
+                    <item>
+                        <p>William Z. Slany, Historian</p></item>
+                    <item>
+                        <p>Glenn W. LaFantasie</p></item>
+                    <item>
+                        <p>Rita M. Baker</p></item>
+                    <item>
+                        <p>M. Paul Claussen</p></item>
+                    <item>
+                        <p>Evan Duncan</p></item>
+                    <item>
+                        <p>W. Taylor Fain</p></item>
+                    <item>
+                        <p>Vicki E. Futscher</p></item>
+                    <item>
+                        <p>Evans M. Gerakas</p></item>
+                    <item>
+                        <p>David H. Herschler</p></item>
+                    <item>
+                        <p>Nina Howland</p></item>
+                    <item>
+                        <p>Edward C. Keefer</p></item>
+                    <item>
+                        <p>Gabrielle Mallon</p></item>
+                    <item>
+                        <p>David S. Patterson</p></item>
+                    <item>
+                        <p>Charles S. Sampson</p></item>
+                    <item>
+                        <p>Harriet D. Schwar</p></item>
+                    <item>
+                        <p>Jeffrey A. Soukup</p></item>
+                    <item>
+                        <p>Shirley T. Taylor</p></item>
+                    <item>
+                        <p>Carolyn Yee</p></item>
+                </list>
+                <p><hi rend="underline">Bureau of Administration</hi></p>
+                <list>
+                    <item>
+                        <p>Frank M. Machak, Director, IM/FPC</p></item>
+                    <item>
+                        <p>Kenneth Rossman, Chief, Records Management, IM/IS/OIS/RA/RD</p></item>
+                    <item>
+                        <p>Joe H. Chaddic, Director, IM/FPC/HDR</p></item>
+                    <item>
+                        <p>William C. Hamilton, HDR</p></item>
+                    <item>
+                        <p>Jeanne Pryor, HDR</p></item>
+                </list>
+                <p><hi rend="underline">Bureau of Intelligence and Research</hi></p>
+                <list>
+                    <item>
+                        <p>Jon Gibney, INR/IL</p></item>
+                </list>
+                <p><hi rend="underline">National Archives and Records Administration (NARA)</hi></p>
+                <list>
+                    <item>
+                        <p>John T. Fawcett, Assistant Archivist (NL)</p></item>
+                    <item>
+                        <p>Michael Kurtz, Acting Assistant Archivist (NN)</p></item>
+                    <item>
+                        <p>Jeanne Schauble, Chief, Records Declassification</p></item>
+                    <item>
+                        <p>George C. Chalou</p></item>
+                    <item>
+                        <p>David A. Langbart</p></item>
+                    <item>
+                        <p>Marvin Russell</p></item>
+                    <item>
+                        <p>Nancy Smith</p></item>
+                </list>
+                <p><hi rend="underline">Central Intelligence Agency</hi></p>
+                <list>
+                    <item>
+                        <p>J. Kenneth McDonald, Chief Historian</p></item>
+                    <item>
+                        <p>John Pereira, Chief, Historical Review Group</p></item>
+                </list>
+                <pb n="[2]" xml:id="pg_2" facs="0002"/>
+            </div>
+            <div xml:id="contents">
+                <head>TABLE OF CONTENTS</head>
+                <table cols="3">
+                    <row>
+                        <cell>1.</cell>
+                        <cell>Open Session, May 20, 9-10:15 a.m.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Discussion of the Agenda</cell>
+                        <cell>
+                            <ref target="#pg_3">3</ref></cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Report by the Historian on the Status of the <hi rend="underline"
+                                >Foreign Relations</hi> series</cell>
+                        <cell>
+                            <ref target="#pg_3">3</ref>- <ref target="#pg_6">6</ref></cell>
+                    </row>
+                    <row>
+                        <cell>2.</cell>
+                        <cell>Open Session, May 20, 10:45 a.m.-Noon</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Fawcett Report on Presidential Libraries</cell>
+                        <cell>
+                            <ref target="#pg_6">6</ref>- <ref target="#pg_9">9</ref></cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Kenneth McDonald Report on CIA Historical staff</cell>
+                        <cell>
+                            <ref target="#pg_9">9</ref></cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>General Editor’s Report (LaFantasie)</cell>
+                        <cell>
+                            <ref target="#pg_10">10</ref></cell>
+                    </row>
+                    <row>
+                        <cell>3.</cell>
+                        <cell>Luncheon Session, May 20, 12:15-1:30 p.m.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Meeting with Bennet Freeman</cell>
+                        <cell>
+                            <ref target="#pg_11">11</ref></cell>
+                    </row>
+                    <row>
+                        <cell>4.</cell>
+                        <cell>Closed Session, May 20, 1:30-3:30 p.m.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Discussion of Working Group Report on Opening of Department’s
+                            Records</cell>
+                        <cell>
+                            <ref target="#pg_12">12</ref>- <ref target="#pg_18">18</ref></cell>
+                    </row>
+                    <row>
+                        <cell>5.</cell>
+                        <cell>Closed Session, May 20, 3:45-4:30 p.m.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Subcommittee Report on Tibet, 1958-63</cell>
+                        <cell>
+                            <ref target="#pg_19">19</ref></cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Subcommittee Report on Cuba, 1961-62</cell>
+                        <cell>
+                            <ref target="#pg_20">20</ref></cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Subcommittee Report on Indonesia, 1958-1960</cell>
+                        <cell>
+                            <ref target="#pg_20">20</ref></cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Subcommittee Report on Middle East, 1961-1962</cell>
+                        <cell>
+                            <ref target="#pg_20">20</ref>- <ref target="#pg_21">21</ref></cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Discussion of Publication of CIA Documentation</cell>
+                        <cell>
+                            <ref target="#pg_21">21</ref>- <ref target="#pg_22">22</ref></cell>
+                    </row>
+                    <row>
+                        <cell>6.</cell>
+                        <cell>Closed Session, May 21, 9-10:30 a.m.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Review of Prefaces to Volumes</cell>
+                        <cell>
+                            <ref target="#pg_22">22</ref>- <ref target="#pg_25">25</ref></cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Report on INR Records (Gibney)</cell>
+                        <cell>
+                            <ref target="#pg_25">25</ref>- <ref target="#pg_27">27</ref></cell>
+                    </row>
+                    <row>
+                        <cell>7.</cell>
+                        <cell>Closed Session, May 21, 10:45 a.m.-Noon</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Report by John Pereira on CIA Declassification Activities</cell>
+                        <cell>
+                            <ref target="#pg_28">28</ref>- <ref target="#pg_30">30</ref></cell>
+                    </row>
+                    <row>
+                        <cell>8.</cell>
+                        <cell>Closed Session, May 21, 1:30-2:30 p.m.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Discussion of Gaps in Documentation for LBJ Volumes</cell>
+                        <cell>
+                            <ref target="#pg_31">31</ref></cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Discussion of PA/HO Staff Vacancies</cell>
+                        <cell>
+                            <ref target="#pg_32">32</ref></cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Discussion of Presidential Review Directive on Declassification</cell>
+                        <cell>
+                            <ref target="#pg_32">32</ref>- <ref target="#pg_34">34</ref></cell>
+                    </row>
+                </table>
+                <pb n="3" xml:id="pg_3" facs="0003"/>
+            </div>
+        </front>
+        <body>
+            <div type="section" xml:id="open-session--may-20--1993--9-10-15-a-m-_1">
+                <head><hi rend="underline">Open Session, May 20, 1993, 9-10:15 a.m.</hi></head>
+                <p>Advisory Committee chairman Warren Kimball called the meeting to order.
+                    Department Historian and Executive Secretary of the Advisory Committee William
+                    Slany informed the Committee that Deputy Assistant Secretary for Public Affairs
+                    Bennett Freeman, who had been assigned oversight for PA/HO, would join the
+                    Committee during lunch. Richard Boucher would speak to the Committee briefly
+                    during the afternoon session.</p>
+                <p>It was agreed that consideration of the minutes of the last meeting would be
+                    postponed until the revised copies were ready. Nelson suggested that the minutes
+                    should be modeled on the Gleason memos of NSC discussions, that is, that they
+                    should include the gist of the discussion without attempting to be verbatim.
+                    Kimball stated that he was satisfied with the existing format of the
+                    minutes.</p>
+                <p>In discussing the proposed agenda, Kimball noted that the time needed to discuss
+                    the Working Group Report that afternoon could not be predicted. He thought, if
+                    necessary, the subcommittee reports on <hi rend="underline">Foreign
+                        Relations</hi> declassification matters could be succint, allowing more time
+                    to discuss the Working Group report, if necessary.</p>
+                <p>Slany pointed out that the agenda did not include a separate item for the
+                    President’s Task Force on classification and declassification (PRD-29). He
+                    indicated that Freeman would likely raise the matter of the Committee’s views on
+                    this at lunch. Anna Nelson stated that the Committee needs to know specifically
+                    how the task force was formed before it could offer useful comment. It was
+                    agreed that the Committee would meet briefly in executive session just before
+                    lunch to consider the materials in their briefing package on the PRD-29 Task
+                    Force.</p>
+                <p>Slany presented the Historian’s report. He stated that PA/HO is still publishing
+                    backlog volumes for the late 1950’s. The Office will publish 12-14 volumes in
+                    1993. The schedule calls for PA/HO to publish 18 or more volumes next year in
+                    order to meet the legislative goal by 1996. The Office is on schedule.</p>
+                <p>He stated that PA is committing all the resources necessary to meet the
+                    requirements of the law. PA/HO is trying to keep costs down -- now ranging
+                    anywhere from $25 to $35 thousand per volume -- through editorial measures and
+                    less expensive arrangements with the GPO. He said that although the Office is
+                    trying to whittle down the size of the volumes, PA/HO historians try to maximize
+                    the amount of material within the smaller volumes.</p>
+                <pb n="4" xml:id="pg_4" facs="0004"/>
+                <p>Slany stated that 2 senior historians, Mabon and Noring, have recently retired or
+                    are about to retire and that PA/HO will probably lose a junior historian in the
+                    fall. David Humphrey will join the staff in July. Assistant Secretary for Public
+                    Affairs Tom Donilan and Freeman have authorized us to fill the Mabon and Noring
+                    vacancies. PA/HO will go as far afield as necessary in doing so, but Slany
+                    pointed out that filling vacancies from outside the Department was a protracted
+                    process at best. Humphrey’s security clearance had taken 8 months. Kimball
+                    observed that this could mean vacancies for as long as a year. He thought this
+                    was bound to have an impact on the work of the office. He noted that the
+                    Committee had previously expressed concern about the length of time required for
+                    clearance; he had written a letter to the Assistant Secretary for Diplomatic
+                    Security (DS) about the Humphrey clearance. For the record, the Committee
+                    expressed concern that vacancies in PA/HO be filled and security clearances be
+                    obtained expeditiously.</p>
+                <p>Slany stated that PA/HO is trying to deal with the problem of requirements for
+                    special handling and storage of highly classified documents, especially those of
+                    other agencies, which have to be kept in the PA/HO vault separate from other
+                    material being compiled. The Office is trying to arrange with DS and the other
+                    agencies for downgrading such documents or modification of the handling
+                    restrictions. George Herring stated that if this will have a long-term impact on
+                    the series, then the Committee should be concerned. Deputy Historian Glenn
+                    LaFantasie stated that DS had agreed to separating the TS documents and keeping
+                    the other material in barlocks within the PA/HO vault. Kimball asked if there
+                    wasn’t a long-term plan for new quarters. Slany replied that it was very long
+                    term. Kimball stated that PA/HO should let the Committee know immediately if it
+                    concluded the problem would have a long-term impact on the <hi rend="underline"
+                        >Foreign Relations</hi> schedule.</p>
+                <p>With regard to declassification, Slany said the Department’s declassification
+                    review, particularly for newly compiled volumes, is moving on schedule. The
+                    problem is to clear and publish the backlog of volumes compiled in the 80s, some
+                    of which were undergoing re-review by agencies. HDR and PA/HO have agreed that
+                    PA/HO will assume responsibility for declassification coordination of material
+                    outside the Department of State. Donilan has agreed to the establishment of a
+                    4-person unit whose principal task will be to coordinate and monitor
+                    declassification by other agencies. Slany thought it should be possible -- with
+                    the implementation of new procedures such as simultaneous initial review by all
+                    agencies except the NSC within the first 120 days -- to complete the
+                    declassification of a volume within a year. Kimball asked whether these were new
+                    positions. Slany replied that some came from HDR, some from PA. PA/Ho will try
+                    to take over this <pb n="5" xml:id="pg_5" facs="0005"/> responsibility next
+                    month and fill the vacancies as soon as possible, probably using detailees from
+                    within and outside the Department in the interim. Chaddic stated that for
+                    administrative reasons, this was a good time for HDR to turn over this
+                    responsibility.</p>
+                <p>Arnold Taylor inquired about the status of the Congo volume. David Herschler
+                    stated that 64 documents were sent to the NSC in April.</p>
+                <p>Kimball pointed out that according to the status of volumes list, some documents
+                    had been at other agencies for many months and in some cases, over a year. There
+                    was some discussion of the problem of the Justice Department, which has had some
+                    documents for over a year. Jeanne Pryor stated that declassification authority
+                    at Justice was fragmented and there was no one with declassification authority
+                    in the Attorney General’s office, although the Department had now appointed a
+                    Deputy Attorney General who would have this authority. Slany stated that
+                    agencies need to have centralized declassification authority. Kimball suggested
+                    that PA/HO try to get an MOU on declassification with the Justice
+                    Department.</p>
+                <p>Noting some delays in the declassification schedule at the CIA, Kimball asked if
+                    the Department was giving the agency a little leeway in the hope of obtaining
+                    more favorable declassification action. Slany noted that CIA was facing the same
+                    hurdles as the Department in responding to the transition in declassification
+                    policy. He suggested that this matter be tabled until John Pereira joins the
+                    Committee on Friday morning.</p>
+                <p>Kimball then inquired if PA/HO had as yet worked out any MOU with the Defense
+                    Department. Slany said no. He had invited Brian Kinney to come to the Committee
+                    meeting, but Kinney thought he had nothing to say of interest to the Committee.
+                    Kimball said the Committee would take the next step and send some members to DOD
+                    to do some random sampling of documents, in accordance with the legislation. The
+                    Committee agreed to proceed with a request for such access.</p>
+                <p>Slany noted the Committee’s similar concerns expressed at previous meetings about
+                    the NSA. He pointed out that PA/HO had established a new contact at that agency,
+                    and asked the Committee to defer action regarding the NSA until the next
+                    meeting.</p>
+                <p>Slany pointed out that the early transfer of Department records to NARA impinges
+                    on PA/HO’s work in that records accessioned by NARA may be inaccessible for a
+                    while. David Langbart said that Department records at Suitland are accessible to
+                    PA/HO historians. Herschler said the Presidential Correspondence lot file which
+                    was recently sent to <pb n="6" xml:id="pg_6" facs="0006"/> Main Archives was
+                    inaccessible until PA/HO got them to do something. Kimball said PA/HO should
+                    bring this to the Committee’s attention if it becomes an insoluble problem.
+                    Slany said there may be a conflict between the goal of making records available
+                    to the public and publishing the series as fast as possible. Nelson said the
+                    series should take priority.</p>
+                <p>Slany raised the question of making the Committee records available to the public
+                    as required by law. There was general agreement that the records should be
+                    retired to NARA but some uncertainty as to when this should be done. Ann Van
+                    Camp proposed that the records should be transferred after two years. Herschler
+                    stated that PA/HO had a draft disposition schedule which was under consideration
+                    with the Department’s records managers. Kimball recommended that PA/HO work out
+                    a disposition schedule in accordance with the spirit of Van Camp’s proposal.</p>
+                <p>The Committee recessed for a break.</p>
+            </div>
+            <div type="section" xml:id="open-session--may-20--10-45-noon_1">
+                <head><hi rend="underline">Open Session, May 20, 10:45-Noon</hi></head>
+                <p>When the Committee reconvened, John Fawcett, Assistant Archivist for Presidential
+                    Libraries, discussed the decision by LBJ Library Director Harry Middleton to
+                    make available to the PA/HO staff and to the public the taped meetings and
+                    telephone conversations recorded during the Johnson Administration. This was a
+                    particularly noteworthy accomplishment, according to Fawcett, given that the
+                    statutory 50-year opening date has not been reached. Fawcett stressed that
+                    Middleton had asked the Department to assist in the declassification of
+                    transcripts of the recordings used for <hi rend="underline">Foreign
+                        Relations</hi> research by PA/HO historians, and that Middleton could
+                    justify opening the materials in advance of the 50-year date on the basis of the
+                    Library and Department’s cooperative effort.</p>
+                <p>Nelson asked who reviews the tapes for privacy. Fawcett responded that the LBJ
+                    Library does, and that David Humphrey and Tina Houston of the LBJ Library staff
+                    were assigned the task of reviewing the tapes for privacy and national security
+                    concerns. Middleton himself intended to begin reviewing transcripts of telephone
+                    conversations in September.</p>
+                <p>Fawcett noted Humphrey’s imminent departure from the LBJ Library to join the
+                    PA/HO staff. Given the current staffing situation, he indicated there might be
+                    difficulties in filling the foreign policy vacancy at the Library, which could
+                    impact the process of opening the recordings and transcripts to the Department
+                    and the public. He informed the Committee of NARA’s recent requests, under the
+                    FY 94 budget, for additional staff to work at various Presidential libraries: 23
+                    Bush, 6 JFK, and <pb n="7" xml:id="pg_7" facs="0007"/> 13 positions to handle
+                    access issues associated with the Nixon materials. Fawcett said that
+                    unfortunately these requests were not approved, and were cut to 9, 0 and 0,
+                    respectively. NARA staff levels, he added, were currently at the level expected
+                    of it in three years under the Clinton Administration’s mandate to reduce
+                    government personnel. He said that such a pared-down staff will adversely affect
+                    the rate at which NARA will process and open documents.</p>
+                <p>Bradford Perkins asked how many people were assigned to work on acess and
+                    declassification of foreign policy materials at the Presidential libraries.
+                    Fawcett indicated there were 3 at the JFK Library and 3 (plus 1 State-supported
+                    detailee) at the LBJ Library. Perkins then asked about the possibility of moving
+                    existing staff from one library to another, such as from the FDR library to work
+                    on the <hi rend="underline">Foreign Relations</hi> project. Fawcett responded
+                    that NARA does not move permament staff from one library to another since it
+                    costs approximately $100,000 to move one staff person.</p>
+                <p>Fawcett stressed that Presidential records beginning with the Reagan
+                    administration are subject to the Freedom of Information Act five years after
+                    being deposited at the Presidential library. This means that the Reagan
+                    materials will be subject to the FOIA next January, and NARA anticipated a heavy
+                    number of requests.</p>
+                <p>Kimball expressed concern about NARA’s staffing problems and how they would
+                    impact on <hi rend="underline">Foreign Relations</hi>. Fawcett responded that
+                    the Nixon materials pose the biggest problem because of the very large volume of
+                    material, the cuts in NARA’s staff, and the peculiar access agreement guiding
+                    the Nixon papers. Fawcett informed the Committee that this access agreement
+                    allows Nixon himself to grant or reject access to his papers.</p>
+                <p>Betty Glad returned to the topic of the Johnson telephone tapes. She asked what
+                    the law was concerning the rights of individuals who were taped without their
+                    permission. Fawcett responded by saying that as long as one individual consents
+                    to taping the conversation the other individual in effect reliquishes his or her
+                    right to censor the tape.</p>
+                <p>Fawcett reminded the Committee that these recordings include conversations with
+                    individuals who are currently in Congress, and that other recorded individuals
+                    are still alive. Thus, the issue of privacy was a crucial one, especially
+                    because these recordings will be available before the 50-year release date.
+                    Perkins asked if NARA was breaking the law by making these tapes available.
+                    Fawcett said it was not so much the case of a barrier, but intrepretation of
+                    Middleton’s authority to release of these recordings.</p>
+                <pb n="8" xml:id="pg_8" facs="0008"/>
+                <p>Kimball again asked what the Committee could do to help, especially with access
+                    to the Nixon materials. Fawcett said that NARA’s relations with Nixon had become
+                    adversarial, in that Nixon’s attorneys are suing the Archives over the agency’s
+                    decision to allow FOIA requests for access to the finding aids to Nixon
+                    materials. He anticipated that Nixon would be a tough negotiator who would
+                    demand a quid pro quo. This might make access by PA/HO to the Nixon materials
+                    more difficult.</p>
+                <p>Returning to the question of the Johnson recordings, Nelson asked, considering
+                    PA/HO’s time limitations, whether it was a good expenditure of PA/HO staff time
+                    to listen to these tapes. LaFantasie said that these tapes could be particularly
+                    useful as a source to turn to when gaps that could not otherwise be filled
+                    appear in the record.</p>
+                <p>Kimball reiterated his concern with NARA’s staff problems and asked again if
+                    there was something the Committee could do. Fawcett replied that he thought it
+                    would be helpful for the Committee to maintain a continuing interest in NARA
+                    staff levels, but that even if it had received the 13 requested positions, such
+                    staff would not help the <hi rend="underline">Foreign Relations</hi> series
+                    immediately because these people would require clearances and training, and that
+                    would take time.</p>
+                <p>Kimball asked what the best plan should be for the Committee to respond to this
+                    problem. He offered to write a letter, a memorandum, or wait to mention this in
+                    the Committee’s annual report. Van Camp said a decision needed to be made now
+                    about what the Committee should do. She supported the idea of writing a letter
+                    to an appropriate official, and stated that the Committee represented a large
+                    enough constituency to add credibility to such a letter. Kimball suggested
+                    addressing the letter to Secretary of State Christopher and to the appropriate
+                    official at NARA. Fawcett reminded Kimball that even when NARA had used the
+                    language of the <hi rend="underline">Foreign Relations</hi> statute to argue for
+                    additional positions, these positions were not granted.</p>
+                <p>Nancy Smith of the Office of Presidential Libraries referred to a meeting
+                    attended by Harry Middleton, Slany and Herschler, at which Middleton expressed
+                    the hope that State would declassify entire transcripts of taped Johnson
+                    telephone conversations, and not only those extracts that State intended to use
+                    in its <hi rend="underline">Foreign Relations</hi> volumes. Smith also reminded
+                    the Committee that the Department should think hard about identifying specific
+                    conversations in the Nixon tapes now, given its huge volume, in order to plan
+                    effectively for the next round of research. She informed everyone that Nixon’s
+                    diary is open, but that access to the log of recorded conversations is subject
+                    to negotiation with Nixon’s attorney and to FOIA requests.</p>
+                <pb n="9" xml:id="pg_9" facs="0009"/>
+                <p>Kimball proposed to write a letter on behalf of the Committee to Secretary
+                    Christopher, with a copy to an appropriate official at NARA, in which concern
+                    over NARA’s staffing problems and potential access problems for PA/HO research
+                    in the Nixon materials would be highlighted.</p>
+                <p>Kenneth McDonald, Chief Historianr of the CIA, briefed the Committee on
+                    collection of documentation on Iran and Guatemala. He said that work on
+                    Guatemala documentation was going well, in fact all the material had been
+                    identified. A member of his staff was preparing a history on Guatemala based on
+                    the documentation, and the agency was undertaking systematic review of the
+                    documents on Guatemala for 1954. His office was still working on identification
+                    and collection of the documenation on Iran.</p>
+                <p>McDonald then reported that the CIA’s Center for the Study of Intelligence has
+                    planned conferences on: 1) Teaching Intelligence, October 1-2, 1993; 2) Harry
+                    Truman and the Origins of the CIA, (cosponsored with the Truman Library), March
+                    17-18, 1994; and 3) Soviet Strategic Estimates, October 1994. The History Staff
+                    will publish documents on CIA’s origins for the Truman conference and a
+                    collection of declassified estimates on Soviet capabilities for the third
+                    symposium. He noted that the Historical Review Group plans to review for
+                    declassification all estimates on the former Soviet Union 10 years old and
+                    older, and that CIA had already relesased portions of the 1976 “A-Team, B-Team”
+                    estimates.</p>
+                <p>Kimball expressed concern with the possibility of a duplication of effort if both
+                    State and the CIA publish histories on the foreign policy of the U.S. He
+                    emphasized that there needs to be good communication, a liaison, between State
+                    and the CIA. McDonald said that the CIA does not want to duplicate the efforts
+                    of State, and is not trying to compete with <hi rend="underline">Foreign
+                        Relations</hi>. He added that his office had worked closely with Tom Thorne
+                    on providing PA/HO with documents from the Truman era.</p>
+                <p>Kimball asked whether Thorne’s effort provided an opportunity to publish in <hi
+                        rend="underline">Foreign Relations</hi> documents that were previously
+                    denied declassification during the years 1945-1950. Emily Rosenberg noted that
+                    prefaces to the volumes mention the possibility of later publication of
+                    documentation from the CIA. She asked if McDonald’s staff had a plan to publish
+                    such documentation. McDonald responded that the CIA Historical Staff is not
+                    currently working to publish documentation originally denied from <hi
+                        rend="underline">Foreign Relations</hi> volumes, but that they could help
+                    arrange for declassification review if State provided them with a list of
+                    documents previously denied.</p>
+                <pb n="10" xml:id="pg_10" facs="0010"/>
+                <p>Bradford Perkins asked who at CIA is responsible for declassification policy. In
+                    reply, McDonald emphasized that the CIA History Staff has no role at all in
+                    declassification matters, which are the responsibility of John Pereira’s
+                    Historial Review Group. The History Staff’s research program and publications,
+                    he added, are reviewed by the CIA History Advisory Board, a body of about a
+                    dozen senior Agency officers from all directorates.</p>
+                <p>LaFantasie then gave his report. He said that the LBJ research plan has gone
+                    forward with 8 research trips to the Library since last September. Some of the
+                    research had been undertaken in a team approach which seemed to be particularly
+                    effective. He informed the Committee of a new management tool that was recently
+                    introduced to the PA/HO staff, outlining its provisions for periodic reviews
+                    throughout the manuscript process to assess document selection, annotation and
+                    other areas of preparation, and containing 10 milestones to monitor whether the
+                    volume was meeting the schedule.</p>
+                <p>Perkins asked how long it takes to complete a manuscript. LaFantasie said about a
+                    year. Perkins asked LaFantasie to explain to him what a milestone was.
+                    LaFantasie said, for example, halfway into the manuscript process, the division
+                    chief, editor, and compiler would meet to discuss the status of the
+                    manuscript.</p>
+                <p>Perkins remarked that he thought meeting ten times a year corresponding to the 10
+                    milestones seemed like it would be a lot of review in one year. LaFantasie said
+                    that it was simply a management tool, and that its development was prompted in
+                    part by a suggestion made by Emily Rosenberg at the last Advisory Committee
+                    meeting.</p>
+                <p>Rosenberg pointed out that she had not intended to suggest introducing a new
+                    management tool, but to develop a means by which the Committee’s concerns over
+                    the shortened manuscript page length could be addressed so that the targeted
+                    page length for particular volumes could be shortened or lengthened depending on
+                    the subject matter, and to ensure that a dynamic process exists while the PA/HO
+                    staff prepares the manuscript. She said that she did not want her earlier
+                    suggestion to be interpreted as a signal to increase PA/HO’s quantity of
+                    paperwork.</p>
+                <p>LaFantasie offered to let the Committee look at the first Johnson compilation,
+                    Arms Control, Vol. XI, 1964-1968, before the next Advisory Committee meeting,
+                    but warned that it is not complete. He added that the management tool would
+                    facilitate his answering questions from the Committee about the status of
+                    certain manuscripts.</p>
+                <pb n="11" xml:id="pg_11" facs="0011"/>
+                <p>Kimball asserted that the Committee needed to define its role in assessing the
+                    Johnson volumes. He stated that Anna Nelson and Arnold Taylor should look at the
+                    Arms Control volume in advance of the next Advisory Committee meeting.</p>
+                <p>The Committee recessed at 11:45 into a brief executive session, followed by
+                    lunch.</p>
+            </div>
+            <div type="section" xml:id="luncheon-meeting--may-20_1">
+                <head><hi rend="underline">Luncheon Meeting, May 20</hi></head>
+                <p>Bennett Freeman, Deputy Assistant Secretary of the Public Affairs Bureau, joined
+                    the Advisory Committee toward the end of lunch. He welcomed the Committee and
+                    said that the Department was grateful for all its fine efforts. Freeman
+                    explained that Tom Donilon, the new PA Assistant Secretary, and Mike McCurry,
+                    the Senior Deputy Assistant Secretary, were committed to supporting the work of
+                    the Historian’s Office and making sure that the <hi rend="underline">Foreign
+                        Relations</hi> statute was fully implemented.</p>
+                <p>Freeman said that personally he took an interest in the Historian’s Office
+                    because of his own background as a student of history. Having only recently
+                    arrived at the Department, however, he could not claim to have a command of all
+                    the issues that are involved in the publication of the <hi rend="underline"
+                        >Foreign Relations</hi> series and the systematic declassification of the
+                    State Department’s 30-year-old records. Most of his time, he said, has been
+                    taken up with writing speeches and building a new speech-writing unit within the
+                    PA Bureau. He said that in the coming weeks he expects to familiarize himself
+                    with the key issues facing the Committee and that he will rely on Kimball’s and
+                    Slany’s guidance in gaining a better understanding of the work that needs to be
+                    done.</p>
+                <p>In response to a question about the PA Bureau’s role in dealing with the
+                    Presidential Directive on revising the Executive Order on Classification and
+                    Declassification, Freeman said that he would have to study the directive more
+                    closely, but he could tell the Committee that the PA Bureau leadership, and
+                    Donilan in particular, felt that too much responsibility had been placed in the
+                    hand’s of the Department’s security personnel. He said that the PA Bureau would
+                    look into the possibility of correcting that situation.</p>
+                <p>Freeman then excused himself, saying that he hoped to meet with the Committee
+                    again before its meeting was over, and extended best wishes to the Committee for
+                    a productive meeting.</p>
+                <pb n="12" xml:id="pg_12" facs="0012"/>
+            </div>
+            <div type="section" xml:id="closed-session--may-20--1-30-3-30-p-m-_1">
+                <head><hi rend="underline">Closed Session, May 20, 1:30-3:30 p.m.</hi></head>
+                <p>Kimball announced that the Advisory Committee had decided during lunch that a
+                    subcommittee consisting of Nelson and Taylor would look at the Arms Control
+                    volume for the Johnson Administration. He then called upon Frank Machak,
+                    Director of the Department’s Office of Privacy, Freedom of Information, and
+                    Declassification Review (FPC).</p>
+                <p>Machak commented on the Working Group report on opening the Department’s 30-year
+                    old and older records, which he called a step forward. He said that the report
+                    makes clear that the Department takes the legislation seriously. Machak added
+                    that from his perspective, as one who would have to be an implementer, the
+                    report was a very good first product, although it was not perfect; the report
+                    did have “soft spots,” and there continued to be disagreements on interpretation
+                    of language. He repeated, however, that this was a good first step, and noted
+                    that the report would also make others who had not been involved in the process
+                    more comfortable with these issues.</p>
+                <p>Michael Kurtz, Acting Assistant Archivist for the Office of the National
+                    Archives, said that the data distributed to the Committee concerning the status
+                    of declassification for the 1960-63 records showed that they had a long way to
+                    go, adding that they were encountering resource and guideline problems which
+                    explained this. Kurtz distributed a list of Department guidelines already in
+                    NARA’s possession, and a list of guidelines for which NARA was waiting. He noted
+                    that the National Archives had made a commitment to providing at least three
+                    staff members for the project in addition to the six that would be funded by the
+                    Department of State. Kurtz said that only three of those nine had been cleared
+                    thus far, but pointed out that the Department of State does not pay for these
+                    employees until they are cleared and on board.</p>
+                <p>In response to a question by Kimball, Kurtz assured the Committee that archival
+                    processing did not stand in the way of declassification. He said that the
+                    Working Group had had a difficult series of discussions, but had attempted to
+                    set milestones, which was essential from a management and public perception
+                    point of view. They would have to do more work on how the process would work and
+                    the operational details would have to be worked out, particularly concerning the
+                    issue of other agency information, but the Working Group report provided a
+                    framework for this. Kurtz added that the Presidential Task Force offered hope
+                    for a broader level of declassification reform.</p>
+                <pb n="13" xml:id="pg_13" facs="0013"/>
+                <p>Kimball emphasized that he wanted the Advisory Committee to understand the
+                    context of the report. He noted that monitoring and aiding the declassification
+                    process would be a very challenging issue for the Advisory Committee and asked
+                    if the Committee had any questions or comments about the report.</p>
+                <p>Brad Perkins said that he thought there was supposed to be a “drop-dead date”
+                    after which documentation would automatically be declassified. Kimball said that
+                    the target date was January 1, 1997 for release of material through 1966.
+                    Perkins said they needed to establish a “drop-dead date” so that the records
+                    would be opened by that date even if the deadline for review was not met.</p>
+                <p>At this point, the Committee interrupted its deliberations to welcome Deputy
+                    Assistant Secretary for Public Affairs and Deputy Spokesman Richard Boucher.
+                    Boucher greeted the Committee and assured it that the Department had a
+                    commitment to meeting the Congressional deadline. He noted that the Working
+                    Group had come up with some practical ideas. Boucher said that the new team in
+                    PA had been briefed on the Working Group report and had a commitment to the
+                    process and everyone wanted to come up with practical, workable solutions. He
+                    added, however, that there were still bureaucratic hoops to go through.</p>
+                <p>When discussion of the Working Group report resumed, Perkins noted that the
+                    report, while offering promise, was really nothing more than a “pious hope” that
+                    the 30 year release line could be achieved. He argued that they had to have a
+                    “drop-dead date” to make people do what they were supposed to do. Kimball
+                    pointed out that the report was in its final form, but added that the Advisory
+                    Committee could and should add its comments. Slany concurred in this.</p>
+                <p>Emily Rosenberg said that she had understood that the Committee had previously
+                    endorsed a “drop-dead date” and asked what had happened to this in the Working
+                    Group discussions. Machak offered his personal opinion concerning a “drop dead
+                    date” that he had been in the Department of State for a long time and he could
+                    tell the Committee that “it ain’t going to happen in this building.” The
+                    Committee might consider him a hardliner, but to many working in the
+                    declassification field he was considered a liberal. No one in the Department was
+                    going to say, “Open 9000 feet of records on January 1, 1997.” The notion of
+                    automatic declassification was both impractical and illegal under the current
+                    regulations. There was no way that documents were going to be released without
+                    some analysis and recommendations to the Secretary of State.</p>
+                <pb n="14" xml:id="pg_14" facs="0014"/>
+                <p>Perkins pointed out that the Department would have four years to find out what
+                    could not be released. Machak replied that the Working Group had tried to put
+                    checkpoints in the report, calling for early analyses and mandatory reporting.
+                    This provided a framework which would help them to keep their eyes on the ball.
+                    Machak emphasized again that a “drop-dead date” scares people, but said that he
+                    agreed that they had to have targets and checkpoints.</p>
+                <p>Slany pointed out that the Advisory Committee had been given the power to monitor
+                    this process and that it would know whether or not it was working. Kurtz said
+                    that the National Archives had considered favorably a “drop-dead date” for
+                    certain categories of records along with the notion of anlyzing the files more
+                    important to researchers first, but pointed out that these are Department of
+                    State records. The Working Group had established the principle of setting
+                    priorities. Kurtz added that they also had to be concerned with other agencies’
+                    equities.</p>
+                <p>Kimball commented that he shared the doubts that the January 1, 1997 deadline
+                    could be met and argued that this showed the importance of setting priorities,
+                    since the deadline would likely not be met for all of the records. Rosenberg
+                    suggested that the Advisory Committee should say that it would call for a
+                    “drop-dead date” for the lowest risk categories if it appeared that the deadline
+                    would not be met.</p>
+                <p>Van Camp asked Machak to discuss two aspects of the report -- setting priorities
+                    and risk analysis. Perkins suggested that they could do risk analysis by
+                    sampling documents. Machak replied that they would indeed have to sample
+                    documents, as the volume of documentation precluded page-by-page review of all
+                    categories of records, and there could no longer be a three-tiered review, as is
+                    currently the case. He warned, however, that they might discover that sampling
+                    would not provide the answers the Committee wanted. He hoped that their first
+                    experience with sampling during the early stage of analysis called for in the
+                    report would be helpful. Kimball noted that the new law defines exempted
+                    categories in different terms than the Executive Order with regard to
+                    information which “might reasonably damage” current foreign relations.</p>
+                <p>Taylor asked Machak about personnel. Who would be the “qualified experts” who
+                    would be part of the risk assessment analyses called for in item #4 and the
+                    declassification center called for in item #7? Would these people play a
+                    significant role in determining what was declassified or merely an advisory one?
+                    Machak replied that they were meant to play a significant role, but until teams
+                    were organized and sampling was under way, it was hard to speculate on the roles
+                    of specific individuals. Taylor said that he was worried that the process would
+                    be dominated by people with a bias for classification. Machak stated that he did
+                    not buy the idea that there had been a bias against declassification in the
+                    past, but he felt that the new teams would not have it in any case.</p>
+                <pb n="15" xml:id="pg_15" facs="0015"/>
+                <p>Kimball suggested rephrasing Taylor’s question: will others who had appropriate
+                    training besides retired Foreign Service Officers be used? Machak pointed out
+                    that it would be teams who would make the decisions rather than any single
+                    individual, although eventually one single person would have to sign off.
+                    Kimball said that the Advisory Committee was interested in bringing different
+                    people with a different approach into the declassification process, but wondered
+                    whether they would have equal stature.</p>
+                <p>Machak pointed out that such people would have to have Top Secret clearances,
+                    which limited the universe they could choose from. He anticipated that some mix
+                    of Foreign Service Officers, Civil NARA employees, and Foreign and Civil Service
+                    annuitants would be in the pool. The Foreign Service annuitants were a viable
+                    resource. Machak emphasized that the Department has to use experts for
+                    declassification (i.e., former consular officers for consular files), who have
+                    delegated authority from the bureaus. A bureau such as EUR would not be prepared
+                    to authorize PhD historians to declassify its records.</p>
+                <p>Nelson commented that the Advisory Committee’s role in this process would
+                    probably be carried out by one person. Therefore, she wondered what would happen
+                    and whether it would matter if the Advisory Committee member said, “I disagree,”
+                    especially concerning national security issues. Would the results justify the
+                    Advisory Committee’s optimism? Slany noted that the Office of the Historian’s
+                    experience had been that while the Advisory Committee’s views perhaps were too
+                    advanced to be fully accepted, the Department had already been moving in that
+                    direction. Kimball suggested that the Working Group’s emphasis on results in its
+                    recommendations was indicative of this. Nelson reiterated her skepticism.</p>
+                <p>Van Camp commented on the positive elements in the Working Group report, which
+                    were much more than she expected, but asked what was different about its
+                    proposal concerning the Department of State’s responsibility under the new plan.
+                    She was concerned that the new plan should offer real change and not be merely a
+                    faster version of the old one; she also questioned NARA’s role in the new
+                    system.</p>
+                <p>Machak replied that he was not sure what would emerge. There had to be agreement
+                    on what documents were involved. He said that the Department of State did not
+                    intend to cut out the National Archives and saw it in a complementary role,
+                    although he was still not sure how this would work. Machak suggested that
+                    perhaps the Department would do the Decimal files and NARA the Post and Lot
+                    files. He noted that Joe Chaddic thought there were “efficiencies” here.</p>
+                <pb n="16" xml:id="pg_16" facs="0016"/>
+                <p>Kimball commented that the Working Group plan took some pressure off of Chaddic
+                    because he did not have to have immediate guidelines. Still, guidelines for
+                    already accessioned records -- some 3500 cubic feet -- would have do be done.
+                    Smith pointed out that the guidelines were important to the Presidential
+                    libraries.</p>
+                <p>Chaddic noted that there would still be guidelines. He added that there were
+                    various efficiencies in the Working Group report and that better cooperation
+                    within the building and the synergy of a team effort rather than using one or
+                    two senior reviewers at NARA would also help them to meet the deadlines. Other
+                    agency officials could be invited to participate in the review. Chaddic warned,
+                    however, that the projected completion date of January 1, 1997 was based on
+                    starting the new process by April 1, 1993. There was already nearly a two-month
+                    delay. Kurtz asked Chaddic when the guidelines would be ready, to which he
+                    replied by the end of the current fiscal year.</p>
+                <p>Perkins commented that they were evidently trying to speed up the
+                    declassification process, but not to change the standards. He noted that he
+                    remained sceptical about not having a “drop-dead date” and asked Chaddic how
+                    much sampling and risk assessment did he contemplate? Chaddic replied that he
+                    could not answer that now.</p>
+                <p>Kimball raised the question of other agency equity. Should they get other
+                    agencies involved in the process at an earlier stage? He thought that the idea
+                    should be to place the burden for speedy review on the agency with the equity,
+                    but feared this might be too confrontational. Chaddic replied that he was hoping
+                    for help from the Advisory Committee on this. The Department of State would
+                    consult other agencies or notify them that they had equity. If there was no
+                    response, the Department could say that the documents were going to the National
+                    Archives and would be open within six months. He added that he expected this to
+                    raise legal issues that would have to be resolved at the time.</p>
+                <p>Kimball suggested that Chaddic was talking about a “drop dead” date for other
+                    agency equity. Slany noted that this was why the language in the Working Group
+                    report had been carefully chosen to ensure that other agency material “would not
+                    be permitted to delay the transfer and opening of Department of State
+                    records.”</p>
+                <p>Machak said that they had been having discussions with other agencies to alert
+                    them to what was on the horizon in the Department of State. These discussions
+                    had indicated that many agencies were down-sizing their declassification staffs.
+                    The intention was to inform the leadership in these agencies that there was
+                    going to be a demand and that they needed to be prepared. Because of clearance
+                    problems, interagency representatives needed to have authority and not just take
+                    back <pb n="17" xml:id="pg_17" facs="0017"/> copies of documents to be vetted
+                    internally. He thought there might be a role for colonels and two-star generals
+                    in this team approach. Machak reminded the Committee that cooperation was easier
+                    and more effective than confrontation.</p>
+                <p>Glad asked if other agencies, such as the CIA, would agree to sampling? Machak
+                    responded that he hoped to involve them in the process. Kurtz commented that the
+                    National Archives was very concerned with referring documents to other agencies.
+                    This was the bane of its existence.</p>
+                <p>Kimball asked whether the Working Group’s proposal regarding other agency equity
+                    would apply to materials in the Presidential libraries. Herschler pointed out
+                    that these materials for the most part are not Department of State records,
+                    although many copies of Department records are contained in the files. Herring
+                    expected that the Department’s new declassification effort would have a ripple
+                    effect on the libraries. Kimball suggested that the declassification decisions
+                    made by the Department on particular documents should be conveyed to other
+                    agencies, particularly the Presidential libraries.</p>
+                <p>Machak noted that while there was not much enthusiasm for interagency working
+                    groups, they have in fact worked quite well in the past. He pointed out that the
+                    Advisory Committee had the ability to influence others in this regard. He said
+                    that the Department was working with the Presidential libraries on compatible
+                    software so it could provide the libraries with data on documentation the
+                    Department had declassified. This project was part of the Department of State’s
+                    five-year plan. Nelson pointed out that since most of the earlier Presidential
+                    libraries did not have computerized declassification systems, this project would
+                    only be helpful for documents much more recent than 30 years old.</p>
+                <p>Herschler stressed the importance of an interagency database for declassification
+                    decisions. The Interagency Security Oversight Office had been working on this
+                    question, but nothing had come of it thus far. Machak stated that when he had
+                    suggested a government-wide database of declassified documents at one of these
+                    meetings, he had met with considerable opposition. On the other hand, Machak
+                    continued, FPC and PA/HO had developed an electronic link between the <hi
+                        rend="underline">Foreign Relations</hi> document list and the Department’s
+                    declassification database. Herschler indicated that printout lists of
+                    declassified Department documents could be provided to the Presidential
+                    libraries in the same way lists of declassified <hi rend="underline">Foreign
+                        Relations</hi> documents now could be provided to the libraries.</p>
+                <pb n="18" xml:id="pg_18" facs="0018"/>
+                <p>Herring expressed his concern with the mindset of the declassifiers. He asked if
+                    there was any way that there could be re-education in order to bring the mindset
+                    of the declassifiers up to date along with the declassification process. Machak
+                    said that the Working Group had considered this and the idea was to motivate
+                    people to get the job done. He emphasized the importance of having a covering
+                    memo with the context and setting of the Secretary’s commitment to the process
+                    to get the principals to sign on to the plan. He noted that the Department’s new
+                    Assistant Secretary for Administration, Pat Kennedy, had already had two
+                    conversations with him about the Working Group and its report. He added that
+                    Kennedy expected to play a role in the Department’s response to the Presidential
+                    Directive on classification and declassification.</p>
+                <p>Betty Glad asked whether the Presidential Task Force on a new Executive Order
+                    would make the declassification task easier. Kurtz replied that he was on the
+                    Task Force and was chair of the Subcommittee on Declassification. He told the
+                    Advisory Committee that there would be two days of public testimony on June 9
+                    and June 10 in the Great Hall of the Department of Justice. The Subcommittee on
+                    Declassification would welcome input from the Advisory Committee. Kurtz also
+                    noted that the Task Force was supposed to have a draft Executive Order by
+                    November 15, 1993.</p>
+                <p>Nelson asked Machak what would motivate change in the new Executive Order? Machak
+                    said that, from his personal perspective, the Working Group had been the most
+                    positive thing he had seen in more than 20 years. The internal conditioning
+                    process has begun in the Department. The Presidential Task Force was a forum for
+                    issues raised in the Department’s Working Group.</p>
+                <p>Rosenberg asked whether the Department intended to involve other agencies in risk
+                    assessment during the first 60-day period. Chaddic reiterated that the Committee
+                    should not start the clock on the 60-day period until the declassification
+                    Center was funded, space allocated, and people assigned. Rosenberg asked again
+                    if they would operate within an inter-agency framework, and Chaddic replied that
+                    there would be informal cooperation.</p>
+                <p>The Committee recessed for a break.</p>
+                <pb n="19" xml:id="pg_19" facs="0019"/>
+            </div>
+            <div type="section" xml:id="closed-session--may-20--3-45-4-30-p-m-_1">
+                <head><hi rend="underline">Closed Session, May 20, 3:45-4:30 p.m.</hi></head>
+                <p>George Herring indicated that he would summarize the subcommittee reports, which
+                    covered declassification actions on four topics in five volumes. He noted that
+                    Perkins and Van Camp would supplement his remarks.</p>
+                <p>Herring said that some of the the documents on Tibet were discussed at the end of
+                    the last Advisory Committee meeting. The subcommittee heard from the desk
+                    officer, Gary Williams, and the HDR reviewer, Al Harding.</p>
+                <p>LaFantasie pointed out that there were six documents for the 1958-1960 China
+                    volume and two documents for the 1961-1963 China volume. After the Committee had
+                    expressed concern at the last meeting, LaFantasie revisited the documentation,
+                    instructed Harriet Schwar to collect additional documentation and secondary
+                    literature, and worked with the Eisenhower Library to obtain the additional
+                    materials. Out of the new sources collected, LaFantasie had selected five
+                    additional documents for inclusion in the 1958-1960 China volume. Publication of
+                    the volume was temporarily suspended and the volume would be remade with the
+                    Tibet documents (mostly for 1959) in a separate compilation. He added that PA/HO
+                    had met with the desk officer in advance of the subcommittee meeting.</p>
+                <p>Herring reported that the desk officer explained that certain documents on Tibet
+                    had been denied in whole or in part because it was felt that their official
+                    publication could lead to further repression in Tibet. This reasoning, Herring
+                    remarked, seemed “strained and tortured” to the subcommittee. Mr. Williams did
+                    agree, however, to re-review the previously compiled documents and review the
+                    newly compiled documents with an open mind. Herring noted that no decision of
+                    the Advisory Commitee was needed now. The subcommittee supported the PA/HO
+                    initiative on Tibet. He added that his conviction of the centrality of the Tibet
+                    documents was reinforced.</p>
+                <p>Perkins pointed out the difficulty in sorting out operational details from policy
+                    considerations in some of the documents in question. He reiterated the
+                    subcommittee’s view that the desk officer’s concern with political repercussions
+                    in Tibet from publication of the documentation was “strained and
+                    unimaginative.”</p>
+                <p>Rosenberg complimented LaFantasie for his decision to stop publication of the
+                    volume until the Tibet documentation issue could be resolved, and she
+                    complimented LaFantasie and Schwar for their effort to uncover additional
+                    documentation. She inquired whether the desk officer was better informed of the
+                    review appeals procedures than the desk officer her <pb n="20" xml:id="pg_20"
+                        facs="0020"/> subcommittee had met with the past winter. LaFantasie replied
+                    that it was clear to him that the desk officer had read the 1991 law. Herschler
+                    said that PA/HO had covered these points in their April meeting with the desk
+                    officer. Van Camp said the Tibet desk officer was cooperative, and Pereira later
+                    said that he would meet with the CIA officer on the same issue. Herschler
+                    confirmed that the Tibet documents will go to the CIA as well as the EAP
+                    Bureau.</p>
+                <p>Herring next reported on the Cuba, 1961-1963, volume. Here again the documents in
+                    question did not require a Committee decision. John Pereira, director of the
+                    CIA’s Historical Review Group, had reported that his office had recommended
+                    --after re-review of the 14 documents submitted by PA/HO --release of five
+                    documents in full and nine in part. Some deleted material was restored. The full
+                    texts of the documents would be available in two or three weeks.</p>
+                <p>Herring then discussed Indonesia, 1958-1960. The subcommittee had discussed this
+                    issue in November 1992. The documents involved CIA issues also. The deletions
+                    had removed evidence of covert operations in Indonesia, as well as other issues.
+                    The CIA conducted a re-review and agreed to release some of the earlier
+                    deletions. The record now shows that there were covert operations and one can
+                    read between the lines to fill in much of the remaining missing information. The
+                    PA/HO compiler, Edward Keefer, was satisfied that the volume was now much
+                    improved, and the subcommittee was prepared to go along with that view. The
+                    original documents did not contain much detail.</p>
+                <p>Perkins added that these matters should be mentioned in the preface to the
+                    volume. Herring noted that the subcommittee had reviewed a draft text of the
+                    preface and had made a recommendation that seemed agreeable at the subcommittee
+                    meeting, so the subcommittee recommended that PA/HO should move forward with
+                    publication of the volume.</p>
+                <p>Herring then turned to the question of the Israeli Dimona facility in the Near
+                    East volume for 1961-1962 that had been discussed at the February Committee
+                    meeting. Perkins reported that a long telegraphic report by the American
+                    Ambassador was denied, but a previously released document in the fiche
+                    collection covered much the same ground, and that has been moved to this print
+                    volume. Much of the remaining documentation was released by the NEA Bureau,
+                    including most portions of U.S. assessments of Israeli atomic capabilities.</p>
+                <pb n="21" xml:id="pg_21" facs="0021"/>
+                <p>Van Camp added that three issues were earlier studied and tagged as important by
+                    the subcommittee, and Nina Noring was confident that these issues were now
+                    adequately covered in the volume. Herschler had summarized the points in a
+                    memorandum to Chaddic following the previous Advisory Committee meeting.</p>
+                <p>Herring felt that the work of the subcommittees was very constructive in chipping
+                    away at the institutional mindset against declassification. He also thought that
+                    it chipped away at any PA/HO mindset not to bother appealing documents it may
+                    view as lost causes. The subcommittee in effect encourages PA/HO to try again.
+                    Van Camp concurred, adding that PA/HO has had success itself in getting specific
+                    documents released with Advisory Committee support. Herschler noted that PA/HO
+                    had received favorable results from several informal appeals, which had made it
+                    unnecessary to bring the matter to the Committee’s attention. LaFantasie thanked
+                    Jean Pryor and Joe Chaddic for their assistance in this process.</p>
+                <p>Kimball suggested that the Committee should talk about the Executive Order
+                    tomorrow morning. If members could come to the Department for their photographs
+                    at 8:30 a.m., they could begin discussion on the Executive Order at 9 a.m.</p>
+                <p>Rosenberg asked whether the Advisory Committee should take a position advocating
+                    the publication of documentation previously denied for inclusion in the <hi
+                        rend="underline">Foreign Relations</hi> volumes dealing with the late 1950s.
+                    Could PA/HO catch up in these cases, as in Guatemala and Iran? Glad thought that
+                    PA/HO should try to catch up, referring to the release of the CIA Center’s
+                    narrative studies. Slany said he was reluctant to disrupt the current
+                    publication schedule.</p>
+                <p>Kimball asked whether the CIA should be encouraged to publish supplemental
+                    documentation to these volumes. He noted, however, that Ken McDonald had told
+                    the Committee earlier in the day that the CIA Historical Staff does not exist to
+                    supplement the <hi rend="underline">Foreign Relations</hi> series.</p>
+                <p>Rosenberg said her understanding of McDonald’s remarks was that his staff was not
+                    involved in documentary editing but that he would listen to a PA/HO specific
+                    request for such supplemental assistance in this area. Glad noted that there
+                    were other areas that could be supplemented, e.g., the Hungarian revolution of
+                    1956, which would be somewhat similar to Iran and Guatemala.</p>
+                <p>Slany remarked that the Committee could recommend a supplementary volume covering
+                    all these issues, as on the general relationship of the CIA to foreign policy
+                    prepared by Tom Thorne covering the years 1946-1950. Picker said that it could
+                    be pointed out in the prefaces that the omission of <pb n="22" xml:id="pg_22"
+                        facs="0022"/> intelligence matters would be remedied in a future volume if
+                    the Committee so agreed. Slany wondered how much of this record we have seen,
+                    and Kimball said it is not the Committee’s responsibility to worry about
+                    previously published volumes. He added that supplemental compilations on
+                    intelligence would not be necessary if CIA documents were retired to the
+                    National Archives.</p>
+                <p>David Langbart remarked that NARA is not receiving CIA materials. They have
+                    received two CIA histories, and George Chalou had noted that these materials
+                    were “largely junk.” Much of this same material is in the State Department files
+                    and has appeared in other volumes in the series. Nelson said that the CIA had
+                    pulled records. Much that was sent to NARA was not open.</p>
+                <p>Kimball suggested that Slany and LaFantasie study the issue and make
+                    recommendations. Perkins asked whether the Committee wanted to put another
+                    volume on PA/HO’s plate. Kimball replied that the Committee was just thinking
+                    about it and wanted suggestions on feasibility. He did not want to impose a big
+                    burden. Herring said they could talk tommorrow with Pereira and McDonald about
+                    this.</p>
+                <p>Kimball next turned to the issue of the prefaces to certain <hi rend="underline"
+                        >Foreign Relations</hi> volumes to be considered by the Advisory Committee.
+                    He noted that in language common to each preface it was stated that “selective
+                    access” had been obtained by the Historical Office to the records of several
+                    government agencies while researching these volumes. Later in each preface it is
+                    stated that the volume was “prepared in a manner completely consonant with the
+                    standards of the statute” governing the publication of the <hi rend="underline"
+                        >Foreign Relations</hi> series. If the first statement is true, Kimball
+                    said, the second must necessarily be false. The Advisory Committee agreed to
+                    take up the matter the following day.</p>
+                <p>The session adjourned at 4:25 p.m.</p>
+            </div>
+            <div type="section" xml:id="closed-session--may-21--9-10-30-a-m-_1">
+                <head><hi rend="underline">Closed Session, May 21, 9-10:30 a.m.</hi></head>
+                <p>The session convened at 9:20 a.m. to discuss the prefaces in some soon to be
+                    published <hi rend="underline">Foreign Relations</hi> volumes. Kimball expressed
+                    his concern over inflated claims in the prefaces that the volumes were prepared
+                    “in a manner completely consonant with the standards and mandates of the
+                    statute.” He felt this is misleading to readers especially when the preface also
+                    states that the editors only had selective access. He had had comments from
+                    historians about the preface in the 1964 Vietnam volume, which claims that the
+                    editors were “confident” that they had complete access to all records. The
+                    recent discovery of the McCone files illustrates how dangerous such a statement
+                    can be. He thought that, in the long run, such a statement was misleading to
+                    scholars.</p>
+                <pb n="23" xml:id="pg_23" facs="0023"/>
+                <p>Slany pointed out that the editors looked at everything that was available to
+                    then at the time of compilation. Kimball still took issue with inflated claims
+                    about access to all records and suggested using the phrase: “the editor had
+                    access to all records located or known as of (date).” There was discussion about
+                    which date to use -- the date of compilation or the date of publication.</p>
+                <p>Perkins asked why the Committee’s boilerplate was not included in these
+                    prefaces.</p>
+                <p>Kimball reminded him that compilation of these volumes preceded the date of the
+                    1991 statute, and the Committee had decided at one of its previous meetings not
+                    to include the boilerplate language in those prefaces.</p>
+                <p>Perkins then asked why the nature of the material deleted was not spelled out,
+                    especially when the percentage was as large as 8 percent, as in the Western
+                    Europe volumes. Charles Sampson, compiler of those volumes, explained that there
+                    was no one topic that was extensively deleted; the excisions covered many
+                    subjects in several compilations. Perkins reiterated that the reader should be
+                    told what kind of subjects have been deleted and mentioned that the language in
+                    the 1958-60 volume XII preface was a good model.</p>
+                <p>Nelson commented that since this volume (West Europe) was compiled in 1981, the
+                    preface did not even have to mention the 1991 law. Both Slany and LaFantasie
+                    felt strongly that it was essential to account for the law. Nelson felt that the
+                    prefaces for those volumes should ignore the fact that the law exists.
+                    LaFantasie pointed out that the public expectation is that the Department would
+                    respond to the law. Otherwise, readers would wonder what had happened to the
+                    law.</p>
+                <p>Glad agreed.</p>
+                <p>Kimball noted that the PA/HO staff did as much as possible, but that
+                    declassification problems created limitations. The volumes were compiled in the
+                    spirit of the law and he did not want to cast aspersions on the PA/HO staff.</p>
+                <p>Kimball returned to the concept of inflated claims of access. Rosenberg and
+                    Nelson pointed out that the phrase “range of sources” is also misleading.</p>
+                <p>Rosenberg asked about the publication status of these volumes. Rita Baker,
+                    technical editor, informed her that the two West Europe volumes were too far
+                    along to stop, but the other prefaces could be changed.</p>
+                <pb n="24" xml:id="pg_24" facs="0024"/>
+                <p>Nelson thought it was essential to get the phrase “range of sources” out.
+                    Rosenberg noted there were now two things significant to change: that phrase and
+                    the term “consonant.” Kimball pointed out that these changes could not happen in
+                    volume VII but the others could be changed.</p>
+                <p>Glad resurrected the issue of including in the prefaces a statement about the
+                    role of the Committee, such as “The compilation of this volume was completed
+                    before the Advisory Committee existed.” Kimball reminded her that the Committee
+                    had discussed that in previous meetings and had decided not include such a
+                    statement. Glad thought it was important to explain about Committee involvement,
+                    but Kimball said that no acceptable language had been found for these
+                    pre-Committee volumes. The Committee will not be involved.</p>
+                <p>Nelson separated the prefaces into three groups: those that cannot be changed
+                    (i.e., volume VII); those that could still be changed; and those that included
+                    the Committee boilerplate. Picker said she was confused by the language
+                    “originally compiled.” Sampson noted that a large percentage (20 percent) of the
+                    volume was originally denied; after the Berlin situation was clarified, the
+                    volume was re-reviewed and documentation was restored.</p>
+                <p>Kimball said he believed that PA/HO understood the Committee’s concerns and
+                    summarized the changes they required in the prefaces:</p>
+                <list>
+                    <item>
+                        <p>1) delete the phrase “range of sources;”</p></item>
+                    <item>
+                        <p>2) use less categorical statements about access;</p></item>
+                    <item>
+                        <p>3) characterize the excisions, especially when the amount of deletions
+                            are significant, so that readers can be reassured there is no smoking
+                            gun.</p></item>
+                </list>
+                <p>Slany then asked the Committee members if they had any comments on the preface to
+                    the 1961-1963 volume on Berlin. The main difficulty had been how to describe the
+                    historians’ access to CIA files.</p>
+                <p>Herring commented that obviously it should be done very carefully. Kimball said
+                    that the preface should make clear that access was selective and did not mean
+                    full access to the files. LaFantasie pointed out that some researchers can ask
+                    for specific documents in specific files based on their previous experience with
+                    CIA records. Keefer noted that access to CIA records was better at the
+                    Presidential libraries than at the CIA.</p>
+                <pb n="25" xml:id="pg_25" facs="0025"/>
+                <p>Rosenberg requested some specific changes to the language about CIA access to
+                    emphasize that the historians had access to particular files, but not to all
+                    records at the CIA.</p>
+                <p>Nelson asked “if you ask for the Director’s files, what do you get?” Sampson said
+                    that everything is the Director’s files. There was a brief discussion about the
+                    provenance or lack of provenance of CIA documents.</p>
+                <p>Kimball wanted to include a statement in the preface indicating that the
+                    historians were allowed to see only what the CIA gives them. They agreed to the
+                    language: “The Department of State historians have been provided access to
+                    selective documentation of the CIA.” Kimball also wanted to include a statement
+                    that the historians were not allowed to publish complete file citations for the
+                    CIA documents.</p>
+                <p>Taylor (later in the discussion) asked why it was necessary to note in the
+                    preface what was excluded. If so, then there should be an explanation of why.
+                    The Committee agreed. Sampson explained that there was an overwhelming amount of
+                    very high-level documentation for this particular volume (1958-1960, VIII) and
+                    the selection of documents came from that body. Taylor asked that that
+                    explanation be included in the preface.</p>
+                <p>Kimball introduced the next item on the agenda: INR records. PA/HO historians had
+                    not previously been provided with access to INR files except those few that have
+                    been retired to NARA. Langbart confirmed that there were very few INR files in
+                    NARA except those in Lot 58 D 776 for the 1940s and 50s.</p>
+                <p>Jon Gibney, Deputy Director of the Office of Intelligence Liaison (INR/IL),
+                    introduced himself. He began by saying that there had never been a consistent or
+                    systematic review and retirement of INR records, but because of an OIG
+                    recommendation, INR was now working with the Department’s Records Management
+                    staff to set up a disposition schedule. In a few months to a year, INR will have
+                    completed this process of retiring files to preserve the historical record.</p>
+                <p>INR has a large body of unique records, of which his office is custodian.
+                    Although most of INR is an analytical bureau, his office is operational and is
+                    responsible for liaison with other intelligence agencies. The INR files contain
+                    documents dealing with various sensitive CIA, NSA, and DOD intelligence
+                    programs, sensitive law enforcement issues, and the record copy of all Roger
+                    Channel traffic; some of which date back to the 1950s. In some instances these
+                    files constitute a unique record of intelligence activity and may never be
+                    declassified. They mostly document other agency programs, and at least 1/3 are
+                    NSC or CIA documents, but there are many INR documents that present the
+                    Secretary with a framework for policy decisions.</p>
+                <pb n="26" xml:id="pg_26" facs="0026"/>
+                <p>He noted that it was difficult to understand the Reagan administration foreign
+                    policy without understanding covert operations. Covert operations are set up to
+                    be denied in perpetuity. Clandestine operations can be revealed by the U.S.
+                    Government for its own reasons.</p>
+                <p>Many of these records will now be retired, although they may not be declassified.
+                    He then asked for questions.</p>
+                <p>Without hesitation, Kimball asked about access by the historians to these files.
+                    Gibney said there was none. Perkins pointed out and Gibney agreed that the
+                    historians should have access to analytical files. Perkins said that access was
+                    one issue, declassification was another; the PA/HO historians should have
+                    access.</p>
+                <p>Kimball then read portions of the 1991 statute that guaranteed full access to
+                    historians to examine and select documents. Can that access to all INR
+                    documentation be granted?</p>
+                <p>Gibney said they were willing to look at the issue and agreed in theory, but most
+                    of the documents concerned other agency programs and any access must have
+                    permission of the agency involved.</p>
+                <p>Nelson asked if even the historical files (30 years or older) are so sensitive.
+                    Gibney said yes. Nelson then asked if any analytical or policy files could be
+                    declassified. Gibney said INR does not write policy memos, only analyses
+                    condensed from all intelligence sources. The historians would be hard put to
+                    find any connection between INR input and policy decisions.</p>
+                <p>Keefer pointed out that INR memos for the Secretary are available in the
+                    Secretary’s files. Gibney reminded the Committee that an intelligence product
+                    does not necessarily guide or influence policy. In his view the most interesting
+                    INR products are memoranda for the Secretary that devise a framework for the
+                    Secretary’s decisions, or explain the impact of intelligence.</p>
+                <p>Kimball said there are two problems: access for PA/HO historians and the transfer
+                    of material to NARA. He wondered if INR has any finding aids or how usable the
+                    records are. Could representatives from PA/HO and the Committee look at the
+                    records in order to provide the Secretary with advice about this records
+                    management problem? Gibney made a note.</p>
+                <p>Glad asked if INR had any internal histories. Gibney said no, his office only has
+                    files that officers can use.</p>
+                <pb n="27" xml:id="pg_27" facs="0027"/>
+                <p>Patterson noted that PA/HO has received a list of NIEs and SNIEs for the 1950s
+                    and asked if there is one for intelligence estimates and INR numbered research
+                    memoranda for the 1960s. Gibney made a note.</p>
+                <p>Kimball again reminded Gibney that PA/HO should have full access rather than
+                    having to ask for specific items. Gibney asked what dates of records PA/HO would
+                    need to see. Kimball noted that PA/HO needs to see records at least 25 years
+                    after the events. In response to a question from Rosenberg, Gibney said the
+                    records go back to the end of World War II.</p>
+                <p>Schwar asked if INR has files of restricted distribution telegrams from overseas
+                    to State on intelligence information. Gibney noted that his office has such
+                    records. He explained other ways that intelligence messages were transmitted to
+                    Washington.</p>
+                <p>Van Camp asked what happens to records that are retired but cannot be
+                    declassified. Gibney assured her that they are preserved and protected. Van Camp
+                    asked if the Committee can help to designate these records as permanent.
+                    Langbart interjected that INR was working with State’s Records Management staff
+                    and that there was as yet no disposition schedule authorizing retirement. Gibney
+                    noted that INR was reluctant to give up custody of the records at all.</p>
+                <p>Kimball agreed with Van Camp that the Committee should emphasize the desirability
+                    of maintaining the archival integrity of records retired by INR. Kimball pointed
+                    out that if PA/HO has full access, the process of declassification of these
+                    records is initiated.</p>
+                <p>It was later decided to include in the Committee’s report the following language:
+                    “the Committee appreciates Mr. Gibney’s informative comments, is pleased to
+                    acknowledge that INR is making an effort to identify and preserve its valuable
+                    records and hopes that INR will provide access to PA/HO historians to INR
+                    records.”</p>
+                <p>The Committee recessed for a break.</p>
+            </div>
+            <div type="section" xml:id="closed-session--may-21--10-45-noon_1">
+                <head><hi rend="underline">Closed Session, May 21, 10:45-Noon</hi></head>
+                <p>Kimball reconvened the meeting at 10:55 a.m. He announced that Van Camp would be
+                    the Committee’s representative for access to the records of the Bureau of
+                    Intelligence and Research (INR), and that Picker would deal with the records of
+                    the Office of the Legal Adviser (L). The Advisory Committee’s next report would
+                    stress the question of archival integrity.</p>
+                <pb n="28" xml:id="pg_28" facs="0028"/>
+                <p>John Pereira, Chief of the Historical Review Group (HRG) at the CIA, reported on
+                    declassification of CIA historical documentation. He began by observing that the
+                    CIA had established an Historical Review Group last year to handle
+                    declassification. New agency guidelines now presumed that documents would be
+                    reviewed for release at the 30-year mark; Strategic Estimates for the Soviet
+                    Union that were at least 10 years old would also be reviewed for release.</p>
+                <p>Pereira said that the CIA was trying to cooperate with State on declassification
+                    of documentation for <hi rend="underline">Foreign Relations</hi>. One person in
+                    his office makes the declassification determination and refers documents to the
+                    directorates for concurrence in the decision. “Bookkeeping” delays during the
+                    transmission of documents had been reduced to 3-4 days from State to HRG, and to
+                    about a week from CIA back to State. The FOIA workload is heavy and has
+                    contributed to delays in transmitting completed work on <hi rend="underline"
+                        >Foreign Relations</hi> back to State.</p>
+                <p>The new guidelines were gradually changing the Agency mindset; for the most part
+                    only essentials like names of agents and operational details would remain
+                    protected.</p>
+                <p>The HRG would release the Job and Box Numbers of documents, although Pereira said
+                    that people who processed FOI requests foresaw an increased workload how that
+                    requestors would know what files to request. LaFantasie said that in the absence
+                    of more specific identifying information on the provenance of CIA documents, <hi
+                        rend="underline">Foreign Relations</hi> might need to include Job and Box
+                    Numbers in the source notes. Perkins then wondered whether an increase in FOIA
+                    requests was a legitimate Agency concern; Kimball added that they could easily
+                    print more form letters reading “You’re in the queue.” Pereira replied that here
+                    was one more incentive to transfer documents to NARA, especially since his
+                    office must take custody of CIA records under its review, and therefore is
+                    responsible for handling FOIA requests for such records.</p>
+                <p>Nelson then asked when the JFK files would be open. Pereira replied that the
+                    President had not yet appointed a review board, and that many documents would
+                    not be transferred to NARA until the review board had had its say.</p>
+                <p>Patterson asked about release of NIEs for the Soviet Union. Pereira replied that
+                    all strategic estimates (not necessarily the raw data) and all political and
+                    economic estimates that were over 10 years old would be released after review by
+                    the intelligence community.</p>
+                <p>Perkins asked whether all 20-odd agencies involved in the declassification review
+                    process for the estimates would have to agree to release the NIEs. Pereira
+                    replied that the presumption now favored release.</p>
+                <pb n="29" xml:id="pg_29" facs="0029"/>
+                <p>Nelson asked about the progress of declassification. Pereira replied that once
+                    the JFK project was completed, Guatemala and Iran would be next. Later topics
+                    would include the Bay of Pigs and the Cuban Missile Crisis. He reiterated that
+                    progress could be slowed because although his staff takes possession of files,
+                    they must coordinate with components that respond to FOIA requests.</p>
+                <p>Kimball wondered whether “PR-related studies” affected support for PA/HO, and
+                    said that he would like to see the new Director commit himself to giving
+                    priority to support for <hi rend="underline">Foreign Relations</hi>. He feared
+                    that Congress might divert CIA declassification efforts to more politically
+                    popular topics. Pereira said that special studies did divert personnel and
+                    resources from <hi rend="underline">Foreign Relations</hi>. Gates had tried to
+                    emphasize declassification of areas of special interest rather than systematic
+                    release of records. It was hoped that Woolsey would make a specific declaration,
+                    or at least a general statement in favor of “openness.” He anticipated that once
+                    his staff had completed work on the JFK documentation, in August, more resources
+                    could be assigned to <hi rend="underline">Foreign Relations</hi>.</p>
+                <p>Betty Glad asked about finding aids at the CIA. Pereira replied that they had
+                    only been developed so far for the JFK records. He would work with Kenneth
+                    McDonald to devise some. In reply to a question from Herschler, Pereira said
+                    that these finding aids might not necessarily meet PA/HO’s needs.</p>
+                <p>Slany explained that the State Department is required by law to open all records
+                    over 30 years old by October. A working group was devising a plan of action, but
+                    he still wondered whether the process could be expedited for documents
+                    originating in other agencies, in particular the CIA. Pereira said that release
+                    might be done by topics. When the JFK files were being reviewed, the CIA sent
+                    people to other agencies to expedite the process.</p>
+                <p>Nelson inquired whether Pereira’s office was involved in the Presidential Task
+                    Force on Declassification. Pereira replied that the CIA member on the Task Force
+                    is the agency’s director of security. Pereira added that he hoped to insert his
+                    staff’s perspective in the process in some way.</p>
+                <p>Betty Glad asked about levels of classification of CIA documents. Pereira replied
+                    that levels were subject to review, and that records disposition followed NARA
+                    schedules. There was no classification in perpetuity.</p>
+                <p>Kimball inquired when the internal debate over declassification at the CIA would
+                    be resolved. Pereira suggested that the internal debate was tied to
+                    determination of the CIA’s budget. The Historical Review Group, at least, <pb
+                        n="30" xml:id="pg_30" facs="0030"/> had gotten more funding and personnel.
+                    HRG had a staff of 20, 14 of whom worked full-time on the JFK request. Perkins
+                    asked if the staff would lose positions once the JFK project had concluded.
+                    Pereira said that he hoped it would not.</p>
+                <p>Keefer asked about finding aids, including a central file of incoming and
+                    outgoing cables. Pereira explained the files were set up for operational
+                    support, not for research. The operational files, including reports of agents,
+                    were organized not by subject, but by operational names.</p>
+                <p>Van Camp asked whether reassembling documents by topic might, by creating new
+                    files, cause problems for future researchers. Pereira said that there had been
+                    proposals to hire an archivist and a records manager to organize a broad range
+                    of CIA files.</p>
+                <p>Nelson wondered whether an organizational directory or administrative history, if
+                    available, would aid researchers. Pereira said that offices frequently changed
+                    their names.</p>
+                <p>Picker asked whether operational records would be put into electronic form.
+                    Pereira replied that only 10-12 year-old records had been digitized, and State
+                    was interested in 30-year-old records. Picker asked if it would be possible to
+                    scan the older records. Herschler cited the cost, time, and accuracy factors in
+                    scanning older documentation, and LaFantasie observed that the older documents
+                    often included handwritten notes.</p>
+                <p>Herring noted the agency’s resistance to retiring historical records to the
+                    National Archives, and inquired whether this mindset was changing. Pereira
+                    indicated that there had been selective change. Day-to-day operations remain
+                    very compartmentalized. The BNL investigation has ensouraged the agency to
+                    examine how its records are maintained.</p>
+                <p>Kimball finally asked how the Committee could accelerate the declassification
+                    process for <hi rend="underline">Foreign Relations</hi>. Pereira replied that a
+                    statement about the value of the material to the published historical record
+                    would be helpful, especially in informing the CIA leadership.</p>
+                <p>Pereira left the meeting at 11:45. The Committee then discussed how to phrase a
+                    statement about the importance of CIA documents to the <hi rend="underline"
+                        >Foreign Relations</hi> series and foreign policy history, and on the
+                    importance of archival considerations for CIA documenation. Kimball asked
+                    Herring to draft the letter to the Director of Central Intelligence.</p>
+                <p>The committee recessed at noon for lunch.</p>
+                <pb n="31" xml:id="pg_31" facs="0031"/>
+            </div>
+            <div type="section" xml:id="closed-session--may-21--1-30-2-30-p-m-_1">
+                <head><hi rend="underline">Closed Session, May 21, 1:30-2:30 p.m.</hi></head>
+                <p>Kimball asked for comments from the Historical Office staff on any subject
+                    pertaining to the <hi rend="underline">Foreign Relations</hi> series or the work
+                    of the Committee.</p>
+                <p>Sampson noted that it was difficult for the staff Historians to find documents
+                    recording high-level Presidential meetings during the Johnson Administration
+                    before the Tom Johnson notes beginning in late 1967. He had found this to be the
+                    case in the Greece-Cyprus volume. LBJ disliked leaks on foreign policy matters
+                    so notes and records apparently are scarce.</p>
+                <p>Kimball asked if the newly available LBJ telephone and meetings transcripts would
+                    help. Herschler pointed out that recordings of Cabinet Room meetings only exist
+                    for 1968. Keefer noted that the CIA’s McCone Papers might be useful in filling
+                    in the gaps in certain instances. Kimball said the problem was duly noted and
+                    added that some reference to this problem might have to be added to the prefaces
+                    of the Johnson period volumes.</p>
+                <p>Sampson said the Department of State’s telegraphic records decline over the
+                    Johnson Administration with the backup microfilm reels missing telegrams by the
+                    dozens for 1967-1968. The use of nonspecific references to “Septels” within
+                    telegrams (referring to a “separate telegram” rather than citing the telegram’s
+                    full number) often caused insuperable annotation problems. Keefer said that
+                    distribution limitations such as NODIS and EXDIS raised difficulties in getting
+                    records into files. Recordkeepers have tried to refile these into the Central
+                    File but have not always been successful. Kimball asked if this applied to
+                    current records. Keefer said that it was less of a problem with telegrams kept
+                    electronically since 1973.</p>
+                <p>Patterson said that it would appear that the staff historians were not doing
+                    their jobs completely when they could not locate so many SEPTEL references.
+                    Nelson stated that the search for these reftels would prolong compilation time
+                    and should be noted in the footnotes and prefaces of each volume.</p>
+                <p>Nelson then suggested abbreviating citations. Sampson replied that the
+                    Presidential libraries wanted full citations. Kimball left this matter for
+                    LaFantasie to take up with his staff. In response to a question from Herring,
+                    members of the staff indicated that they had been well treated by the Johnson
+                    Library staff.</p>
+                <pb n="32" xml:id="pg_32" facs="0032"/>
+                <p>Keefer raised the problem of the loss of two senior historians and the impending
+                    loss of one junior historian, pointing out that the time lag of 6 to 8 months in
+                    hiring and the need for 3 months of on the job training meant that the departure
+                    of each historian causes the loss in production of one volume. This meant that
+                    PA/HO would lose ground in meeting its legally mandated production schedule.</p>
+                <p>Kimball saw the need to speed up security clearances. Slany said that because of
+                    the hiring freeze during the change in administration he was authorized to
+                    replace Dave Mabon (who left at the end of February) only last Wednesday.
+                    Kimball said that concern should be conveyed to the right people if vacancies
+                    will cause a falling behind in meeting the 1996 deadline. Nelson asked whether
+                    the Senate Foreign Relations Committee should be informed of this. Kimball said
+                    that an appeal should go to the Hill only when there was no alternative. Perkins
+                    said that the Office of the Historian has no case because all offices face the
+                    same personnel problem. Keefer argued that this Office was unique in that it
+                    must produce a tangible product, and noted that the production schedule was
+                    predicated on full staffing of the Office.</p>
+                <p>Nelson said she feared pressure to meet the publication schedule with fewer
+                    historians would lead to “cutting corners” on the quality of the volumes.
+                    Kimball asked Dr. Slany to investigate the impact of personnel losses on
+                    production and report to him in 30 days.</p>
+                <p>Patterson said that forthcoming subcommittee review of volumes would be helpful.
+                    Kimball reasserted that Taylor and Nelson are to look at the first Johnson
+                    Administration volume, the one on Arms Control.</p>
+                <p>Glad suggested the use of temporary employees for expert advice. Kimball pointed
+                    out that security clearance delays also applied to hiring temporary employees.
+                    Slany gave an example of the use of a retired government employee, Tom Thorne,
+                    for his expertise in preparing the Supplement on Intelligence. Rosenberg
+                    proposed hiring an extra person to make up for time lost. Slany said that he
+                    would try this proposal on Assistant Secretary Donilon. Keefer indicated that
+                    this would be difficult because of the policy of reducing government employment.
+                    Slany pointed out that this Office has the bulk of the Bureau of Public Affairs
+                    budget. Kimball called for use of more historians, if the Office needs them to
+                    meet the schedule. He said that if Slany reports slippage in meeting the
+                    schedule because of personnel departures, the Advisory Committee would
+                    react.</p>
+                <pb n="33" xml:id="pg_33" facs="0033"/>
+                <p>Rosenberg then asked about the effect of page limitations on compilers for the
+                    Johnson volumes. Sampson replied that it was easier to compile bigger volumes,
+                    but the page allotments for the Cyprus and Western Europe volumes were adequate.
+                    Patterson said that the Arms Control volume was about on target in page count.
+                    Keefer pointed out that President Johnson was so engrossed with Vietnam that he
+                    neglected other topics, except brief crises. Therefore 800 to 1,000 page volumes
+                    were feasible. Patterson said that annotation of longer volumes was time
+                    consuming. The conclusion was reached that the staff was not terrified by page
+                    constraints.</p>
+                <p>Kimball turned discussion to the Presidential Review Directive on National
+                    Security Information. He asked for information for a letter to be drafted by
+                    Nelson to an as yet to be determined addressee or addressees (ISOO would get a
+                    copy) on the Advisory Committee’s views on the Directive.</p>
+                <p>Nelson, reading from her notes of Committee members’ discussion at lunch,
+                    mentioned that there was no guidance on the public’s right to know and that the
+                    membership of the Task Force largely of security officers under the Directive
+                    was a disaster. There was no mention of its goals or objectives or of the
+                    information user’s participation.</p>
+                <p>Kimball stated that the Task Force’s work should be open to the public. Glad
+                    called for naming the classifiers on documents for the sake of accountability.
+                    Kimball pointed out that the authority to classify and declassify was not in the
+                    author. Nelson said that periodic downgrading by date was not effective for
+                    declassification. Perkins said that the new Executive Order must make the
+                    previous Reagan-era order less vague.</p>
+                <p>Van Camp stated the need to distinguish between historical and contemporary
+                    information. The new Executive Order should separate the two. The Working Group
+                    in the Department of State on retirement of its 30-year old records should
+                    somehow relate to the work of the Presidential Task Force. Kimball agreed with
+                    Van Camp that the draft letter should stick to the historical record.</p>
+                <p>Glad and Rosenberg noted that the statement of objectives included in the
+                    Presidential Directive was geared to protecting information, not opening it to
+                    the public. In this way the document was skewed to the concerns of the security
+                    people.</p>
+                <p>Kimball said the letter would go to the professional groups with which the
+                    Advisory Committee is most effective. He asked Nelson for the draft of the
+                    letter within one week. Slany offered to FAX copies to the Committee. Van Camp
+                    asked for <pb n="34" xml:id="pg_34" facs="0034"/> different or additional
+                    representatives from the Department of State on the Task Force. Kimball said
+                    that Assistant Secretary Donilon told Slany he was concerned about the Task
+                    Force’s membership as is Assistant Secretary for Administration Pat Kennedy.</p>
+                <p>Glad asked about Steven Garfinkel, Director of ISOO. Kimball considered Garfinkel
+                    as a posssible addressee or recipient of a copy of the proposed letter.
+                    Herschler pointed out the June 11 deadline for information to be submitted to
+                    the Task Force. Slany asked whether Garfinkel should be invited to the next
+                    meeting. Kimball said he would consider it. He asked Nelson to prepare her draft
+                    letter within a week and keep it to one page.</p>
+                <p>The Advisory Committee adjourned into executive session at 2:35 p.m..</p>
+            </div>
+        </body>
+    </text>
+</TEI>
