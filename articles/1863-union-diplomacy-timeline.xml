@@ -18,14 +18,14 @@
         <profileDesc>
             <particDesc>
                 <listPerson>
-                    <person xml:id="JDB" role="editor">
+                    <person role="editor" xml:id="JDB">
                         <persName>Joshua Botts</persName>
                     </person>
                 </listPerson>
             </particDesc>
         </profileDesc>
         <revisionDesc>
-            <change who="#JDB" when="2013-06-18">Drafted text.</change>
+            <change when="2013-06-18" who="#JDB">Drafted text.</change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -34,12 +34,11 @@
                     target="/historicaldocuments/frus-history/research/brilliant-and-important-victories"
                     >“Brilliant and Important Victories”: Gettysburg and Vicksburg in 1863 Union
                     Diplomacy</ref>. </p>
-            <iframe xmlns="http://www.w3.org/1999/xhtml"
-                src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=0AoNLNdpw86LPdG1fMnVKQmJacWRFTy1VSDE1SERQM1E&amp;font=Bevan-PotanoSans&amp;maptype=toner&amp;lang=en&amp;height=650"
-                width="100%" height="650" frameborder="1"
-                webkitallowfullscreen="webkitallowfullscreen" 
+            <iframe allowfullscreen="allowfullscreen" frameborder="1" height="650"
                 mozallowfullscreen="mozallowfullscreen"
-                allowfullscreen="allowfullscreen"/>
+                src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=0AoNLNdpw86LPdG1fMnVKQmJacWRFTy1VSDE1SERQM1E&amp;font=Bevan-PotanoSans&amp;maptype=toner&amp;lang=en&amp;height=650"
+                webkitallowfullscreen="webkitallowfullscreen" width="100%"
+                xmlns="http://www.w3.org/1999/xhtml"/>
         </body>
     </text>
 </TEI>
