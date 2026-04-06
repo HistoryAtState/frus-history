@@ -35,8 +35,11 @@
                     >“Brilliant and Important Victories”: Gettysburg and Vicksburg in 1863 Union
                     Diplomacy</ref>. </p>
             <iframe xmlns="http://www.w3.org/1999/xhtml"
-                src="http://embed.verite.co/timeline/?source=0AoNLNdpw86LPdG1fMnVKQmJacWRFTy1VSDE1SERQM1E&amp;font=Bevan-PotanoSans&amp;maptype=toner&amp;lang=en&amp;height=650"
-                width="100%" height="650" frameborder="1"/>
+                src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=0AoNLNdpw86LPdG1fMnVKQmJacWRFTy1VSDE1SERQM1E&amp;font=Bevan-PotanoSans&amp;maptype=toner&amp;lang=en&amp;height=650"
+                width="100%" height="650" frameborder="1"
+                webkitallowfullscreen="webkitallowfullscreen" 
+                mozallowfullscreen="mozallowfullscreen"
+                allowfullscreen="allowfullscreen"/>
         </body>
     </text>
 </TEI>
