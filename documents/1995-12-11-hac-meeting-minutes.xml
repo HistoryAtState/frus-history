@@ -1,0 +1,1489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hac_1995-12-11_minutes">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Minutes of Historical Advisory Committee Meeting, December
+                    1995</title>
+                <title type="short">HAC Meeting Minutes, 1995</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <date type="created" when="1995-12-11">December 11, 1995</date></publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <pb n="[i]" xml:id="pg_i" facs="0001"/>
+            <div type="section"
+                xml:id="advisory-committee-on-historical-diplomatic-documentation-december-11-12--1995_1">
+                <head><hi rend="bold">Advisory Committee on Historical Diplomatic Documentation
+                        December 11-12, 1995</hi></head>
+                <list>
+                    <item><list>
+                            <head><hi rend="bold">Committee Members</hi></head>
+                            <item>Warren F. Kimball, Chairman</item>
+                            <item>B. Vincent Davis</item>
+                            <item>George C. Herring, Jr.</item>
+                            <item>Michael J. Hogan</item>
+                            <item>Melvyn P. Leffler</item>
+                            <item>Jane C. Picker</item>
+                            <item>Emily Rosenberg</item>
+                            <item>Michael R. Schaller</item>
+                            <item>Anne H. Van Camp</item>
+                            <item>William Z. Slany, Executive Secretary</item>
+                        </list></item>
+                    <item><list>
+                            <head><hi rend="bold">Bureau of Public Affairs, Office of the
+                                    Historian</hi></head>
+                            <item>William Z. Slany, Director</item>
+                            <item>Paul Claussen</item>
+                            <item>Evan Duncan</item>
+                            <item>Bruce Duncombe</item>
+                            <item>Vicki Futscher</item>
+                            <item>Karen Gatz</item>
+                            <item>David Geyer</item>
+                            <item>Deb Godfrey</item>
+                            <item>David Goldman</item>
+                            <item>David Herschler</item>
+                            <item>Kerry Hite</item>
+                            <item>Susan Holly</item>
+                            <item>Nina Howland</item>
+                            <item>David Humphrey</item>
+                            <item>Donna Hung</item>
+                            <item>Michael Joyce</item>
+                            <item>Edward Keefer</item>
+                            <item>Dan Lawler</item>
+                            <item>Gabrielle Mallon</item>
+                            <item>William Marsh</item>
+                            <item>Jim Miller</item>
+                            <item>Gerald Monroe</item>
+                            <item>Robert Pace</item>
+                            <item>David Patterson</item>
+                            <item>Harriet Schwar</item>
+                            <item>Kent Sieg</item>
+                            <item>Luki Smith</item>
+                            <item>Shirley Taylor</item>
+                            <item>Gloria Walker</item>
+                            <item>Carolyn Yee</item>
+                        </list></item>
+                    <item><list>
+                            <head><hi rend="bold">Bureau of Administration</hi></head>
+                            <item>Frank Machak</item>
+                            <item>Anthony Dalsimer, Director, FPC/HDR</item>
+                            <item>Nina Noring, FPC/HDR</item>
+                        </list></item>
+                    <pb n="[ii]" xml:id="pg_ii" facs="0002"/>
+                    <item><list>
+                            <head><hi rend="bold">Office of the Legal Adviser</hi></head>
+                            <item>Peter Pfund, Assistant Legal Aviser for Private International Law
+                                John Kropf, L/LM</item>
+                        </list></item>
+                    <item><list>
+                            <head><hi rend="bold">Library of Congress</hi></head>
+                            <item>David Wigdor, Director, Modern Manuscript Division</item>
+                        </list></item>
+                    <item><list>
+                            <head><hi rend="bold">Central Intelligence Agency</hi></head>
+                            <item>Brian Latell, Chief, Center for the Study of Intelligence</item>
+                            <item>Kay Oliver, Chief, History Staff</item>
+                            <item>Paul Cocks, CIA History Advisory Board</item>
+                            <item>Donald Steury, History Staff</item>
+                        </list></item>
+                    <item><list>
+                            <head><hi rend="bold">Information Security Oversight Office</hi></head>
+                            <item>Ethel Theis, Assistant Director</item>
+                        </list></item>
+                    <item><list>
+                            <head><hi rend="bold">National Archives and Records
+                                Administration</hi></head>
+                            <item>Michael Kurtz, Assistant Archivist, Office of the National
+                                Archives Nancy K. Smith, Office of Presidential Libraries</item>
+                        </list></item>
+                    <item><list>
+                            <head><hi rend="bold">Private</hi></head>
+                            <item>Jane Loeffler</item>
+                            <item>Martha Mautner</item>
+                            <item>Page Putnam Miller</item>
+                        </list></item>
+                </list>
+                <pb n="[iii]" xml:id="pg_iii" facs="0003"/>
+            </div>
+            <div xml:id="contents">
+                <head>Table of Contents</head>
+                <table cols="2">
+                    <row>
+                        <cell><hi rend="bold">Closed Session, December 11</hi></cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Seminar on the Inclusion of Intelligence Documents in the <hi
+                                rend="italic">Foreign Relations</hi> Series</cell>
+                        <cell>
+                            <ref target="#pg_1">1</ref></cell>
+                    </row>
+                    <row>
+                        <cell><hi rend="bold">Open Session, December 12</hi></cell>
+                        <cell>
+                            <ref target="#pg_7">7</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Report of the Executive Secretary</cell>
+                        <cell>
+                            <ref target="#pg_8">8</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Series Goals and Staff Vacancies</cell>
+                        <cell>
+                            <ref target="#pg_8">8</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Declassification</cell>
+                        <cell>
+                            <ref target="#pg_8">8</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Introduction of New Staff</cell>
+                        <cell>
+                            <ref target="#pg_8">8</ref></cell>
+                    </row>
+                    <row>
+                        <cell>New Access to Intelligence Documents</cell>
+                        <cell>
+                            <ref target="#pg_8">8</ref></cell>
+                    </row>
+                    <row>
+                        <cell>The Continuing Case of Guatemala</cell>
+                        <cell>
+                            <ref target="#pg_8">8</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Management of the Historical Advisory Committee</cell>
+                        <cell>
+                            <ref target="#pg_9">9</ref></cell>
+                    </row>
+                    <row>
+                        <cell><hi rend="italic">Documents on Disarmament</hi></cell>
+                        <cell>
+                            <ref target="#pg_9">9</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Follow-up From July 1995 Meeting</cell>
+                        <cell>
+                            <ref target="#pg_10">10</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Preparation for the Nixon and Ford Volumes</cell>
+                        <cell>
+                            <ref target="#pg_10">10</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Access to the Nixon Project</cell>
+                        <cell>
+                            <ref target="#pg_10">10</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Access to the Kissinger Papers</cell>
+                        <cell>
+                            <ref target="#pg_12">12</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Status of Foreign Building Operations Records</cell>
+                        <cell>
+                            <ref target="#pg_13">13</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Information Management Issues</cell>
+                        <cell>
+                            <ref target="#pg_13">13</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Implementation of Executive Order 12958 on National Security
+                            Information</cell>
+                        <cell>
+                            <ref target="#pg_14">14</ref></cell>
+                    </row>
+                    <row>
+                        <cell><hi rend="bold">Closed Session, December 12</hi></cell>
+                        <cell>
+                            <ref target="#pg_17">17</ref></cell>
+                    </row>
+                    <row>
+                        <cell>More on Implementation of Executive Order 12958</cell>
+                        <cell>
+                            <ref target="#pg_17">17</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Status of the Legal Adviser’s Records</cell>
+                        <cell>
+                            <ref target="#pg_21">21</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Classified Material in Non-Governmental Respositories</cell>
+                        <cell>
+                            <ref target="#pg_23">23</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Declassification of the <hi rend="italic">Foreign Relations</hi>
+                            Series</cell>
+                        <cell>
+                            <ref target="#pg_24">24</ref></cell>
+                    </row>
+                </table>
+            </div>
+        </front>
+        <body>
+            <pb n="[1]" xml:id="pg_1" facs="0004"/>
+            <div xml:id="closed-session-december-11">
+                <head>Closed Session, December 11</head>
+                <div xml:id="seminar-on-the-inclusion-of-intelligence">
+                    <head>Seminar on the Inclusion of Intelligence Documents in the Foreign
+                        Relations Series</head>
+                    <p>Chairman Warren Kimball opened the session at 1:45 p.m. by stating that the
+                        purpose was to get a handle on the selection of intelligence documents that
+                        should be included in the <hi rend="italic">Foreign Relations</hi> series.
+                        He noted that the discussion would proceed on the assumption that HO would
+                        continue to have access to intelligence documentation and that the access
+                        would expand. Kimball also pointed out that according to all indicators the
+                        body of material for HO is sizable, and he wanted to discuss where HO’s
+                        emphasis should be so that the amount of material can be used most
+                        effectively. Kimball then introduced each of the presenters.</p>
+                    <p>William Slany began the discussion by expressing his desire to emphasize
+                        Kimball’s comments. He noted that HO’s access to CIA records has increased
+                        and the office looks forward to even greater access to intelligence records.
+                        He pointed out that HO now has access not only to CIA, but also to NSA
+                        documentation. This year HO acquired approximately 1,000 documents of which
+                        up to of 300 were selected for inclusion in <hi rend="italic">Foreign
+                            Relations</hi> volumes.</p>
+                    <p>Slany explained that HO now has more documentation containing different types
+                        of information and is in the process of trying to develop guidelines for its
+                        use as well as for its declassification. He noted a central issue facing the
+                        Committee was whether or not to recommend that the Department publish
+                        volumes with or without CIA documents. Slany said that he had been
+                        discussing documents relating to the Soviet Union with Kay Oliver and that a
+                        good place to start the discussion was by looking at the case of policy
+                        toward the Soviet Union in the Kennedy administration. He then turned the
+                        floor over to David Humphrey and Michael Joyce.</p>
+                    <p>Humphrey began by noting that his comments would not be confined to the
+                        Soviet Union, but would focus on the more general problem of what kind of
+                        intelligence information should be included in <hi rend="italic">Foreign
+                            Relations</hi> volumes with specific reference to the issues of covert
+                        political action and covert paramilitary operations. He noted that the Draft
+                        Principles of State-CIA Cooperation refer to “major covert actions
+                        undertaken as a matter of U.S. foreign policy,” and asked what that
+                        definition actually means.</p>
+                    <p>Humphrey outlined six criteria that could be used to evaluate whether
+                        documentation on covert actions could or should be included in <hi
+                            rend="italic">Foreign Relations</hi> volumes:</p>
+                    <list>
+                        <item>
+                            <p>1) did the covert action bear significantly on U.S.
+                            policy;</p></item>
+                        <item>
+                            <p>2) was it considered and approved by the 303 Committee;</p></item>
+                        <item>
+                            <p>3) did top policymakers, such as the President and the Secretary of
+                                State, take a direct interest in it;</p></item>
+                        <item>
+                            <p>4) did it involve a substantial sum of money in relation to the
+                                country involved;</p></item>
+                        <pb n="2" xml:id="pg_2" facs="0005"/>
+                        <item>
+                            <p>5) if on a small scale, was it tied to a significant policy
+                                initiative (such as support for a group in the process of taking
+                                power) or did it eventually blossom into a major covert action and
+                                have major consequences; and</p></item>
+                        <item>
+                            <p>6) does publishing the documentation clarify or correct an important
+                                issue in the historical record, such as in the case of U.S.
+                                non-intervention in Greece in the 1960s?</p></item>
+                    </list>
+                    <p>Humphrey continued by raising a closely related issue of how much information
+                        needs to be included about a covert action or paramilitary operation and by
+                        asking whether the action or operation could be documented without revealing
+                        sources and methods. He asked whether paramilitary operations could be
+                        properly documented without also conveying their scope and consequences,
+                        using as an illustration the Bay of Pigs operation.</p>
+                    <p>Humphrey then turned to issues relating to the collection and consumption of
+                        intelligence. He noted that there were instances that warranted
+                        documentation of clandestine intelligence collection, namely if it affected
+                        U.S. relations with another country. He pointed out several examples, such
+                        as electronic eavesdropping in the cases of the <hi rend="italic">Maddox,
+                            Liberty</hi>, and <hi rend="italic">Pueblo,</hi> and the effects of
+                        intelligence collection on U.S.Pakistani relations in the 1960s. He also
+                        raised some related questions, notably, how much of the intelligence
+                        operation needed to be revealed in documenting the episode and whether an
+                        intelligence relationship with another country merits documentation because
+                        it is an integral part of that relationship or only when an operation
+                        reaches high-level diplomatic negotiations.</p>
+                    <p>Focusing on intelligence itself, Humphrey asked what makes intelligence worth
+                        printing. While pointing out that most intelligence documents printed in <hi
+                            rend="italic">Foreign Relations</hi> volumes are finished intelligence,
+                        raw intelligence could also appear in a volume, for in some instances raw
+                        intelligence was provided to the President, such as President Johnson
+                        receiving Gulf of Tonkin intercepts. Such raw intelligence is in the files
+                        at Presidential libraries and merits inclusion in the <hi rend="italic"
+                            >Foreign Relations</hi> series.</p>
+                    <p>In assessing the role of intelligence in U.S. relations with another country,
+                        Humphrey raised two questions: how dependent were policymakers on
+                        intelligence as opposed to other sources of information, such as Embassy
+                        reports, and to what extent did specific policymakers use intelligence.
+                        Humphrey then suggested that several factors be considered when judging the
+                        significance of specific intelligence information:</p>
+                    <list>
+                        <item>
+                            <p>1) what did policymakers know about the contents of the
+                                intelligence;</p></item>
+                        <item>
+                            <p>2) what did they do with it;</p></item>
+                        <item>
+                            <p>3) did it influence their decisions; and</p></item>
+                        <item>
+                            <p>4) did it analyze circumstances that policymakers were seriously
+                                concerned about?</p></item>
+                    </list>
+                    <p>Humphrey concluded by suggesting that general questions such as those he
+                        presented should be considered in evaluating intelligence and covert actions
+                        and when considering publishing documents on those issues.</p>
+                    <pb n="3" xml:id="pg_3" facs="0006"/>
+                    <p>Mike Joyce prefaced his presentation by stating that he would provide a
+                        different view of the issue by focusing specifically on the role of
+                        intelligence and the USSR. He stated that intelligence was the foundation
+                        upon which U.S. policy toward the USSR was built. He described his own
+                        intelligence-gathering work going back to 1959 involving collecting and
+                        transmitting to Washington bits of intelligence information for analysis. He
+                        performed that work in Moscow, Havana, and elsewhere.</p>
+                    <p>Joyce reminded the audience that it was important to keep in mind how little
+                        the United States knew about the intentions and capabilities of governments
+                        in closed societies, like the USSR and Cuba. He stated that only on the
+                        basis of covert as well as overt information could the United States build a
+                        picture of the reality in such countries. He emphasized that intelligence
+                        was an essential part of the decisionmaking process and that the development
+                        of U.S. policy toward the USSR could not accurately be reconstructed by
+                        looking solely at diplomatic documents. Instead, he argued, one must examine
+                        the bits of intelligence gathered on a daily basis by the CIA, NSA, covert
+                        photography (after 1961), and the like.</p>
+                    <p>Joyce went on to explain that each morning higher-level officials wanted to
+                        see the bits of intelligence gathered, for the information gave policymakers
+                        a daily update on where things stood. He noted that the information came
+                        from a mixture of overt information and information acquired by covert
+                        means. Most of the intelligence that had an impact on decisionmaking was an
+                        analysis of both overt and covert information.</p>
+                    <p>Joyce explained that 1961 was a watershed year in intelligence gathering
+                        because of the advent of overhead photography. As a result, the NIEs
+                        suddenly became more important because of the inclusion of satellite
+                        information. He also noted that the impact of other kinds of intelligence
+                        gathering was also significant in formulating policy.</p>
+                    <p>Joyce concluded by stating that accounts of U.S. policy in the 1960s need to
+                        include more intelligence and related types of information. In his view,
+                        intelligence gathering was at times the most important aspect of U.S.
+                        relations with another country, such as Germany, and is part of policymaking
+                        decisions.</p>
+                    <p>Martha Mautner began her presentation by explaining her background in the
+                        analytical side of intelligence in INR. She estimated that the product of
+                        that analysis was an amalgam of information, about 80 percent of which came
+                        from open sources and about 2–5 percent from clandestine information. She
+                        noted that the finished analysis could be written in unclassified form for
+                        public consumption and that individual pieces of covert intelligence were
+                        not that important in and of themselves but as a check to confirm
+                        information gathered by other means.</p>
+                    <p>In particular cases, such as the Berlin crisis and Ostpolitik, Mautner
+                        explained, the United States would not have been able to reach an
+                        understanding of the situation without acquiring highly classified
+                        information. She noted that Ostpolitik cannot be understood without taking
+                        that information into account. She cautioned that there is always some
+                        question about covert information, and one must ask why it was provided and
+                        if the provider had a particular agenda that must be considered. She noted
+                        that important covert information on the USSR and East Germany provided the
+                        key to a U.S. understanding of <pb n="4" xml:id="pg_4" facs="0007"/> the
+                        Ostpolitik operation and that the information was invaluable to formulating
+                        the U.S. position toward and response to Ostpolitik. She emphasized that in
+                        that and other instances intelligence is part of the record and the record
+                        would not be complete without it. She also cautioned that the value of
+                        intelligence to decisionmakers depends on the personalities
+                        involved&#x02014;sometimes a provider had an agenda&#x02014;and it also
+                        depends on the analyst involved.</p>
+                    <p>Mautner noted that in the case of the Berlin crisis the United States had
+                        little information from the East German side because it was a closed society
+                        and had no contacts with top East German officials or other providers of
+                        information in that society. She indicated the importance of intelligence,
+                        which came from irregular channels, to the United States in that
+                        instance.</p>
+                    <p>Mautner agreed with Joyce, stressing that the information given to U.S.
+                        policymakers is an amalgam of overt and covert information and that the
+                        totality of information is used in the decisionmaking process. She believed
+                        the release of military intelligence was very important, but noted that
+                        political information needs to be evaluated as to when, why, and by whom it
+                        was given. She concluded by noting that the material must be examined if a
+                        history of the period is to be written, and indicated that significant
+                        amounts of intelligence information may be available.</p>
+                    <p>Joyce added that one needs to look at intelligence capabilities at a specific
+                        point in time, for technological advances produced different types of
+                        intelligence.</p>
+                    <p>Brian Latell then took the floor and argued for a threshold to determine what
+                        kind of intelligence is important for the <hi rend="italic">Foreign
+                            Relations</hi> series. He welcomed Humphrey’s six criteria, noting that
+                        it was not easy to reach a bottom line or a threshold on the issue, but
+                        recommended adding a seventh point to Humphrey’s list: was there a third or
+                        fourth country involved in the intelligence operation or covert action and,
+                        if so, how much information should be included about that country in the
+                        volumes?</p>
+                    <p>Latell then asked what constitutes intelligence sources and analysis. He
+                        suggested that to talk only about individual sources may be taking the
+                        discussion and the threshold too far, noting that the Agency was very
+                        concerned about protecting the individual source. He also asked about
+                        requests for raw source information and indicated that it may be useful to
+                        discuss that area.</p>
+                    <p>As clarification and background, Latell reported that the Center for the
+                        Study of Intelligence has been engaged in an aggressive effort to declassify
+                        significant amounts of intelligence information. He noted that over 400 NIEs
+                        on the Soviet Union had been declassified and hoped that more of the recent
+                        estimates would soon be declassified as well as substantial amounts of other
+                        types of intelligence information.</p>
+                    <p>Latell applauded the purpose of this session. He believed one of the purposes
+                        was to allow all parties to reach a consensus about the threshold and to
+                        give the Center more information about the use of CIA materials in the
+                        series. He explained that the position of the Center was to be as open as
+                        possible, but he reminded all present that the Center had to work with the
+                        Operations Directorate, which is committed to protecting sources and <pb
+                            n="5" xml:id="pg_5" facs="0008"/> documents to the greatest extent
+                        possible. He ended by noting that the more the issue of threshold is
+                        discussed and clarified, the better the situation will become.</p>
+                    <p>Kay Oliver believed that different opinions expressed about the impact of
+                        intelligence on policymaking reflected confusion concerning the definitional
+                        issue of what constitutes “intelligence.” She noted that CIA officers
+                        generally used the term “intelligence” to refer to all-source analysis
+                        (i.e., analysis informed by both overt and covert sources). The relative
+                        importance of different types of source materials varied from issue to
+                        issue. During the period under consideration for this volume (1961–1963),
+                        for example, some of the best analysis of Soviet politics done at
+                        CIA&#x02014;the work of FBIS media analysts such as Carl Linden&#x02014;was
+                        based on open source materials. At the same time, for some types of
+                        analysis&#x02014;particularly in the military area&#x02014;information
+                        clandestinely acquired through technical means was of paramount
+                        significance.</p>
+                    <p>Oliver noted that in assessing the impact of intelligence on policy, the
+                        importance of different categories of intelligence publications varied from
+                        one period to the next. During the period in question for this volume, for
+                        example, DDI Ray Cline was emphasizing the use of typescripts tailored for
+                        particular high-level consumers rather than serial publications such as the
+                        Current Intelligence Weekly Review (CIWR). Nevertheless, inclusion of CIWR
+                        articles would provide <hi rend="italic">Foreign Relations</hi> readers with
+                        a flavor of the type of analysis being sent to policymakers.</p>
+                    <p>Joyce reiterated the need to include daily intelligence in the <hi
+                            rend="italic">Foreign Relations</hi> volumes. He said that policymakers
+                        paid more attention to daily intelligence items than to the handful of NIEs
+                        that were included in the Soviet Union volume for 1961-1963.</p>
+                    <p>Humphrey suggested that daily intelligence was not appropriate for the
+                        volume. What was significant was how the policymakers used intelligence, not
+                        simply the fact that the intelligence was produced. Joyce countered that
+                        daily intelligence was vital to the creation of a mindset of
+                        policymakers.</p>
+                    <p>Latell cautioned against giving too much importance to some daily
+                        intelligence or weekly intelligence products, noting from his experience as
+                        an analyst that some such serial publications were of low level and
+                        represented only the view of a few analysts. Not all daily publications were
+                        the products of wide coordination within the intelligence community.</p>
+                    <p>Joyce reiterated his view that daily intelligence was the key.</p>
+                    <p>Kimball then asked about the location of daily intelligence
+                        documentation&#x02014;a question earlier asked by Mel Leffler. Where were
+                        the daily intelligence summaries for the President or other principal
+                        figures? Edward Keefer suggested that each foreign policy agency created its
+                        own daily intelligence file; hundreds of thousands of documents were
+                        involved. Luke Smith noted that space limitations in <hi rend="italic"
+                            >Foreign Relations</hi> volumes often meant that only summary portions
+                        of NIEs could be printed. He wondered if the CIA should not consider
+                        publishing its own series on finished intelligence, which could be used to
+                        supplement the <hi rend="italic">Foreign Relations</hi> series. Latell
+                        thought that was an interesting idea.</p>
+                    <pb n="6" xml:id="pg_6" facs="0009"/>
+                    <p>Paul Cocks thought that the mix of finished intelligence in the Soviet Union
+                        volume for 1961-1963 which he saw, weekly summaries and NIEs, was good,
+                        especially when added to the memoranda from McCone.</p>
+                    <p>Emily Rosenberg stated that it seemed as if the discussion had reached an
+                        interesting point&#x02014;CIA arguing for more intelligence coverage and HO
+                        holding back. Humphrey stated that HO was not holding back on covering
+                        covert operations, far from it, but the historians felt that finished
+                        intelligence was massive&#x02014;even that which made it into the White
+                        House files&#x02014;and should not overwhelm the series.</p>
+                    <p>Joyce stated that he thought that the 1961-1963 Soviet Union volume needed
+                        more intelligence assessments on the Soviet economy.</p>
+                    <p>Keefer suggested that the access to both finished and covert operations
+                        documentation was increasing, and although each new Presidential
+                        administration created more important records, the size of the series was
+                        either static or shrinking. Kimball suggested that the growth in
+                        documentation necessitates a need for greater and more careful assessment of
+                        intelligence materials to be included.</p>
+                    <p>Latell offered the idea that perhaps the solution to Joyce’s concern was to
+                        add a sample of different kinds of intelligence. Rosenberg asked if one of
+                        the problems with using documents on covert operations was the issue of
+                        foreign liaison with allies. Keefer suggested that this was the major
+                        problem.</p>
+                    <p>The meeting adjourned for a break and resumed at 3:20 p.m.</p>
+                    <p>Continuing the discussion of intelligence, Kimball proposed that the group
+                        focus on such questions as what to look for and what’s there. Van Camp asked
+                        for information on the CIA’s archives. Oliver responded that CIA records
+                        were organized on the basis of functional components. The types of
+                        documentation created corresponded to the type of work the component did,
+                        analytical work being far different from operational activities.</p>
+                    <p>After Joyce commented on the need to remember that there were a variety of
+                        members in the “intelligence community,” he and Humphrey exchanged views on
+                        what criteria should be employed in the selection of intelligence records
+                        for <hi rend="italic">Foreign Relations</hi> volumes. Joyce viewed
+                        intelligence as the humus out of which policymaking decisions were made.
+                        Thus, the volumes should be rich in use of these materials. Humphrey tended
+                        to view intelligence records as important in relation to the level at which
+                        they were employed. White House and high-level State Department files were a
+                        guide to what was important. Keefer added that the records were too
+                        voluminous for any but the most limited inclusion. Schwar suggested a
+                        statement in the preface to indicate the limits on using these records.</p>
+                    <p>The CIA representatives then discussed the value of the various intelligence
+                        products they were involved with. The question of the importance of NIEs and
+                        NIDs within the policymaking process was discussed. HO historians tended to
+                        argue that each volume needed to be treated on a case-by-case basis but that
+                        intelligence definitely had a role in the volumes.</p>
+                    <pb n="7" xml:id="pg_7" facs="0010"/>
+                    <p>Rosenberg indicated that she found the discussion disturbing, since it
+                        suggested that the <hi rend="italic">Foreign Relations</hi> volumes did not
+                        allow adequate space to document properly the decisionmaking process and the
+                        role of intelligence in it. Michael Hogan asked whether the compilers felt
+                        that they were able to incorporate intelligence adequately. Humphrey
+                        responded that he felt comfortable with the amount of intelligence
+                        incorporated in the Vietnam volumes for 1965 and 1966, but George Herring
+                        noted that Vietnam was unusual in the number of volumes devoted to it.</p>
+                    <p>Kimball asked whether we can get our arms around the volume of intelligence
+                        material. How can the Committee help HO historians deal with the amount of
+                        material? Commenting on the problem of limited space that Smith had
+                        emphasized, Oliver stated that NIEs were worthwhile and that maybe Joyce’s
+                        idea of sampling intelligence material should be explored. Don Steury noted
+                        problems with recordkeeping in the Directorate of Intelligence&#x02014;it
+                        was not easy to find what you wanted.</p>
+                    <p>Bruce Duncombe and Jane Picker raised the issue of the Aldrich Ames case and
+                        its implications for using intelligence. What would historians like to see?
+                        Kimball noted that we are writing the history of foreign policy and not
+                        intelligence.</p>
+                    <p>Turning to the question of covert action, Rosenberg asked about the
+                        significance of the seventh criterion&#x02014;concerning liaison with third
+                        countries&#x02014;that Latell had added to Humphrey’s criteria. Would it be
+                        an occasional stumbling point or a regular one? Oliver thought it would have
+                        a rather broad impact. Keefer saw it as the principal problem. Humphrey
+                        noted that his six criteria were criteria for including covert actions in
+                            <hi rend="italic">Foreign Relations</hi> volumes, whereas Latell’s was a
+                        criterion for excluding them. Jerry Monroe commented that relations with a
+                        country that was an object of covert action was also commonly a complicating
+                        factor.</p>
+                    <p>Kimball asked how can we be confident that we have at least been shown all
+                        the relevant material on covert actions. Oliver commented that there was
+                        reason for more confidence than in the past. Smith noted that we now have
+                        access to records of the 303 Committee.</p>
+                    <p>The Committee adjourned at 4:30 p.m.</p>
+                </div>
+            </div>
+            <div xml:id="open-session-december-12">
+                <head>Open Session, December 12</head>
+                <p>Prior to the beginning of the meeting, members of the Advisory Committee were
+                    photographed by the State Department photographer for inclusion in a future
+                    issue of <hi rend="italic">State</hi> magazine.</p>
+                <p>Chairman Kimball convened the open session at 9:17 a.m. and issued the customary
+                    warning about discussion of classified material. He then asked for approval of
+                    the minutes of the July 1995 meeting. One correction was called for by Kimball
+                    and approved. The minutes as amended will stand.</p>
+                <p>Kimball then turned to the approval of agenda. Slany said that there were no
+                    changes other than that a different attorney would be attending on behalf of the
+                    Legal Adviser’s Office. Kimball then asked Slany as Executive Secretary to give
+                    a report.</p>
+                <pb n="8" xml:id="pg_8" facs="0011"/>
+                <div xml:id="report-of-the-executive-secretary">
+                    <head>Report of the Executive Secretary</head>
+                    <p>Slany advised the Committee members that since they already had a general
+                        written report on the status of the <hi rend="italic">Foreign Relations</hi>
+                        series in their packets, he would bring them up to date on other
+                        matters.</p>
+                    <div xml:id="series-goals-and-staff-vacancies">
+                        <head>Series Goals and Staff Vacancies</head>
+                        <p>Slany said that the staff has achieved much in implementing the 1991
+                            statute but continues to have great difficulty in fitting more
+                            documentation into smaller volumes and had not been successful in
+                            meeting the ambitious goals for completion. He said that the project was
+                            slipping behind in some areas and not all Kennedy volumes will have been
+                            published by 1996. The problem was exacerbated by two professional staff
+                            vacancies: the Deputy Historian/General Editor and a historian in the
+                            European Division. He explained that even with a full staff, it was hard
+                            to make the series broader and more inclusive and still keep up the
+                            pace. Slany welcomed the advice of the Committee on what to do about the
+                            problem.</p>
+                    </div>
+                    <div xml:id="declassification">
+                        <head>Declassification</head>
+                        <p>Slany noted that the matter would be discussed in the closed session.</p>
+                    </div>
+                    <div xml:id="introduction-of-new-staff">
+                        <head>Introduction of New Staff</head>
+                        <p>Slany introduced Kent Sieg who has joined the Asia and Americas Division.
+                            He noted that Sieg is compiling materials for the Vietnam volumes, an
+                            area in which he is very experienced.</p>
+                    </div>
+                    <div xml:id="new-access-to-intelligence-documents">
+                        <head>New Access to Intelligence Documents</head>
+                        <p>The staff takes great pride in the wider inclusion of intelligence
+                            materials, including those of the NSC, CIA, and other special group
+                            files. Slany said that the staff would soon gain access to documents
+                            from the President’s Foreign Intelligence Advisory Board. David
+                            Patterson explained that the materials were an additional record and
+                            would supplement the documentation in the Presidential libraries.</p>
+                        <p>As an example of the benefits derived from these newly available
+                            archives, Slany cited the Kennedy/Khrushchev correspondence collection
+                            in which the staff turned to the records of the Russian Foreign Ministry
+                            to fill in the gaps. While the Russians could not provide everything,
+                            the volumes had moved forward toward publication.</p>
+                    </div>
+                    <div xml:id="the-continuing-case-of-guatemala">
+                        <head>The Continuing Case of Guatemala</head>
+                        <p>Slany said that the staff had been working with the CIA historians on the
+                            Guatemala problem. The CIA had intended to hold a conference and release
+                            a facsimile publication dealing with the 1954 events but now will not be
+                            able to do so within the next year. It seems desirable, Slany said, for
+                            HO to pursue this publication as part of the <hi rend="italic">Foreign
+                                Relations</hi> series since senior Foreign Service advisers Bill
+                            Marsh and Jerry Monroe have already collected approximately 900
+                            documents. Selections from this collection would be compiled in a larger
+                            Eisenhower volume that also will include materials on Iran, Indonesia,
+                            and any other covert actions that may be relevant. “While we would like
+                            to cooperate with the CIA,” Slany said, “if they can’t do it, it seems
+                            unreasonable to delay.”</p>
+                        <p>Slany went on to explain that with the staff already fully committed, HO
+                            would propose to use senior Foreign Service advisers to assist in the
+                            compilation of compile the volume. Kimball said that perhaps the
+                            Committee should seek reaction to the proposal to <pb n="9"
+                                xml:id="pg_9" facs="0012"/> move this volume from the back burner to
+                            a priority. Hogan asked why the CIA could not hold a conference. Slany
+                            replied that the CIA historians had not yet gained the full endorsement
+                            of their own agency but that the leadership of the Department of State
+                            was behind it.</p>
+                        <p>Hogan then asked if there was a better prospect of moving ahead without
+                            the CIA historians. Slany agreed. Kimball added that the CIA History
+                            Staff was not opposed to State’s initiative on this matter, and Slany
+                            said that State will still try to get CIA’s cooperation.</p>
+                        <p>Kimball said that the Committee should go on record in support of the
+                            entire project, which will include Iran, Indonesia, Guatemala, and “any
+                            other significant bits of information.” The volume will be about 800 to
+                            1,000 pages. Rosenberg asked if extra money hadn’t been found to do the
+                            compiling a year ago, and referred to a presentation by Steve Kane
+                            (PA/PC), who was the compiler of the 1952-1954 Guatemala volume. Slany
+                            explained that Kane’s assignment involved no funding, but was a limited
+                            detail.</p>
+                        <p>Kimball then asked if it was appropriate for the Committee to ask for an
+                            expansion of resources. Rosenberg felt that it was most appropriate for
+                            Slany himself to decide who will do the compiling, and Picker commented
+                            that the Committee would not want its actions to preclude Slany from
+                            going forward. Kimball then called for a vote, which was unanimous in
+                            favor of proceeding with the volume.</p>
+                    </div>
+                    <div xml:id="management-of-the-historical-advisory-committee">
+                        <head>Management of the Historical Advisory Committee</head>
+                        <p>Because the work of the Committee has expanded, the amount of time and
+                            money to support the work of the Committee has also expanded. Slany said
+                            that HO has added a staff member, Gloria Walker, to provide needed staff
+                            support. In addition, in order to track reimbursement for travel and
+                            expenses, Rita Baker will supplement the existing effort to bring the
+                            claims up-to-date.</p>
+                        <p>Slany also said that the Internet may be a useful vehicle for
+                            dissemination of information. Next year, HO will try to put out biweekly
+                            reports on the Internet, which will be available to everyone. He
+                            believes that there is enough going on in the “dark periods” between
+                            meetings to distribute information more broadly and more regularly.</p>
+                        <p>The Advisory Committee’s charter is open for revision every 2 years,
+                            Slany said, and it will be circulated to those who do not currently have
+                            a copy with a request for revision suggestions. Kimball said that
+                            everyone should have a red-covered copy and advised those who did not to
+                            get one from HO. Picker and Vince Davis needed copies.</p>
+                        <p>Kimball also asked that revision suggestions be sent to him before the
+                            next scheduled meeting in February. He stressed that the charter was an
+                            important document within the State Department because it gave the
+                            Committee authority.</p>
+                    </div>
+                    <div xml:id="documents-on-disarmament">
+                        <head>Documents on Disarmament</head>
+                        <p>The last volume published in this series covered 1986, and ACDA is
+                            responding to the recommendation of the Inspector General’s report to
+                            abolish the position of ACDA historian, which has been occupied only on
+                            a sporadic basis since the late 1980s. The IG report also recommended
+                            that the documents collected since the last published volume be turned
+                            over to HO. Slany said that steps will be taken in <pb n="10"
+                                xml:id="pg_10" facs="0013"/> coordination with ACDA to ensure the
+                            distribution of the important arms control agreements and documents of
+                            the late 1980s and early 1990s, but no decision has been made on how
+                            exactly to proceed given the lack of staff. He said that at a minimum
+                            the documents would be made available in an electronic format and that a
+                            decision would be made in the next 6 weeks or so.</p>
+                    </div>
+                </div>
+                <div xml:id="follow-up-from-july-1995-meeting">
+                    <head>Follow-up From July 1995 Meeting</head>
+                    <p>Kimball noted that at the last session Slany had expressed concern about
+                        personnel issues and asked for an update. Slany said that a short-list of
+                        candidates for the Deputy Historian/General Editor now existed and, once the
+                        leadership of the PA Bureau had examined the list, a decision would be
+                        forthcoming perhaps as early as December.</p>
+                    <p>Slany explained that a candidate had been selected for the 4-year position in
+                        Humphrey’s division and had just finished the DS clearance process. However,
+                        he added, severe budgetary constraints meant that the Bureau must seek to
+                        reconfirm this exemption from the hiring freeze. Slany explained that while
+                        this would not be easy, he was “fairly sanguine” about the possibility of
+                        success.</p>
+                    <p>No additional questions or concerns were raised by the Committee.</p>
+                </div>
+                <div xml:id="preparation-for-the-nixon-and-ford-volumes">
+                    <head>Preparation for the Nixon and Ford Volumes</head>
+                    <div xml:id="access-to-the-nixon-project">
+                        <head>Access to the Nixon Project</head>
+                        <p>Slany introduced Nancy Smith of the Office of Presidential Libraries of
+                            the National Archives and David Wigdor, Chief of the Modern Manuscript
+                            Division of the Library of Congress. As an introduction to their
+                            comments, Slany said that HO had a research plan that was being advanced
+                            and that five or six historians would begin work next year in the Nixon
+                            collections.</p>
+                        <p>Smith then reported that good progress had been made on gaining access to
+                            the Nixon project materials. She had arranged two meetings between the
+                            Department of State and the Nixon lawyers to share information on both
+                            the needs of the historians as well as the type of access agreements the
+                            lawyers will require. Smith assured the Committee that based on her
+                            conversations with Stan Mortenson, the main Nixon lawyer, <hi
+                                rend="italic">Foreign Relations</hi> historians would have access to
+                            textual Presidential historical materials.</p>
+                        <p>Smith said that HO researchers may begin work in the National Security
+                            Files at any time and that action is currently with the Department of
+                            State to draft an access agreement on taking copies back to State that
+                            will maintain of the copies status as Nixon historical materials. She
+                            explained that discussion on access for <hi rend="italic">Foreign
+                                Relations</hi> historians to the approximately 3,700 hours of
+                            audiotapes had been reserved for the future.</p>
+                        <p>Kimball asked if “sheer access” was the issue over the tapes, to which
+                            Smith responded in the affirmative. She believed that Mortenson wanted
+                            to see how research in the paper collections proceeded before making
+                            decisions about tapes&#x02014;there is no access at the moment. Smith
+                            said her impression was that the Nixon lawyers believe that the <hi
+                                rend="italic">Foreign Relations</hi> series is important.</p>
+                        <pb n="11" xml:id="pg_11" facs="0014"/>
+                        <p>Kimball then asked the HO staff if use of the tapes usually came after
+                            searches of the paper collections were complete. Patterson said yes and
+                            Humphrey agreed, explaining that it had been done that way because
+                            “we’ve had to.” He added that this was not a particularly desirable way
+                            of proceeding.</p>
+                        <p>Smith explained that there were no transcripts of the tapes. She urged
+                            the historians to get into the paper collections since the volume was so
+                            much greater than those of Presidents Kennedy or Johnson.</p>
+                        <p>Hogan asked if deterioration of the tapes should be a concern in the
+                            access debate. Smith said that although the National Archives had made a
+                            new archival preservation copy of the Nixon tapes beginning in 1992, the
+                            original tapes eventually would deteriorate because magnetic tape was
+                            not a permanent medium.</p>
+                        <p>Michael Schaller asked if access was limited to the National Security
+                            Files. Smith said that discussions had been geared to this file as being
+                            the most obviously useful to the historians, but that access had been
+                            granted to all the textual files. She explained that NARA must review
+                            all materials proposed for inclusion in <hi rend="italic">Foreign
+                                Relations</hi> according to the seven factors in the Presidential
+                            Recordings and Materials Preservation Act (PRMPA). Access itself was not
+                            a problem but the issues of providing copies to <hi rend="italic"
+                                >Foreign Relations</hi> historians and making copies available to
+                            the public might be a problem; someone&#x02014;Henry Kissinger for
+                            example&#x02014;may object to opening the items. Again, she emphasized
+                            that Mortenson wants a memorandum of understanding. David Herschler
+                            added that the right to take copies back to the office must be part of
+                            the agreed arrangement.</p>
+                        <p>Herring asked if the declassification procedure will be complicated. The
+                            process will not be like dealing with the other Presidential
+                            collections, Smith explained, because the Nixon materials are covered by
+                            a unique statutory authority (the PRMPA) and additionally complicated by
+                            the ongoing mediation process and court injunctions. She said that
+                            everything must be declassified and reviewed in accordance with the
+                            authorities governing the Nixon material and that NARA will then publish
+                            a <hi rend="italic">Federal Register</hi> notice that will give people
+                            30 days to object. Kimball quizzed her on what the grounds for objection
+                            could be and whether or not such grounds were detailed in the law.</p>
+                        <p>Smith said that the grounds could be invasion of individual privacy or
+                            that the item is personal and returnable. If an objection were lodged,
+                            the dispute would go to the Presidential Materials Review Board, chaired
+                            by the Archivist, which would look at the issue and reach a decision. If
+                            the decision was to open the document, the individual would have 30 days
+                            to file an objection in court. Herring asked if this meant literally
+                            anyone who was mentioned.</p>
+                        <p>Smith explained that the Archives had a list of about 70 individuals who
+                            were always alerted when any materials were opened, in addition to the
+                                <hi rend="italic">Federal Register</hi> notice, and explained that
+                            this was the source of her concern about declassification. Again, she
+                            urged the historians to get into the documents as soon as possible.</p>
+                        <p>Given your experience, Kimball asked Smith, will the kinds of documents
+                            we pull cause problems? Yes, Smith replied, although she declined to
+                            mention specific names. NARA already has a collection of 200 hours of
+                            Watergate-related tape that it will propose <pb n="12" xml:id="pg_12"
+                                facs="0015"/> for release when the litigation is resolved. She again
+                            explained that it was her impression that Mortenson and the other Nixon
+                            people support the <hi rend="italic">Foreign Relations</hi> series and
+                            were willing to be cooperative. Anne Van Camp asked if Smith thought
+                            that the documents “would be released in your lifetime?”</p>
+                        <p>Smith responded that she would love to have all the tapes open since they
+                            have been closed for 22 years. She added that it was hard to be
+                            optimistic or pessimistic because whenever a breakthrough seemed
+                            imminent, something always came up.</p>
+                        <p>Schwar asked if the Nixon family had the right, in addition to the 70
+                            named individuals, to review the documents. Absolutely, Smith responded.
+                            Would the declassification review take place before the NARA review,
+                            Humphrey asked, and would NARA oversee the review by other government
+                            agencies with an interest in declassification? Smith explained that the
+                            declassification review would take place first, and then when it was
+                            clear what HO wanted, NARA would then see if the Nixon estate objected.
+                            Humphrey restated his question for clarification: after HO has gotten a
+                            volume reviewed and declassified then NARA will do its review? Smith
+                            said that was correct, but mechanisms will be established to speed the
+                            process along.</p>
+                    </div>
+                    <div xml:id="access-to-the-kissinger-papers">
+                        <head>Access to the Kissinger Papers</head>
+                        <p>Kimball then turned to the Kissinger collection at the Library of
+                            Congress. Wigdor said that the Committee’s request for a report came at
+                            an opportune time since the Library had been organizing the Kissinger
+                            papers for the past 2 years so that the collection will be an easy one
+                            to use. The Library has written to Kissinger about the HO access
+                            question but there had not yet been time for a response. Wigdor said
+                            that over the years Kissinger’s papers have been used by various State
+                            Department offices so that he was “guardedly optimistic” about access.
+                            He believes that there will be no administrative problems except
+                            regarding copying classified documents. The biggest problem will be
+                            finding the staff to work with HO in handling such large requests.
+                            Security is the biggest problem, and the documents will have to be
+                            carried by a State Department courier.</p>
+                        <p>Kimball asked if there were donor restrictions, and Wigdor said not of
+                            the magnitude of the Nixon papers. Van Camp asked if Kissinger could
+                            refuse access; Wigdor said yes. Kimball interjected that the question of
+                            whether the papers were public or private was challenged in court and
+                            that the public lost&#x02014;the papers are considered to be
+                            private.</p>
+                        <p>Humphrey asked if a description of the collection existed. HO has an old
+                            description, but a new one is being drafted, Wigdor said. He explained
+                            that the collection covered the same papers Kissinger used in drafting
+                            his memoirs. The Library is hopeful that he will add more papers in the
+                            future, but the collection at the moment covers only 1969-1976. Wigdor
+                            explained that access was restricted to the documents for either 25
+                            years from the date of the document or until after Kissinger’s death,
+                            whichever was later. He assumed, at this point, that lifetime closure
+                            was most likely.</p>
+                        <p>Rosenberg then asked if the documents could now be selected and
+                            declassified. Not in their present status, Wigdor said. Herring asked if
+                            Kissinger could add other conditions in granting access. Wigdor said
+                            yes.</p>
+                        <pb n="13" xml:id="pg_13" facs="0016"/>
+                        <p>Davis asked if other materials, such as the Kissinger-Rockefeller
+                            correspondence, are in the collection. No, Wigdor explained; if he is
+                            the donor, Kissinger still owns the correspondence, which means that he
+                            has the rights over it, although not, perhaps, copyright.</p>
+                        <p>Kimball asked what the law says regarding public access to private
+                            collections of government officials that include classified materials.
+                            Can these materials be declassified? Picker cited the example of an
+                            author who was not allowed to have a copy of her own book pending
+                            declassification. In the case of the Kissinger papers, Wigdor said that
+                            declassification still requires the permission of all agencies with
+                            equity. Dan Lawler said that for the last several years classified
+                            information has been considered, by definition, the property of the
+                            government.</p>
+                        <p>Wigdor said that it worked the other way as well: If a document was
+                            stamped classified in one collection but not in another, then it was
+                            released, e.g. the Oppenheimer papers at Princeton. The journals of AEC
+                            Chairman Glenn Seaborg were another example of an agency (Energy)
+                            preventing the release of documents, Patterson interjected. The
+                            Department of Energy held up publication of his private journals while
+                            they excised classified material. Smith said that NARA held the Mondale
+                            papers for the University of Minnesota because the University could not
+                            house classified documents. But the Humphrey papers are at the Minnesota
+                            Historical Society, Van Camp said. How is declassification handled in
+                            such cases, Patterson asked. Kimball asked if the guidelines in the new
+                            Executive Order were interpreted to mean that these non-governmental
+                            holders of classified materials must do their own systematic review.
+                            Smith said that FOIA cannot be done since they cannot be considered
+                            federal records if held in a university library.</p>
+                    </div>
+                </div>
+                <div xml:id="status-of-foreign-building-operations-records">
+                    <head>Status of Foreign Building Operations Records</head>
+                    <p>Slany then introduced Jane Loeffler, who has recently completed her doctoral
+                        dissertation on the history of buildings at overseas Embassies. She voiced
+                        concern about the “housekeeping” practices of the Department’s Office of
+                        Foreign Building Operations. Because the office no longer has an archivist,
+                        she believes that an important collection of documents and photographs is
+                        not being preserved or adequately controlled. Loeffler said that many
+                        records could no longer be found and that staff members could sign out
+                        materials with no adequate controls. Kimball said that she should consult
+                        with the NARA representatives during the break. Smith said that Loeffler
+                        should speak with her colleague, Michael Kurtz, who was in attendance, and
+                        Kimball concurred.</p>
+                    <p>The session adjourned at about 10:30 am.</p>
+                </div>
+                <div xml:id="information-management-issues">
+                    <head>Information Management Issues</head>
+                    <p>Kimball called the meeting to order at 10:45. He said that they needed to
+                        continue the previous discussion and that Nancy Smith and Michael Kurtz
+                        would speak to these issues. He noted, however, that some questions
+                        concerning information management had been raised during their Monday
+                        meeting with Ken Rossman. Since Kurtz could not come back after lunch, he
+                        suggested that they deal with these first.</p>
+                    <pb n="14" xml:id="pg_14" facs="0017"/>
+                    <p>Van Camp said that she wanted to bring up a very practical idea that had
+                        arisen during their discussion with Rossman. In its declassification review,
+                        the Department of State separated the files that may be opened from those
+                        that will remain classified. Rossman had suggested that the Department might
+                        put these in archival boxes and label them before shipping them to NARA.
+                        Committee members thought this sounded like a good idea, and Kurtz agreed
+                        that it was one that NARA would support.</p>
+                    <p>Van Camp noted that a larger issue that had arisen during their discussion
+                        was how to transfer the Department’s electronic records to NARA. Rossman had
+                        said that by 1998, State would be transferring its files (beginning with
+                        1973) in electronic form. The Department planned to send the data tapes to
+                        NARA without the software used here. The Advisory Committee’s concern was
+                        that the software was also part of the record and that NARA should have this
+                        as well. She wanted NARA’s reaction to this concern. A third issue was what
+                        was going to happen to such records in the future. Should the Department
+                        keep control of these records with NARA providing access?</p>
+                    <p>Kurtz responded that these were very complicated issues. NARA had been
+                        exploring ways to handle electronic records. One possibility was the
+                        non-custodial method used in Australia and Canada, under which government
+                        agencies kept control of the records and the archives set standards and
+                        arranged access. He noted that there were problems with the OASIS system,
+                        which they had had a meeting to explore. They were planning to set up a
+                        joint State-NARA group to work out methods of transferring electronic
+                        records. This was going to require lots of interagency dialogue and would be
+                        a long process. There was not going to be an abrupt change.</p>
+                    <p>Kimball asked if the Advisory Committee could have a report on this at their
+                        next meeting. Kurtz suggested that it be at the following meeting.</p>
+                </div>
+                <div
+                    xml:id="implementation-of-executive-order-12958-on-national-security-information">
+                    <head>Implementation of Executive Order 12958 on National Security
+                        Information</head>
+                    <p>Kimball proposed that the discussion return to the issue of implementation of
+                        the Executive Order, which Smith and Kurtz could address. Ethel Theis,
+                        Associate Director of ISOO, would either answer questions or make a
+                        statement. Theis said she would do whatever the Committee wanted.</p>
+                    <p>John Kropf from L said that he was there to answer one question, whether
+                        “should” was mandatory or discretionary, and that the short answer was that
+                        it was discretionary.</p>
+                    <p>Kurtz reported that NARA had been working on implementation of the Executive
+                        Order since it was signed in April. In June, there had been an interagency
+                        meeting to assess classified files, of which there are an estimated 460
+                        million pages. He noted that there were three categories of classified
+                        files:</p>
+                    <list>
+                        <item>
+                            <p>1) files that were so replete with sensitive material that they were
+                                exempt;</p></item>
+                        <item>
+                            <p>2) files that had to be looked at; and</p></item>
+                        <item>
+                            <p>3) files that were not so sensitive, requiring little or no
+                                review.</p></item>
+                    </list>
+                    <p>NARA was now doing for the agencies a more detailed review of classified
+                        files, finding aids, equities, etc. NARA had also briefed various agencies
+                        on implementation of <pb n="15" xml:id="pg_15" facs="0018"/> the Executive
+                        Order, including DOD, but most were leaning toward page-by-page review. Some
+                        agencies had already submitted their plans for implementation. Kurtz noted
+                        that NARA was very concerned about the need for on-site review.</p>
+                    <p>Smith said that the Office of Presidential Libraries had sent a plan to the
+                        National Security Adviser for declassification of the 7 million pages of
+                        classified material at the Presidential libraries, including many high-level
+                        policy papers. She gave some examples of the number of pages of classified
+                        documents: The Hoover Library has 22,750 pages, and the Roosevelt Library
+                        has 2,000-3,000 pages. The big collections were at the Kennedy, Johnson,
+                        Nixon, and Ford Libraries.</p>
+                    <p>Smith stated that NARA would like to give high priority to material on
+                        Vietnam and Southeast Asia (at the Kennedy, Johnson, and Ford
+                        Libraries)&#x02014;around 250,000 pages&#x02014;because of high interest by
+                        researchers in this material. Much of this sort of material has been
+                        declassified in other places, and most of it could be declassified. NARA is
+                        proposing reviewing files by subject but is willing to consider any approach
+                        that would deal with the Presidential papers in a systematic way. NARA wants
+                        to propose systematic declassification at the Truman and Eisenhower
+                        Libraries but is waiting until next year.</p>
+                    <p>Smith noted that NARA is concerned that some agencies want to address
+                        low-level material first and delay dealing with the high-level material.
+                        NARA wants Presidential papers included in the first year of
+                        declassification because of researcher interest. Some proportion of
+                        high-level material should be released in the first year.</p>
+                    <p>Smith stated that some agencies are proposing the use of optical disc
+                        scanning and expressed concern that much delay might be involved in working
+                        out the technical aspects and coordinating different approaches by the
+                        different agencies. NARA planned to discuss this with the agencies. She
+                        noted that the Executive Order requires declassification of a proportion of
+                        the classified material each year.</p>
+                    <p>Kurtz emphasized the need to discuss the problems with the technological
+                        approach. NARA needed to get the agencies together. NARA was open to
+                        suggestions. He noted that under the Executive Order, everything not
+                        reviewed was to be declassified at the end of 5 years, which leaves NARA
+                        with real problems. He asked Leffler if he agreed that the DOD meeting on
+                        implementation of the Executive Order had seemed to be very conservative.
+                        Leffler replied that he would not disagree with that assessment.</p>
+                    <p>Kimball asked Theis if ISOO had any comments. Theis noted that they were
+                        dealing with a culture in which many agencies think that everything they
+                        create has to be classified. The Executive Order would help to change this
+                        culture. Agencies were beginning to come around, but they had to keep
+                        working at changing their outlook.</p>
+                    <p>Kimball asked Theis about oversight. She replied that the Executive Order
+                        created an appeals panel, the Information Security Policy Advisory Council,
+                        with representatives from the major classifying agencies, which would have
+                        to review material declared exempt from declassification and report to the
+                        President. Maybe this would help Smith address some of her problems and help
+                        in reaching a compromise. She noted that the Council had not yet been set
+                        up, and that its members had to be appointed by the President. Kimball <pb
+                            n="16" xml:id="pg_16" facs="0019"/> said that a copy of anything the
+                        Advisory Committee decided would be sent to Steve Garfinkel.</p>
+                    <p>Kimball declared the session open for discussion. Van Camp asked whether an
+                        interagency group could get together. Kurtz stated that he and Smith had
+                        been meeting with an interagency declassification subcommittee under ISOO,
+                        chaired by Steve Garfinkel. Smith noted that she was not saying that the
+                        agencies were not cooperating, but rather that each agency was dealing with
+                        its own problems. Kimball asked if it would be useful for the Advisory
+                        Committee to encourage this sort of interagency dialogue. Smith replied that
+                        it would, and that if the Advisory Committee wanted high-level
+                        declassification in the first year, it should say so.</p>
+                    <p>Tony Dalsimer stated that HDR was working on Top Secret files through 1976;
+                        it had started with the most difficult files, rather than the less difficult
+                        files. Kurtz asked whether the Department had NSC and DOD declassification
+                        authority. Dalsimer replied that it had DOD authority, but no NSC
+                        authority.</p>
+                    <p>Kimball said that the Advisory Committee would express its interest in
+                        declassification of high-level material and point out that the Department of
+                        State was already doing this. Leffler suggested that the letter be sent also
+                        to DOD, where there seemed to be no interest in reviewing high-level files.
+                        Theis suggested that the Committee might also want to send a letter to
+                        National Security Adviser Anthony Lake asking that the Advisory Council be
+                        established as soon as possible because it was supposed to specify
+                        categories for systematic review. Kimball said that this was a good idea.
+                        Page Miller agreed that the person to write to was Anthony Lake. The
+                        Committee agreed, and Kimball said that this would be coordinated with Page
+                        Miller.</p>
+                    <p>Rosenberg suggested that after the establishment of the ISOO Advisory
+                        Council, the Committee should send them a letter outlining some of its
+                        experiences that might be relevant to their structure and procedures.</p>
+                    <p>Kimball asked if there were any other issues NARA wanted to raise, to which
+                        Kurtz replied no. Rosenberg asked Kurtz if he was concerned with how many
+                        files would be exempt from declassification. Kimball asked how many such
+                        files there were. Kurtz said that NARA did not have that information.
+                        Agencies were working on it and DOD had an extension. Theis said that some
+                        agencies had submitted declassification plans as required under the
+                        Executive Order. Steve Garfinkel thought that some of the exemptions
+                        agencies had requested were too broad, and ISOO was negotiating with those
+                        agencies.</p>
+                    <p>Kimball asked what the Department of State was doing. Frank Machak said that
+                        the Department would request exemption of three categories of
+                        files&#x02014;central files, lot (office) files, and post files&#x02014;in
+                        order to do a page-by-page review. Leffler asked whether the Department
+                        planned to exempt everything and then review it. Machak pointed out that the
+                        Department’s declassification record was 97 percent. Kimball said the
+                        Committee was asking about process, not criticizing the Department’s
+                        record.</p>
+                    <p>Leffler asked again whether everything would be exempt. Machak replied no.
+                        Kimball asked if this meant automatic declassification for some files.
+                        Machak said no; he was talking about risk assessment. Kimball commented that
+                        if the Department of State, <pb n="17" xml:id="pg_17" facs="0020"/> which
+                        had the best declassification record, did not have any files that would be
+                        automatically declassified, it did not look good for implementation of the
+                        Executive Order. Machak stated that when reviewers were reviewing the files,
+                        some files required intensive review and some required very little, but it
+                        was not possible to identify those files in advance.</p>
+                    <p>Kimball asked what would happen after 5 years. Theis said that 180 days
+                        before the end of the 5-year period, an agency would have to make a request
+                        for an extension and state why certain files should still be exempt. Kimball
+                        asked how often the Advisory Council would meet. Theis said twice a year.
+                        Kimball asked if that constituted “heavy involvement” and she responded that
+                        it was supposed to meet at least twice a year. Kimball asked if the Advisory
+                        Council members would have clearances; Theis said yes. He asked which
+                        organizations had been asked to submit nominations for the Council. Theis
+                        read the names of some of the organizations, including the American
+                        Historical Association, the Society of American Archivists, and the Society
+                        for International Law. Kimball commented that the Council needed to get
+                        underway fast.</p>
+                    <p>Kimball noted that the Advisory Committee had not yet finished its discussion
+                        of the Executive Order and its implementation; it needed to allow time after
+                        lunch to discuss this further. The meeting adjourned at noon for lunch.</p>
+                </div>
+            </div>
+            <div xml:id="closed-session-december-12">
+                <head>Closed Session, December 12</head>
+                <p>When the meeting reconvened at 1:30 p.m., Kimball asked Langbart about Naval
+                    records stored at the Naval facility at Crane, Indiana, and mentioned
+                    specifically the <hi rend="italic">Maddox, Pueblo</hi> and <hi rend="italic"
+                        >Liberty</hi> incidents. Langbart said that these were the records of the
+                    Naval Security Group Command and included inactive and active station files. He
+                    added that it did include a special set of files for the <hi rend="italic"
+                        >Liberty</hi> and investigation of the <hi rend="italic">Pueblo</hi>
+                    incident particularly, and that the files were rather voluminous. Herring asked
+                    where Crane is located, and Herschler responded that it was half an hour
+                    southwest from Bloomington, Indiana.</p>
+                <div xml:id="more-on-implementation-of-executive-order-12958">
+                    <head>More on Implementation of Executive Order 12958</head>
+                    <p>Kimball asked Kropf if he had any comments concerning the implementation of
+                        E.O.12958.</p>
+                    <p>Kropf raised one question previously addressed to him in writing: is it
+                        mandatory or discretionary to refer documents containing foreign government
+                        information (FGI) to a foreign government? Kropf said the ISOO guidelines
+                        indicate that State “should” refer such documents to the foreign government,
+                        but that, in his opinion, “should” implies an element of discretion. If so,
+                        this would not represent a change in the status quo. He thought Theis would
+                        agree with this interpretation; Theis nodded in agreement.</p>
+                    <p>Picker asked for a specific reference to the Executive Order that would
+                        support this interpretation, i.e., that “should” implies discretion. Kropf
+                        cited references to FGI in the definition (ID) and automatic
+                        declassification (3.4) sections of the E.O. After some discussion, Kimball
+                        explained that the Committee wanted to know specifically where “should”
+                        appeared in relation to the handling of FGI; Kropf replied that the language
+                        came <pb n="18" xml:id="pg_18" facs="0021"/> from the ISOO Implementing
+                        Directive. Kimball expressed concern that “should” could also be interpreted
+                        to require mandatory referral of FGI.</p>
+                    <p>Dalsimer said that there was no need to change present practice: the State
+                        Department would continue to implement its policy minimizing the referral of
+                        documents to foreign governments. He said the Department had recently
+                        discussed the issue with the British, Australian, and Canadian Governments.
+                        The Department is also drafting guidelines to delegate limited
+                        declassification authority, similar to those adopted by DOD.</p>
+                    <p>Kimball raised the issue of FGI for foreign governments that no longer exist.
+                        Machak had already conceded that the Soviet Union no longer exists, Kimball
+                        argued, so the Soviet Union should not be considered under the E.O.
+                        provision to protect FGI. Kimball turned to Machak for clarification. Machak
+                        said the new E.O. allowed nine exemptions to declassification; he did not
+                        recall an exemption for FGI. In other words, under the new E.O., FGI is not
+                        sufficient grounds to exempt a document from declassification, whether or
+                        not the originating government exists.</p>
+                    <p>Kimball feared a “disconnect” in the current lines of communication. The
+                        Committee understood that documents had been routinely withheld on the basis
+                        of FGI. Would a document originated in 1965 by the Soviet Government be
+                        considered classified today? Machak said only limited circumstances would
+                        force the Department to refer documents to a foreign government. The
+                        Department did not interpret the new E.O. to require the referral of all
+                        FGI.</p>
+                    <p>Kimball said he was not talking about the Executive Order, he was talking
+                        about practice. He reiterated the question: how does the Department handle
+                        FGI when the foreign government doesn’t exist? Kimball cited South Vietnam
+                        as an example, i.e, the Department does not refer documents originated by
+                        the former Republic of Vietnam to the current Communist government in Hanoi.
+                        Kimball thought the same practice would now apply to the Soviet Union. In
+                        response to Kimball’s question, Machak said he did not see the Department
+                        adopting the position that documents originated by the former Soviet and
+                        South Vietnamese Governments be handled in the same way.</p>
+                    <p>Picker remarked that the Department could not send documents if no one is
+                        there to receive them. Kimball agreed. Picker also reminded the Committee
+                        that the new E.O. does not include FGI as a declassification exemption
+                        category. Kimball said he knew that.</p>
+                    <p>Kimball mentioned a case at the Johnson Library in which a memorandum of a
+                        conversation with Andrei Gromyko had been withheld on the basis of FGI.
+                        Dalsimer suggested that Kimball address the question to Nancy Smith, since
+                        the Department is handling FGI in accordance with the Committee’s
+                        wishes.</p>
+                    <p>Smith said that NARA had not received any guidance under the new E.O. that
+                        would change the current practice for handling FGI: documents containing FGI
+                        are sent to State. In other words, it’s still State’s call.</p>
+                    <p>Kimball retorted that the Committee does not want it to be State’s call.</p>
+                    <p>Theis said the question is: if a foreign government no longer exists, who has
+                        authority? She said that the question of how to handle the FGI of the former
+                        Soviet <pb n="19" xml:id="pg_19" facs="0022"/> government had come up in a
+                        recent meeting of the declassification working group. The working group
+                        determined that the new Federation should assume responsibility. Kimball
+                        asked what Federation she meant. Theis repeated the point: the successor
+                        government would take over authority. Picker explained that the Russian
+                        Federation acknowledged itself as the “successor government” to some extent;
+                        Picker asked, however, if this authority extended to FGI. Kimball replied
+                        that the responsibility for determining FGI rests with the U.S. Government.
+                        Kimball said that he wanted to avoid using FGI as a reason to withdraw
+                        documents and that State had agreed to justify withdrawal on other
+                        grounds.</p>
+                    <p>Dalsimer admitted that Kimball was right: a State Department document would
+                        not remain classified solely on the basis of FGI. Dalsimer also said that
+                        NARA had State Department guidelines that cover FGI. Nancy Smith replied
+                        that NARA has very little declassification authority, and is otherwise not
+                        in a position to determine FGI.</p>
+                    <p>Machak said the Department would make certain that the guidelines are clear,
+                        but that each agency would be responsible for applying the guidelines in a
+                        sensible way.</p>
+                    <p>Kimball expressed some concern about a misunderstanding between NARA and the
+                        Department regarding State’s willingness to delegate its declassification
+                        authority to the Presidential libraries.</p>
+                    <p>Patterson said his experience had been that HDR would not refer documents to
+                        the Soviet Union, reasoning that it was unnecessary to send documents to our
+                        enemies. Kimball said that this point was understood.</p>
+                    <p>Machak insisted that South Vietnam is not a good example. The Department
+                        would judge on a case-by-case basis rather than rely upon sweeping
+                        generalizations. Turning to Machak, Kimball shot back: “we understand that
+                        the words ‘page-by-page’ are printed on the backs of your eyes.”</p>
+                    <p>Kimball asked if Theis had any comments on the implementation of the E.O. and
+                        ISOO’s role in the process.</p>
+                    <p>Theis noted that she is always ready to talk about these issues, and
+                        commented that it would be best for the Committee to ask her questions. She
+                        reminded the Committee of Kimball’s inquiry regarding oversight; she
+                        wondered if anyone required clarification.</p>
+                    <p>Kimball said he had written a letter to Steve Garfinkel; Theis said she had
+                        seen it. Kimball asked if she would comment on it, especially the questions
+                        he posed in the letter. Specifically, who will ensure agency compliance with
+                        the requirement for agency guidelines to NARA. Theis said that ISOO is
+                        responsible for making sure that the guidelines are timely and up-to-date.
+                        ISOO is now a part of NARA, and NARA participates in the declassification
+                        working group. This group will ensure compliance with the guidelines and
+                        conduct on-sight inspections at least once a year at each agency. Kimball
+                        asked if that means that ISOO will monitor the agencies, and Theis replied
+                        that ISOO will contact the agency head if there is a problem.</p>
+                    <p>Kimball said that the Committee is concerned because there is nothing in the
+                        Executive Order addressing other agency equities. Theis replied that the
+                        originating <pb n="20" xml:id="pg_20" facs="0023"/> agency has control and
+                        responsibility for the declassification of a document. She said that she
+                        would be happy to give the Committee a written response on this question.
+                        Kimball remarked that they had sent the letter in July. Theis repeated that
+                        she will write a response. Kimball said that he has come across the problem
+                        with other agency equities in State records; one agency in particular is not
+                        cooperating. He wanted to know if the Executive Order provides means to
+                        require agencies to cooperate.</p>
+                    <p>Theis said that the purpose of the declassification working group is to raise
+                        problems, not policy. If agencies cannot solve problems the issue will go to
+                        ISOO to mediate. Kimball said that it is fair to say that CIA equities in
+                        State files is a problem the Committee has been fighting for 4 years without
+                        progress. He further requested that Theis put the issue on the agenda of the
+                        declassification working group.</p>
+                    <p>Theis said that Garfinkel will be more than willing to meet with State and
+                        CIA representatives to facilitate an agreement.</p>
+                    <p>Hogan suggested that the Committee put the request in writing to ISOO.</p>
+                    <p>Machak said that the equities issue is a complex problem for other agencies.
+                        The only agency that he is comfortable with is NARA. Some people in the
+                        Department believe that NARA has tools to help but is not using them, while
+                        NARA says the Department’s guidelines are not specific enough. Some agencies
+                        have not yet gotten over the shock of the new Executive Order. For agencies
+                        that have no relationship with NARA, this has been a difficult period. Some
+                        think that the Executive Order does not apply to them, so it has been
+                        difficult. State and NARA are pretty much in agreement. He said that he is
+                        not a proponent of applying technology to 30 year old documents. He warned
+                        that the Committee should not write the Secretary of State. Your targets
+                        have to be carefully selected,” he said “You may stop good things at State.”
+                        He added that there is a lot of uncertainty about what the provisions of the
+                        Executive Order mean.</p>
+                    <p>Kimball remarked that the Department has the law, and for 5 years the
+                        Committee has been told that the biggest problem is other-agency equities.
+                        He said that he wants to get this on the ISOO agenda. The issue is about
+                        process, getting other agencies to participate. He asked if there were any
+                        more questions on implementation of the Executive Order. When there were
+                        none, he asked Machak if it was safe to say that State was not yet ready to
+                        present its implementation plan.</p>
+                    <p>Machak confirmed this. He continued that there is nothing unique about it. He
+                        said that they are still at the working level and that they hope to meet the
+                        numbers requirement fairly easily (i.e., 15 percent each year for 5 years).
+                        He added that FPC is still working to establish its Declassification Center
+                        and that the Director General has recognized that FPC needs an
+                        infrastructure, that they need to get away from temporary employees. He said
+                        that there is a need for site visits. In his opinion there is merit in
+                        approaching implementation of the Executive Order much like the Kennedy
+                        assassination project, which brought agency resources together. He said that
+                        there is no groundswell in other agencies for taking these approaches. Other
+                        agencies are looking for precision that will never occur (interpretation of
+                        the Executive Order) to manage their limited work force.</p>
+                    <pb n="21" xml:id="pg_21" facs="0024"/>
+                    <p>Kimball asked if Machak or someone can report to the Committee at the next
+                        meeting on the status of implementation or if the Department needs
+                        additional Committee support. He said that Machak’s report sounded like
+                        “testimony for the liberal approach.”</p>
+                    <p>Machak replied that the Department does not have a liberal approach; his job
+                        is to protect national security and individuals. He continued that State
+                        does not want to lead the pack. He said that if he had $150,000 he would put
+                        it on systematic review rather than on FOIA and get “more bang for the
+                        buck.”</p>
+                    <p>Rosenberg commented on the ISOO structure. She said that ISOO anticipates
+                        meeting twice a year and having one site visit a year, and that in this
+                        Committee’s experience there is a need for more meetings. That is not enough
+                        time to catch an agency that is slipping. The Committee has found that
+                        regular monitoring is crucial.</p>
+                    <p>Theis replied that the Executive Order requires agency self-inspection
+                        programs. ISOO has the option to look at what the agency has done with these
+                        self-inspection programs to make sure that they are doing what they are
+                        supposed to and that these mechanisms are formal. All of the mechanisms work
+                        in tandem to find solutions to the problems.</p>
+                    <p>Kimball asked if there were any other questions on the Executive Order and
+                        said that he has notes on the Garfinkel letter and the Committee will talk
+                        about them later. He said that Machak and Theis were free to go. He said
+                        that the Committee will talk to L, then to Bill concerning problems.</p>
+                </div>
+                <div xml:id="status-of-the-legal-adviser-records">
+                    <head>Status of the Legal Adviser’s Records</head>
+                    <p>Peter Pfund, Assistant Legal Adviser for Private International Law, attended
+                        in place of Bob Dalton. He said that the second volume in the <hi
+                            rend="italic">Digest of U.S. Practice in International Law</hi> that
+                        covers through 1980 has been published and that the third volume will be
+                        published soon. However, there is a question whether the Legal Adviser’s
+                        Office can continue to produce the series. He said that the International
+                        Law Institute, associated with Georgetown University Law, is considering
+                        producing a digest of international law in lieu of the Department, but he
+                        believes that it would be difficult for an outsider to compile. It would
+                        also be difficult to get attorneys in L to devote time to the series. He
+                        remarked that the purpose of the <hi rend="italic">Digest</hi> needs to be
+                        clearly defined, including who is the target audience. Some parts of the <hi
+                            rend="italic">Digest</hi> would, for example, not be of interest to
+                        foreign governments if the first priority purpose of the <hi rend="italic"
+                            >Digest</hi> should be its normative effect on the actions and
+                        justifications of the foreign policy of other countries.</p>
+                    <p>Kimball asked Pfund how much of a project it would be to identify who would
+                        be the target audience and what should be included in the volumes. Pfund
+                        replied that he does not know; L would have to ask the users. The answer
+                        will likely be that the users want the <hi rend="italic">Digest.</hi> In any
+                        event, L does not have the resources to continue the <hi rend="italic"
+                            >Digest.</hi></p>
+                    <p>Kimball asked Pfund to describe the <hi rend="italic">Digest</hi> for the
+                        Committee.</p>
+                    <p>Pfund replied that the contents of the <hi rend="italic">Digest</hi> have
+                        been reduced to what is not readily available in other public sources. He
+                        noted that 8 years (when Ronald Reagan was President) have been covered in
+                        three volumes, and consequently the coverage is less <pb n="22"
+                            xml:id="pg_22" facs="0025"/> complete than before. He added that there
+                        is now less quotation from U.S. case law and other published materials.</p>
+                    <p>Kimball leafed through the latest volume of the <hi rend="italic">Digest</hi>
+                        and noted a section on the Deep Seabed and said that in his opinion that was
+                        not an insignificant issue. He asked if that material was readily available
+                        elsewhere or if the <hi rend="italic">Digest</hi> performs a unique function
+                        to pull it all together.</p>
+                    <p>Pfund answered that the <hi rend="italic">Digest</hi> pulls things together
+                        in an “official” source in a coherent manner.</p>
+                    <p>Picker returned to the question of the target audience, and added that the
+                        most recent volumes, including a cumulative index, are all out of print.
+                        Copies are grabbed up when they are printed. The demand is higher than the
+                        supply.</p>
+                    <p>Pfund brought up the possibility of converting the series to CD-ROM or an
+                        on-line service. Picker pointed out the issue of cost. Kimball noted Pfund’s
+                        comment that the real problem was getting someone with authority to allocate
+                        resources.</p>
+                    <p>Pfund said that the form of the publication should be related to the target
+                        audience. Some of the volumes are sold abroad. Picker commented that some
+                        are sent to Embassies, and Kimball added that the majority go to government
+                        depository libraries and law school libraries. He asked Picker if the
+                        Committee should be concerned.</p>
+                    <p>Picker replied that her original concern was whether documents that would
+                        have been included in the <hi rend="italic">Digest</hi> should be in the <hi
+                            rend="italic">Foreign Relations</hi> series, and she felt that the
+                        Committee needed to consider this. The American Society of International Law
+                        has also expressed great concern about discontinuance of the series. Kimball
+                        asked if there were any letters on this. Picker replied no, but that L is
+                        well aware of ASIL’s concerns. She added that on May 11 she met with Robert
+                        Dalton of L and Paul Claussen about getting another organization either to
+                        take over the publication or to finance it. The initial response from L was
+                        that more than cost was involved. The time devoted by L lawyers to the
+                        collection of materials is the real issue. The Committee needs feedback on
+                        cost.</p>
+                    <p>Kimball asked if the project is an orphan in the State Department and Pfund
+                        replied that it is becoming one. Picker commented that it does have a highly
+                        motivated mother (Marian Nash).</p>
+                    <p>Kimball asked if there were any comments on the possible impact of the
+                        elimination of the <hi rend="italic">Digest</hi> on the <hi rend="italic"
+                            >Foreign Relations</hi> series.</p>
+                    <p>Slany responded that the series does not need to document case law, only the
+                        legal framework and explanations for U.S. foreign policy and related
+                        decisions. Picker pointed out that the <hi rend="italic">Digest</hi> is
+                        broader than case law and Pfund agreed that it relates to the many different
+                        aspects of U.S. foreign policy.</p>
+                    <p>Hogan recommended that HO look through the volumes, and Pfund suggested that
+                        Marian Nash, editor of the <hi rend="italic">Digest,</hi> be given a chance
+                        to comment.</p>
+                    <p>Kimball said that the Committee needs to find out if this is an issue for
+                        concern.</p>
+                    <pb n="23" xml:id="pg_23" facs="0026"/>
+                    <p>Picker asked Slany to comment on what extent HO should become involved with L
+                        and seek access to L files for use in the <hi rend="italic">Foreign
+                            Relations</hi> volumes.</p>
+                    <p>Slany replied that it is unplowed terrain. HO has not searched L files; they
+                        are as obscure to us as the INR files were before we got into them. The
+                        files are not routinely retired so that the historians can have access. He
+                        said that he did not know if Langbart has had any success with their
+                        records.</p>
+                    <p>Langbart replied that he has had some. There is a schedule but it needs
+                        work.</p>
+                    <p>Kimball asked that HO study the question: should we be concerned and how?</p>
+                    <p>Claussen said that in some of his research he has used L files extensively,
+                        and he added that he knows that members of the international law community
+                        use the <hi rend="italic">Digest.</hi></p>
+                    <p>Pfund commented that discontinuing the publication sends a message that
+                        resources are not available, once the United States has become the world’s
+                        only superpower, to continue to texplain the legal context and justification
+                        for U.S. foreign policy, which is not necessarily a good message to send to
+                        other countries. Picker pointed out that L is considering discontinuing a
+                        series that has been in existence since the beginning of the century.</p>
+                </div>
+                <div xml:id="classified-material-in-non-governmental-repositories">
+                    <head>Classified Material in Non-Governmental Repositories</head>
+                    <p>Kimball asked Dalsimer about collections of classified materials in
+                        nongovernmental repositories, mentioning as an example the Dulles material
+                        at the Seeley Mudd Library at Princeton University. Are the records now
+                        automatically part of a systematic review process or are they regularly
+                        opened?</p>
+                    <p>Dalsimer replied that he can only discuss the collection he knows of at
+                        Princeton. Princeton is an approved repository, so State will either do the
+                        review or provide guidelines. He does not know of another collection like
+                        this, and worries about non-official repositories and unauthorized release
+                        of documents. The Executive Order does not mention these.</p>
+                    <p>Hogan asked what is the issue? Is the material at Seeley Mudd a duplicate
+                        set? Kimball said Kissinger claims that his materials at the Library of
+                        Congress are only duplicates, but this has not proven to be the case. He
+                        added that if the Committee finds other examples, these should be identified
+                        so that the State Department can conduct a systematic review.</p>
+                    <p>Langbart explained that Secretary Dulles hired a research assistant and
+                        microfilmed material that would illustrate his (Dulles’) impact on foreign
+                        policy. Dulles paid for it and owned the film but said that he would abide
+                        by the rules for declassification. Kimball repeated that he just wanted to
+                        make sure that the material would be reviewed for declassification.</p>
+                    <p>Langbart said that Dulles thought that his papers would eventually all be
+                        open. Hogan questioned the quality of the microfilm after such a long
+                        period.</p>
+                    <p>Van Camp suggested that the way to identify bodies of records like this is
+                        through the Defense Investigative Service, which conducts routine
+                        inspections of records <pb n="24" xml:id="pg_24" facs="0027"/> depositories.
+                        Dalsimer said that they had checked with DOD about this but were told that
+                        they know of no such holdings.</p>
+                    <p>Langbart said that Dulles left a copy of the microfilm at the State
+                        Department. Slany said that the Department knows where it is. Dalsimer said
+                        that he doesn’t know where it is. Slany said that HDR has it.</p>
+                    <p>Langbart noted another example, the G. Mennen Williams collection at the
+                        Michigan Historical Society.</p>
+                    <p>Rosenberg asked if the same procedure was followed for the Humphrey papers at
+                        Minnesota. Langbart replied that the Vice President can take whatever he
+                        wants.</p>
+                </div>
+                <div xml:id="declassification-of-the-foreign-relations-series">
+                    <head>Declassification of the Foreign Relations Series</head>
+                    <p>Kimball asked Slany for an update on declassification of the <hi
+                            rend="italic">Foreign Relations</hi> series. Slany said that there are
+                        the same problems with CIA as reported before. Assistant Secretary/Chief of
+                        Staff Donilon and CIA Executive Director Slatkin have worked out and agreed
+                        on some principles of declassification. Three volumes have gone to CIA under
+                        these guidelines. We will see by February if this system works.</p>
+                    <p>In response to a question from Herring, Herschler said that the China, Laos,
+                        and Cyprus volumes were sent to CIA. CIA responses on three other volumes
+                        are due: Italy, Africa, and Thailand, and in the case of the Southeast Asia
+                        and Africa volumes, the CIA responses are not complete. There are some
+                        declassification issues with State as well. Miller interjected that the
+                        problem with the Cyprus volume is not Cyprus, but Greece.</p>
+                    <p>Kimball suggested that HO set up a tickler file to revisit the appealed
+                        volumes. Hogan asked how often a case could be appealed. Kimball believed
+                        that the new E.O. required a 2-year waiting period after the first
+                        appeal.</p>
+                    <p>Slany reported that the National Security Agency had filed a FOIA request
+                        regarding the <hi rend="italic">Foreign Relations</hi> documents and other
+                        Department records identified in a <hi rend="italic">New York Times</hi>
+                        article on Japan. Kimball said that he had heard that.</p>
+                    <p>Hogan went back to the question of re-appeals and asked about the Iran
+                        volume. Slany said that the issue will be covered in the intended
+                        retrospective volume on covert operations.</p>
+                    <p>Davis remarked that 2 years is too long, it should be 1 year. Hogan suggested
+                        that the Committee check the law to see if it really is 2 years. Kimball
+                        said that he thought it was tied to costs, etc. and that he is almost
+                        positive it is 2 years. Information on this will be included in the briefing
+                        material for the next meeting for the Committee to revisit if desired. Slany
+                        agreed.</p>
+                    <p>The meeting adjourned at 4:10 p.m.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
