@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hac_1994-10-27_minutes">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Minutes of Historical Advisory Committee Meeting, October
+                    1994</title>
+                <title type="short">HAC Meeting Minutes, 1994</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <date type="created" when="1994-10-27">October 27, 1994</date></publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <pb n="[i]" xml:id="pg_i" facs="0001"/>
+            <div type="section"
+                xml:id="advisory-committee-on-historical-diplomatic-documentation-october-27--1994_1">
+                <head><hi rend="bold">ADVISORY COMMITTEE ON HISTORICAL DIPLOMATIC DOCUMENTATION
+                        October 27, 1994</hi></head>
+                <p><hi rend="bold">Committee Members</hi></p>
+                <list>
+                    <item>Warren F. Kimball, Chairman</item>
+                    <item>Benton V. Davis</item>
+                    <item>George C. Herring</item>
+                    <item>Melvyn P. Leffler</item>
+                    <item>Anna K. Nelson</item>
+                    <item>Jane M. Picker</item>
+                    <item>Arnold H. Taylor</item>
+                    <item>Ann H. Van Camp</item>
+                    <item>William Z. Slany, Executive Secretary</item>
+                </list>
+                <p><hi rend="bold">Bureau of Public Affairs, Office of the Historian</hi></p>
+                <list>
+                    <item>William Z. Slany, Historian</item>
+                    <item>Rita Baker</item>
+                    <item>Paul Claussen</item>
+                    <item>Mike Davis</item>
+                    <item>Evan Duncan</item>
+                    <item>Vicki Futscher</item>
+                    <item>Karen Gatz</item>
+                    <item>David Geyer</item>
+                    <item>Deb Godfrey</item>
+                    <item>David Herschler</item>
+                    <item>Kerry Hite</item>
+                    <item>Nina Howland</item>
+                    <item>David Humphrey</item>
+                    <item>Donna Hung</item>
+                    <item>Ted Keefer</item>
+                    <item>Harmon Kirby</item>
+                    <item>Glenn LaFantasie</item>
+                    <item>Daniel Lawler</item>
+                    <item>Gabrielle Mallon</item>
+                    <item>David Patterson</item>
+                    <item>Harriet Schwar</item>
+                    <item>Luke Smith</item>
+                    <item>Shirley Taylor</item>
+                    <item>Carolyn Yee</item>
+                </list>
+                <p><hi rend="bold">Bureau of Administration</hi></p>
+                <list>
+                    <item>Kenneth Loff, Managing Director, IM/IS</item>
+                    <item>Edward B. Wilson, Director, IM/IS/OIS</item>
+                    <item>Anthony Dalsimer, Director, FPC/HDR</item>
+                    <item>Willie Gee, Jr., Acting Chief, IS/OIS/RA/RD</item>
+                    <item>Betty Bates, IS/OIS/RA/RD</item>
+                    <item>William Hamilton, FPC/HDR</item>
+                    <item>Nina Noring, FPC/HDR</item>
+                    <item>Jeanne Pryor, FPC/HDR</item>
+                </list>
+                <pb n="[ii]" xml:id="pg_ii" facs="0002"/>
+                <p><hi rend="bold">National Archives and Records Administration</hi></p>
+                <list>
+                    <item>Michael Kurtz, Acting Assistant Archivist</item>
+                    <item>George Chalou, Archivist, Records Appraisal Division</item>
+                    <item>David Langbart, Archivist, Records Appraisal and Disposition
+                        Division</item>
+                    <item>Marvin Russell, Chief, General Archives Review Branch</item>
+                </list>
+                <p><hi rend="bold">Private</hi></p>
+                <list>
+                    <item>William Burr, National Security Archive</item>
+                    <item>Lard Cossette, journalist, <hi rend="italic">Yomiuri Shimbun</hi></item>
+                    <item>Page Putnam Miller, Director, National Coordinating Committee for the
+                        Promotion of History</item>
+                    <item>Toshiya Umehara, staff writer, <hi rend="italic">Asahi Shimbun</hi></item>
+                    <item>Mary Beth Warner, news assistant, <hi rend="italic">Asahi
+                        Shimbun</hi></item>
+                    <item>Tim Weiner, journalist, <hi rend="italic">New York Times</hi></item>
+                </list>
+                <pb n="[iii]" xml:id="pg_iii" facs="0003"/>
+            </div>
+            <div xml:id="contents">
+                <head>Table of Contents</head>
+                <table cols="2">
+                    <row>
+                        <cell>Open Session</cell>
+                        <cell>
+                            <ref target="#pg_1">1</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Adoption of the Minutes of the February, May, and August
+                            Meetings</cell>
+                        <cell>
+                            <ref target="#pg_1">1</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Amendment of the <hi rend="italic">Foreign Relations</hi> Law</cell>
+                        <cell>
+                            <ref target="#pg_1">1</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Report by William Z. Slany, The Historian</cell>
+                        <cell>
+                            <ref target="#pg_2">2</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Report on Access to Records at the Johnson Library</cell>
+                        <cell>
+                            <ref target="#pg_3">3</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Move of Department of State Files to Berryville, Virginia</cell>
+                        <cell>
+                            <ref target="#pg_4">4</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Department Response to the Japan Appeal</cell>
+                        <cell>
+                            <ref target="#pg_5">5</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Report of the Subcommittee on the Opening of the Department of State’s
+                            30-Year Old Records at the National Archives</cell>
+                        <cell>
+                            <ref target="#pg_7">7</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Closed Session</cell>
+                        <cell>
+                            <ref target="#pg_7">7</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Discussion of Committee Minutes</cell>
+                        <cell>
+                            <ref target="#pg_8">8</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Schedule for Future Committee Meetings</cell>
+                        <cell>
+                            <ref target="#pg_8">8</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Report by Michael Kurtz, Acting Assistant Archivist on
+                            Declassification of Department of State Records</cell>
+                        <cell>
+                            <ref target="#pg_9">9</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Further Discussion of the Japan Appeal</cell>
+                        <cell>
+                            <ref target="#pg_10">10</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Further Discussion of the Move of Department of State Files to
+                            Berryville</cell>
+                        <cell>
+                            <ref target="#pg_11">11</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Further Discussion of Declassification Guidelines</cell>
+                        <cell>
+                            <ref target="#pg_11">11</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Report of the Subcommittee on Records</cell>
+                        <cell>
+                            <ref target="#pg_13">13</ref></cell>
+                    </row>
+                    <row>
+                        <cell><hi rend="italic">Foreign Relations</hi> Coordinator in HDR</cell>
+                        <cell>
+                            <ref target="#pg_15">15</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Report on the Visit to the Central Intelligence Agency</cell>
+                        <cell>
+                            <ref target="#pg_15">15</ref></cell>
+                    </row>
+                    <row>
+                        <cell>HO Staff Comments</cell>
+                        <cell>
+                            <ref target="#pg_16">16</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Annex 1: Arnold Taylor’s letter to Ann Van Camp</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Annex 2: Statement on Disposal of Department of State Records</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </front>
+        <body>
+            <pb n="[1]" xml:id="pg_1" facs="0004"/>
+            <div xml:id="open-session">
+                <head>Open Session</head>
+                <p>Committee Chairman Warren Kimball called the meeting to order at 9 a.m.</p>
+                <p>William Z. Slany reminded everyone that this was a public session and that
+                    classified material should not be discussed during this part of the meeting.
+                    Kimball stated that we need to bear in mind the difference between closed and
+                    classified. He requested that anyone who wants to discuss classified material
+                    during the closed part of the meeting should so state.</p>
+                <div xml:id="adoption-of-the-minutes-of-the-february">
+                    <head>Adoption of the Minutes of the February, May, and August Meetings</head>
+                    <p>Kimball asked if anyone had any comments on the minutes of the February and
+                        August meetings (he withdrew discussion of the May minutes until the closed
+                        portion of the meeting). Jane Picker suggested that on p. 34 of the February
+                        minutes, in the first complete paragraph, the second sentence should read:
+                        “State raised as a problem the possible future cooperation of other
+                        agencies.” Anna Nelson suggested that in line 3 of the first full paragraph
+                        on p. 19, the reference should be to “an ISOO (1991) report” and that in the
+                        first line of the first full paragraph on p. 48, “could” should be changed
+                        to “would.” The changes were approved, and Kimball stated that the February
+                        minutes were adopted.</p>
+                    <p>Concerning the August minutes, Arnold Taylor requested an addition to a
+                        paragraph on p. 6: “Taylor raised the issue of USIA material at the
+                        University of Arkansas, and Langbart said they could discuss that at a later
+                        time.” The change was approved, and Kimball stated that the August minutes
+                        were adopted.</p>
+                    <p>Kimball said that all three sets of minutes would be available in the State
+                        Department Reading Room on Friday. He noted unfamiliar faces and asked those
+                        present to identify themselves. They were Tim Weiner of <hi rend="italic"
+                            >The New York Times</hi> and two (a third entered the meeting later)
+                        reporters from Japanese newspapers, <hi rend="italic">Asahi Shimbun</hi> and
+                            <hi rend="italic">Yomiuri Shimbun.</hi></p>
+                </div>
+                <div xml:id="amendment-of-the-foreign-relations-law">
+                    <head>Amendment of the Foreign Relations Law</head>
+                    <p>Kimball turned to the question of possible amendments to the 1991 <hi
+                            rend="italic">Foreign Relations</hi> law. He had spoken to committee
+                        staffers on the Hill, who supported the idea. First, he noted that there is
+                        no other committee with a legislative mandate dealing with foreign policy
+                        records, and he thought it was appropriate at this time to expand that
+                        mandate. Second, he pointed out that the 26-year rule for access to records
+                        was a problem with CIA. HO historians sometimes need to look at records less
+                        than 26 years old. Now is the time to raise the issue.</p>
+                    <p>Slany agreed, stating that since HO is compiling by administration, we need
+                        access to be well within the 26-year line. Kimball thought the problem might
+                        arise from confusion of declassification with compilation, but Page Miller
+                        stated that the CIA had refused during the drafting of the statute to accept
+                        less than a 26-year rule because of other legislative requirements.</p>
+                    <pb n="2" xml:id="pg_2" facs="0005"/>
+                    <p>David Herschler commented that the reference in the law to “originating
+                        agency” concerning declassification requirements should be changed to
+                        “originating/reviewing agencies.” In some cases, a reviewing agency that was
+                        not the originating agency but had equity in the document has argued that
+                        the time limit in the law did not apply to them.</p>
+                    <p>Kimball noted that Congressional staffers he had talked to would like to have
+                        the Committee’s suggestions in January when Congress convenes. He asked
+                        Committee members to think about this and give him their suggestions. Jane
+                        Picker could put them into legalese.</p>
+                    <p>Kimball also emphasized that he thought the Committee should make a strong
+                        statement supporting a new Executive Order.</p>
+                </div>
+                <div xml:id="report-by-william-z-slany-the-historian">
+                    <head>Report by William Z. Slany, The Historian</head>
+                    <p>Kimball asked Slany for the Historian’s report. Slany, who had circulated to
+                        the Committee a written report with 20 attachments in advance of the
+                        meeting, stated that HO is eliminating the backlog of compiled volumes
+                        awaiting declassification and publication. In the next year we will publish
+                        20 volumes, and by the end of next year, we will have published 50 volumes
+                        since the passage of the legislation. Now we need to concentrate our efforts
+                        on completing the compilation off the volumes on the Johnson administration.
+                        We are working on expanding the scope of the series while reducing the
+                        volume of material published.</p>
+                    <p>Half dozen senior Foreign Service officers (FSOs) have been assigned to HO.
+                        They are reviewing manuscript and performing other duties associated with
+                        the <hi rend="italic">Foreign Relations</hi> series. Two of them are
+                        scheduled to review the material at the Central Intelligence Agency on
+                        Guatemala and Iran and make suggestions. We know there is a lot on
+                        Guatemala, but only a little on Iran. He noted that the FSOs will not
+                        compile the volumes; other members of the HO staff, who normally work on
+                        technical editing and declassification, have been drafted to help with
+                        compiling.</p>
+                    <p>Melvyn Leffler questioned using FSOs to work on <hi rend="italic">Foreign
+                            Relations.</hi> Slany pointed out that HO is not authorized to spend
+                        money to bring in outside reviewers and these officers give us extra sets of
+                        eyes to review manuscript. One FSO has looked at the Kennedy/Khrushchev
+                        correspondence and suggested asking the Russian Foreign Ministry if our
+                        collection of correspondence was complete. We are not obligated to take
+                        their advice.</p>
+                    <p>Kimball stated that his impression was that FSOs vary greatly in their views
+                        on declassification; it is hard to generalize. Anna Nelson was concerned
+                        that an FSO might say a document didn’t belong in a compilation because he
+                        didn’t like it. Slany replied that they have no veto power. Picker asked if
+                        the FSOs were assigned on the basis of their past experience. She also
+                        expressed concern about their objectivity.</p>
+                    <p>Slany stated that the officers are assigned on the basis of expertise. He
+                        commented that they tend to want more, rather than fewer, documents. He
+                        asked if the Committee wanted to have any contact with this group, but they
+                        declined.</p>
+                    <p>Kimball suggested that HO should send a shortened form of the list of <hi
+                            rend="italic">Foreign Relations</hi> volumes available at GPO to the
+                        SHAFR newsletter.</p>
+                    <pb n="3" xml:id="pg_3" facs="0006"/>
+                    <p>Slany raised the matter of public access to the Committee’s records. He asked
+                        if the Committee wanted to discuss what documents constituted its records.
+                        HO has a list of the documents presently available in the State Department
+                        Reading Room, and he asked if the Committee thought additional material
+                        should be included. Should correspondence between HO and the Committee be
+                        part of the public record? Kimball thought the correspondence was not that
+                        voluminous and should be regarded as part of the public record.</p>
+                    <p>Slany noted that HO did not have the correspondence exchanged between members
+                        of the Committee. Jane Picker referred to E-Mail. Kimball replied that the
+                        substance of the Committee’s E-Mail ended up in its discussions.</p>
+                    <p>Nelson noted that the question of public access to the Committee’s records
+                        was discussed in its charter and that the muddy area was that of the closed
+                        meetings because of confusion between classified and closed. She thought a
+                        procedure for these records should be established according to the
+                        Committee’s mandate.</p>
+                    <p>Kimball said that people needed to feel free to discuss private or classified
+                        material at these meetings. Nelson pointed out that participants were able
+                        to see the minutes before they were approved.</p>
+                    <p>George Chalou commented that the Committee needed to differentiate between
+                        reading room material and permanent Committee records. Nelson emphasized
+                        that the Committee should be as open as possible. David Langbart noted that
+                        the schedule for disposition of the Committee’s records provided for
+                        preservation of correspondence and related materials as well as the records
+                        of the meetings.</p>
+                    <p>Kimball said that the principle was to open the records. Participants in the
+                        closed meetings should specify if they were discussing classified material
+                        or material that required protection for other reasons.</p>
+                    <p>Slany noted that there was concern in the Department of State about
+                        protection of the deliberative process. People in the Department had
+                        objected to sharing internal documents with the Committee and did not want
+                        everything they said to be part of the public record. Kimball said he would
+                        remind people that they should tell the Committee if they wanted something
+                        to be off the record. He noted that the Committee could always say no. The
+                        records should be open unless the Committee had agreed that they were not
+                        open.</p>
+                    <p>Nelson wondered if this would affect whether people would share information
+                        with the Committee. Slany pointed out that awareness of the Committee had
+                        increased. In response to a question from Picker, Kimball replied that the
+                        fullness of the minutes was not the problem. The Committee had been part of
+                        the deliberative process with the Executive order and the State Department
+                        was not happy with internal dissent being made public. Ann Van Camp stated
+                        that the Department did not want in the public domain a version of the
+                        Executive order that was not final.</p>
+                </div>
+                <div xml:id="report-on-access-to-records-at-the-johnson-library">
+                    <head>Report on Access to Records at the Johnson Library</head>
+                    <p>David Humphrey presented a report on access to records at the Lyndon B.
+                        Johnson Presidential Library. He said there were two issues. The first was
+                        the two State Department-funded positions at the Library that were now
+                        vacant. Filling these was <pb n="4" xml:id="pg_4" facs="0007"/> crucial to
+                        keeping things moving, and he noted that the Library was working on filling
+                        them. Nelson asked if clearances were a problem. Humphrey said no. The
+                        positions were funded on a year-by-year basis and many people did not want
+                        to go to Texas for a temporary position. Nancy Smith noted that applicants
+                        need to have clearances and experience and be willing to move without a
+                        moving allowance. Nevertheless, several people were interested.</p>
+                    <p>Humphrey said that the second issue was access to the tapes of the Johnson
+                        telephone conversations. HO hopes to soon have tapes for conversations in
+                        December 1966 and has requested tapes for 75 conversations in 1967. By the
+                        next meeting, we should have a better idea of how fast the Library can
+                        process the tapes and how much we will be able to integrate into the
+                        volumes.</p>
+                    <p>Nelson asked if all the documentary records were available to HO. Humphrey
+                        replied yes; the problem was with the taped conversations. The Library is
+                        still in the process of duplicating these onto digital-audio tapes. Nancy
+                        Smith pointed out that the existing transcripts are not always accurate and
+                        have to be checked against the tapes before publication. Some of the
+                        transcripts are highly inaccurate. Humphrey also emphasized that the Library
+                        did not want HO to publish transcripts without comparing them with the
+                        tapes.</p>
+                    <p>George Herring asked if the question of priorities had been resolved, and
+                        Humphrey replied that it had. He noted that HO was submitting requests for
+                        tapes for an entire month, such as December 1966. Herring asked if the
+                        process was going well. Humphrey replied that it was too early to tell, but
+                        the Library was being cooperative.</p>
+                    <p>Kimball asked if that meant there would be no problem meeting the 30-year
+                        line. Humphrey said there was a potential problem but it was hard to be
+                        precise at this stage; we should have a better idea of the situation by the
+                        next meeting.</p>
+                    <p>Kimball asked if there had been a response to the letter to Acting Archivist
+                        Trudy Peterson about moving NARA staff to short-term positions. Nancy Smith
+                        said not yet. The problem was the need to assure staff members who move to
+                        Austin of a permanent job after the project at Austin is completed.</p>
+                </div>
+                <div xml:id="move-of-department-of-state-files-to-berryville-virginia">
+                    <head>Move of Department of State Files to Berryville, Virginia</head>
+                    <p>The Committee then turned to discussion of the projected move of the
+                        Department of State Central Foreign Policy File. Ken Lpff, Managing Director
+                        of Information Services (A/IM/IS), Edward Wilson, Director of the Office of
+                        Information Services (A/IM/IS/OIS), and Willie Gee, Acting Chief of the
+                        Records Management Branch (IS/OIS/RA/RD) briefed the Committee.</p>
+                    <p>Loff explained that the site was at Mount Weather, where there is a large
+                        FEMA installation that is being converted for various purposes. He noted
+                        that the lease at PG Plaza was currently on a month-by-month basis, DS is
+                        concerned about security problems there, the facility is leaking, and it is
+                        costing the Department $500,000 a year. Loff said the Department had looked
+                        at a number of places, and had taken NARA people to look at the Berryville
+                        facility. The facility would have to be renovated, but the overall cost
+                        would be lower and there would be more space. Loff noted that the trip to
+                        the facility at PG Plaza was difficult because of traffic, and he argued
+                        that the trip to Mount Weather <pb n="5" xml:id="pg_5" facs="0008"/> would
+                        be only “minutes” longer and that FEMA keeps the road clean in winter. He
+                        also stated that IS would have a vehicle going back and forth with records
+                        as needed.</p>
+                    <p>Van Camp asked if there would be space and a copier available for
+                        researchers. Loff confirmed this. Wilson noted there would be a research
+                        area with a copier, and researchers would have the same facilities as they
+                        had at PG. Ted Keefer noted that this decision had been made without any
+                        consultation with HO, a major user of the records. Historians will be faced
+                        with driving 67 miles each way. Loff noted that the Records Service Center
+                        would make two trips a day to pick up and deliver records between Mt.
+                        Weather and Main State. <note n="1" xml:id="p5fn1">During the meeting, Loff
+                            indicated that there would be a shuttle service between Mt Weather and
+                            the State Department, but noted later that it was not yet decided if the
+                            Department would provide that service.</note> Luke Smith and Keefer
+                        commented that historians could work on the records here if there were a
+                        working space in the Department. Loff said he was working on this.</p>
+                    <p>Glenn LaFantasie said that a trip to Berryville is much longer than one to PG
+                        and noted that the amount of research the HO staff did could not be done in
+                        an 8-hour day. Kimball pointed out that IS was ready to move the records,
+                        but had not yet found research space here. He commented that IS should have
+                        found the research space here first and then planned to move the records.
+                        Then personnel-effectiveness, which was separate from cost-effectiveness,
+                        would be guaranteed.</p>
+                    <p>Loff said IS wanted people to be happy. He noted that the FEMA facility had
+                        apartment space and inexpensive food, in case HO staff needed to stay
+                        overnight there. Kimball repeated that IS needed to find research space in
+                        the metro area first, before moving the records. He urged that IS establish
+                        a working liaison with the HO staff.</p>
+                    <p>Nelson brought up the need for space in the Department for the
+                        declassification center, which the Committee had previously supported.
+                        Kimball said that the Committee did not want the declassification process
+                        delayed. Nelson also noted that the Department needed access to records to
+                        deal with FOIA. Loff repeated that there would be a daily shuttle to bring
+                        documents back.</p>
+                    <p>Leffler asked whether IS would have the problem of finding research space
+                        within the Department solved by the time of the February meeting. Loff
+                        replied that he hoped so. Herring asked if the records could be moved
+                        without disrupting HO’s research, and Loff said the disruption would be
+                        minimal.</p>
+                    <p>Kimball again stated that there needed to be close liaison with HO concerning
+                        this. Loff replied that this would happen and apologized for not consulting
+                        HO before. Kimball said the Committee would want to make a statement on
+                        this.</p>
+                </div>
+                <div xml:id="department-response-to-the-japan-appeal">
+                    <head>Department Response to the Japan Appeal</head>
+                    <p>In response to the presence of journalists at the session, Kimball raised the
+                        subject of the Department’s response to the appeal regarding the
+                        declassification of documents on Japan for the 1961-1963 volume on Northeast
+                        Asia. Since substance could not be discussed in a public meeting, he would
+                        describe procedure. If the Historian and appropriate officials within the
+                        Department of State could not agree on declassification, <pb n="6"
+                            xml:id="pg_6" facs="0009"/> they must follow procedures (described in
+                        the <hi rend="italic">Foreign Relations</hi> law) for a dialogue. If that
+                        dialogue reaches an impasse, the law calls for an appeal to the Secretary of
+                        State, who had delegated the final authority to Under Secretary for
+                        Management Richard Moose. The appeal is on his desk. Technically, the
+                        Department is in violation of the law, because nothing has been heard from
+                        Moose within the statutory time frame. The Committee will discuss its next
+                        step at a closed meeting.</p>
+                    <p>Even if Under Secretary Moose agrees to release the documents for
+                        publication, they must go to other agencies that have equity in them. Once
+                        these agencies have finished their review and agree, NSC has to do its own
+                        review. The entire process could take up to a year. If the documents are
+                        declassified, they could be made available to the public at NARA. Herschler
+                        qualified this, noting that this would be true if they were documents from
+                        the Department of State Central Files. Slany noted that the law provides for
+                        a 60-day clock on appeals.</p>
+                    <p>Tim Weiner asked if the 1961-1963 volume on Japan would be published if the
+                        verdict on declassification were negative. Kimball stated that the Committee
+                        had taken the position that it would recommend against publication of the
+                        Japan compilation without the documents. Weiner asked if the Committee could
+                        appeal if another agency denied declassification. Kimball replied that the
+                        Committee could go to the head of the other agency. Weiner asked if the NSC
+                        constituted an appeals court. Kimball said no. Nelson added that subjects
+                        other than Japan were included in the volume, and that the preface would
+                        presumably indicate why the entire chapter was deleted. Picker pointed out
+                        that the deletion would also be noted in the annual report to Congress.</p>
+                    <p>Kimball stressed that the Committee merely advised the Secretary and could
+                        not overrule him. It was an advisory body and did not declassify. Both he
+                        and Slany said that no date had been set for State’s decision. Nelson asked
+                        whether this was the first time that the Committee had recommended not
+                        publishing a volume because it was incomplete. Kimball said that it was.
+                        Picker stated that the Committee was guided by the statutory language as to
+                        whether the omission of the documents would leave an erroneous
+                        impression.</p>
+                    <p>Weiner said that the public records of the Committee indicate that a problem
+                        was brewing regarding a “country in this hemisphere.” Given the rich public
+                        record that exists about this country, did the Committee feel that the
+                        withholding of material would be for reasons of embarrassment.</p>
+                    <p>Kimball replied that the country was Guyana, and that the statement in the
+                        Committee’s public report should speak for itself. The process and the
+                        precedents established in the Japan appeal would help move the process
+                        along. He remarked on the need for a balancing test between national
+                        security and the public interest, as stated in the draft Executive Order.
+                        That was clearly the intent of the legislation on <hi rend="italic">Foreign
+                            Relations,</hi> as shown in the records of discussions leading up to its
+                        adoption. The Committee felt that ethically, philosophically, and legally it
+                        should apply this balancing test. Slany pointed out that the Department was
+                        still operating under the existing Executive Order, which was different.</p>
+                    <p>Taylor asked Weiner about his sources for his recent <hi rend="italic">New
+                            York Times</hi> article about CIA involvement in Japanese elections.
+                        Weiner stated that they included U. Alexis <pb n="7" xml:id="pg_7"
+                            facs="0010"/> Johnson, Douglas MacArthur II, Roger Hilsman, and former
+                        director of CIA Far Eastern Operations Al Ulmer. For the rest, he pleaded
+                        “sources and methods.”</p>
+                </div>
+                <div xml:id="report-of-the-subcommittee-on-the-opening">
+                    <head>Report of the Subcommittee on the Opening of the Department of State’s
+                        30-Year Old Records at the National Archives</head>
+                    <p>The Committee then turned to a discussion of the declassification review;
+                        transfer to the National Archives, and opening to the public of the State
+                        Department’s 30-year old records. The subcommittee had visited Archives II
+                        at College Park the day before. They examined declassification guidelines
+                        and talked to persons involved. Herring expressed his concern that the
+                        guidelines seemed over-restrictive and seemed to reflect the climate of an
+                        earlier era. Picker felt that it should be possible to issue the guidelines
+                        in declassified form. Van Camp noted that agency guidelines had been created
+                        at different times, so no overall guidelines existed. Could an inter-agency
+                        approach be devised?</p>
+                    <p>Nelson asked whether the Committee had a mandate. Kimball replied that the
+                        Committee cared greatly about opening Department of State records. Most
+                        guidelines could be declassified. Leffler suggested the Committee go on
+                        record as favoring this. Kimball then introduced Tony Dalsimer, the new head
+                        of HDR.</p>
+                    <p>Davis agreed with Herring and Picker: certainly the historical summaries
+                        included in guidelines should be releasable, and an interagency approach was
+                        desirable. Kimball said that either an Executive Order or legislation was
+                        desirable. Davis said that the question was how to move forward in the
+                        meantime.</p>
+                    <p>Van Camp noted that HDR reviewers worked at NARA. Material segregated was
+                        from other agencies. She wondered if HDR could apply the guidelines of other
+                        agencies, since archivists had such authority. Kimball said that DOD had a
+                        good set of guidelines, which NARA used. DOD had been asked to extend its
+                        authority to State documents in its possession. No reply had been received.
+                        Kimball continued by saying that the CIA “doesn’t even trust itself.” It has
+                        no single declassification authority. NSC also lacked guidelines.</p>
+                    <p>After Leffler asked whether the Committee would go on record as favoring the
+                        declassification of guidelines, Kimball said that various “nitpicking
+                        things” made the work of HDR reviewers difficult, such as the CIA having
+                        cognizance over all biographical materials. In a better world, there would
+                        be a single statement, Executive Order, or law.</p>
+                    <p>Page Miller then described how State had complied (or not complied) with
+                        legislation. She favored oversight hearings. The 2-year grace period had
+                        expired last October, after which Senator Pell read a statement into the
+                        record expressing his disappointment. The law did not include penalties for
+                        non-compliance. She disagreed with Van Camp that State had done its best and
+                        that the problem was with other agencies.</p>
+                    <p>Kimball agreed that State had been slow to take action, but after the first
+                        year had devoted additional resources and made significant progress in
+                        transferring its records to the National Archives. Now most of the trouble
+                        was with other agencies.</p>
+                    <p>Leffler said it was difficult to judge the effectiveness of State’s
+                        compliance. He had seen guidelines for one country and was appalled at their
+                        extensiveness. Could higher authorities in State be appealed to? Possible
+                        goals were declassifying the <pb n="8" xml:id="pg_8" facs="0011"/>
+                        guidelines, inter-agency cooperation, and a report on compliance. Once these
+                        were addressed, Congress would have something on which to hold hearings.</p>
+                    <p>Herring said that coordination could still be a means of delay. Picker
+                        wondered what might happen if other agencies found State’s new guidelines
+                        too lax.</p>
+                    <p>The Committee adjourned at 11:20 a.m. to go to a luncheon meeting at the
+                        Central Intelligence Agency.</p>
+                </div>
+            </div>
+            <div xml:id="closed-session">
+                <head>Closed Session</head>
+                <p>Kimball called the meeting to order at 2:55 p.m. after the Committee’s return
+                    from the working lunch at the CIA. He asked all those not authorized to attend
+                    the closed portion of the meeting to leave.</p>
+                <div xml:id="discussion-of-committee-minutes">
+                    <head>Discussion of Committee Minutes</head>
+                    <p>Kimball then asked members of the Committee to review the minutes of the May
+                        meeting and to approve two changes that involved omitting two short phrases
+                        that contained classified information. Kimball commented that the changes
+                        were necessary so that the minutes could be made public.</p>
+                    <p>Nelson had some reservations about the changes and asked if the minutes would
+                        reflect the fact that some information had been omitted. Slany responded
+                        that classified information should not have been included in the minutes in
+                        the first place.</p>
+                    <p>Nelson was concerned that, if the changes were made, it might appear that the
+                        Committee was hiding something. In order to avoid the appearance of
+                        concealment, she again suggested that some notation about the omission
+                        appear on the minutes. Kimball said he had no objection to including a
+                        notation to the effect that the minutes had been edited to remove classified
+                        information.</p>
+                    <p>Luke Smith asked whether notetakers should edit the minutes as the notes are
+                        recorded. Both Slany and Kimball said no. Kimball went on to say that Slany
+                        should do any necessary editing. He also said that the minutes could note
+                        that a classified discussion on a particular topic took place without
+                        mentioning the specific information discussed.</p>
+                </div>
+                <div xml:id="schedule-for-future-committee-meetings">
+                    <head>Schedule for Future Committee Meetings</head>
+                    <p>Kimball then moved on to discuss scheduling for upcoming meetings and asked
+                        members of the Committee for information concerning their availability. He
+                        pointed out that the Committee needed to meet three times prior to August
+                        31, 1995. With that in mind, he reported that a meeting would be scheduled
+                        in late January or early February, in May or June, and in August. He
+                        conceded that although an August meeting caused problems for many members,
+                        they would have to adjust their schedules since August was an ideal time for
+                        a meeting. A new chair would be elected about that time, a matter that
+                        should be taken care of before the three new members joined the Committee.
+                        He also pointed out that August was a good time to meet because it was at
+                        the end of the academic year and the time the annual report was
+                        prepared.</p>
+                    <pb n="9" xml:id="pg_9" facs="0012"/>
+                    <p>Nelson asked if copies of Committee minutes and reports would be sent to new
+                        members. Kimball replied that they are already receiving material, and he
+                        would be sending them information to keep them up-to-speed on the issues
+                        facing the Committee.</p>
+                </div>
+                <div xml:id="report-by-michael-kurtz">
+                    <head>Report by Michael Kurtz, Acting Assistant Archivist, on Declassification
+                        of Department of State Records</head>
+                    <p>Kimball moved on to the action items on the agenda, including the meeting of
+                        the Committee with the CIA. Before discussing that topic, however, he asked
+                        Michael Kurtz Acting Assistant Archivist, to report on the transfer of
+                        Department of State records to Archives II.</p>
+                    <p>Kurtz gave a brief review of the progress made to date: The review work has
+                        been completed on Department of State Central File documents covering the
+                        period from 1960 to 1963; the transfer of 1964-1966 documents to College
+                        Park is about to begin; the transfer to Archives II of the civilian
+                        classified records was proceeding well and the civilian classified staff
+                        would be moving out to College Park in mid-November; military classified
+                        documents will be handled in the same manner.</p>
+                    <p>Kimball asked Kurtz about arrangements for liaison and planning for the move
+                        so that the down-time for access to documents does not affect the work of
+                        HO. Kurtz indicated that an appropriate procedure was in place.</p>
+                    <p>Kurtz then discussed the remaining still classified pre-1945 records and said
+                        that all clearances had been received from all U.S. agencies and from the
+                        British. Nelson asked whether the documents originated from the period of
+                        World War II.</p>
+                    <p>Kurtz explained that the documents were military and civilian records from
+                        World War II and that he chose the documents to be part of this
+                        declassification project. He also reported that there has been no further
+                        information on a pending Executive Order because interagency issues remained
+                        unresolved.</p>
+                    <p>That comment spurred Kimball to mention the Committee’s deep concern about
+                        the apparent lack of interagency communication. It appeared that Advisory
+                        Committee meetings served as the channel for information to be shared. He
+                        also told Kurtz that the Committee may be able to help move the
+                        declassification process along. Kurtz said he was encouraged by the help the
+                        Committee has already provided.</p>
+                    <p>Going back to the topic of inadequate sharing of information among agencies,
+                        Kimball gave an example. He said the Committee believed that only recently
+                        were declassification guidelines gathered and sent to the Presidential
+                        libraries. No one knows why that happened, but it did, and it was unsettling
+                        that it happened. He said the problem needs to be solved.</p>
+                    <p>Kurtz concluded his report, and Nelson asked him if he had heard anything
+                        from the NSA. Kurtz reported that he had not.</p>
+                    <p>Kimball reported that in September the Deputy Director of NSA sent a rather
+                        ambivalent letter to the Committee on the pre-1945 intelligence documents,
+                        the Yardley collection, the Magic documents, and the so-called Crane
+                        collection. Kimball distributed copies of the letter to the Committee
+                        members and attendees from the National Archives. He said he would follow up
+                        on the letter, and said he knows that the Department of State has no
+                        objections to releasing the material.</p>
+                    <pb n="10" xml:id="pg_10" facs="0013"/>
+                </div>
+                <div xml:id="further-discussion-of-the-japan-appeal">
+                    <head>Further Discussion of the Japan Appeal</head>
+                    <p>Kimball turned to a discussion of the Japan appeal and said that he wanted
+                        the Committee’s agreement on how to proceed.</p>
+                    <p>Nelson asked if the discussion of the issue would mean that the minutes of
+                        the meeting would be classified. Kimball said they would not discuss
+                        substance, but a course of action, so the minutes would not be
+                        classified.</p>
+                    <p>Kimball reminded the Committee members that no decision had been received
+                        from Moose, and the deadline for his response had already passed. Davis
+                        asked if Moose would make a decision today. Van Camp stated that the
+                        Committee cannot wait and should do what the law provides&#x02014;notify
+                        Congress. Nelson agreed, because the reply was taking so long.</p>
+                    <p>Kimball pointed out that that was a confrontational action. He suggested as
+                        an alternative that he or the Committee write a draft letter, with support
+                        from Donilon, informing the Secretary of State that unless the process moved
+                        forward, the Committee was prepared to act. Kimball hoped that this would
+                        move the process along.</p>
+                    <p>Nelson asked what the Committee would do if the higher authorities said no.
+                        Kimball replied that the answer to that question was already in the minutes
+                        and the Committee is already on record as to what it would do if
+                        declassification was refused. He suggested getting some influence or
+                        momentum within the Department in order to get some action. He asked if all
+                        members agreed to preparing a draft letter.</p>
+                    <p>Taylor suggested sending a letter directly to Congress. Kimball responded
+                        that if the Committee takes a hard line from the start, what happens to the
+                        process? It appears that there are conflicting arguments within the
+                        Department and maybe beyond the Department, so the lines seem to be drawn
+                        already. The best procedure may be for the Committee to remind people that
+                        the issue is still open and needs an answer.</p>
+                    <p>Leffler asked if that meant that a letter would not be sent to Congress yet.
+                        Kimball replied that at this point only a draft would be written, a friendly
+                        letter making it clear that the Committee insists that action be taken on
+                        this matter.</p>
+                    <p>After further discussion, everyone on the Committee except Taylor agreed to
+                        the nonconfrontational approach at this time. Taylor had some reservations.
+                        He suggested including in the draft letter a concrete timeframe for a reply.
+                        Kimball agreed and suggested the letter ask for a response within 2 weeks.
+                        Picker suggested a deadline before Thanksgiving or before the holidays.</p>
+                    <p>Van Camp asked if it might be possible to get an answer on the issue today.
+                        Slany said that Under Secretary Moose wants to make a positive decision, but
+                        the fact that he has not given a decision indicates that he is trying to
+                        respond to conflicting advice from different bureaus in the Department. He
+                        is taking the matter seriously.</p>
+                    <p>Kimball added that Deputy Assistant Secretary Bennett Freeman spoke to Under
+                        Secretary Moose about the matter. If any information is received from
+                        Freeman, Kimball would hold off submitting the draft letter. No decision was
+                        expected, however. Kimball expressed the Committee’s sentiment that it was
+                        time to take some action. The Committee had been patient, but the 60-day
+                        clock began in June and expired in August, <pb n="11" xml:id="pg_11"
+                            facs="0014"/> so a decision had to be made. Moose had pretty much said
+                        that a decision would be made in October.</p>
+                    <p>Slany said that HO itself has not acted quickly either. It is difficult for
+                        us to educate others who have different approaches and points of view on
+                        such matters. At least the issue is being given serious consideration, and
+                        that is a major change for the better.</p>
+                    <p>Returning to the course the Committee should follow, Kimball emphasized that
+                        the Committee does not want confrontation, but cooperation. Taylor asked if
+                        sending a letter to Congress was confrontational. Herring suggested that the
+                        Committee must indicate that it had gone beyond thinking about acting, that
+                        it was prepared to act.</p>
+                    <p>Kimball asked if it was time to compromise. Taylor responded that a
+                        compromise was not needed. If the rest of the Committee did not agree to
+                        send the letter to Congress, he would go along with it, but he wished his
+                        reservation to be noted in the minutes.</p>
+                    <p>Kimball replied that he would enclose a draft letter containing the
+                        Committee’s position in an unofficial and personal note to Donilon. The note
+                        will say that the letter will be sent to the Secretary and to Congress, if
+                        nothing is done on the matter now. Van Camp suggested that the letter be
+                        sent only to Donilon and not be shared with others. Kimball agreed saying
+                        that he had received an unofficial letter from Donilon and he would write
+                        back unofficially.</p>
+                    <p>Kimball said that the Committee agrees (except for Taylor) that he should
+                        draft a letter to Donilon concerning the Japan appeal, saying that the
+                        Committee is preparing a note for the Secretary of State (which would also
+                        go to Congress) if M does not decide about the Japan appeal soon. The letter
+                        would not be confrontational, but would point out that the 60-day legislated
+                        timeframe for responding to the appeal has expired.</p>
+                    <p>Van Camp stressed that the letter should go only to Donilon at this point.
+                        Kimball agreed that it is his intention that the letter go to Donilon only,
+                        but added that it is no secret that the Committee feels strongly about
+                        this.</p>
+                </div>
+                <div xml:id="further-discussion-of-the-move-of-department">
+                    <head>Further Discussion of the Move of Department of State Files to
+                        Berryville</head>
+                    <p>Kimball asked for someone to draft a letter containing a Committee response
+                        to the proposed move of State Department records to Berryville. He said that
+                        the two main issues the Committee is concerned about are: 1) the creation of
+                        an adequate working space in or close to the Department; and 2) there should
+                        be liaison with HO in the move plans so that the transfer of documents does
+                        not conflict with the HO schedule. Humphrey added (and the Committee agreed)
+                        that the workspace and equipment must be adequate at the Berryville
+                        site.</p>
+                    <p>Leffler suggested that Slany draft the letter and the Committee sign it. The
+                        Committee agreed.</p>
+                </div>
+                <div xml:id="further-discussion-of-declassification-guidelines">
+                    <head>Further Discussion of Declassification Guidelines</head>
+                    <p>Kimball said that the Committee would like to be involved in making
+                        declassification guidelines less restrictive, and he and Herring asked
+                        rhetorically “What <pb n="12" xml:id="pg_12" facs="0015"/> are we trying to
+                        protect?” Slany asked if the Committee was willing to come back to review
+                        the guidelines. The Committee nodded.</p>
+                    <p>Van Camp explained that most of the guidelines were originally written for
+                        NARA’s use, but the situation has changed and State has assumed most of the
+                        responsibility. She suggested that this is an opportunity to reshape how
+                        guidelines are prepared for use with the 1964-1966 record block.</p>
+                    <p>Marvin Russell said that NARA still needs guidelines. He gave an example of
+                        State records in USIA files.</p>
+                    <p>Van Camp reiterated that this is a good window of opportunity to reshape the
+                        State guidelines. Nelson noted that the guidelines are also important
+                        because they are used by archivists for mandatory review, etc.</p>
+                    <p>Kimball asked Dalsimer what is the status of the 1964-1966 guidelines.
+                        Dalsimer responded that HDR is working on them. Hamilton explained that
+                        Morefield is working on new guidelines and has prepared a concept paper on
+                        the scope of the 1964-1966 guidelines. He noted that the guidelines are
+                        taking into account the change to the subject-numeric filing system. He
+                        explained that HDR had drafted the guidelines for the administrative part of
+                        the file first for two reasons: 1) they go faster and 2) they come first in
+                        the subject-numeric system. He added that they respond to the priorities
+                        they are given.</p>
+                    <p>Kimball asked Dalsimer if there are ways to create a consultative process
+                        between HO and HDR. He said that the Committee “does not declassify, we are
+                        concerned about concepts,” as in “What is the philosophy behind
+                        declassification?” Dalsimer and Hamilton consulted and Hamilton said this
+                        was possible.</p>
+                    <p>Nancy Smith commented that State can issue guidelines for unclassified
+                        documents that are less than 30 years old (as the NSC did). She was
+                        continuing when Kimball interjected that specifics are unnecessary at this
+                        time; she could work out the issue with Dalsimer.</p>
+                    <p>Kurtz said that NARA will send requests to State.</p>
+                    <p>Nelson again raised the earlier question of what now must remain secret, and
+                        said that there is a lack of clarity. Herring commented that it is more than
+                        a lack of clarity, it is an issue of consistency. Nelson continued that the
+                        Committee feels that there are contradictions in the guidelines.</p>
+                    <p>Kimball said that one thing we should do is have one compiler work with HDR
+                        to try to play a role to help HDR create the guidelines that they are doing
+                        now. Dalsimer agreed that that sounded plausible, and Slany also agreed.
+                        Kimball said that Slany and Dalsimer will talk about this, and then the
+                        Committee will discuss it through E-Mail. (There was a lively discussion
+                        about E-Mail and the refusal of some Committee members to use it.) He added
+                        that the Committee wants to take action, but needs to know what to do.</p>
+                    <p>Leffler asked about the declassification of the old guidelines. Pryor
+                        reminded the Committee that the new guidelines refer to the old ones.
+                        Herring commented that they should start with a clean slate.</p>
+                    <p>Leffler reiterated that the Committee is looking for an opportunity to advise
+                        on the guidelines. Reviewing them in draft form would be a good opportunity
+                        to comment on them before they are final. Dalsimer noted that it would not
+                        be necessary to put the <pb n="13" xml:id="pg_13" facs="0016"/> request in
+                        writing but that he would like it put in the minutes. Kimball repeated for
+                        the notetakers that they are talking about looking at existing guidelines to
+                        declassify as much as possible.</p>
+                    <p>Kimball noted that the lack of interagency coordination of declassification
+                        procedures would be alleviated if the new Executive order was promulgated.
+                        Leffler questioned that and said that a consequence of that could be to make
+                        it more restrictive. Davis asked what made Leffler so pessimistic, and
+                        Nelson interjected “experience.” Davis said that between JCS (and DOD, etc.)
+                        and State, JCS is more liberal.</p>
+                    <p>Kimball brought up the British system of automatic declassification and asked
+                        which is better. Nelson pointed out that a system that is too orderly could
+                        be a problem. Kimball said that what Leffler is saying is that we could
+                        benefit from the confusion that arose from a lack of interagency
+                        coordination.</p>
+                    <p>Van Camp said that we shouldn’t second guess the new Executive order, that it
+                        is late in the day to question the executive order since the Committee has
+                        gone on record as supporting it. She said that we must reiterate our support
+                        of this.</p>
+                    <p>Picker suggested that they ask someone in the State hierarchy about what
+                        should remain secret. Kimball said that all of the desk officers will say:
+                        “Everything on my country should remain classified, and release everything
+                        else.”</p>
+                    <p>Slany advised that the Committee should await the outcome of the new
+                        Executive order before seeking an explanation from Under Secretary Moose or
+                        another Department official about the principles of the Department of State
+                        for retaining classification on documents.</p>
+                    <p>Picker asked if it is possible to know if any papers or studies have been
+                        written on the basis of documents declassified under the 1960-1963
+                        guidelines for countries such as the Soviet Union, where so much more has
+                        been declassified.</p>
+                    <p>Herring said that what is in effect are the older guidelines from 1955 to
+                        1959. He added that these were drafted in the 1980s. Hamilton said that the
+                        new guidelines state what is still sensitive and they were prepared in
+                        1992-1993. Picker reiterated that in drafting the guidelines HDR needs more
+                        direction from on high rather than simply relying on their own individual
+                        judgment.</p>
+                    <p>Pryor said that the 1960-1963 guidelines were completed in 1993 on the basis
+                        of HDR’s review of the old guidelines. The 1960-1963 guidelines identify
+                        what is still sensitive and what is not. She said that in drafting the
+                        guidelines they used their own judgment as well as Bureau advice. Kimball
+                        said that he believed that the philosophical approach had been covered
+                        within the Department under the discussion of the new Executive order.
+                        Picker pointed out that it is hard to link the Executive order and the
+                        guidelines from the legal standpoint.</p>
+                    <p>Kimball said that the guidelines will have to be rewritten. The Committee
+                        should wait to evaluate the consultative process, keeping in mind the
+                        question of “what are we trying to protect.” A subcommittee will deal with
+                        the issue at the next meeting.</p>
+                </div>
+                <div xml:id="report-of-the-subcommittee-on-records">
+                    <head>Report of the Subcommittee on Records</head>
+                    <p>Van Camp reported on her subcommittee’s examination of the Africa Bureau
+                        files with respect to a new disposition schedule covering the files created
+                        since 1990. At the <pb n="14" xml:id="pg_14" facs="0017"/> last meeting they
+                        were asked to look at the records schedule for the Bureau of African
+                        Affairs. Yesterday the subcommittee visited the Bureau to look at the
+                        schedules and visit the offices to see what kind of records are in their
+                        files. The recommendation of the subcommittee is that this schedule is
+                        adequate for these records. Some of the files will be permanently retained,
+                        while others are designated to be destroyed (some in the short term and some
+                        in the long). She said that the subcommittee thinks that the schedule is
+                        appropriate and recommended that it go forward.</p>
+                    <p>She also recommended that HO work with the records management staff to
+                        develop guidelines and procedures for screening files by other offices
+                        before destruction to ensure that all appropriate historical records are
+                        preserved in the Central Files. She added that the subcommittee had
+                        discussed this with the Records Management staff and they believed that this
+                        was workable.</p>
+                    <p>Kimball asked if the Committee agreed, and they concurred in the
+                        recommendations.</p>
+                    <p>Van Camp brought up the issue of the disposition of records scheduled for
+                        destruction and whether an outside institution can request custody of those
+                        records. The current procedure is that once the schedule is approved, the
+                        institution can ask State to seek NARA’s permission to take custody of the
+                        disposable files.</p>
+                    <p>Taylor said that the Committee could say that the issue of disposition should
+                        be left open to include other arrangements. He said that the Committee
+                        should clearly endorse the principle that such records might go to an
+                        interested institution. (Taylor’s comments in the form of a letter to Van
+                        Camri are in Annex 1.)</p>
+                    <p>Nelson said the Committee should “encourage” if not endorse the principle.
+                        Leffler added that it should not incur government expense. Taylor agreed and
+                        said that it should be at the expense of the institution.</p>
+                    <p>Kimball asked if the Committee was in agreement.</p>
+                    <p>Van Camp said that the Committee’s responsibility is to advise the State
+                        Department on its records, but what happens to duplicate files (at the time
+                        of their ultimate disposition) is not the Committee’s business.</p>
+                    <p>Kimball said that the Committee might say that, in the spirit of public
+                        access to foreign policy records, the Advisory Committee encourages
+                        practices and measures that will lead to the availability of duplicate sets
+                        of records in outside depositories and will look with favor on any action to
+                        preserve these records.</p>
+                    <p>Van Camp said that she is not sure what the outcome of this would be. If the
+                        records disposition process works, this kind of thing should not be
+                        necessary. She said that the disposition process should take its course.</p>
+                    <p>Kimball added that it makes people more sensitive to the records. He called
+                        it to a vote. The Committee voted that the Advisory Committee is in favor of
+                        “nose-sticking.” He requested that Van Camp draft an appropriate statement
+                        (see Annex 2).</p>
+                    <p>Van Camp said that in talking to the desk officers the subcommittee got the
+                        sense that the deliberative process within the offices is not adequately
+                        reflected in the records because of E-Mail and other issues. She suggested
+                        that the subcommittee should examine this issue.</p>
+                    <pb n="15" xml:id="pg_15" facs="0018"/>
+                    <p>Kimball said that it would be useful if her subcommittee consult Ken Rossman
+                        and the Records Management staff and put together a list of items for the
+                        subcommittee to focus on at the next meeting.</p>
+                </div>
+                <div xml:id="foreign-relations-coordinator-in-hdr">
+                    <head>Foreign Relations Coordinator in HDR</head>
+                    <p>Kimball said that the Committee has learned that Jeanne Pryor is leaving HDR
+                        on November 1. He remarked that she had made an important contribution to
+                        the series and applauded her good management. He added that many problems
+                        had been solved during her tenure in HDR and thanked her for her
+                        contribution. There was general applause. He hoped that her replacement
+                        would continue the good work. Dalsimer introduced Nina Noring as Pryor’s
+                        replacement. Kimball commented that because Noring is a former member of the
+                        Historical Office, the Committee anticipated a high level of cooperation
+                        with HO.</p>
+                </div>
+                <div xml:id="report-on-the-visit-to-the-central-intelligence-agency">
+                    <head>Report on the Visit to the Central Intelligence Agency</head>
+                    <p>Kimball said that the last item on the agenda is to summarize the CIA visit.
+                        He suggested that they write a memorandum to Hazlewood summarizing the
+                        positive things that Hazlewood said in their meeting. For example, all
+                        covert operations reflect foreign policy goals, therefore it is in our
+                        purview. He asked the members to E-Mail him on this.</p>
+                    <p>Herring commented that they also seemed to be forthcoming on the issue of
+                        provenance.</p>
+                    <p>Leffler said that the Agency was willing to acknowledge to HO where covert
+                        operations occurred, so the <hi rend="italic">Foreign Relations</hi> volumes
+                        can document them. The Committee disagreed on what the CIA meant by this
+                        acknowledgment. Nelson said that this is acknowledgment for research and
+                        access purposes, not for declassification.</p>
+                    <p>Kimball recalled his complaint about the problem of plausible deniability,
+                        that the historians must ask the right question to get the right answer. CIA
+                        had asked for examples of this. Kimball explained that LaFantasie had raised
+                        the issue of Tibet documents, very few of which had been found at the CIA.
+                        Kimball said that it is “memoranda blizzard time.” The historians have to
+                        explain and request every little thing, and then send memoranda to McDonald
+                        explaining that they have been told that there are no documents on a
+                        particular subject.</p>
+                    <p>Leffler said that McDonald claimed that no HO historian had ever left his
+                        office dissatisfied; he asked for an example. Schwar said that she sent a
+                        letter to CIA specifically asking for documents on Tibet. She did not write
+                        a response to CIA’s reply. Luke Smith said that the history staff at CIA
+                        does not always know if there are documents on a subject. Kimball repeated
+                        the need for a paper trail and asked Slany to work out a process, and the
+                        Advisory Committee will see if it agrees to it.</p>
+                    <p>Leffler said that the CIA said that they will respond affirmatively if we ask
+                        if covert operations&#x02014;not actions&#x02014;occurred in certain
+                        countries. Kimball emphasized that the historians must be specific when
+                        wording their requests. Nelson also recalled that they were told that
+                        “finding aid” means something different to the CIA than it does to the <pb
+                            n="16" xml:id="pg_16" facs="0019"/> Department of State, so the
+                        historians should use the term “shelf list” instead. Kimball repeated that
+                        he will write a memorandum on these issues but needs help from the
+                        Committee.</p>
+                    <p>Kimball cleared the room except for HO staff at 4:25 p.m.</p>
+                </div>
+                <div xml:id="ho-staff-comments">
+                    <head>HO Staff Comments</head>
+                    <p>Slany remarked that the Committee had asked about publication of our volumes
+                        on CD/ROM. Vicki Futscher is working on this for the Office. Later, a single
+                        CD will include the text of all 25 Kennedy volumes. He distributed copies of
+                        the Department’s first CD/ROM publication containing public statements and
+                        publications such as <hi rend="italic">Dispatch</hi> to the Committee.</p>
+                    <p>Nelson noted that many colleges don’t have the equipment to access these
+                        types of publications, and she hoped that this would not replace print
+                        volumes. Slany assured the Committee that publication on CD/ROM would not
+                        replace the printed <hi rend="italic">Foreign Relations</hi> volumes; it
+                        would provide an additional means for the dissemination of the volumes.</p>
+                    <p>Kimball stated that the Committee will take a strong position on the move of
+                        the Department of State records to Berryville. He assumes that it will take
+                        place, but the Committee will try to help to make it workable. Patterson
+                        said that the declassification center in the Department of State (when
+                        established) might be able to house the Central Files, which are stored in
+                        cabinets. What takes space is the lot files (office and post files), which
+                        can be pulled in quickly when needed, but the Central Files are different.
+                        Kimball reiterated that HO needs to be consulted on the move. He will send a
+                        memorandum to Ken Loff on the declassification center and to Assistant
+                        Secretary Donilon saying that the Committee is eager for it to be
+                        established.</p>
+                    <p>Luke Smith commented that if a compiler is asked to participate in the work
+                        on the guidelines it will take away from the time he or she has to compile
+                        manuscripts. Kimball responded that <hi rend="italic">Foreign Relations</hi>
+                        will still take priority but that HO participation is necessary.</p>
+                    <p>He noted that he had again raised the issue with HDR for formal training for
+                        HDR declassifiers. He added that the Committee has raised it before, but
+                        nothing was done. Hamilton had told them that informal training was done,
+                        but the Committee agreed that that was not sufficient. Finally, he noted
+                        that Dalsimer had said he could arrange for the Committee to go to the
+                        NSC.</p>
+                    <p>The meeting adjourned at 4:35 p.m.</p>
+                    <pb n="[17]" xml:id="pg_17" facs="0020"/>
+                </div>
+            </div>
+            <div type="section" xml:id="annex-1_1">
+                <head><hi rend="bold">ANNEX 1</hi></head>
+                <p rend="center"><hi rend="bold">HOWARD UNIVERSITY</hi></p>
+                <p rend="center"><hi rend="bold"><hi rend="smallcaps">washington, d.c.</hi>
+                        20059</hi></p>
+                <p><hi rend="smallcaps">College of Arts</hi> &#x00026; <hi rend="smallcaps">Sciences
+                        department of history</hi>October 6, 1994</p>
+                <p>Dr. Anne Van Camp</p>
+                <p>Hoover Institution Archives</p>
+                <p>Hoover Institution</p>
+                <p>Stanford, California</p>
+                <p>Dear Anne,</p>
+                <p>My views on the subjects in your attached memo of 9/29/94 are as follows:</p>
+                <p>1. Records of historical value scheduled for destruction when ten years old
+                    should be reviewed after five or seven years to determine if they may be
+                    released before the scheduled disposal date. Meanwhile a subcommittee of the
+                    Advisory Committee might review some of the records scheduled for destruction
+                    when ten years old or earlier to assess their historical value and make
+                    recommendations regarding their disposal, provided, of course, the State
+                    Department allows the committee access to those records. With these
+                    understandings we should endorse the proposed schedule for disposition of the
+                    records.</p>
+                <p>2. Records of historical value that are scheduled for destruction should be
+                    donated to organizations that can make efficient use of them for teaching and/or
+                    research purposes. Howard University is an ideal depository for the African
+                    Bureau records because of its historical and current interest and involvement in
+                    African affairs, the number of Africa area specialists on its faculty, its
+                    African Studies Department and Program, and its recently established
+                    International Studies Research Center.</p>
+                <p>3. Since HO has requested our advice, the committee should proffer its opinion
+                    and suggestions. Moreover, the spirit of our general mandate, if not the letter,
+                    should validate our interest in enhancing public access to the unclassified
+                    records of the State Department.</p>
+                <p>I hope some of these views fall within the parameters of the assignment that we
+                    were given.</p>
+                <p rend="center">Sincerely,</p>
+                <p>cc: W. Kimball, M. Leffler</p>
+                <pb n="[18]" xml:id="pg_18" facs="0021"/>
+            </div>
+            <div type="section" xml:id="annex-2_1">
+                <head><hi rend="bold">ANNEX 2</hi></head>
+                <p rend="center"><hi rend="bold">Statement on Disposal of Department of State
+                        Records</hi></p>
+                <p>If and when the Department of State is at the point of disposing of records no
+                    longer needed, and if and when outside entities should then offer to receive
+                    such records at no cost to the government and in keeping with all relevant
+                    regulations, this Committee would look with favor on Departmental responsiveness
+                    in such cases.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
