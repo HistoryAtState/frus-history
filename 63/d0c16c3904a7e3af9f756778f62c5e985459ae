@@ -1,0 +1,23 @@
+articles.xconf
+  s_301c0f53682c90::t_5a36c4389a7174 3,10-12
+documents.xconf
+  s_301c0f53682c90::t_7c75e1c77b73f2 3,10-12
+monograph.xconf
+  s_301c0f53682c90::t_c7afaf115d7430 3,10-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "63d0c16c3904a7e3af9f756778f62c5e985459ae",
+  "prompts": {},
+  "sessions": {
+    "s_301c0f53682c90": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "b0549825-9c58-4674-ac97-c7e8a68fb3ff",
+        "model": "grok-4.7"
+      },
+      "human_author": "duncdrum <d.paterson@me.com>"
+    }
+  }
+}
