@@ -1,0 +1,19 @@
+.github/workflows/build.yml
+  s_504000266682ed::t_c6448c7289b21b 8-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b678aef8e54853cb38ddda7993265d41f926440b",
+  "prompts": {},
+  "sessions": {
+    "s_504000266682ed": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "af4a79df-e25f-449c-9507-58e07eedeb23",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "duncdrum <d.paterson@me.com>"
+    }
+  }
+}
